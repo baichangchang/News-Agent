@@ -1,12 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "eb26ba04240c363e8e4b88d21a1f0b265be0c139badee9106848eb5b191ccc1a": {
-        "title": "有人说它能做“具身智能时代的苹果”，这家公司凭什么？",
-        "link": "https://www.qbitai.com/2025/10/347301.html",
-        "published_date": "Thu, 30 Oct 2025 06:27:00 GMT",
-        "first_seen": "2025-10-30T08:27:39.462444"
-      },
       "4e8c547d41843266629aa28d27d8ba9fc5b9e2d7c046ca215bd890f39bf39727": {
         "title": "AI百科全书SciencePedia：当马斯克Grokipedia遭遇滑铁卢，有个中国团队默默把活儿干了",
         "link": "https://www.qbitai.com/2025/10/347572.html",
@@ -1665,54 +1659,6 @@
       }
     },
     "Technology": {
-      "52e29f6fb123b398cc8bebb21f49107ba918032133589eb280b7cc3ee8079b01": {
-        "title": "China Unveils Outcomes of China-U.S. Economic, Trade Talks in Kuala Lumpur",
-        "link": "https://www.tmtpost.com/7743663.html",
-        "published_date": "Thu, 30 Oct 2025 15:18:00 GMT",
-        "first_seen": "2025-10-30T08:27:39.514942"
-      },
-      "c0a60f40494056cc2c06aedbcb5193695e8ba3505f4890ba995c741f2904a3f0": {
-        "title": "Nvidia Unveils Hyperion 10, Marking a Shift from Chip Supplier to Ecosystem Builder",
-        "link": "https://www.tmtpost.com/7743616.html",
-        "published_date": "Thu, 30 Oct 2025 14:53:00 GMT",
-        "first_seen": "2025-10-30T08:27:39.515300"
-      },
-      "064886fd91f64ee8202fd450afbb565768242597553b8bd61945af41bb54659b": {
-        "title": "英伟达市值破5万亿美元：黄仁勋要做的不只是AI，还要接管方向盘",
-        "link": "https://www.tmtpost.com/7743597.html",
-        "published_date": "Thu, 30 Oct 2025 14:33:00 GMT",
-        "first_seen": "2025-10-30T08:27:39.515532"
-      },
-      "711596c7e79c95b64725f771bccc987128a0e239a1aad4d7b4a7885723adf9fa": {
-        "title": "经济学江湖里的 “冷门高手”卡莱斯基如何叫板三大门派？",
-        "link": "https://www.tmtpost.com/7743536.html",
-        "published_date": "Thu, 30 Oct 2025 13:44:00 GMT",
-        "first_seen": "2025-10-30T08:27:39.515757"
-      },
-      "86aef284190f5adf2d897770a87409242c7c93465f5cc06fec772f443ff87b44": {
-        "title": "为西贝出谋划策的华与华，到底什么水平？",
-        "link": "http://www.huxiu.com/article/4798328.html?f=wangzhan",
-        "published_date": "Thu, 30 Oct 2025 15:00:00 GMT",
-        "first_seen": "2025-10-30T08:27:39.516001"
-      },
-      "63c5672f106fbab4012955cf620cb05f96dc89b03dcccade130d124e38de410f": {
-        "title": "全线关停、破产清算，上海又一老牌烘焙退场",
-        "link": "http://www.huxiu.com/article/4798378.html?f=wangzhan",
-        "published_date": "Thu, 30 Oct 2025 12:50:00 GMT",
-        "first_seen": "2025-10-30T08:27:39.516280"
-      },
-      "4a305507ff8628e5ee30341eeb7ca0e24e7567b79a875eaeb31e41421b77a89f": {
-        "title": "App+1｜一个应用搞定多种笔记需求，零碎想法也有好去处：Re:card",
-        "link": "https://sspai.com/post/103082",
-        "published_date": "Thu, 30 Oct 2025 15:00:00 GMT",
-        "first_seen": "2025-10-30T08:27:39.516813"
-      },
-      "9ead2f5822124437fe2a90f515fda821f6aa4c0d87737169a469401337bb6679": {
-        "title": "00 后鸿蒙开发者支一郎：从校园需求出发，用代码搭建跨场景服务桥梁",
-        "link": "https://www.infoq.cn/article/1Su6kKzAuVQ03k8DZqkK?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 30 Oct 2025 12:04:00 GMT",
-        "first_seen": "2025-10-30T08:27:39.517298"
-      },
       "a715ee4cd2c1792b3d2dec715a9eee65c37ebcf946f9bd2e1532523e53a455df": {
         "title": "乐舒适冲刺“非洲消费品制造第一股”凭什么？",
         "link": "https://www.tmtpost.com/7744317.html",
@@ -12950,6 +12896,24 @@
         "link": "http://www.geekpark.net/news/357445",
         "published_date": "Sat, 29 Nov 2025 09:12:00 GMT",
         "first_seen": "2025-11-29T05:22:20.049722"
+      },
+      "46036acb331912d1cd24e848b0ad52a31110a53545506a33b6c8b5249d81ef4e": {
+        "title": "Intel偷塔英伟达，比Google狠多了，直接挖角台积电核心人物",
+        "link": "https://www.tmtpost.com/7788009.html",
+        "published_date": "Sat, 29 Nov 2025 15:51:00 GMT",
+        "first_seen": "2025-11-29T08:29:00.367063"
+      },
+      "3f43689a894eedf87a837e09f2f37ff78dfd8d597b6c96707633966240a8c65a": {
+        "title": "壁垒极高的海外大储也开始内卷了，“元凶”原来是他俩？",
+        "link": "https://www.tmtpost.com/7788010.html",
+        "published_date": "Sat, 29 Nov 2025 15:50:00 GMT",
+        "first_seen": "2025-11-29T08:29:00.367071"
+      },
+      "2dd6a8d444a253b98262271e4641541c614083560a10fd585e69b4c6eed41b0a": {
+        "title": "美光科技今年股价表现亮眼，戴尔和惠普的数据揭示了内存需求的新动向",
+        "link": "https://www.tmtpost.com/7787826.html",
+        "published_date": "Sat, 29 Nov 2025 09:32:00 GMT",
+        "first_seen": "2025-11-29T08:29:00.367073"
       }
     },
     "Finance": {
@@ -13054,6 +13018,42 @@
         "link": "https://www.marketwatch.com/story/im-burned-out-by-the-drama-is-it-wrong-to-skip-my-thanksgiving-family-dinner-last-year-was-fraught-0731f498?mod=mw_rss_topstories",
         "published_date": "Fri, 28 Nov 2025 17:07:00 GMT",
         "first_seen": "2025-11-28T23:20:56.930234"
+      },
+      "06daa15055e649a8e8c47fe95f4fe2f1c7b99d56db9419df6e4760b3a7939db5": {
+        "title": "This Budget’s tax decisions will haunt the government",
+        "link": "https://www.ft.com/content/f658b3e8-2b47-45db-a85b-f5d8f0157985",
+        "published_date": "Sat, 29 Nov 2025 05:00:00 GMT",
+        "first_seen": "2025-11-29T08:29:00.210395"
+      },
+      "ecaa95ad60eb5c2b43c9ff7c41552c163ff9241b728068d70ddd8d130d6f10cd": {
+        "title": "‘Too little, too late’: advisers to the rich react to UK Budget’s non-dom tax cap",
+        "link": "https://www.ft.com/content/82cd3071-4679-4153-8d78-f053fdd8adae",
+        "published_date": "Sat, 29 Nov 2025 05:00:00 GMT",
+        "first_seen": "2025-11-29T08:29:00.210406"
+      },
+      "51a0c3c8fe629d32ea9ae3f07bd4a63ba546f7ea0452058c09a56e5e4e0ee1a4": {
+        "title": "Liberalism can win back the working class. Here’s how",
+        "link": "https://www.ft.com/content/96aadc56-d99e-463a-b95c-d5cab088cacc",
+        "published_date": "Sat, 29 Nov 2025 05:00:00 GMT",
+        "first_seen": "2025-11-29T08:29:00.210409"
+      },
+      "b0b850c8ee00ba2fa267f809f1db0dfc95153b69a33aac29b534a64d5f85dea4": {
+        "title": "The coup de grâce for woke",
+        "link": "https://www.ft.com/content/3a3bb856-5922-4d49-b697-4eba033051dd",
+        "published_date": "Sat, 29 Nov 2025 05:00:00 GMT",
+        "first_seen": "2025-11-29T08:29:00.210411"
+      },
+      "548f2dc710388578bd036f5fa7bfbcdc8cd76f6fae0ef4f4ef87087abb4cb80e": {
+        "title": "Lenders gear up for loosening of capital rules by Bank of England",
+        "link": "https://www.ft.com/content/4132b041-94de-4850-8151-532f4e8a7ef4",
+        "published_date": "Sat, 29 Nov 2025 05:00:00 GMT",
+        "first_seen": "2025-11-29T08:29:00.210413"
+      },
+      "d1e1ddbefff6bb76bfbcfa571f49383c1101561acc896602d1d4a103dad81164": {
+        "title": "Swatch activist lambasts Omega owner’s ‘worst-in-class’ governance",
+        "link": "https://www.ft.com/content/623cc35d-2d54-4aa8-a6f3-66586c45f1b7",
+        "published_date": "Sat, 29 Nov 2025 05:00:00 GMT",
+        "first_seen": "2025-11-29T08:29:00.210415"
       }
     },
     "Ai": {
@@ -13199,8 +13199,8 @@
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2025-11-29T05:22:20.049724",
-    "Finance": "2025-11-28T23:20:56.930236",
+    "Technology": "2025-11-29T08:29:00.367076",
+    "Finance": "2025-11-29T08:29:00.210417",
     "Ai": "2025-11-29T05:22:19.952398"
   }
 }
