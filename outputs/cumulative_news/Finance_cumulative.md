@@ -1,7 +1,41 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-01 23:22
+**最后更新时间**: 2025-12-02 05:23
+
+---
+
+## 🆕 最新更新 (2025-12-02 05:23)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [UK pension funds dump US equities on fears of AI bubble](https://www.ft.com/content/9d90d557-48e5-4f4b-a927-88071cef8ea9)
+**发布时间**: 2025-12-02 05:00
+
+#### [Will the next blockbuster drug come from China?](https://www.ft.com/content/3bfe96d3-593c-498a-9da4-0c1ed359ff74)
+**发布时间**: 2025-12-02 05:00
+
+#### [Let me count the ways in which Labour isn’t working](https://www.ft.com/content/b0ed2b64-ea71-4854-b4f8-4d540a794e40)
+**发布时间**: 2025-12-02 05:00
+
+#### [Adanola’s affordable leggings are chasing Lululemon](https://www.ft.com/content/666775f5-7e1b-4345-a241-019f36ec0bb7)
+**发布时间**: 2025-12-02 05:00
+
+#### [Fall in board pay drives fears top directors will shun London](https://www.ft.com/content/e97e1bd9-154d-4c26-ac7a-9212e8a7b5c2)
+**发布时间**: 2025-12-02 05:00
+
+#### [ECB refuses to provide backstop for €140bn Ukraine loan](https://www.ft.com/content/616c79ee-34de-425a-865e-e94ba10be788)
+**发布时间**: 2025-12-02 05:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Strategy’s stock shows why it’s a trade, and not an investment](https://www.marketwatch.com/story/strategys-stock-shows-why-its-a-trade-and-not-an-investment-ac1e21d0?mod=mw_rss_topstories)
+**发布时间**: 2025-12-02 00:42
+
+#### [After months of box-office busts, Hollywood roars back with ‘Zootopia 2’](https://www.marketwatch.com/story/after-months-of-box-office-busts-hollywood-roars-back-with-zootopia-2-8d43b6c0?mod=mw_rss_topstories)
+**发布时间**: 2025-12-01 23:30
+
+#### [Vaccine stocks slide as FDA official links COVID vaccines and heart conditions in young men](https://www.marketwatch.com/story/vaccine-stocks-take-a-hit-as-fda-official-points-to-link-between-covid-19-vaccines-and-rare-heart-condition-in-young-men-265ab5ab?mod=mw_rss_topstories)
+**发布时间**: 2025-12-01 23:22
 
 ---
 

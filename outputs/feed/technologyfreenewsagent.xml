@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 01 Dec 2025 23:22:00 GMT</pubDate>
-    <lastBuildDate>Mon, 01 Dec 2025 23:22:19 GMT</lastBuildDate>
+    <pubDate>Tue, 02 Dec 2025 05:23:00 GMT</pubDate>
+    <lastBuildDate>Tue, 02 Dec 2025 05:23:11 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,179 +14,243 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>ByteDance Joins Hands with ZTE to Integrate Doubao AI Agent into Smartphones</title>
-      <link>https://www.tmtpost.com/7790511.html</link>
-      <description>&lt;![CDATA[ByteDance Joins Hands with ZTE to Integrate Doubao AI Agent into Smartphones]]&gt;</description>
-      <pubDate>Tue, 02 Dec 2025 00:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7790511.html</guid>
+      <title>Stripe的零停机数据转移平台以毫秒级流量切换迁移PB级数据</title>
+      <link>https://www.infoq.cn/article/b4ggCiClobYvRJH83ELp?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Stripe的零停机数据转移平台以毫秒级流量切换迁移PB级数据]]&gt;</description>
+      <pubDate>Tue, 02 Dec 2025 13:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/b4ggCiClobYvRJH83ELp?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>陈天桥最新撰文：管理学的黄昏与智能的黎明——重写企业的生物学基因</title>
-      <link>https://www.tmtpost.com/7790438.html</link>
-      <description>&lt;![CDATA[陈天桥最新撰文：管理学的黄昏与智能的黎明——重写企业的生物学基因]]&gt;</description>
-      <pubDate>Mon, 01 Dec 2025 23:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7790438.html</guid>
+      <title>ChatGPT 混乱狂奔三周年：KPI 赢了一切，代价是一场致命的系统性故障</title>
+      <link>https://www.infoq.cn/article/3qW2ftQueKIqweMuWXd0?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[ChatGPT 混乱狂奔三周年：KPI 赢了一切，代价是一场致命的系统性故障]]&gt;</description>
+      <pubDate>Tue, 02 Dec 2025 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/3qW2ftQueKIqweMuWXd0?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>DeepSeek发布最强开源新品，瞄向全能Agent，给GPT-5与Gemini 3下战书</title>
-      <link>https://www.tmtpost.com/7790339.html</link>
-      <description>&lt;![CDATA[DeepSeek发布最强开源新品，瞄向全能Agent，给GPT-5与Gemini 3下战书]]&gt;</description>
-      <pubDate>Mon, 01 Dec 2025 22:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7790339.html</guid>
+      <title>DeepSeek 研究员：Speciale证明强化学习可持续扩展！谷歌AI研究员来划技术重点</title>
+      <link>https://www.infoq.cn/article/kl8Etgwi2EdrHDMbU859?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[DeepSeek 研究员：Speciale证明强化学习可持续扩展！谷歌AI研究员来划技术重点]]&gt;</description>
+      <pubDate>Tue, 02 Dec 2025 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/kl8Etgwi2EdrHDMbU859?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>诺奖得主萨金特港大最新演讲：AI的突破本质上是经济学的数百年进化（万字实录）</title>
-      <link>https://www.tmtpost.com/7788265.html</link>
-      <description>&lt;![CDATA[诺奖得主萨金特港大最新演讲：AI的突破本质上是经济学的数百年进化（万字实录）]]&gt;</description>
-      <pubDate>Mon, 01 Dec 2025 22:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7788265.html</guid>
+      <title>微前端：迈向现代化前端架构的社会技术之旅</title>
+      <link>https://www.infoq.cn/article/1TQz62Q7wXK3sewmbkMG?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[微前端：迈向现代化前端架构的社会技术之旅]]&gt;</description>
+      <pubDate>Tue, 02 Dec 2025 11:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/1TQz62Q7wXK3sewmbkMG?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>蛰伏后的爆发：思灵机器人从工业场景迈向物理AI</title>
-      <link>https://www.tmtpost.com/7789629.html</link>
-      <description>&lt;![CDATA[蛰伏后的爆发：思灵机器人从工业场景迈向物理AI]]&gt;</description>
-      <pubDate>Mon, 01 Dec 2025 21:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7789629.html</guid>
+      <title>为何谷歌文件检索技术可能取代企业自建的RAG技术栈</title>
+      <link>https://www.infoq.cn/article/k5y6sxBlVlPxkPUIe4Lo?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[为何谷歌文件检索技术可能取代企业自建的RAG技术栈]]&gt;</description>
+      <pubDate>Tue, 02 Dec 2025 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/k5y6sxBlVlPxkPUIe4Lo?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>20亿加码子公司、国资陆续离场，沃森生物弃权票背后的周期挑战与战略权衡丨并购一线</title>
-      <link>https://www.tmtpost.com/7790200.html</link>
-      <description>&lt;![CDATA[20亿加码子公司、国资陆续离场，沃森生物弃权票背后的周期挑战与战略权衡丨并购一线]]&gt;</description>
-      <pubDate>Mon, 01 Dec 2025 20:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7790200.html</guid>
+      <title>Java资讯汇总：Liberica JDK、Jakarta EE、Open Liberty、Quarkus、JDKUpdater、OpenXava和Gradle</title>
+      <link>https://www.infoq.cn/article/wKEgJ4PBayFsHeh03bCD?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Java资讯汇总：Liberica JDK、Jakarta EE、Open Liberty、Quarkus、JDKUpdater、OpenXava和Gradle]]&gt;</description>
+      <pubDate>Tue, 02 Dec 2025 09:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/wKEgJ4PBayFsHeh03bCD?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>碳化硅的真需求</title>
-      <link>https://www.tmtpost.com/7790012.html</link>
-      <description>&lt;![CDATA[碳化硅的真需求]]&gt;</description>
-      <pubDate>Mon, 01 Dec 2025 19:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7790012.html</guid>
+      <title>星链打击：下一代网络疑云</title>
+      <link>https://www.tmtpost.com/7791419.html</link>
+      <description>&lt;![CDATA[星链打击：下一代网络疑云]]&gt;</description>
+      <pubDate>Tue, 02 Dec 2025 12:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7791419.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>外卖大战，必定会打下半场</title>
-      <link>https://www.tmtpost.com/7788805.html</link>
-      <description>&lt;![CDATA[外卖大战，必定会打下半场]]&gt;</description>
-      <pubDate>Mon, 01 Dec 2025 19:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7788805.html</guid>
+      <title>海澜之家的“中年危机”</title>
+      <link>https://www.tmtpost.com/7791253.html</link>
+      <description>&lt;![CDATA[海澜之家的“中年危机”]]&gt;</description>
+      <pubDate>Tue, 02 Dec 2025 12:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7791253.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>2025年搜索大战，为何没有输家</title>
-      <link>https://www.tmtpost.com/7789870.html</link>
-      <description>&lt;![CDATA[2025年搜索大战，为何没有输家]]&gt;</description>
-      <pubDate>Mon, 01 Dec 2025 19:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7789870.html</guid>
+      <title>泡芙羽绒服，硬控脆皮打工人</title>
+      <link>https://www.tmtpost.com/7791200.html</link>
+      <description>&lt;![CDATA[泡芙羽绒服，硬控脆皮打工人]]&gt;</description>
+      <pubDate>Tue, 02 Dec 2025 12:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7791200.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>ChatGPT三周年，那个“对话模型”如何重构我们的世界</title>
-      <link>https://www.tmtpost.com/7789954.html</link>
-      <description>&lt;![CDATA[ChatGPT三周年，那个“对话模型”如何重构我们的世界]]&gt;</description>
-      <pubDate>Mon, 01 Dec 2025 19:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7789954.html</guid>
+      <title>NIO Shares Tumble Nearly 6% as November Deliveries Signal Monthly Decline</title>
+      <link>https://www.tmtpost.com/7791615.html</link>
+      <description>&lt;![CDATA[NIO Shares Tumble Nearly 6% as November Deliveries Signal Monthly Decline]]&gt;</description>
+      <pubDate>Tue, 02 Dec 2025 12:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7791615.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>大疆与前员工们的无限战争</title>
-      <link>https://www.tmtpost.com/7789298.html</link>
-      <description>&lt;![CDATA[大疆与前员工们的无限战争]]&gt;</description>
-      <pubDate>Mon, 01 Dec 2025 18:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7789298.html</guid>
+      <title>陕西煤业，五年三倍，慢即是快</title>
+      <link>https://www.tmtpost.com/7791236.html</link>
+      <description>&lt;![CDATA[陕西煤业，五年三倍，慢即是快]]&gt;</description>
+      <pubDate>Tue, 02 Dec 2025 12:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7791236.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>土味营销的跑马圈地接近结束</title>
-      <link>https://www.tmtpost.com/7789559.html</link>
-      <description>&lt;![CDATA[土味营销的跑马圈地接近结束]]&gt;</description>
-      <pubDate>Mon, 01 Dec 2025 18:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7789559.html</guid>
+      <title>短剧这一年，越来越像长剧了？</title>
+      <link>https://www.tmtpost.com/7791342.html</link>
+      <description>&lt;![CDATA[短剧这一年，越来越像长剧了？]]&gt;</description>
+      <pubDate>Tue, 02 Dec 2025 12:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7791342.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>机器人泡沫大讨论：揭秘“虚火”下的真实逻辑</title>
-      <link>https://www.tmtpost.com/7789549.html</link>
-      <description>&lt;![CDATA[机器人泡沫大讨论：揭秘“虚火”下的真实逻辑]]&gt;</description>
-      <pubDate>Mon, 01 Dec 2025 18:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7789549.html</guid>
+      <title>AI眼镜，大厂第一战</title>
+      <link>https://www.tmtpost.com/7791358.html</link>
+      <description>&lt;![CDATA[AI眼镜，大厂第一战]]&gt;</description>
+      <pubDate>Tue, 02 Dec 2025 12:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7791358.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>在华与华上过班的人，会不会也嘲笑华杉？</title>
-      <link>https://www.tmtpost.com/7789825.html</link>
-      <description>&lt;![CDATA[在华与华上过班的人，会不会也嘲笑华杉？]]&gt;</description>
-      <pubDate>Mon, 01 Dec 2025 17:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7789825.html</guid>
+      <title>酒店接下来的日子会好么？</title>
+      <link>https://www.tmtpost.com/7791373.html</link>
+      <description>&lt;![CDATA[酒店接下来的日子会好么？]]&gt;</description>
+      <pubDate>Tue, 02 Dec 2025 12:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7791373.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>ChatGPT三周岁了，什么最让你意外？</title>
-      <link>https://www.tmtpost.com/7789645.html</link>
-      <description>&lt;![CDATA[ChatGPT三周岁了，什么最让你意外？]]&gt;</description>
-      <pubDate>Mon, 01 Dec 2025 17:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7789645.html</guid>
+      <title>公开发声、高调挖人、投资150亿，雷军想续上机器人梦</title>
+      <link>https://www.tmtpost.com/7784434.html</link>
+      <description>&lt;![CDATA[公开发声、高调挖人、投资150亿，雷军想续上机器人梦]]&gt;</description>
+      <pubDate>Tue, 02 Dec 2025 11:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7784434.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>医疗行业的AI转型</title>
-      <link>https://www.tmtpost.com/7789032.html</link>
-      <description>&lt;![CDATA[医疗行业的AI转型]]&gt;</description>
-      <pubDate>Mon, 01 Dec 2025 17:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7789032.html</guid>
+      <title>收缩闪购、重押AI，阿里重算“生态账”</title>
+      <link>https://www.tmtpost.com/7791187.html</link>
+      <description>&lt;![CDATA[收缩闪购、重押AI，阿里重算“生态账”]]&gt;</description>
+      <pubDate>Tue, 02 Dec 2025 11:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7791187.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>全球首富马斯克最新访谈：未来15年内，人类不再因为钱而工作，而是因为爱好</title>
-      <link>https://www.infoq.cn/article/Y4LaHVls6NHaedaoi2fw?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[全球首富马斯克最新访谈：未来15年内，人类不再因为钱而工作，而是因为爱好]]&gt;</description>
-      <pubDate>Mon, 01 Dec 2025 19:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/Y4LaHVls6NHaedaoi2fw?utm_source=rss&amp;utm_medium=article</guid>
+      <title>自助“偷甘蔗”爆火，偷菜游戏永不落幕</title>
+      <link>https://www.tmtpost.com/7791329.html</link>
+      <description>&lt;![CDATA[自助“偷甘蔗”爆火，偷菜游戏永不落幕]]&gt;</description>
+      <pubDate>Tue, 02 Dec 2025 11:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7791329.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Evalite 横空出世：AI 驱动应用的 TypeScript 测试利器</title>
-      <link>https://www.infoq.cn/article/7UpXOLT5ZBpiLahsZauh?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Evalite 横空出世：AI 驱动应用的 TypeScript 测试利器]]&gt;</description>
-      <pubDate>Mon, 01 Dec 2025 17:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/7UpXOLT5ZBpiLahsZauh?utm_source=rss&amp;utm_medium=article</guid>
+      <title>“奕境”登场：华为乾崑探索家庭智能车样本</title>
+      <link>https://www.tmtpost.com/7777891.html</link>
+      <description>&lt;![CDATA[“奕境”登场：华为乾崑探索家庭智能车样本]]&gt;</description>
+      <pubDate>Tue, 02 Dec 2025 11:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7777891.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>首销备货 3 万台，豆包 AI 手机要卖给谁？</title>
-      <link>http://www.geekpark.net/news/357510</link>
-      <description>&lt;![CDATA[首销备货 3 万台，豆包 AI 手机要卖给谁？]]&gt;</description>
-      <pubDate>Mon, 01 Dec 2025 18:13:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/357510</guid>
+      <title>ChatGPT诞生三周年：人工智能时代飙升的五只股票及未来展望</title>
+      <link>https://www.tmtpost.com/7791451.html</link>
+      <description>&lt;![CDATA[ChatGPT诞生三周年：人工智能时代飙升的五只股票及未来展望]]&gt;</description>
+      <pubDate>Tue, 02 Dec 2025 11:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7791451.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>一码难求的动画 Agent 导演，离「疯狂动物城」还有多远？｜AI 上新</title>
-      <link>http://www.geekpark.net/news/357509</link>
-      <description>&lt;![CDATA[一码难求的动画 Agent 导演，离「疯狂动物城」还有多远？｜AI 上新]]&gt;</description>
-      <pubDate>Mon, 01 Dec 2025 18:11:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/357509</guid>
+      <title>动荡市场中值得持有的16只优质股票</title>
+      <link>https://www.tmtpost.com/7791426.html</link>
+      <description>&lt;![CDATA[动荡市场中值得持有的16只优质股票]]&gt;</description>
+      <pubDate>Tue, 02 Dec 2025 11:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7791426.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>派评 | 近期值得关注的 App</title>
-      <link>https://sspai.com/post/104216</link>
-      <description>&lt;![CDATA[派评 | 近期值得关注的 App]]&gt;</description>
-      <pubDate>Mon, 01 Dec 2025 18:05:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/104216</guid>
+      <title>红利股今年表现不俗，以下是2026年值得关注的优质选择</title>
+      <link>https://www.tmtpost.com/7791424.html</link>
+      <description>&lt;![CDATA[红利股今年表现不俗，以下是2026年值得关注的优质选择]]&gt;</description>
+      <pubDate>Tue, 02 Dec 2025 11:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7791424.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>七星山荒野求生火了，这类节目未来会走向何方？</title>
-      <link>http://www.huxiu.com/article/4811054.html?f=wangzhan</link>
-      <description>&lt;![CDATA[七星山荒野求生火了，这类节目未来会走向何方？]]&gt;</description>
-      <pubDate>Mon, 01 Dec 2025 18:00:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.huxiu.com/article/4811054.html?f=wangzhan</guid>
+      <title>2025年最糟糕的12只股票——以及唯一有望翻盘的一只</title>
+      <link>https://www.tmtpost.com/7791417.html</link>
+      <description>&lt;![CDATA[2025年最糟糕的12只股票——以及唯一有望翻盘的一只]]&gt;</description>
+      <pubDate>Tue, 02 Dec 2025 11:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7791417.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>为什么人工智能股价的波动不必担心</title>
+      <link>https://www.tmtpost.com/7791415.html</link>
+      <description>&lt;![CDATA[为什么人工智能股价的波动不必担心]]&gt;</description>
+      <pubDate>Tue, 02 Dec 2025 11:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7791415.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>华尔街为十二月的市场找回节奏，但并非所有人都买单</title>
+      <link>https://www.tmtpost.com/7791413.html</link>
+      <description>&lt;![CDATA[华尔街为十二月的市场找回节奏，但并非所有人都买单]]&gt;</description>
+      <pubDate>Tue, 02 Dec 2025 11:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7791413.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>迈向 ASI，阿里云以全栈 AI 服务能力开拓智能新版图</title>
+      <link>https://www.tmtpost.com/7791235.html</link>
+      <description>&lt;![CDATA[迈向 ASI，阿里云以全栈 AI 服务能力开拓智能新版图]]&gt;</description>
+      <pubDate>Tue, 02 Dec 2025 11:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7791235.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Tesla Sales Plunge in Most European Markets Deepens in November Despite a 175% Surge in Norway</title>
+      <link>https://www.tmtpost.com/7791377.html</link>
+      <description>&lt;![CDATA[Tesla Sales Plunge in Most European Markets Deepens in November Despite a 175% Surge in Norway]]&gt;</description>
+      <pubDate>Tue, 02 Dec 2025 11:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7791377.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>网事：被遗忘的凡客诚品</title>
+      <link>http://www.huxiu.com/article/4811990.html?f=wangzhan</link>
+      <description>&lt;![CDATA[网事：被遗忘的凡客诚品]]&gt;</description>
+      <pubDate>Tue, 02 Dec 2025 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.huxiu.com/article/4811990.html?f=wangzhan</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Quote/0 新玩法：当「张大妈」遇上「打工人」，我们把职场黑话做成了贴纸</title>
+      <link>https://sspai.com/post/104126</link>
+      <description>&lt;![CDATA[Quote/0 新玩法：当「张大妈」遇上「打工人」，我们把职场黑话做成了贴纸]]&gt;</description>
+      <pubDate>Tue, 02 Dec 2025 11:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/104126</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>派早报：Google 与 Amazon 达成多云解决方案合作等</title>
+      <link>https://sspai.com/post/104227</link>
+      <description>&lt;![CDATA[派早报：Google 与 Amazon 达成多云解决方案合作等]]&gt;</description>
+      <pubDate>Tue, 02 Dec 2025 08:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/104227</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>罗永浩年底曝光细红线 AI 软件；超级月亮12月5日再登场；豆包 AI 手机发布，3499元｜极客早知道</title>
+      <link>http://www.geekpark.net/news/357517</link>
+      <description>&lt;![CDATA[罗永浩年底曝光细红线 AI 软件；超级月亮12月5日再登场；豆包 AI 手机发布，3499元｜极客早知道]]&gt;</description>
+      <pubDate>Tue, 02 Dec 2025 08:41:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/357517</guid>
       <category>Technology</category>
     </item>
   </channel>
