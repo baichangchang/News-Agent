@@ -1,7 +1,18 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-03 05:27
+**最后更新时间**: 2025-12-03 08:32
+
+---
+
+## 🆕 最新更新 (2025-12-03 08:32)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Record pay for RSM partners reaches levels earned at Big Four](https://www.ft.com/content/b8b5910b-0da7-483f-9aec-c6b5f8b36655)
+**发布时间**: 2025-12-03 05:00
+
+#### [Farage tells donors he expects Reform UK to do an election deal with Tories](https://www.ft.com/content/ecf577aa-7049-4f72-bdd0-ec566accae33)
+**发布时间**: 2025-12-02 21:00
 
 ---
 
