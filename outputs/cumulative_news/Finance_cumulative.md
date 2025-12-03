@@ -1,7 +1,50 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-02 23:21
+**最后更新时间**: 2025-12-03 05:27
+
+---
+
+## 🆕 最新更新 (2025-12-03 05:27)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [The EU single market’s elephant in the room](https://www.ft.com/content/35bbe00a-75c6-4c9e-9f23-94f61ce87cdb)
+**发布时间**: 2025-12-03 05:00
+
+#### [Governments cast a hungry eye over public piggy banks](https://www.ft.com/content/e148c628-0f0b-47eb-9145-6f05be4b4ec4)
+**发布时间**: 2025-12-03 05:00
+
+#### [Read the COP small print](https://www.ft.com/content/d4bc57e6-be52-449c-8ac3-c6cb287b9069)
+**发布时间**: 2025-12-03 05:00
+
+#### [City of London risks running out of top office space](https://www.ft.com/content/93deddf9-dc16-41ef-9b53-99ffa8d768c6)
+**发布时间**: 2025-12-03 05:00
+
+#### [Taxpayers to contribute more than £3bn to Lower Thames Crossing](https://www.ft.com/content/9d7ed2ea-3bf9-47e8-8ff5-10cd916e374c)
+**发布时间**: 2025-12-03 05:00
+
+#### [HSBC appoints Brendan Nelson as chair](https://www.ft.com/content/fd5f11ac-4277-4412-b69d-b04359ce30fa)
+**发布时间**: 2025-12-03 04:42
+
+#### [Anthropic taps IPO lawyers as it races OpenAI to go public](https://www.ft.com/content/3254fa30-5bdb-4c30-8560-7cd7ebbefc5f)
+**发布时间**: 2025-12-03 00:35
+
+#### [Russia says talks with US on Ukraine ‘useful’ but no deal reached](https://www.ft.com/content/10ddfbad-a28e-4918-b52c-0e9724ed8fa2)
+**发布时间**: 2025-12-03 00:23
+
+#### [HSBC chief pledges to be ‘ruthless’ in elevating bank to top 5 status](https://www.ft.com/content/b18d7451-4703-49a2-a687-e56a375118d6)
+**发布时间**: 2025-12-02 10:51
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Everyone’s waiting for a rate cut — but the Fed’s already shown its hand](https://www.marketwatch.com/story/everyones-waiting-for-a-rate-cut-but-the-fed-has-already-made-its-big-money-move-e511e902?mod=mw_rss_topstories)
+**发布时间**: 2025-12-03 02:45
+
+#### [Our kids are grown. It’s time to cancel our Chase Disney Visa. What’s a good credit card for middle age?](https://www.marketwatch.com/story/the-card-served-its-purpose-its-time-to-cancel-our-chase-disney-visa-credit-card-whats-our-next-card-for-middle-age-23314376?mod=mw_rss_topstories)
+**发布时间**: 2025-12-03 00:06
+
+#### [Reasons to be optimistic about the S&P 500’s worst-performing stocks](https://www.marketwatch.com/story/reasons-to-be-optimistic-about-the-s-p-500s-worst-performing-stocks-26f298f9?mod=mw_rss_topstories)
+**发布时间**: 2025-12-02 23:51
 
 ---
 
