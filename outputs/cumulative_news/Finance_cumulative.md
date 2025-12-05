@@ -1,7 +1,56 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-04 23:22
+**最后更新时间**: 2025-12-05 05:28
+
+---
+
+## 🆕 最新更新 (2025-12-05 05:28)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [US stocks set for double-digit gains in 2026, say Wall Street banks](https://www.ft.com/content/0c133aab-0e90-44d1-9709-2c1359a86758)
+**发布时间**: 2025-12-05 05:00
+
+#### [The people who shaped the world this year](https://www.ft.com/content/420f54c4-404c-475e-982e-ab1a2293aef8)
+**发布时间**: 2025-12-05 05:00
+
+#### [There’s a black hole where central banks’ theory of inflation should be](https://www.ft.com/content/7d8f49a1-6a88-425f-b0ce-0d8c604be96c)
+**发布时间**: 2025-12-05 05:00
+
+#### [Merz jets to Belgium to secure frozen Russian assets plan](https://www.ft.com/content/4283c2e3-6f74-415f-a4b3-9569dd94a182)
+**发布时间**: 2025-12-05 05:00
+
+#### [Fifa to award ‘peace prize’ after Trump pipped to Nobel](https://www.ft.com/content/7781bafa-83c2-4dbb-8416-ffc69ea0a187)
+**发布时间**: 2025-12-05 05:00
+
+#### [Meta plans to slash metaverse spending as Zuckerberg shifts focus to AI](https://www.ft.com/content/d8e798a8-65db-44f1-8490-035b50303ee3)
+**发布时间**: 2025-12-04 21:04
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [SoFi’s red-hot stock drops after plan to raise $1.5 billion in stock offering](https://www.marketwatch.com/story/sofis-red-hot-stock-drops-after-plan-to-raise-1-5-billion-in-stock-offering-71f256aa?mod=mw_rss_topstories)
+**发布时间**: 2025-12-05 03:31
+
+#### [Americans’ affordability crisis isn’t tariffs’ fault — it’s something much, much deeper](https://www.marketwatch.com/story/americans-affordability-crisis-isnt-tariffs-fault-its-something-much-much-deeper-9b74ccfb?mod=mw_rss_topstories)
+**发布时间**: 2025-12-05 01:39
+
+#### [Why Microsoft’s controversial OpenAI partnership is actually a safety net for the stock](https://www.marketwatch.com/story/why-microsofts-controversial-openai-partnership-is-actually-a-safety-net-for-the-stock-bc2a408a?mod=mw_rss_topstories)
+**发布时间**: 2025-12-05 00:30
+
+#### [This analyst’s top chip pick isn’t flashy, but it could benefit from ‘unprecedented’ momentum](https://www.marketwatch.com/story/this-analysts-top-chip-pick-isnt-flashy-but-it-could-benefit-from-unprecedented-momentum-62748538?mod=mw_rss_topstories)
+**发布时间**: 2025-12-05 00:27
+
+#### [Even Paramount now thinks Netflix is winning the bidding war for Warner Bros. Discovery](https://www.marketwatch.com/story/even-paramount-now-thinks-netflix-is-winning-the-bidding-war-for-warner-bros-discovery-916afac0?mod=mw_rss_topstories)
+**发布时间**: 2025-12-05 00:21
+
+#### [Costco’s stock turns negative for the year as U.S. sales trends decelerate](https://www.marketwatch.com/story/costcos-stock-turns-negative-for-the-year-as-u-s-sales-trends-decelerate-f99e8e60?mod=mw_rss_topstories)
+**发布时间**: 2025-12-05 00:14
+
+#### [Meta’s stock pop could be just the start as Zuckerberg takes aim at ‘black hole’ of spending](https://www.marketwatch.com/story/metas-stock-pop-could-be-just-the-start-as-zuckerberg-takes-aim-at-black-hole-of-spending-0fae0c17?mod=mw_rss_topstories)
+**发布时间**: 2025-12-05 00:10
+
+#### [These meticulous savers thought they could retire decades early — but soaring health-insurance costs are wrecking their plans](https://www.marketwatch.com/story/fire-fans-had-mapped-the-road-to-early-retirement-then-health-insurance-costs-exploded-03bd97f8?mod=mw_rss_topstories)
+**发布时间**: 2025-12-04 23:52
 
 ---
 
