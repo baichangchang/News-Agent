@@ -1,7 +1,26 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-06 08:28
+**最后更新时间**: 2025-12-06 23:20
+
+---
+
+## 🆕 最新更新 (2025-12-06 23:20)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [US defence secretary says Monroe Doctrine is ‘stronger than ever’](https://www.ft.com/content/720bf98b-c35e-4af3-af93-43171d775645)
+**发布时间**: 2025-12-06 23:06
+
+#### [Scottish Tory peer defects to Reform at Falkirk rally](https://www.ft.com/content/8b4b0994-4abe-4f20-9f90-012c9f70df9d)
+**发布时间**: 2025-12-06 17:03
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Does my friend have a right to her late father’s multimillion-dollar real-estate empire? His widow claims they’re mired in debt.](https://www.marketwatch.com/story/does-my-friend-have-a-right-to-her-late-fathers-multimillion-dollar-property-portfolio-his-widow-claims-theyre-mired-in-debt-faf2770c?mod=mw_rss_topstories)
+**发布时间**: 2025-12-06 23:05
+
+#### [‘I love my work’: I’m a 61-year-old Chicago public-school teacher with a $60K annual pension. Is it safe?](https://www.marketwatch.com/story/i-love-my-work-im-a-61-year-old-public-school-teacher-and-have-a-60k-pension-is-it-safe-80461e5c?mod=mw_rss_topstories)
+**发布时间**: 2025-12-06 19:05
 
 ---
 
