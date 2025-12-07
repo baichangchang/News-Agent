@@ -1,7 +1,36 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-06 23:20
+**最后更新时间**: 2025-12-07 05:21
+
+---
+
+## 🆕 最新更新 (2025-12-07 05:21)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Hollywood fears job cuts as opposition to Netflix-Warner deal grows](https://www.ft.com/content/7c901bb2-c9d9-4921-a5aa-99235d4ad12f)
+**发布时间**: 2025-12-07 05:00
+
+#### [Tech elites are starting their own for-profit cities](https://www.ft.com/content/b127ee7a-5ac4-4730-a395-c9f9619615c7)
+**发布时间**: 2025-12-07 05:00
+
+#### [This party season, embrace the ‘vulnerability hangover’](https://www.ft.com/content/7f10fa14-39c2-4bc4-ac5d-f6c3a4df07de)
+**发布时间**: 2025-12-07 05:00
+
+#### [US tariffs prompt surge in Chinese exports to south-east Asia](https://www.ft.com/content/16d0336b-d855-42ae-b0a7-d509d21cec9b)
+**发布时间**: 2025-12-07 05:00
+
+#### [Europe captures record share of private capital money](https://www.ft.com/content/03877379-8a4a-4dd6-b681-8aadb67578ae)
+**发布时间**: 2025-12-07 05:00
+
+#### [Ukraine’s Black Sea attacks trigger surge in shipping insurance prices](https://www.ft.com/content/b5962cf4-aec1-445e-805e-0122d43d67be)
+**发布时间**: 2025-12-07 05:00
+
+#### [Should Europe fund Ukraine? It can’t easily afford not to](https://www.ft.com/content/eb1006b3-4dc9-4d75-8c8f-9399d7628ab3)
+**发布时间**: 2025-12-07 05:00
+
+#### [Japan frustrated at Trump administration’s silence over row with China](https://www.ft.com/content/bf8b5def-db4d-43ac-91cf-bea5fcfa3189)
+**发布时间**: 2025-12-07 01:53
 
 ---
 
