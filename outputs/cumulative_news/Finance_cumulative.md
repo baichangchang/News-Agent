@@ -1,7 +1,36 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-08 05:26
+**最后更新时间**: 2025-12-08 08:35
+
+---
+
+## 🆕 最新更新 (2025-12-08 08:35)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Reform UK denies breaking electoral law over Farage’s campaign expenses](https://www.ft.com/content/d7e46dba-429d-4ff4-a346-de921ffe6c59)
+**发布时间**: 2025-12-08 08:09
+
+#### [The power crunch threatening America’s AI ambitions](https://ig.ft.com/ai-power/)
+**发布时间**: 2025-12-08 05:00
+
+#### [The UK must do more than go on muddling through](https://www.ft.com/content/044c8e21-0160-4457-9de7-a9b17b1d7678)
+**发布时间**: 2025-12-08 05:00
+
+#### [How the bank behind London’s most expensive office lease unravelled](https://www.ft.com/content/a8bb467b-1486-41fb-85a0-6c08d24f45eb)
+**发布时间**: 2025-12-08 05:00
+
+#### [France shielding €18bn Russian asset pot from EU ‘reparations loan’ push](https://www.ft.com/content/fe304bb8-d928-4b9b-8162-2000301be937)
+**发布时间**: 2025-12-08 05:00
+
+#### [European allies to rally support for Ukraine as US pressure mounts](https://www.ft.com/content/2351e122-877a-4314-b53d-ae0908c73522)
+**发布时间**: 2025-12-08 05:00
+
+#### [Deutsche Bank seeks 40% pay bump for highest-paid chair in Dax](https://www.ft.com/content/ed08c254-fead-4adf-b577-384babf105c3)
+**发布时间**: 2025-12-08 05:00
+
+#### [Reform UK councillor’s company fined £40,000 for hiring illegal worker](https://www.ft.com/content/de36d9bd-9b8f-429c-a632-e1b82917c8d0)
+**发布时间**: 2025-12-08 05:00
 
 ---
 

@@ -1,12 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "78e93be686a66e03844aff1fc6f0bac05191a1009377bd973c0dce64e68f5497": {
-        "title": "AI100访谈：「Get笔记」方法论｜量子位智库",
-        "link": "https://www.qbitai.com/2025/11/350350.html",
-        "published_date": "Sat, 08 Nov 2025 07:04:00 GMT",
-        "first_seen": "2025-11-08T08:25:05.761872"
-      },
       "fd8a9d42422bda800595ffa6841abfe27dc0c86bed31eae65d079c8f2518b826": {
         "title": "“昆山杯”第27届清华大学创业大赛火热报名！",
         "link": "https://www.qbitai.com/2025/11/350377.html",
@@ -1299,18 +1293,6 @@
       }
     },
     "Technology": {
-      "ba8ec3c8bec13fef4c8d8a62cb8a26340d9a11787ab5e71e18c84acecb3bc988": {
-        "title": "副业淘宝店经营 1 周年，我获取了哪些经验？",
-        "link": "https://sspai.com/post/102929",
-        "published_date": "Sat, 08 Nov 2025 15:04:00 GMT",
-        "first_seen": "2025-11-08T08:25:05.814005"
-      },
-      "b49948ee18546092edbc847164dbf5ad82782375bf05446523aad219e624ad06": {
-        "title": "搜狐张朝阳：拒做大模型，要在AI狂热中坚守现金流 | 巴伦精选",
-        "link": "https://www.tmtpost.com/7755309.html",
-        "published_date": "Sat, 08 Nov 2025 13:25:00 GMT",
-        "first_seen": "2025-11-08T08:25:05.814169"
-      },
       "d405cd908a39ea1258d53228da08a86322ab6c19cfac519d7b2a5e3aef165466": {
         "title": "数据孤岛、协同低效？AI+虚拟孪生如何破解建筑行业数字化难题",
         "link": "https://www.infoq.cn/article/jNFPJE9aRZi37seSRNwc?utm_source=rss&utm_medium=article",
@@ -12176,6 +12158,108 @@
         "link": "http://www.geekpark.net/news/357698",
         "published_date": "Mon, 08 Dec 2025 08:44:00 GMT",
         "first_seen": "2025-12-08T05:26:14.938241"
+      },
+      "598dded599590b1d6a3ec36ddfdbc73a5d65df602b302a0ef293928bf3485e53": {
+        "title": "Chinese Startup EngineAI Completes A1+ and A2 Funding Rounds, Launches Humanoid T800",
+        "link": "https://www.tmtpost.com/7801102.html",
+        "published_date": "Mon, 08 Dec 2025 15:57:00 GMT",
+        "first_seen": "2025-12-08T08:35:12.791338"
+      },
+      "bd1390447a6a6adc086ce1ca556ddacc9e70630ee8e4aa4e12995850e380ed88": {
+        "title": "追梦空天科技完成近两亿元A轮融资，持续领跑混动倾转赛道 | 融资速递",
+        "link": "https://www.tmtpost.com/7801070.html",
+        "published_date": "Mon, 08 Dec 2025 15:48:00 GMT",
+        "first_seen": "2025-12-08T08:35:12.791344"
+      },
+      "2c183b0ac25dda8186d47ed574b1a345d22e88294ee8447f17efc54f8b7e2fa9": {
+        "title": "光伏破局：全面调整期的“反内卷”攻坚与价值重构丨2025·大复盘",
+        "link": "https://www.tmtpost.com/7800939.html",
+        "published_date": "Mon, 08 Dec 2025 15:36:00 GMT",
+        "first_seen": "2025-12-08T08:35:12.791346"
+      },
+      "d15eadc3c2e8d0c39327896a3f37656d51782daa514523ff796578d7dd5649cd": {
+        "title": "当57岁“数学传奇”决定为24岁“天才少女”的AI项目打工",
+        "link": "https://www.tmtpost.com/7799942.html",
+        "published_date": "Mon, 08 Dec 2025 15:26:00 GMT",
+        "first_seen": "2025-12-08T08:35:12.791348"
+      },
+      "d5c167b83cbeab45ad79ec0b8a84161c54d2678b1a6ac6afec86418ed6ad0921": {
+        "title": "Airwallex空中云汇完成3.3亿美元G轮融资，估值达80亿美元",
+        "link": "https://www.tmtpost.com/7800949.html",
+        "published_date": "Mon, 08 Dec 2025 15:09:00 GMT",
+        "first_seen": "2025-12-08T08:35:12.791349"
+      },
+      "52cd0cf2c23f6c9c1e30ab649f1d8e9659746219503530e86c3d9045da752fd3": {
+        "title": "达晨、华控领投，极佳视界A2轮再融2亿，押注“世界模型+行动模型”原生架构",
+        "link": "https://www.tmtpost.com/7800936.html",
+        "published_date": "Mon, 08 Dec 2025 14:57:00 GMT",
+        "first_seen": "2025-12-08T08:35:12.791351"
+      },
+      "947c3410ef1bc17cb500f0aceb4ade0bdfd3e435ceb4ccd100b6678ecbc2d8d1": {
+        "title": "Hinton Says AI is Already Conscious, Flawed Models Make AI Believe They are Not",
+        "link": "https://www.tmtpost.com/7800865.html",
+        "published_date": "Mon, 08 Dec 2025 14:17:00 GMT",
+        "first_seen": "2025-12-08T08:35:12.791352"
+      },
+      "710fb3d1d21d7afe5345ed482535c9dc4911b4d14d95ded654068395c9c5d6ec": {
+        "title": "神悦铸造：一项被雪藏30年技术的破冰之战｜50X50",
+        "link": "https://www.tmtpost.com/7800752.html",
+        "published_date": "Mon, 08 Dec 2025 13:49:00 GMT",
+        "first_seen": "2025-12-08T08:35:12.791354"
+      },
+      "2f729ef570bff1346cf4ea3c650089b2b8467a8baae347647ffbf03dbe83dfe6": {
+        "title": "\"Godfather of AI\" Criticizes Elon Musk's “Irresponsible” Behaviour in AI Sector",
+        "link": "https://www.tmtpost.com/7800773.html",
+        "published_date": "Mon, 08 Dec 2025 13:37:00 GMT",
+        "first_seen": "2025-12-08T08:35:12.791355"
+      },
+      "96be3c96e4e50f01408d98f9a48a92b055909b6d51d255393b31249d762c4647": {
+        "title": "宫斗升级，曾经温暖无数国人的大品牌，悬了",
+        "link": "https://www.tmtpost.com/7800514.html",
+        "published_date": "Mon, 08 Dec 2025 13:36:00 GMT",
+        "first_seen": "2025-12-08T08:35:12.791357"
+      },
+      "4a5d66519ae5979d85a2b7dcf07053538f1b3224de9b2b642a987d1158cf9e0f": {
+        "title": "谁在赢得最后的红利",
+        "link": "https://www.tmtpost.com/7800553.html",
+        "published_date": "Mon, 08 Dec 2025 13:28:00 GMT",
+        "first_seen": "2025-12-08T08:35:12.791358"
+      },
+      "07b33586e6fe25f964fb6fd87a26d0db04543447ac837e97ec3068c783a53066": {
+        "title": "Snowflake 为企业带来更智能、可治理的人工智能技术 | 技术趋势",
+        "link": "https://www.infoq.cn/article/sGNUDN9VkbO1L0E98bru?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 08 Dec 2025 15:33:00 GMT",
+        "first_seen": "2025-12-08T08:35:12.791359"
+      },
+      "6d7dd97c66a0011e4bb7d8ebcc914a855719e28a6eee487f35721d9d7bb802c5": {
+        "title": "太空 AI 时代来了？马斯克年射 100 万吨 AI 卫星，称月球建厂才是最便宜的算力出路",
+        "link": "https://www.infoq.cn/article/lMRBQa6agghLo7zQ7MG1?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 08 Dec 2025 15:10:00 GMT",
+        "first_seen": "2025-12-08T08:35:12.791360"
+      },
+      "40f72fce2a981ef8b39c81aac2051a12ae3944d4a17f58d6af3686b9e719b00e": {
+        "title": "“穿越者” Werner Vogels 的谢幕时刻",
+        "link": "https://www.infoq.cn/article/tetJXTlT2ZGKMeK96mCx?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 08 Dec 2025 14:36:00 GMT",
+        "first_seen": "2025-12-08T08:35:12.791362"
+      },
+      "b136865f29a7fef4d73a9e123163de0cd4dafafc3f2ae793630bdc0f000bf23e": {
+        "title": "罗永浩的十字路口：播客、年轻人和 AI 浪潮",
+        "link": "http://www.geekpark.net/news/357750",
+        "published_date": "Mon, 08 Dec 2025 15:17:00 GMT",
+        "first_seen": "2025-12-08T08:35:12.791363"
+      },
+      "b924f0f94931629061b5242dba2cef861de6d667763125806d34d52d3a997b16": {
+        "title": "工作日的冬夜吃什么？15 分钟就能搞定的绝味火锅们",
+        "link": "https://sspai.com/post/64749",
+        "published_date": "Mon, 08 Dec 2025 15:04:00 GMT",
+        "first_seen": "2025-12-08T08:35:12.791364"
+      },
+      "ab098de33b12edf92c7f406db4b5356aab57cd89ac6ce05b7bb3a249f7500373": {
+        "title": "咱们的半导体，凡是没被制裁按死的，现在都强得可怕",
+        "link": "http://www.huxiu.com/article/4814147.html?f=wangzhan",
+        "published_date": "Mon, 08 Dec 2025 13:00:00 GMT",
+        "first_seen": "2025-12-08T08:35:12.791366"
       }
     },
     "Finance": {
@@ -13612,6 +13696,12 @@
         "link": "https://www.ft.com/content/99132eae-4255-499a-81a1-f5fade37562e",
         "published_date": "Mon, 08 Dec 2025 00:01:00 GMT",
         "first_seen": "2025-12-08T05:26:14.724196"
+      },
+      "a36a77193055c310cae7c0fdcd6f842688d76bc2f571c1726e15612ac0f160cf": {
+        "title": "Reform UK denies breaking electoral law over Farage’s campaign expenses",
+        "link": "https://www.ft.com/content/d7e46dba-429d-4ff4-a346-de921ffe6c59",
+        "published_date": "Mon, 08 Dec 2025 08:09:00 GMT",
+        "first_seen": "2025-12-08T08:35:12.581905"
       }
     },
     "Ai": {
@@ -14586,13 +14676,37 @@
         "link": "https://www.jiqizhixin.com/articles/2025-12-08",
         "published_date": "Mon, 08 Dec 2025 11:33:00 GMT",
         "first_seen": "2025-12-08T05:26:14.846289"
+      },
+      "ca2ef82d9dc11febb854bc4e360ca397c341da109cf80b641afc3c53a9d97306": {
+        "title": "上海人工智能实验室等推出超广角裸眼3D显示系统，AI代替眼镜感受视觉深度",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-08-4",
+        "published_date": "Mon, 08 Dec 2025 14:51:00 GMT",
+        "first_seen": "2025-12-08T08:35:12.704327"
+      },
+      "00bc0310fad82811fb1563a699cd5e4e568568ff66bb25b3e37059b4e6e7c1aa": {
+        "title": "DeepSeek V3到V3.2的进化之路，一文看全",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-08-3",
+        "published_date": "Mon, 08 Dec 2025 13:26:00 GMT",
+        "first_seen": "2025-12-08T08:35:12.704335"
+      },
+      "90bda9a50674634e0127e39488cde02b2007a2feebcacc9d9f6dad6c06f694d5": {
+        "title": "编程界“奥斯卡”百度之星决赛揭晓，上千选手激烈角逐，山东16岁中学生王茂骅夺冠！",
+        "link": "https://www.qbitai.com/2025/12/359537.html",
+        "published_date": "Mon, 08 Dec 2025 07:41:00 GMT",
+        "first_seen": "2025-12-08T08:35:12.704337"
+      },
+      "87415c46577f02e655c858432bdc294f0c7368d69ca9ec08cb6f34ad5b988676": {
+        "title": "英伟达自毁CUDA门槛！15行Python写GPU内核，性能匹敌200行C++",
+        "link": "https://www.qbitai.com/2025/12/359497.html",
+        "published_date": "Mon, 08 Dec 2025 05:44:00 GMT",
+        "first_seen": "2025-12-08T08:35:12.704339"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2025-12-08T05:26:14.938242",
-    "Finance": "2025-12-08T05:26:14.724198",
-    "Ai": "2025-12-08T05:26:14.846292"
+    "Technology": "2025-12-08T08:35:12.791367",
+    "Finance": "2025-12-08T08:35:12.581911",
+    "Ai": "2025-12-08T08:35:12.704341"
   }
 }
