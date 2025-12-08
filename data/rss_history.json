@@ -1,18 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "cbda91f1359fc5ebf473d7639f547877ea4d32502905c572b70f338d49c50fa8": {
-        "title": "机器人训练，北京男大有了技能玩法",
-        "link": "https://www.qbitai.com/2025/11/350301.html",
-        "published_date": "Sat, 08 Nov 2025 04:51:00 GMT",
-        "first_seen": "2025-11-08T05:19:30.451624"
-      },
-      "3e3d12066a9ec41b91c2aed8d9797950347e82e1e592af03e1d3b54c458e8188": {
-        "title": "ICCV涌现自动驾驶新范式：统一世界模型VLA，用训练闭环迈向L4",
-        "link": "https://www.qbitai.com/2025/11/350282.html",
-        "published_date": "Sat, 08 Nov 2025 04:41:00 GMT",
-        "first_seen": "2025-11-08T05:19:30.451782"
-      },
       "78e93be686a66e03844aff1fc6f0bac05191a1009377bd973c0dce64e68f5497": {
         "title": "AI100访谈：「Get笔记」方法论｜量子位智库",
         "link": "https://www.qbitai.com/2025/11/350350.html",
@@ -1311,30 +1299,6 @@
       }
     },
     "Technology": {
-      "6850df6ddbab4cf0dd55e7ce14391cbe1328f7ac1493aa812cdb24c81af14685": {
-        "title": "什么是闪电网络？小白也能看懂的动画讲解",
-        "link": "http://www.huxiu.com/article/4801669.html?f=wangzhan",
-        "published_date": "Sat, 08 Nov 2025 11:00:00 GMT",
-        "first_seen": "2025-11-08T05:19:30.512404"
-      },
-      "f7d0804c9c291bf5a0c763ac5b0ed50412714061636a0ac42f8114649a6944e4": {
-        "title": "从理光到大疆，年轻人在追逐什么样的新相机",
-        "link": "https://www.tmtpost.com/7755071.html",
-        "published_date": "Sat, 08 Nov 2025 10:09:00 GMT",
-        "first_seen": "2025-11-08T05:19:30.512538"
-      },
-      "687a0bda63ed33e29fdaf90d795df83b3f80e1861e976f158998935758626fc7": {
-        "title": "上市银行净息差悬于1.3%，银行传统盈利模式或宣告终结",
-        "link": "https://www.tmtpost.com/7755184.html",
-        "published_date": "Sat, 08 Nov 2025 08:30:00 GMT",
-        "first_seen": "2025-11-08T05:19:30.512682"
-      },
-      "764f672204ac3d79151391495dc0978c64f2c530358411d1efaa01b5981c68e3": {
-        "title": "AI热潮推动，全球 DRAM 内存价格暴涨；泡泡玛特回应直播事故；媒体爆料iPhone 18 Pro工程机进展",
-        "link": "http://www.geekpark.net/news/356147",
-        "published_date": "Sat, 08 Nov 2025 09:01:00 GMT",
-        "first_seen": "2025-11-08T05:19:30.512930"
-      },
       "ba8ec3c8bec13fef4c8d8a62cb8a26340d9a11787ab5e71e18c84acecb3bc988": {
         "title": "副业淘宝店经营 1 周年，我获取了哪些经验？",
         "link": "https://sspai.com/post/102929",
@@ -12056,6 +12020,162 @@
         "link": "https://sspai.com/post/104223",
         "published_date": "Sun, 07 Dec 2025 15:45:00 GMT",
         "first_seen": "2025-12-07T23:21:15.393665"
+      },
+      "bf133f3df695dbf52d791b49d00041ca6315321fffe6404b011609f80dccb38c": {
+        "title": "执着追逐风口，69岁的海正药业仍要豪赌“多元化”",
+        "link": "https://www.tmtpost.com/7800592.html",
+        "published_date": "Mon, 08 Dec 2025 13:20:00 GMT",
+        "first_seen": "2025-12-08T05:26:14.938198"
+      },
+      "59d31088d557c64c11667424436e0ad3fca5d43d4b9e857952a7980f2a6b243b": {
+        "title": "豆包手机助手：打响“去App时代”的第一枪",
+        "link": "https://www.tmtpost.com/7800629.html",
+        "published_date": "Mon, 08 Dec 2025 13:14:00 GMT",
+        "first_seen": "2025-12-08T05:26:14.938206"
+      },
+      "895d9e2fce7e1795b0b934950899b9649da947ce00c4e72cb8d6a1ae36eaa075": {
+        "title": "500亿梦未竞，林孝发和九牧卫浴是时候重定目标了？",
+        "link": "https://www.tmtpost.com/7800660.html",
+        "published_date": "Mon, 08 Dec 2025 13:13:00 GMT",
+        "first_seen": "2025-12-08T05:26:14.938208"
+      },
+      "1c6f1bc04e73a44775661cad98df76ac9eaee43399919f90d96434415fb10816": {
+        "title": "AI陪伴+潮玩：被高退货率戳破的情绪泡沫",
+        "link": "https://www.tmtpost.com/7800603.html",
+        "published_date": "Mon, 08 Dec 2025 13:09:00 GMT",
+        "first_seen": "2025-12-08T05:26:14.938210"
+      },
+      "ef3e7e745a42d5a4b3fd9bcfc291753ba4e8b0fe37f52069f8294bbb75a2a417": {
+        "title": "混战之中的电商，急需回归零售本质",
+        "link": "https://www.tmtpost.com/7800640.html",
+        "published_date": "Mon, 08 Dec 2025 13:04:00 GMT",
+        "first_seen": "2025-12-08T05:26:14.938212"
+      },
+      "904162b7a9e05e9aab45290435324e6c478b743230438d2e3208d872680ce386": {
+        "title": "Maternal Instinct is the Key for AI Living Peacefully With Humans, Says Hinton",
+        "link": "https://www.tmtpost.com/7800639.html",
+        "published_date": "Mon, 08 Dec 2025 12:29:00 GMT",
+        "first_seen": "2025-12-08T05:26:14.938213"
+      },
+      "47d6419796e81968c329df15ed58fbdbe2fcea792fa1a3e2b56278d644456ddd": {
+        "title": "PD-1/VEGF双抗+ADC成为标配？",
+        "link": "https://www.tmtpost.com/7800464.html",
+        "published_date": "Mon, 08 Dec 2025 11:25:00 GMT",
+        "first_seen": "2025-12-08T05:26:14.938214"
+      },
+      "f69a3520137e628fad71c5d5840e32bc44e20ff33aec14a3d903596b0a2d575c": {
+        "title": "动辄百万点赞的“切片”剧宣不管用了？",
+        "link": "https://www.tmtpost.com/7800471.html",
+        "published_date": "Mon, 08 Dec 2025 11:24:00 GMT",
+        "first_seen": "2025-12-08T05:26:14.938216"
+      },
+      "677220db0ee38f220f8b5604e256c779a0d09cc7afa334db621597edbf71a16e": {
+        "title": "安克创新递表港交所，筹备全球化新阶段｜ 出海IPO",
+        "link": "https://www.tmtpost.com/7800495.html",
+        "published_date": "Mon, 08 Dec 2025 11:23:00 GMT",
+        "first_seen": "2025-12-08T05:26:14.938217"
+      },
+      "bfeae562ae434823dcdbeba73781c9e1a46a539f5b3c70b988aceb7430c86384": {
+        "title": "ASH重磅：伴髓外病变ORR 100%，维立志博LBL-034或改写多发性骨髓瘤治疗格局",
+        "link": "https://www.tmtpost.com/7800396.html",
+        "published_date": "Mon, 08 Dec 2025 11:06:00 GMT",
+        "first_seen": "2025-12-08T05:26:14.938218"
+      },
+      "97ffb0cdb6763a361faa1eb48a026e10cb335af5e51f220f5a53cb663ebec222": {
+        "title": "FPGA，焕发新生",
+        "link": "https://www.tmtpost.com/7800238.html",
+        "published_date": "Mon, 08 Dec 2025 10:57:00 GMT",
+        "first_seen": "2025-12-08T05:26:14.938220"
+      },
+      "0cac7e64227fa2690272069f311c5d4eabd7b5044d66615309f9524743eb5c75": {
+        "title": "7天狂揽21亿，“最火CP”成断货王，有商家狂卖几十万件",
+        "link": "https://www.tmtpost.com/7800325.html",
+        "published_date": "Mon, 08 Dec 2025 10:48:00 GMT",
+        "first_seen": "2025-12-08T05:26:14.938221"
+      },
+      "2ca6e1c424afeb550b9d4d61293b78dd384668592cd76c9f9b2a69eac7156653": {
+        "title": "九载深港通：市场双向赋能的核心意义",
+        "link": "https://www.tmtpost.com/7800254.html",
+        "published_date": "Mon, 08 Dec 2025 10:46:00 GMT",
+        "first_seen": "2025-12-08T05:26:14.938223"
+      },
+      "459e1ebe7eebed115950bc2a72d761f2085a10f11800f6c0bf29012872a54aef": {
+        "title": "硅片，洗牌进行时",
+        "link": "https://www.tmtpost.com/7800244.html",
+        "published_date": "Mon, 08 Dec 2025 10:43:00 GMT",
+        "first_seen": "2025-12-08T05:26:14.938224"
+      },
+      "e3ad8faad835e1b12cb19aa21ae55b94ca39875c57c0b9063466c020e05d7856": {
+        "title": "博士天团创业，博世闻泰押注，碳化硅龙头IPO冲刺港股",
+        "link": "https://www.tmtpost.com/7800284.html",
+        "published_date": "Mon, 08 Dec 2025 10:41:00 GMT",
+        "first_seen": "2025-12-08T05:26:14.938226"
+      },
+      "295bdbddef003fa0dfd99884b36dca01c8f421e9d3d745dd8220068a25ae45d3": {
+        "title": "卖课“换脸”卖潮玩，但奇梦岛还没赚钱",
+        "link": "https://www.tmtpost.com/7800286.html",
+        "published_date": "Mon, 08 Dec 2025 10:39:00 GMT",
+        "first_seen": "2025-12-08T05:26:14.938227"
+      },
+      "ab8f0a942e25581cec2e6d931a9e8753e6f8c85a7b8a3b81ba57e2689a623b7c": {
+        "title": "退休老人再就业，我成了大家的“共享奶奶”",
+        "link": "https://www.tmtpost.com/7800306.html",
+        "published_date": "Mon, 08 Dec 2025 10:38:00 GMT",
+        "first_seen": "2025-12-08T05:26:14.938229"
+      },
+      "7cda0f9b09191c89690bcf9fc0ff893aea2962aa85372c0907173bd8951f3086": {
+        "title": "光伏寒冬下的战略撤退：天洋新材终止10亿项目、高层换血背后",
+        "link": "https://www.tmtpost.com/7800111.html",
+        "published_date": "Mon, 08 Dec 2025 09:41:00 GMT",
+        "first_seen": "2025-12-08T05:26:14.938230"
+      },
+      "2844a5312177a2a7257e9b606f1df61719d10cd64a095a3f0b70963b377d1a94": {
+        "title": "为什么很多大厂游戏开发不爱玩游戏？",
+        "link": "https://www.tmtpost.com/7800121.html",
+        "published_date": "Mon, 08 Dec 2025 09:41:00 GMT",
+        "first_seen": "2025-12-08T05:26:14.938232"
+      },
+      "bd6d7a8371d671796d208b839662c395762f9bfa5276173667bddec23a6ffd4b": {
+        "title": "Al 重塑平安 API 全链路智能化测试生态体系| AICon 北京",
+        "link": "https://www.infoq.cn/article/JuuJVc6lTZdMmJIOLwdQ?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 08 Dec 2025 11:50:00 GMT",
+        "first_seen": "2025-12-08T05:26:14.938233"
+      },
+      "aa3a59c6f243109af09a22dc3201f51d758194e13af17bbe1ec1fc307811d6db": {
+        "title": "谷歌全线开挂！Gemini 3 Deep Think夺多项推理SOTA，Gemini亚洲新团队也官宣了",
+        "link": "https://www.infoq.cn/article/9iCS1oqtTCuJu39Op4oE?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 08 Dec 2025 10:36:00 GMT",
+        "first_seen": "2025-12-08T05:26:14.938234"
+      },
+      "a0a99a697a11a063a14a25f3a9142bdf24e8e81e0cb907269f662bde58020a93": {
+        "title": "在 2025 年复活一台黑莓 Q25",
+        "link": "https://sspai.com/post/104334",
+        "published_date": "Mon, 08 Dec 2025 11:32:00 GMT",
+        "first_seen": "2025-12-08T05:26:14.938235"
+      },
+      "f78a37ae36c72824fd55ae26904fc8ab33fd1ae63ef68e8e896b8f11a9c58656": {
+        "title": "派早报：Netflix 拟以 720 亿美元收购华纳兄弟影视及流媒体业务",
+        "link": "https://sspai.com/post/104404",
+        "published_date": "Mon, 08 Dec 2025 08:56:00 GMT",
+        "first_seen": "2025-12-08T05:26:14.938237"
+      },
+      "18f0c1f1f41a92c3ebb46ff92abd2f9b07b938a3c8e844c77b5b92100c37c3f2": {
+        "title": "香港火灾背后：要命的超高层住宅",
+        "link": "http://www.huxiu.com/article/4814174.html?f=wangzhan",
+        "published_date": "Mon, 08 Dec 2025 10:40:00 GMT",
+        "first_seen": "2025-12-08T05:26:14.938238"
+      },
+      "5cbfa57d28dd22c7216f3db8cecae756fe43768549041a44843842cf925f9633": {
+        "title": "7天票房21亿，《疯狂动物城2》火在哪里？",
+        "link": "http://www.huxiu.com/article/4814471.html?f=wangzhan",
+        "published_date": "Mon, 08 Dec 2025 09:48:00 GMT",
+        "first_seen": "2025-12-08T05:26:14.938240"
+      },
+      "d2fa9b35986690feeb8e5c34a0c1a1bf2722af6277ed5e4f3491128589c47eca": {
+        "title": "传苹果 CEO 库克曝出健康出问题；美推出 DNA 数据存储，寿命超千年；「动物城 2」票房破 30 亿，年度前三",
+        "link": "http://www.geekpark.net/news/357698",
+        "published_date": "Mon, 08 Dec 2025 08:44:00 GMT",
+        "first_seen": "2025-12-08T05:26:14.938241"
       }
     },
     "Finance": {
@@ -13444,6 +13564,54 @@
         "link": "https://www.marketwatch.com/story/trumps-1-million-gold-card-immigration-program-is-close-to-launching-heres-whats-ahead-dca9ddef?mod=mw_rss_topstories",
         "published_date": "Sun, 07 Dec 2025 14:00:00 GMT",
         "first_seen": "2025-12-07T23:21:15.213142"
+      },
+      "e0e452a35de5922b163f80748cab7dd26c3e069f153bfa973c129c35e1b228ac": {
+        "title": "U.S. stock futures flat as investors await Fed meeting — and likely rate cut",
+        "link": "https://www.marketwatch.com/story/u-s-stock-futures-flat-as-investors-await-fed-meeting-and-likely-a-rate-cut-ecf9f5bc?mod=mw_rss_topstories",
+        "published_date": "Mon, 08 Dec 2025 04:04:00 GMT",
+        "first_seen": "2025-12-08T05:26:14.724177"
+      },
+      "54270747b70c4142cc2b218394596667cd15fde76f24d556b68e1342222ec201": {
+        "title": "Trump says Netflix’s huge deal for Warner Bros. ‘could be a problem’",
+        "link": "https://www.marketwatch.com/story/trump-says-netflixs-huge-deal-for-warner-bros-could-be-a-problem-7ac93e46?mod=mw_rss_topstories",
+        "published_date": "Mon, 08 Dec 2025 01:54:00 GMT",
+        "first_seen": "2025-12-08T05:26:14.724186"
+      },
+      "82ee7d2ba74aed872fd80afb495048794b83200e74b4207c516bcecf6f14e382": {
+        "title": "Do I have a right to my late father’s multimillion-dollar real-estate empire? My mom claims they’re mired in debt.",
+        "link": "https://www.marketwatch.com/story/does-my-friend-have-a-right-to-her-late-fathers-multimillion-dollar-property-portfolio-his-widow-claims-theyre-mired-in-debt-faf2770c?mod=mw_rss_topstories",
+        "published_date": "Mon, 08 Dec 2025 01:30:00 GMT",
+        "first_seen": "2025-12-08T05:26:14.724188"
+      },
+      "bc103c169aba83c807d14d3e663e98547ce65a0bc17cc27ea1a09626ddf6f2d5": {
+        "title": "China’s trade surplus tops $1tn for first time",
+        "link": "https://www.ft.com/content/b9bf3d8f-d5d2-47b7-a498-efe0641cbbab",
+        "published_date": "Mon, 08 Dec 2025 03:56:00 GMT",
+        "first_seen": "2025-12-08T05:26:14.724190"
+      },
+      "2a7528e8ff9dc5f55df0d951551325c0f82c4c0b791afb6eb1a44ff480fcdcbf": {
+        "title": "Thailand strikes Cambodia as Trump-backed truce collapses",
+        "link": "https://www.ft.com/content/d1e5934f-1305-41f5-93e9-faad77f13f54",
+        "published_date": "Mon, 08 Dec 2025 03:53:00 GMT",
+        "first_seen": "2025-12-08T05:26:14.724192"
+      },
+      "ce6b138d1650574048a04adebac963e6ac268afd5f3ad96f290ceabe75763b20": {
+        "title": "Trump says Netflix market share ‘could be a problem’ for $83bn Warner deal",
+        "link": "https://www.ft.com/content/443baf96-75cf-46a4-b69b-df9b47792676",
+        "published_date": "Mon, 08 Dec 2025 01:36:00 GMT",
+        "first_seen": "2025-12-08T05:26:14.724193"
+      },
+      "cf60fd0d5d5df28eaf6c99fd1c6077cd8027d8aa4b4ddd9a19d15075d408d8f0": {
+        "title": "Atlantic Bastion: the UK’s response to Russia’s submarine threat",
+        "link": "https://www.ft.com/content/d8033706-c4dc-489b-b44b-d79d717070a9",
+        "published_date": "Mon, 08 Dec 2025 00:01:00 GMT",
+        "first_seen": "2025-12-08T05:26:14.724195"
+      },
+      "33342f298ca47bed39a6cc1859a4b649b31bcd4cf5b498342d347e6938511458": {
+        "title": "Britain’s grid overhaul means hundreds of energy projects unable to connect this decade",
+        "link": "https://www.ft.com/content/99132eae-4255-499a-81a1-f5fade37562e",
+        "published_date": "Mon, 08 Dec 2025 00:01:00 GMT",
+        "first_seen": "2025-12-08T05:26:14.724196"
       }
     },
     "Ai": {
@@ -14406,13 +14574,25 @@
         "link": "https://www.jiqizhixin.com/articles/2025-12-07",
         "published_date": "Sun, 07 Dec 2025 18:41:00 GMT",
         "first_seen": "2025-12-07T23:21:15.337579"
+      },
+      "6526a56dce7f7a29442f5f621604852e311a9e63de0ad9a12054df7bd7169a5e": {
+        "title": "从分钟级等待到20倍超速：LightX2V重写AI视频生成速度上限",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-08-2",
+        "published_date": "Mon, 08 Dec 2025 13:15:00 GMT",
+        "first_seen": "2025-12-08T05:26:14.846281"
+      },
+      "0e6291d7597ae643e199a11580016bf43764a7c9a063f23c58faeb93d40fb610": {
+        "title": "Vicino.ai 推出“超级代理”SuperIntelliAgent： 边生成边训练，让模型越用越“长智”",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-08",
+        "published_date": "Mon, 08 Dec 2025 11:33:00 GMT",
+        "first_seen": "2025-12-08T05:26:14.846289"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2025-12-07T23:21:15.393667",
-    "Finance": "2025-12-07T23:21:15.213144",
-    "Ai": "2025-12-07T23:21:15.337581"
+    "Technology": "2025-12-08T05:26:14.938242",
+    "Finance": "2025-12-08T05:26:14.724198",
+    "Ai": "2025-12-08T05:26:14.846292"
   }
 }

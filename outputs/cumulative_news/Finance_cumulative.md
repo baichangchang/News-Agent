@@ -1,7 +1,38 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-07 23:21
+**最后更新时间**: 2025-12-08 05:26
+
+---
+
+## 🆕 最新更新 (2025-12-08 05:26)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [U.S. stock futures flat as investors await Fed meeting — and likely rate cut](https://www.marketwatch.com/story/u-s-stock-futures-flat-as-investors-await-fed-meeting-and-likely-a-rate-cut-ecf9f5bc?mod=mw_rss_topstories)
+**发布时间**: 2025-12-08 04:04
+
+#### [Trump says Netflix’s huge deal for Warner Bros. ‘could be a problem’](https://www.marketwatch.com/story/trump-says-netflixs-huge-deal-for-warner-bros-could-be-a-problem-7ac93e46?mod=mw_rss_topstories)
+**发布时间**: 2025-12-08 01:54
+
+#### [Do I have a right to my late father’s multimillion-dollar real-estate empire? My mom claims they’re mired in debt.](https://www.marketwatch.com/story/does-my-friend-have-a-right-to-her-late-fathers-multimillion-dollar-property-portfolio-his-widow-claims-theyre-mired-in-debt-faf2770c?mod=mw_rss_topstories)
+**发布时间**: 2025-12-08 01:30
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [China’s trade surplus tops $1tn for first time](https://www.ft.com/content/b9bf3d8f-d5d2-47b7-a498-efe0641cbbab)
+**发布时间**: 2025-12-08 03:56
+
+#### [Thailand strikes Cambodia as Trump-backed truce collapses](https://www.ft.com/content/d1e5934f-1305-41f5-93e9-faad77f13f54)
+**发布时间**: 2025-12-08 03:53
+
+#### [Trump says Netflix market share ‘could be a problem’ for $83bn Warner deal](https://www.ft.com/content/443baf96-75cf-46a4-b69b-df9b47792676)
+**发布时间**: 2025-12-08 01:36
+
+#### [Atlantic Bastion: the UK’s response to Russia’s submarine threat](https://www.ft.com/content/d8033706-c4dc-489b-b44b-d79d717070a9)
+**发布时间**: 2025-12-08 00:01
+
+#### [Britain’s grid overhaul means hundreds of energy projects unable to connect this decade](https://www.ft.com/content/99132eae-4255-499a-81a1-f5fade37562e)
+**发布时间**: 2025-12-08 00:01
 
 ---
 
