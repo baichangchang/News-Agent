@@ -1,7 +1,38 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-08 23:22
+**最后更新时间**: 2025-12-09 05:23
+
+---
+
+## 🆕 最新更新 (2025-12-09 05:23)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Elon Musk suggests this underrated AI business could be a big driver of SpaceX’s valuation](https://www.marketwatch.com/story/musk-suggests-this-underrated-ai-business-could-be-a-big-driver-of-spacexs-valuation-059c189f?mod=mw_rss_topstories)
+**发布时间**: 2025-12-09 03:10
+
+#### [Your estate plan needs to be absolutely airtight. Here’s how to avoid mistakes.](https://www.marketwatch.com/story/how-to-stress-test-your-estate-plan-to-make-sure-its-airtight-e114c0a7?mod=mw_rss_topstories)
+**发布时间**: 2025-12-09 02:08
+
+#### [Investors’ bearishness is often overdone — but their market bubble fears may be spot-on](https://www.marketwatch.com/story/investors-bearishness-is-often-overdone-but-their-bubble-fears-may-be-spot-on-1bb9f876?mod=mw_rss_topstories)
+**发布时间**: 2025-12-09 01:59
+
+#### [My mother is selling my late father’s multimillion-dollar California real-estate portfolio — must I stand idly by?](https://www.marketwatch.com/story/does-my-friend-have-a-right-to-her-late-fathers-multimillion-dollar-property-portfolio-his-widow-claims-theyre-mired-in-debt-faf2770c?mod=mw_rss_topstories)
+**发布时间**: 2025-12-09 01:03
+
+#### [‘I’m desperately trying to do right by everyone’: I’m giving my son $250K and my daughter 50% of a rental we co-own. Is that fair?](https://www.marketwatch.com/story/im-desperately-trying-to-do-right-by-everyone-im-giving-my-son-250k-and-my-daughter-50-of-a-property-is-that-fair-1dde6024?mod=mw_rss_topstories)
+**发布时间**: 2025-12-09 00:54
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Flight chaos brings India’s biggest airline back to earth](https://www.ft.com/content/e3f7bb02-37a6-4ef9-ba6a-6b62d115179e)
+**发布时间**: 2025-12-09 00:59
+
+#### [UK should boost tourism in offshore tax havens, says government adviser](https://www.ft.com/content/e31bfb74-6322-45f4-82a8-22ae7898b294)
+**发布时间**: 2025-12-08 22:54
+
+#### [Inside Paramount’s $108bn hostile bid for Warner Bros](https://www.ft.com/content/e5da7064-3a46-4bab-9a6c-12ae03eead16)
+**发布时间**: 2025-12-08 21:13
 
 ---
 
