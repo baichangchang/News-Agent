@@ -1,7 +1,74 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-09 08:39
+**最后更新时间**: 2025-12-09 23:22
+
+---
+
+## 🆕 最新更新 (2025-12-09 23:22)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Standard Chartered is finally slashing its bitcoin price target by half. Here’s why.](https://www.marketwatch.com/story/standard-chartered-is-finally-slashing-its-bitcoin-target-by-half-heres-why-3e7c726b?mod=mw_rss_topstories)
+**发布时间**: 2025-12-09 23:14
+
+#### [Cracker Barrel backtracked on a remodel and logo change. Did that help the company?](https://www.marketwatch.com/story/cracker-barrel-backtracked-on-a-remodel-and-logo-change-did-that-help-the-company-7a42140d?mod=mw_rss_topstories)
+**发布时间**: 2025-12-09 22:56
+
+#### [‘It’s a perilous choice’: I’ve been offered a part-time job. Do I file for Social Security at 67 or 70?](https://www.marketwatch.com/story/its-a-perilous-choice-ive-been-offered-a-part-time-job-do-i-file-for-social-security-at-67-or-70-8e1ae6d3?mod=mw_rss_topstories)
+**发布时间**: 2025-12-09 22:22
+
+#### [The maid of honor approved my bridesmaid dress months ago. Now she says it’s ‘too bright.’ Do I have to buy a new one?](https://www.marketwatch.com/story/the-maid-of-honor-approved-my-bridesmaids-dress-but-now-wants-me-to-buy-a-new-one-what-should-i-do-a36eea34?mod=mw_rss_topstories)
+**发布时间**: 2025-12-09 21:55
+
+#### [GameStop’s bitcoin holdings — and sales — slide](https://www.marketwatch.com/story/gamestops-bitcoin-holdings-and-sales-slide-b9ce88cc?mod=mw_rss_topstories)
+**发布时间**: 2025-12-09 21:47
+
+#### [Can Adobe’s ‘incredibly frustrating stock’ turn around after earnings? Wall Street is doubtful.](https://www.marketwatch.com/story/can-adobes-incredibly-frustrating-stock-turn-around-after-earnings-wall-street-is-doubtful-ce0db7eb?mod=mw_rss_topstories)
+**发布时间**: 2025-12-09 21:02
+
+#### [Move over, AI — these brand-name stocks promise more bang for your buck](https://www.marketwatch.com/story/ai-stocks-are-flashing-code-red-insiders-at-these-familiar-companies-are-seeing-green-834fa86f?mod=mw_rss_topstories)
+**发布时间**: 2025-12-09 20:59
+
+#### [‘Where are we vulnerable?’ My husband and I are in our 50s. Our $450K mortgage is paid off. We have $500K in IRAs.](https://www.marketwatch.com/story/where-are-we-vulnerable-my-husband-and-i-are-in-our-50s-our-450k-mortgage-is-paid-off-we-have-500k-in-iras-5b5741a6?mod=mw_rss_topstories)
+**发布时间**: 2025-12-09 20:33
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Channel 4 raids Sky for new chief executive](https://www.ft.com/content/4c1f5ee6-4264-4f13-b618-43524e34fc69)
+**发布时间**: 2025-12-09 21:59
+
+#### [Donald Trump to pit Kevin Hassett against trio of Fed chair finalists](https://www.ft.com/content/307ce3c1-65ee-4d1f-b74a-2f3fdacab175)
+**发布时间**: 2025-12-09 21:55
+
+#### [Rise in US job openings offers hope of labour market stabilisation](https://www.ft.com/content/88f08006-eba1-411f-a571-3629b010e18b)
+**发布时间**: 2025-12-09 21:45
+
+#### [Starmer came into power promising action — but change is taking longer than his MPs expected](https://www.ft.com/content/368f90c1-1f6a-46c4-9a2f-c2c4ef768004)
+**发布时间**: 2025-12-09 19:37
+
+#### [Ukraine strikes deal to restructure $2.6bn of growth-linked debt](https://www.ft.com/content/bae2c449-7fc7-45d8-b86d-81534858144c)
+**发布时间**: 2025-12-09 18:09
+
+#### [Trump gives Zelenskyy ‘days’ to respond to peace proposal](https://www.ft.com/content/ea36e244-4b2d-486e-881d-af7e1c25094a)
+**发布时间**: 2025-12-09 17:52
+
+#### [Why the world should worry about stablecoins](https://www.ft.com/content/a5f4b737-215f-4e40-b6e8-0c3ade7e9a30)
+**发布时间**: 2025-12-09 17:30
+
+#### [Badenoch cites Brexit as ‘shock’ to UK](https://www.ft.com/content/d3581bbe-98c6-4451-a7d9-c7c36b49d782)
+**发布时间**: 2025-12-09 17:12
+
+#### [Tighter visa rules will cost UK up to £10.8bn](https://www.ft.com/content/2b6077ab-8b95-4957-92e9-45f5cf705fb5)
+**发布时间**: 2025-12-09 15:59
+
+#### [Is it a bubble?](https://www.ft.com/content/353eda37-33b0-4d30-a912-a07607e278b8)
+**发布时间**: 2025-12-09 15:00
+
+#### [What would an Angela Rayner government look like?](https://www.ft.com/content/3e2b8211-fb0e-4c58-8a1e-27b1fe9a3fc4)
+**发布时间**: 2025-12-09 05:00
+
+#### [UK employers less likely to disclose salary or offer perks amid hiring slump](https://www.ft.com/content/e951e41d-54bb-45b9-845d-738a3f80d6fd)
+**发布时间**: 2025-12-09 00:01
 
 ---
 
