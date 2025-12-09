@@ -1,7 +1,36 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-09 05:23
+**最后更新时间**: 2025-12-09 08:39
+
+---
+
+## 🆕 最新更新 (2025-12-09 08:39)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Watching Netflix makes stocks go down: study](https://www.ft.com/content/eb50b7d9-1890-4c2b-bad2-649262c69f01)
+**发布时间**: 2025-12-09 06:00
+
+#### [Russia’s hybrid warfare puts Europe to the test](https://www.ft.com/content/2084e87d-d491-4852-8449-f90b73d4788b)
+**发布时间**: 2025-12-09 05:00
+
+#### [Why Britain doesn’t have enough dentists](https://www.ft.com/content/f4e594f4-77c1-4c61-96ea-919c85b7af49)
+**发布时间**: 2025-12-09 05:00
+
+#### [The significance of the next Fed chair choice](https://www.ft.com/content/17ec3d64-ee48-43ba-bad5-6682f3962915)
+**发布时间**: 2025-12-09 05:00
+
+#### [Revolut offers former staff chance to cash out at 30% discount](https://www.ft.com/content/f33bc698-7c83-47a6-a601-d0501ba9fb53)
+**发布时间**: 2025-12-09 05:00
+
+#### [Boaz Weinstein’s $2bn flagship hedge fund sinks amid buoyant markets](https://www.ft.com/content/698521eb-4b0c-40b6-a49e-8358e05d5f64)
+**发布时间**: 2025-12-09 05:00
+
+#### [City of London explores outside investment for housing projects](https://www.ft.com/content/97dabda4-b118-4d34-97b5-9245b2afbf4c)
+**发布时间**: 2025-12-09 05:00
+
+#### [China’s open-source AI is a national advantage](https://www.ft.com/content/b1f92b0e-d6ef-4c95-b51e-7bcf90c8a65f)
+**发布时间**: 2025-12-09 01:00
 
 ---
 

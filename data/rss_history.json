@@ -1,12 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "1bc5657f22ab0ee464401c8883c9c9ad83b7d767d5bbbe51775c3d7db41a39c3": {
-        "title": "大厂AI新战场：AQ狂飙，蚂蚁押注大健康赛道",
-        "link": "https://www.qbitai.com/2025/11/350413.html",
-        "published_date": "Sun, 09 Nov 2025 07:47:00 GMT",
-        "first_seen": "2025-11-09T08:23:37.715081"
-      },
       "139eb1a2c3412974542b308d394ae0468687af98bd7ebb62e1bee7f1de561a6f": {
         "title": "刘强东入局换电：京东5万开卖“网约车神车”，88秒补能500km，首发华为“云车机”",
         "link": "https://www.qbitai.com/2025/11/350774.html",
@@ -1287,24 +1281,6 @@
       }
     },
     "Technology": {
-      "8104fea6881c3aa0d3f2b0e077bfabc2d4bddb94620029d068686c56efb6e811": {
-        "title": "2025乌镇峰会：蚂蚁已部署万卡规模国产算力群，全面应用于安全及风控",
-        "link": "https://www.infoq.cn/article/j8pX6cXYHoVhudtRoV6t?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 09 Nov 2025 14:46:00 GMT",
-        "first_seen": "2025-11-09T08:23:37.784557"
-      },
-      "ed957060959aa4facf4ea02de944fa47b8401c51d7525122a8dba45b5c2732a7": {
-        "title": "一半文书交给 AI 后，我重新理解了「法律工具」",
-        "link": "https://sspai.com/post/103187",
-        "published_date": "Sun, 09 Nov 2025 14:16:00 GMT",
-        "first_seen": "2025-11-09T08:23:37.784707"
-      },
-      "49dee950ff753630cfc1ed7a4b73ab76cb4138dbab98a3429b721f2a0b03c12f": {
-        "title": "AI高渗透下的薪酬管理",
-        "link": "https://www.tmtpost.com/7755537.html",
-        "published_date": "Sun, 09 Nov 2025 13:28:00 GMT",
-        "first_seen": "2025-11-09T08:23:37.784832"
-      },
       "2d628149e736cceae58baba0f46b971d0f6e2d868782c27d17aab920ebf885bb": {
         "title": "Cloudflare 用 Rust 重写核心系统：CDN 性能提升 25%，响应时间缩短 10 毫秒",
         "link": "https://www.infoq.cn/article/iqGVY7r2y27H7r1Hf1z1?utm_source=rss&utm_medium=article",
@@ -12512,6 +12488,114 @@
         "link": "http://www.huxiu.com/article/4794997.html?f=wangzhan",
         "published_date": "Tue, 09 Dec 2025 07:25:00 GMT",
         "first_seen": "2025-12-09T05:23:39.310730"
+      },
+      "dff9fa3da76d68d9cfe401773aca58e690ed994633695905290c10478fdd70b1": {
+        "title": "出海驱动的APP增量市场，企业如何利用AI做好营销？",
+        "link": "https://www.tmtpost.com/7802779.html",
+        "published_date": "Tue, 09 Dec 2025 16:23:00 GMT",
+        "first_seen": "2025-12-09T08:39:26.690195"
+      },
+      "80d6f1e5b4bb05989a7c8d2484fba10b28b6fb30b2fd71ce034c3930b84a0120": {
+        "title": "AI PC蜕变，端侧AI场景涌现，生态建设成“决胜手”丨ToB产业观察",
+        "link": "https://www.tmtpost.com/7802153.html",
+        "published_date": "Tue, 09 Dec 2025 16:23:00 GMT",
+        "first_seen": "2025-12-09T08:39:26.690203"
+      },
+      "ba01fc10b5678bce496dc09434a63d7bab0a86790c6670f6a902b5c7de24f0f0": {
+        "title": "年底的文旅资本市场，开始“冲业绩”了",
+        "link": "https://www.tmtpost.com/7802410.html",
+        "published_date": "Tue, 09 Dec 2025 15:37:00 GMT",
+        "first_seen": "2025-12-09T08:39:26.690206"
+      },
+      "8bc9e5f1f5ea4004f76de479eb6dc27405656915d5a943da340f08d543a68096": {
+        "title": "猛士汽车有了华为，越野开始不讲武德了？",
+        "link": "https://www.tmtpost.com/7802707.html",
+        "published_date": "Tue, 09 Dec 2025 15:09:00 GMT",
+        "first_seen": "2025-12-09T08:39:26.690208"
+      },
+      "e5c100136a93c1c0a8e261e9b23e0ac80ee24338d14cf31f8c62f8aa6c0d6196": {
+        "title": "The 2025 T-EDGE：A Feast of Ideas Dedicated to the AI Era",
+        "link": "https://www.tmtpost.com/7802780.html",
+        "published_date": "Tue, 09 Dec 2025 14:37:00 GMT",
+        "first_seen": "2025-12-09T08:39:26.690210"
+      },
+      "7d47e5f78452eb153762c0f5ba3113d24cbe799e7f42c772ad6d9f2d882a312a": {
+        "title": "2025饮料新品TOP100：元气森林、农夫山泉、康师傅、统一激战新品、乳饮退潮谁来补位？",
+        "link": "https://www.tmtpost.com/7802195.html",
+        "published_date": "Tue, 09 Dec 2025 14:11:00 GMT",
+        "first_seen": "2025-12-09T08:39:26.690212"
+      },
+      "a7ab6b50c8152f19bc954445ce633adc8878b30a587110ac0cac5af1e16fd848": {
+        "title": "2025年底越南数字经济规模将达到390亿美元；TEMU在欧洲推出Y2新模式；菜鸟100%控股跨境物流商递四方｜一周出海参考",
+        "link": "https://www.tmtpost.com/7789567.html",
+        "published_date": "Tue, 09 Dec 2025 13:48:00 GMT",
+        "first_seen": "2025-12-09T08:39:26.690213"
+      },
+      "f7752d3678e30aa046fea76d7c859556de97973f75d5b48892ae73e2ad9d21f9": {
+        "title": "日本计划对跨境电商平台征收消费税；TikTok Shop美国黑五GMV突破5亿美元；微信支付落地卡塔尔｜一周出海参考",
+        "link": "https://www.tmtpost.com/7801116.html",
+        "published_date": "Tue, 09 Dec 2025 13:46:00 GMT",
+        "first_seen": "2025-12-09T08:39:26.690215"
+      },
+      "b3eaa190f9dd4b047c3bfa933201485f9fc8c28e3ee8edb323525c686feffd35": {
+        "title": "儿童饮料，一门持久而暴利的生意？",
+        "link": "https://www.tmtpost.com/7802417.html",
+        "published_date": "Tue, 09 Dec 2025 13:17:00 GMT",
+        "first_seen": "2025-12-09T08:39:26.690216"
+      },
+      "b68c01c8ea37591e4e11ac1dfca80e2e660a54afab6e96801c4b969b4e6d3303": {
+        "title": "“基荷电力”将在2026年迎来大发展，这5只股票有望获益",
+        "link": "https://www.tmtpost.com/7802642.html",
+        "published_date": "Tue, 09 Dec 2025 12:55:00 GMT",
+        "first_seen": "2025-12-09T08:39:26.690218"
+      },
+      "3a450a980d7bcc273ed81fd6aca01bb6bca41e93c6009aaf605367a640b295e9": {
+        "title": "科技领域需要（有选择性的）谨慎：三只技术面看跌的股票",
+        "link": "https://www.tmtpost.com/7802640.html",
+        "published_date": "Tue, 09 Dec 2025 12:55:00 GMT",
+        "first_seen": "2025-12-09T08:39:26.690220"
+      },
+      "4a7a57503ace1fb71553b2d9d24e694a7e1416b66fa00037e94df9ef6c3bd3e3": {
+        "title": "人工智能推动了市场的上涨，这些板块有望继续增长",
+        "link": "https://www.tmtpost.com/7802638.html",
+        "published_date": "Tue, 09 Dec 2025 12:54:00 GMT",
+        "first_seen": "2025-12-09T08:39:26.690221"
+      },
+      "1752b8b35cc5a1fcc84fbb8d5f0a8d1c2c51b3f9e2bb3c21529d6ad3cceda703": {
+        "title": "总额超六百亿！中国中冶拟出售中冶置业、中冶铜锌等资产；哈尔滨汽车零部件龙头拟收购玖星精密控制权；【并购一线】",
+        "link": "https://www.tmtpost.com/7802401.html",
+        "published_date": "Tue, 09 Dec 2025 11:00:00 GMT",
+        "first_seen": "2025-12-09T08:39:26.690223"
+      },
+      "d8cdf6b7eabcf0bf58ec91abd4ea6eb7fe660e3465529767e7b225bfea124b27": {
+        "title": "10只比债券更有吸引力的分红股票",
+        "link": "https://www.tmtpost.com/7802371.html",
+        "published_date": "Tue, 09 Dec 2025 10:41:00 GMT",
+        "first_seen": "2025-12-09T08:39:26.690225"
+      },
+      "0cfa597ed350df2166df922edfcb6645a924e472d8bc64c3375615c867ff9e61": {
+        "title": "从“套壳中国大模型”到加速自研！Cursor Composer大模型首次揭秘：极速代码Agent如何对标GPT-5.1 Codex，实现生成效率快4倍",
+        "link": "https://www.infoq.cn/article/dx2WMVWo0OZNvefB8m26?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 09 Dec 2025 16:21:00 GMT",
+        "first_seen": "2025-12-09T08:39:26.690226"
+      },
+      "86d46fc1326cfa3a7ac7bf28415bba688053e035fd2ff8eef3a820d095858c16": {
+        "title": "刚刚，DeepSeek梁文锋入选Nature年度十大科学人物：被誉为“科技颠覆者”！",
+        "link": "https://www.infoq.cn/article/TSFyx0djS4RbQJVXeEty?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 09 Dec 2025 15:43:00 GMT",
+        "first_seen": "2025-12-09T08:39:26.690228"
+      },
+      "e4547dd7424c280a14cc064f35ca5532e3ba86a971f00850704e3937d8691c40": {
+        "title": "摩尔线程放大招？新一代 GPU 架构即将揭晓",
+        "link": "https://www.infoq.cn/article/P4kfSIpdRG5grumbDZWH?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 09 Dec 2025 14:54:00 GMT",
+        "first_seen": "2025-12-09T08:39:26.690230"
+      },
+      "edff0197d7504ce56872de7392a637dfeb211c572ab2d923e00792e65360ad55": {
+        "title": "极客公园创新大会 2026 在京落幕，罗永浩、张楠、何小鹏、刘靖康等共议 AI 时代「进程由我」",
+        "link": "http://www.geekpark.net/news/357802",
+        "published_date": "Tue, 09 Dec 2025 14:53:00 GMT",
+        "first_seen": "2025-12-09T08:39:26.690231"
       }
     },
     "Finance": {
@@ -14110,6 +14194,12 @@
         "link": "https://www.ft.com/content/e3f7bb02-37a6-4ef9-ba6a-6b62d115179e",
         "published_date": "Tue, 09 Dec 2025 00:59:00 GMT",
         "first_seen": "2025-12-09T05:23:39.083925"
+      },
+      "97ab9973116b46e1ecec9e50f3eee5c245bb3d620a8ad9aec39d8e2245fff1ff": {
+        "title": "Watching Netflix makes stocks go down: study",
+        "link": "https://www.ft.com/content/eb50b7d9-1890-4c2b-bad2-649262c69f01",
+        "published_date": "Tue, 09 Dec 2025 06:00:00 GMT",
+        "first_seen": "2025-12-09T08:39:26.475110"
       }
     },
     "Ai": {
@@ -15204,13 +15294,19 @@
         "link": "https://www.qbitai.com/2025/12/359753.html",
         "published_date": "Tue, 09 Dec 2025 00:26:00 GMT",
         "first_seen": "2025-12-09T05:23:39.208697"
+      },
+      "a30a7dd9cdfe53348299d292486514655503fcaa55e5da44cb886d1baaf57aa7": {
+        "title": "论文自动变漫画PPT！Nano Banana同款用秘塔免费生成，还有一对一语音讲解",
+        "link": "https://www.qbitai.com/2025/12/359845.html",
+        "published_date": "Tue, 09 Dec 2025 07:43:00 GMT",
+        "first_seen": "2025-12-09T08:39:26.600280"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2025-12-09T05:23:39.310732",
-    "Finance": "2025-12-09T05:23:39.083927",
-    "Ai": "2025-12-09T05:23:39.208699"
+    "Technology": "2025-12-09T08:39:26.690233",
+    "Finance": "2025-12-09T08:39:26.475121",
+    "Ai": "2025-12-09T08:39:26.600287"
   }
 }
