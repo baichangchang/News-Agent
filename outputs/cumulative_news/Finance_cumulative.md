@@ -1,7 +1,15 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-10 05:25
+**最后更新时间**: 2025-12-10 08:33
+
+---
+
+## 🆕 最新更新 (2025-12-10 08:33)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Biotech rally mints huge profits for hedge funds](https://www.ft.com/content/b3cab315-6ef8-4e8f-9610-6bf6005ca4b7)
+**发布时间**: 2025-12-10 05:00
 
 ---
 
