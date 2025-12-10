@@ -1,7 +1,74 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-10 08:33
+**最后更新时间**: 2025-12-10 23:25
+
+---
+
+## 🆕 最新更新 (2025-12-10 23:25)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [This longer-term mortgage won’t make housing affordable — and could wreck your retirement](https://www.marketwatch.com/story/a-50-year-mortgage-wont-make-housing-cheaper-and-could-even-wreck-your-retirement-c4982756?mod=mw_rss_topstories)
+**发布时间**: 2025-12-10 23:23
+
+#### [Americans are facing a growing healthcare crisis — and your medicines are at risk](https://www.marketwatch.com/story/theres-a-growing-healthcare-crisis-in-the-u-s-and-its-sitting-in-your-medicine-cabinet-cd5c9596?mod=mw_rss_topstories)
+**发布时间**: 2025-12-10 23:18
+
+#### [My mother-in-law, 81, is guilting us into paying for her ‘bucket list’ trip to Italy. Do we say no?](https://www.marketwatch.com/story/my-mother-in-law-81-is-guilting-us-to-pay-for-her-bucket-list-trip-to-italy-do-we-say-no-f8187c1a?mod=mw_rss_topstories)
+**发布时间**: 2025-12-10 23:14
+
+#### [Oracle’s mixed earnings fail to dispel AI fears, and the stock falls](https://www.marketwatch.com/story/oracles-mixed-earnings-fail-to-dispel-ai-fears-and-the-stock-falls-5533a383?mod=mw_rss_topstories)
+**发布时间**: 2025-12-10 22:56
+
+#### [Adobe’s AI-driven earnings beat is not enough to boost the stock](https://www.marketwatch.com/story/adobes-ai-driven-earnings-beat-is-not-enough-to-boost-the-stock-3031b9ff?mod=mw_rss_topstories)
+**发布时间**: 2025-12-10 22:36
+
+#### [Carvana’s stock zooms to record, longest winning run as S&P 500 inclusion is within sight](https://www.marketwatch.com/story/carvanas-stock-zooms-to-longest-winning-run-on-record-as-s-p-500-inclusion-is-within-sight-1b678f9a?mod=mw_rss_topstories)
+**发布时间**: 2025-12-10 22:21
+
+#### [The Fed cut rates. Biotech didn’t notice.](https://www.marketwatch.com/story/the-fed-cut-rates-biotech-didnt-notice-c80d6353?mod=mw_rss_topstories)
+**发布时间**: 2025-12-10 22:06
+
+#### [GE Vernova is riding the electrification wave, and the stock sees a record rally](https://www.marketwatch.com/story/ge-vernova-is-riding-the-electrification-wave-and-the-stock-soars-to-a-record-2566262a?mod=mw_rss_topstories)
+**发布时间**: 2025-12-10 21:54
+
+#### [Dow gains almost 500 points, S&P 500 ends shy of record high after Fed’s final rate cut of 2025 bolsters case for early start to ‘Santa Claus rally’](https://www.marketwatch.com/story/dow-gains-almost-500-points-s-p-500-ends-shy-of-record-high-after-feds-final-rate-cut-of-2025-bolsters-case-for-early-start-to-santa-claus-rally-53c15858?mod=mw_rss_topstories)
+**发布时间**: 2025-12-10 21:52
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Fed to launch $40bn debt-buying scheme after money market strains](https://www.ft.com/content/6a04be70-6d05-4f03-b4c7-39ceae52bb64)
+**发布时间**: 2025-12-10 23:10
+
+#### [Venezuela opposition leader breaks cover to travel but misses Nobel ceremony](https://www.ft.com/content/ca4af9ad-8144-48fb-a63f-70091ec4d0be)
+**发布时间**: 2025-12-10 22:22
+
+#### [Fed cuts rates to three-year low after fractious meeting](https://www.ft.com/content/86872584-c844-4d71-af16-60157c1585ec)
+**发布时间**: 2025-12-10 21:48
+
+#### [US seizes oil tanker off coast of Venezuela, says Trump](https://www.ft.com/content/1f0627d0-a9c4-48d7-9a13-307bc59dea66)
+**发布时间**: 2025-12-10 21:45
+
+#### [CVC creates president role as private equity firm prepares for succession](https://www.ft.com/content/b42ff760-bae4-4d33-950b-ea46a404e462)
+**发布时间**: 2025-12-10 21:41
+
+#### [UK government suffers fresh setback to flagship workers’ rights legislation](https://www.ft.com/content/372a93ab-4ee8-4be5-aaa3-14c182227f8f)
+**发布时间**: 2025-12-10 20:58
+
+#### [Paramount’s Warner Bros bid draws Gulf investors into rare alliance](https://www.ft.com/content/df1632c1-a5ca-4600-9785-467dbcb63335)
+**发布时间**: 2025-12-10 20:45
+
+#### [Iceland boss included in 25 new Labour peers](https://www.ft.com/content/4d0a3e9d-88cd-47d7-bf22-b46d6d00e77d)
+**发布时间**: 2025-12-10 19:02
+
+#### [Leon heads for administration as co-founder plans to cut jobs and outlets](https://www.ft.com/content/7202090f-da6d-43c7-b164-df79b2111859)
+**发布时间**: 2025-12-10 17:25
+
+#### [Singapore’s latest antisocial scourge is pickleball](https://www.ft.com/content/e0d8801b-e8f6-4b58-9d2d-814469f358fe)
+**发布时间**: 2025-12-10 14:40
+
+#### [The clash within civilisations](https://www.ft.com/content/1ed6da0b-a922-4206-bd0f-63af5cc10354)
+**发布时间**: 2025-12-10 12:23
 
 ---
 
