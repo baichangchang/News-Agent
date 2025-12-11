@@ -1,7 +1,71 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-11 08:33
+**最后更新时间**: 2025-12-11 23:27
+
+---
+
+## 🆕 最新更新 (2025-12-11 23:27)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘This seems absolutely insane’: Our children pay rent on our investment properties. Our lawyer says they should still buy us out.](https://www.marketwatch.com/story/this-seems-absolutely-insane-our-children-pay-rent-on-our-investment-properties-our-lawyer-says-they-should-still-buy-us-out-49d2707d?mod=mw_rss_topstories)
+**发布时间**: 2025-12-11 23:15
+
+#### [OpenAI strikes back in the chatbot race against Google](https://www.marketwatch.com/story/openai-strikes-back-in-the-chatbot-race-against-google-1551d759?mod=mw_rss_topstories)
+**发布时间**: 2025-12-11 22:59
+
+#### [Why Michigan’s Sherrone Moore probably won’t get paid the millions left on his contract — unlike other recently fired college football coaches](https://www.marketwatch.com/story/why-michigans-sherrone-moore-probably-wont-get-paid-the-millions-left-on-his-contract-unlike-other-recently-fired-college-football-coaches-c7c77927?mod=mw_rss_topstories)
+**发布时间**: 2025-12-11 22:57
+
+#### [Mortgage rates have fallen under Trump. Here’s what that really means for home buyers.](https://www.marketwatch.com/story/mortgage-rates-have-fallen-under-trump-heres-what-that-really-means-for-home-buyers-6473ccfd?mod=mw_rss_topstories)
+**发布时间**: 2025-12-11 22:42
+
+#### [‘January effect’ arrives early as small caps are roaring past the Dow and S&P 500](https://www.marketwatch.com/story/the-dow-and-s-p-500-are-soaring-but-this-unloved-stock-index-is-absolutely-roaring-bc5d7fda?mod=mw_rss_topstories)
+**发布时间**: 2025-12-11 22:41
+
+#### [Costco’s profits are rising. But what about its sales?](https://www.marketwatch.com/story/costcos-profits-are-rising-but-what-about-its-sales-22825e07?mod=mw_rss_topstories)
+**发布时间**: 2025-12-11 22:34
+
+#### [Lululemon CEO joins the ranks of departing retail executives after tumultuous year at the athleisure company](https://www.marketwatch.com/story/lululemon-ceo-joins-the-ranks-of-departing-retail-executives-after-tumultuous-year-at-the-athleisure-company-577864b6?mod=mw_rss_topstories)
+**发布时间**: 2025-12-11 22:24
+
+#### [The Fed cut rates, but bitcoin didn’t budge. What gives?](https://www.marketwatch.com/story/the-fed-cut-rates-but-bitcoin-didnt-budge-what-gives-f346ad58?mod=mw_rss_topstories)
+**发布时间**: 2025-12-11 22:20
+
+#### [Investors fear Time just jinxed the AI stock-market rally with its 2025 Person of the Year](https://www.marketwatch.com/story/investors-fear-time-just-jinxed-the-ai-stock-market-rally-with-its-2025-person-of-the-year-fa37211b?mod=mw_rss_topstories)
+**发布时间**: 2025-12-11 22:16
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Fed reappoints regional chiefs in move that allays Trump challenge fears](https://www.ft.com/content/6b1f7439-f11a-4b7e-9250-3369497d4877)
+**发布时间**: 2025-12-11 22:46
+
+#### [Trump pushes for ‘free economic zone’ in Donbas, says Zelenskyy](https://www.ft.com/content/746f1c06-6dbb-4ae2-86a4-916acbfdecf2)
+**发布时间**: 2025-12-11 21:41
+
+#### [S&P 500 closes at record high as consumer-led rally blunts Oracle slide](https://www.ft.com/content/e4ae8299-e0a4-4e36-8c8f-d59b22202284)
+**发布时间**: 2025-12-11 21:31
+
+#### [HSBC axes 160-year-old management scheme in bid to cut costs](https://www.ft.com/content/d7a52989-f9da-4947-8c24-47ac1a519254)
+**发布时间**: 2025-12-11 21:00
+
+#### [Marsalek’s missing millions: the unravelling of a secret Libyan empire](https://www.ft.com/content/a2c153ba-b733-480e-991a-9623d40f5bda)
+**发布时间**: 2025-12-11 19:49
+
+#### [Get ready for a spectacular IPO boom from the big beasts of Silicon Valley](https://www.ft.com/content/6f00e8f7-7a23-4c77-8c2c-18294408276f)
+**发布时间**: 2025-12-11 19:12
+
+#### [Eli Lilly shot helped patients lose 29% of body weight](https://www.ft.com/content/51b70635-0fc5-4dd2-b698-14c939f98d93)
+**发布时间**: 2025-12-11 18:51
+
+#### [UK bankers warn on plan to use Russian assets for loans to Ukraine](https://www.ft.com/content/7e90d3be-687c-4348-a663-132576f98086)
+**发布时间**: 2025-12-11 13:00
+
+#### [A Brexit survival strategy that shows Starmer’s days are numbered](https://www.ft.com/content/2d0003db-2c46-4926-9d47-0bd6723a9c9e)
+**发布时间**: 2025-12-11 12:25
+
+#### [EU trims exclusivity window for new drugs](https://www.ft.com/content/3d0f70a5-426a-4ab1-ad8c-fe180a1c5b92)
+**发布时间**: 2025-12-11 12:11
 
 ---
 
