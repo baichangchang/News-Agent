@@ -1,7 +1,35 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-11 23:27
+**最后更新时间**: 2025-12-12 05:25
+
+---
+
+## 🆕 最新更新 (2025-12-12 05:25)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [FT Person of the Year: Jensen Huang](https://www.ft.com/content/11a018f4-95e0-41c2-99d8-aff105328a0b)
+**发布时间**: 2025-12-12 05:00
+
+#### [Is silver the new gold?](https://www.ft.com/content/e753bed7-6a1a-49b8-9289-f5d698b82e4f)
+**发布时间**: 2025-12-12 05:00
+
+#### [Trump takes the culture wars across the Atlantic](https://www.ft.com/content/db1c00d8-1118-474e-8230-c7139b981556)
+**发布时间**: 2025-12-12 05:00
+
+#### [MPs pension scheme makes ‘mockery’ of Reeves investment push](https://www.ft.com/content/2987b782-0a91-4aad-bc59-32a32fc8ae91)
+**发布时间**: 2025-12-12 05:00
+
+#### [Apollo moves fast-growing lending unit out of storied buyout division](https://www.ft.com/content/9a34679e-8dff-425b-aef1-b709ac6230bc)
+**发布时间**: 2025-12-12 05:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Why Broadcom’s stock is falling, even as earnings showed strong AI demand](https://www.marketwatch.com/story/broadcom-earnings-pass-the-test-as-ai-momentum-sends-the-stock-higher-472ab922?mod=mw_rss_topstories)
+**发布时间**: 2025-12-12 01:22
+
+#### [OpenAI strikes back in the chatbot race against Google with new ChatGPT model](https://www.marketwatch.com/story/openai-strikes-back-in-the-chatbot-race-against-google-1551d759?mod=mw_rss_topstories)
+**发布时间**: 2025-12-11 22:59
 
 ---
 
