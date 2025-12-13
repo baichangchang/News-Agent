@@ -1,7 +1,27 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-13 05:24
+**最后更新时间**: 2025-12-13 08:33
+
+---
+
+## 🆕 最新更新 (2025-12-13 08:33)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Could America win the AI race but lose the war?](https://www.ft.com/content/12581344-6e37-45a0-a9d5-e3d6a9f8d9ba)
+**发布时间**: 2025-12-13 05:00
+
+#### [The other kind of migrant](https://www.ft.com/content/d210dbd5-73b5-482c-be04-38d0ff629fff)
+**发布时间**: 2025-12-13 05:00
+
+#### [How redefining special needs rocked education](https://www.ft.com/content/8252a3bf-f3a5-4cbf-baeb-237a8d5b022b)
+**发布时间**: 2025-12-13 05:00
+
+#### [Apollo took bearish software view with bets against corporate debt](https://www.ft.com/content/137bfe82-3e52-418b-9d4f-930978b2532e)
+**发布时间**: 2025-12-13 05:00
+
+#### [Sterling’s slide against euro pushes up cost of continental ski trips](https://www.ft.com/content/4a2befd4-3d18-45ee-b7b4-ab8094fedd4e)
+**发布时间**: 2025-12-13 00:01
 
 ---
 
