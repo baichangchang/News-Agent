@@ -1,7 +1,20 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-12 23:23
+**最后更新时间**: 2025-12-13 05:24
+
+---
+
+## 🆕 最新更新 (2025-12-13 05:24)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [My Taiwanese immigrant friend started working in Walmart for minimum wage and retired with $2 million. What was her secret?](https://www.marketwatch.com/story/my-taiwanese-immigrant-friend-worked-in-walmart-for-minimum-wage-and-retired-at-87-with-2-million-what-was-her-secret-0bf583d6?mod=mw_rss_topstories)
+**发布时间**: 2025-12-12 23:26
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [The twilight of the physical letter](https://www.ft.com/content/fecad9e1-5b32-420c-83ef-1c261241b352)
+**发布时间**: 2025-12-12 18:41
 
 ---
 
