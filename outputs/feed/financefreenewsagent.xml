@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 14 Dec 2025 23:21:00 GMT</pubDate>
-    <lastBuildDate>Sun, 14 Dec 2025 23:21:03 GMT</lastBuildDate>
+    <pubDate>Mon, 15 Dec 2025 05:33:00 GMT</pubDate>
+    <lastBuildDate>Mon, 15 Dec 2025 05:33:23 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,107 +14,91 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>U.S. stock futures little changed ahead of year’s last full week of trading</title>
+      <title>Bitcoin investor plans Caribbean community — with its own court system</title>
+      <link>https://www.ft.com/content/cd171921-a0f5-49d9-a383-41a37e34dbb4</link>
+      <description>&lt;![CDATA[Bitcoin investor plans Caribbean community — with its own court system]]&gt;</description>
+      <pubDate>Mon, 15 Dec 2025 05:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/cd171921-a0f5-49d9-a383-41a37e34dbb4</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Why the ‘stablecoin supercycle’ could rewire banking</title>
+      <link>https://www.ft.com/content/29b419dc-34ec-4411-ac7e-ed8c37a43212</link>
+      <description>&lt;![CDATA[Why the ‘stablecoin supercycle’ could rewire banking]]&gt;</description>
+      <pubDate>Mon, 15 Dec 2025 05:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/29b419dc-34ec-4411-ac7e-ed8c37a43212</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>The four ‘O’s that shape a bubble</title>
+      <link>https://www.ft.com/content/ff72f64b-fc58-4f11-9b75-e30f99031936</link>
+      <description>&lt;![CDATA[The four ‘O’s that shape a bubble]]&gt;</description>
+      <pubDate>Mon, 15 Dec 2025 05:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/ff72f64b-fc58-4f11-9b75-e30f99031936</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Trump assault opens EU rift as leaders split on US strategy</title>
+      <link>https://www.ft.com/content/294c24e6-0647-4ebb-ab08-278061e8fe19</link>
+      <description>&lt;![CDATA[Trump assault opens EU rift as leaders split on US strategy]]&gt;</description>
+      <pubDate>Mon, 15 Dec 2025 05:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/294c24e6-0647-4ebb-ab08-278061e8fe19</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Australia to review gun laws after 15 die in attack on Jewish festival</title>
+      <link>https://www.ft.com/content/c422b9f4-3286-446e-802c-9c75e38d88dd</link>
+      <description>&lt;![CDATA[Australia to review gun laws after 15 die in attack on Jewish festival]]&gt;</description>
+      <pubDate>Mon, 15 Dec 2025 04:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/c422b9f4-3286-446e-802c-9c75e38d88dd</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Hong Kong convicts Jimmy Lai in national security trial</title>
+      <link>https://www.ft.com/content/0aecbfaf-80b8-43c3-bcf0-de6cbffdbf24</link>
+      <description>&lt;![CDATA[Hong Kong convicts Jimmy Lai in national security trial]]&gt;</description>
+      <pubDate>Mon, 15 Dec 2025 04:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/0aecbfaf-80b8-43c3-bcf0-de6cbffdbf24</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Russia is ‘exporting chaos’, new head of Britain’s spy agency MI6 warns</title>
+      <link>https://www.ft.com/content/5cbedc56-b29a-4284-901b-aef5f6853135</link>
+      <description>&lt;![CDATA[Russia is ‘exporting chaos’, new head of Britain’s spy agency MI6 warns]]&gt;</description>
+      <pubDate>Mon, 15 Dec 2025 00:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/5cbedc56-b29a-4284-901b-aef5f6853135</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>UK property asking prices down £2,000 from a year ago</title>
+      <link>https://www.ft.com/content/aee1bd24-c079-4d5d-b0f7-b8176fe70bf4</link>
+      <description>&lt;![CDATA[UK property asking prices down £2,000 from a year ago]]&gt;</description>
+      <pubDate>Mon, 15 Dec 2025 00:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/aee1bd24-c079-4d5d-b0f7-b8176fe70bf4</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>UK plans curb on freeholders blocking broadband cabling in flats</title>
+      <link>https://www.ft.com/content/609f6fce-f89e-4aba-8274-d84a5630e675</link>
+      <description>&lt;![CDATA[UK plans curb on freeholders blocking broadband cabling in flats]]&gt;</description>
+      <pubDate>Mon, 15 Dec 2025 00:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/609f6fce-f89e-4aba-8274-d84a5630e675</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>U.S. stock futures rise ahead of year’s last full week of trading</title>
       <link>https://www.marketwatch.com/story/u-s-stock-futures-little-changed-ahead-of-years-last-full-week-of-trading-58783137?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[U.S. stock futures little changed ahead of year’s last full week of trading]]&gt;</description>
-      <pubDate>Sun, 14 Dec 2025 23:18:00 GMT</pubDate>
+      <description>&lt;![CDATA[U.S. stock futures rise ahead of year’s last full week of trading]]&gt;</description>
+      <pubDate>Mon, 15 Dec 2025 03:54:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.marketwatch.com/story/u-s-stock-futures-little-changed-ahead-of-years-last-full-week-of-trading-58783137?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>The deadline to enroll in Obamacare is Monday if you want coverage to start Jan. 1</title>
-      <link>https://www.marketwatch.com/story/the-deadline-to-enroll-in-obamacare-is-monday-if-you-want-coverage-to-start-jan-1-430041a5?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[The deadline to enroll in Obamacare is Monday if you want coverage to start Jan. 1]]&gt;</description>
-      <pubDate>Sun, 14 Dec 2025 22:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/the-deadline-to-enroll-in-obamacare-is-monday-if-you-want-coverage-to-start-jan-1-430041a5?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Hassett says Trump would have ‘no weight’ on Fed’s decision-making if he’s chair</title>
-      <link>https://www.marketwatch.com/story/hassett-says-trump-would-have-no-weight-on-feds-decision-making-if-hes-chair-8cf59cfb?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Hassett says Trump would have ‘no weight’ on Fed’s decision-making if he’s chair]]&gt;</description>
-      <pubDate>Sun, 14 Dec 2025 21:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/hassett-says-trump-would-have-no-weight-on-feds-decision-making-if-hes-chair-8cf59cfb?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Stocks risk a stir-up in last trading push of the year. Where to put your money.</title>
-      <link>https://www.marketwatch.com/story/stocks-risk-a-stir-up-in-last-trading-push-of-the-year-where-to-put-your-money-ec3792d1?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Stocks risk a stir-up in last trading push of the year. Where to put your money.]]&gt;</description>
-      <pubDate>Sun, 14 Dec 2025 20:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/stocks-risk-a-stir-up-in-last-trading-push-of-the-year-where-to-put-your-money-ec3792d1?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Here’s how to check up on a financial adviser before you invest your money</title>
-      <link>https://www.marketwatch.com/story/investigating-a-financial-adviser-can-keep-you-out-of-trouble-this-free-online-tool-makes-it-easy-8e9b52b5?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Here’s how to check up on a financial adviser before you invest your money]]&gt;</description>
-      <pubDate>Sun, 14 Dec 2025 19:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/investigating-a-financial-adviser-can-keep-you-out-of-trouble-this-free-online-tool-makes-it-easy-8e9b52b5?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Gunmen who killed 15 in Sydney attack on Jewish festival were father and son</title>
-      <link>https://www.ft.com/content/debf26f6-db4a-4913-a4d0-2080f372b17d</link>
-      <description>&lt;![CDATA[Gunmen who killed 15 in Sydney attack on Jewish festival were father and son]]&gt;</description>
-      <pubDate>Sun, 14 Dec 2025 21:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/debf26f6-db4a-4913-a4d0-2080f372b17d</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Ukraine offers to drop Nato membership demands</title>
-      <link>https://www.ft.com/content/c98d24a4-0df3-43dd-a008-56feb0266f45</link>
-      <description>&lt;![CDATA[Ukraine offers to drop Nato membership demands]]&gt;</description>
-      <pubDate>Sun, 14 Dec 2025 21:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/c98d24a4-0df3-43dd-a008-56feb0266f45</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>France tries to delay EU-Mercosur trade deal</title>
-      <link>https://www.ft.com/content/a77bb74e-70c5-40cd-93e5-2f0d99b87aba</link>
-      <description>&lt;![CDATA[France tries to delay EU-Mercosur trade deal]]&gt;</description>
-      <pubDate>Sun, 14 Dec 2025 20:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/a77bb74e-70c5-40cd-93e5-2f0d99b87aba</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>How the EU can make the single market work better</title>
-      <link>https://www.ft.com/content/0ee6b7ae-d782-4483-beb3-b9de8ebc030e</link>
-      <description>&lt;![CDATA[How the EU can make the single market work better]]&gt;</description>
-      <pubDate>Sun, 14 Dec 2025 19:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/0ee6b7ae-d782-4483-beb3-b9de8ebc030e</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Investors seek protection from risk of AI debt bust</title>
-      <link>https://www.ft.com/content/c5f9380e-df86-42a9-a387-a0d5e04ad45f</link>
-      <description>&lt;![CDATA[Investors seek protection from risk of AI debt bust]]&gt;</description>
-      <pubDate>Sun, 14 Dec 2025 18:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/c5f9380e-df86-42a9-a387-a0d5e04ad45f</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Brussels is finally flexing its muscle on Russian assets</title>
-      <link>https://www.ft.com/content/3dc72bb3-df37-4ac2-b167-5599968c29b1</link>
-      <description>&lt;![CDATA[Brussels is finally flexing its muscle on Russian assets]]&gt;</description>
-      <pubDate>Sun, 14 Dec 2025 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/3dc72bb3-df37-4ac2-b167-5599968c29b1</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>The chutzpah of Marjorie Taylor Greene</title>
-      <link>https://www.ft.com/content/21341f2a-b9b6-4227-9f42-aa22765d885c</link>
-      <description>&lt;![CDATA[The chutzpah of Marjorie Taylor Greene]]&gt;</description>
-      <pubDate>Sun, 14 Dec 2025 13:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/21341f2a-b9b6-4227-9f42-aa22765d885c</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>How Warner Bros Discovery’s David Zaslav defied Hollywood — again</title>
-      <link>https://www.ft.com/content/fa72189a-d2b8-4e83-8ff8-f474d493bcf0</link>
-      <description>&lt;![CDATA[How Warner Bros Discovery’s David Zaslav defied Hollywood — again]]&gt;</description>
-      <pubDate>Sun, 14 Dec 2025 11:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/fa72189a-d2b8-4e83-8ff8-f474d493bcf0</guid>
+      <title>Roomba maker iRobot files for bankruptcy, will go private</title>
+      <link>https://www.marketwatch.com/story/roomba-maker-irobot-files-for-bankruptcy-will-go-private-aa2277df?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Roomba maker iRobot files for bankruptcy, will go private]]&gt;</description>
+      <pubDate>Mon, 15 Dec 2025 01:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/roomba-maker-irobot-files-for-bankruptcy-will-go-private-aa2277df?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>
