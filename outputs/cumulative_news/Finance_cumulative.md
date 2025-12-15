@@ -1,7 +1,21 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-15 05:33
+**最后更新时间**: 2025-12-15 08:36
+
+---
+
+## 🆕 最新更新 (2025-12-15 08:36)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [‘Hero’ who tackled Bondi gunman draws global praise](https://www.ft.com/content/f31cfea0-de17-4d83-8b14-92545db5eb44)
+**发布时间**: 2025-12-15 08:05
+
+#### [EY investigated by UK watchdog over Shell audit](https://www.ft.com/content/f96ced7a-6a2f-4204-923b-e0e11e64be15)
+**发布时间**: 2025-12-15 07:35
+
+#### [Bank of England set to cut rates to 3.75% as economic data eases inflation concerns](https://www.ft.com/content/4984194c-d1a6-43cf-9b7f-909943771b40)
+**发布时间**: 2025-12-15 05:00
 
 ---
 
