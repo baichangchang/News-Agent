@@ -1,7 +1,47 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-15 23:23
+**最后更新时间**: 2025-12-16 05:32
+
+---
+
+## 🆕 最新更新 (2025-12-16 05:32)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Global brands seek PE partners to save their China businesses](https://www.ft.com/content/2e66603f-2ec2-4345-ac28-017ae75e99cc)
+**发布时间**: 2025-12-16 05:00
+
+#### [The Trump back channel: how diplomacy works in Washington](https://www.ft.com/content/05bdc758-7d2e-46bc-bba8-f5858e9b3ad7)
+**发布时间**: 2025-12-16 05:00
+
+#### [Do we need a ‘Made by Humans’ label?](https://www.ft.com/content/bab5a9e2-3847-4242-880f-6e1ce4396be1)
+**发布时间**: 2025-12-16 05:00
+
+#### [Mexico’s tariffs on China show the rise of Trump’s trade template](https://www.ft.com/content/0297584e-3fad-4ff4-b326-2bfd82b0859a)
+**发布时间**: 2025-12-16 05:00
+
+#### [Monzo chief pushed out after board rift over growth and IPO plans](https://www.ft.com/content/5aa2f310-d023-441d-97e4-a23ba6ad0874)
+**发布时间**: 2025-12-16 05:00
+
+#### [Shell mergers chief departed after CEO blocked bid for BP](https://www.ft.com/content/2f9a4047-c860-4632-bc55-00d73df4e5b9)
+**发布时间**: 2025-12-16 05:00
+
+#### [Morrisons loses £17mn food fight as chicken tax comes home to roost](https://www.ft.com/content/d8d03e15-5cce-4efa-b007-26351a1e12b5)
+**发布时间**: 2025-12-16 05:00
+
+#### [Trump files $10bn lawsuit against the BBC](https://www.ft.com/content/e2f19150-5f64-4ba8-9d62-4a7c3ee49e73)
+**发布时间**: 2025-12-16 01:44
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Two Fed officials who rarely agree both say inflation will not be a problem going forward](https://www.marketwatch.com/story/two-fed-officials-who-rarely-agree-both-say-inflation-will-not-be-a-problem-going-forward-f5425178?mod=mw_rss_topstories)
+**发布时间**: 2025-12-16 00:56
+
+#### [‘We all have economic jitters’: After the Fed cut rates, should my son buy a $600K house?](https://www.marketwatch.com/story/we-all-have-economic-jitters-after-the-fed-cut-rates-should-my-son-buy-a-600k-house-e97d039b?mod=mw_rss_topstories)
+**发布时间**: 2025-12-16 00:08
+
+#### [2025 was one hell of a year. Consumers should expect more ‘silent pain’ in 2026](https://www.marketwatch.com/story/affordability-is-a-con-job-for-consumers-2025-was-one-hell-of-a-year-what-can-we-learn-from-it-4c99b891?mod=mw_rss_topstories)
+**发布时间**: 2025-12-16 00:07
 
 ---
 
