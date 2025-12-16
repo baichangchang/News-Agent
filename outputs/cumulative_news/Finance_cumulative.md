@@ -1,7 +1,27 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-16 05:32
+**最后更新时间**: 2025-12-16 08:34
+
+---
+
+## 🆕 最新更新 (2025-12-16 08:34)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [UK unemployment rate rises to 5.1%](https://www.ft.com/content/96d2c777-c29b-4d92-a984-59d8b1b753d9)
+**发布时间**: 2025-12-16 08:16
+
+#### [Fewer dolls and pencils: Trump struggles to read America’s cost of living crisis](https://www.ft.com/content/81c27328-9a08-4e58-a0bc-db180462f192)
+**发布时间**: 2025-12-16 05:00
+
+#### [Morrisons loses £17mn VAT fight as court rules rotisserie chickens are hot food](https://www.ft.com/content/d8d03e15-5cce-4efa-b007-26351a1e12b5)
+**发布时间**: 2025-12-16 05:00
+
+#### [US suspends technology deal with the UK](https://www.ft.com/content/afd45e58-5351-4379-8f7e-5788da3d2e20)
+**发布时间**: 2025-12-15 23:57
+
+#### [UK agrees trade deal with South Korea just weeks ahead of deadline](https://www.ft.com/content/22422209-083a-4438-ad5a-12da810448c3)
+**发布时间**: 2025-12-15 22:30
 
 ---
 
