@@ -1,7 +1,68 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-17 08:34
+**最后更新时间**: 2025-12-17 23:22
+
+---
+
+## 🆕 最新更新 (2025-12-17 23:22)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [This chart captures Tesla’s EV sales woes — and things are about to get worse](https://www.marketwatch.com/story/this-chart-captures-teslas-ev-sales-woes-and-things-are-about-to-get-worse-09f1edd4?mod=mw_rss_topstories)
+**发布时间**: 2025-12-17 23:06
+
+#### [You’ve just won the $1.25 billion Powerball jackpot. Here are the 5 money moves you need to make next.](https://www.marketwatch.com/story/5-money-moves-to-make-if-you-win-the-1-4-billion-powerball-jackpot-tonight-or-get-a-similar-financial-windfall-8fe31838?mod=mw_rss_topstories)
+**发布时间**: 2025-12-17 22:39
+
+#### [It’s been illegal to make women have a man co-sign their loans since the ’70s. Now the Trump administration could change that.](https://www.marketwatch.com/story/its-been-illegal-to-make-women-have-a-man-co-sign-their-loans-since-the-70s-now-the-trump-administration-could-change-that-307521b2?mod=mw_rss_topstories)
+**发布时间**: 2025-12-17 22:25
+
+#### [Why Nvidia, Broadcom and other AI stocks are falling sharply](https://www.marketwatch.com/story/why-nvidia-broadcom-and-other-ai-stocks-are-falling-sharply-25d35edd?mod=mw_rss_topstories)
+**发布时间**: 2025-12-17 22:13
+
+#### [Medline’s IPO underscores broad investor appetite for a sleepy corner of the healthcare business](https://www.marketwatch.com/story/medlines-ipo-underscores-broad-investor-appetite-for-a-sleepy-corner-of-the-healthcare-business-fa0dadce?mod=mw_rss_topstories)
+**发布时间**: 2025-12-17 21:43
+
+#### [Micron blows past expectations, and the stock is climbing](https://www.marketwatch.com/story/micron-blows-past-expectations-and-the-stock-is-climbing-d0e2943a?mod=mw_rss_topstories)
+**发布时间**: 2025-12-17 21:36
+
+#### [Flu season is ‘early’ and ‘aggressive’ in New York City. Here’s what that means for the rest of the country.](https://www.marketwatch.com/story/flu-season-is-early-and-aggressive-in-new-york-city-heres-what-that-means-for-the-rest-of-the-country-056cdbbf?mod=mw_rss_topstories)
+**发布时间**: 2025-12-17 21:02
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [BP picks Woodside boss Meg O’Neill as new chief executive](https://www.ft.com/content/802414de-72a1-4db1-9886-f21ccd6cca66)
+**发布时间**: 2025-12-17 22:30
+
+#### [Oracle’s $10bn Michigan data centre in limbo after Blue Owl funding talks stall](https://www.ft.com/content/84c147a4-aabb-4243-8298-11fabf1022a3)
+**发布时间**: 2025-12-17 21:31
+
+#### [US tech stocks slide as Oracle data centre setback reignites AI concerns](https://www.ft.com/content/ce60f74f-ccc8-4bde-bbec-842041ecf8e7)
+**发布时间**: 2025-12-17 21:19
+
+#### [Inside the Paramount-Netflix brawl for WBD: 10 takeaways from new filing](https://www.ft.com/content/aa528df7-1fab-414e-b93d-9480bd67ef21)
+**发布时间**: 2025-12-17 17:57
+
+#### [US defence act passes in rebuke to Trump administration’s stance on Europe](https://www.ft.com/content/9bbfd46c-8fb7-4f31-9014-f88b2a00831f)
+**发布时间**: 2025-12-17 17:43
+
+#### [Putin predicts European ‘swine’ backing Ukraine will lose power](https://www.ft.com/content/52c0b594-d299-4473-a35e-9a9235267d92)
+**发布时间**: 2025-12-17 17:31
+
+#### [Warner Bros board urges investors to reject Paramount’s ‘inferior’ $108bn bid](https://www.ft.com/content/35621088-51bd-48af-b11a-b3ee2eecc21e)
+**发布时间**: 2025-12-17 17:25
+
+#### [Slowing inflation fuels concerns about a cooling UK economy](https://www.ft.com/content/b45f3009-a12c-4a6f-8b26-727202618917)
+**发布时间**: 2025-12-17 17:05
+
+#### [Cinven CEO and CFO step down amid risk of ban over price gouging](https://www.ft.com/content/0968e55f-2701-4c7b-a3ca-70a024368895)
+**发布时间**: 2025-12-17 17:03
+
+#### [Open source could pop the AI bubble — and soon](https://www.ft.com/content/353adf48-a5d6-4ea0-b5d7-9a94b141213a)
+**发布时间**: 2025-12-17 16:56
+
+#### [When business and democracy don’t mix](https://www.ft.com/content/36c23306-6ad4-4d06-bd4f-e5c2e3e51491)
+**发布时间**: 2025-12-17 13:29
 
 ---
 
