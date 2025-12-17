@@ -1,7 +1,15 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-17 05:26
+**最后更新时间**: 2025-12-17 08:34
+
+---
+
+## 🆕 最新更新 (2025-12-17 08:34)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [UK inflation falls more than expected to 3.2% in November](https://www.ft.com/content/8df2d884-f6c7-4f72-89fb-8906292ba08a)
+**发布时间**: 2025-12-17 07:54
 
 ---
 
