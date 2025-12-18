@@ -1,7 +1,41 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-17 23:22
+**最后更新时间**: 2025-12-18 05:31
+
+---
+
+## 🆕 最新更新 (2025-12-18 05:31)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [The coming battle over the EU’s budget shake-up](https://www.ft.com/content/5d46d849-44b1-4d4f-81d4-5a5d86c5baca)
+**发布时间**: 2025-12-18 05:00
+
+#### [The argument Iranians have in private](https://www.ft.com/content/61f7b717-cac5-4edb-847a-044dbacb16c7)
+**发布时间**: 2025-12-18 05:00
+
+#### [Japan’s $580bn hidden asset? In the back of the cupboard](https://www.ft.com/content/40a7158a-dfb9-4ebc-b0b3-816b5a173bbe)
+**发布时间**: 2025-12-18 02:05
+
+#### [BP replaces CEO Murray Auchincloss after less than two years in the role](https://www.ft.com/content/802414de-72a1-4db1-9886-f21ccd6cca66)
+**发布时间**: 2025-12-18 00:45
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Trump announces $1,776 ‘warrior dividend’ for U.S. troops as economic worries persist](https://www.marketwatch.com/story/trump-announces-1-776-warrior-dividend-for-u-s-troops-as-economic-worries-persist-274521dd?mod=mw_rss_topstories)
+**发布时间**: 2025-12-18 03:07
+
+#### [Activist investor Elliott reportedly takes $1 billion stake in Lululemon, eyes new CEO](https://www.marketwatch.com/story/activist-investor-elliott-reportedly-takes-1-billion-stake-in-lululemon-eyes-new-ceo-c1abb334?mod=mw_rss_topstories)
+**发布时间**: 2025-12-18 02:03
+
+#### [Micron can’t keep up with its massive demand, and its stock is soaring](https://www.marketwatch.com/story/micron-blows-past-expectations-and-the-stock-is-climbing-d0e2943a?mod=mw_rss_topstories)
+**发布时间**: 2025-12-18 01:16
+
+#### [DoorDash joins Instacart in the newest shopping battleground — ChatGPT](https://www.marketwatch.com/story/doordash-joins-instacart-in-the-newest-shopping-battleground-chatgpt-fa69c10b?mod=mw_rss_topstories)
+**发布时间**: 2025-12-18 01:15
+
+#### [Oracle’s stock falls on a fear one analyst says should be ‘almost irrelevant’](https://www.marketwatch.com/story/oracles-stock-falls-on-a-fear-one-analyst-says-should-be-almost-irrelevant-c5739221?mod=mw_rss_topstories)
+**发布时间**: 2025-12-18 00:16
 
 ---
 

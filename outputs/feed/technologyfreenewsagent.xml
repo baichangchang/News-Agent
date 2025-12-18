@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 17 Dec 2025 23:22:00 GMT</pubDate>
-    <lastBuildDate>Wed, 17 Dec 2025 23:22:58 GMT</lastBuildDate>
+    <pubDate>Thu, 18 Dec 2025 05:31:00 GMT</pubDate>
+    <lastBuildDate>Thu, 18 Dec 2025 05:31:29 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,203 +14,235 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Cursor 又要被秒了？谷歌祭出迄今编程能力最强模型 Gemini 3 Flash！白菜价、但代码能力超过 Gemini 3 Pro</title>
+      <title>2026全球资产前瞻：美股美债、AI科技股怎么走？| 巴伦菁英月谈会</title>
+      <link>https://www.tmtpost.com/7813221.html</link>
+      <description>&lt;![CDATA[2026全球资产前瞻：美股美债、AI科技股怎么走？| 巴伦菁英月谈会]]&gt;</description>
+      <pubDate>Thu, 18 Dec 2025 12:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7813221.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>低空经济2025：热潮、泡沫与真价值的博弈</title>
+      <link>https://www.tmtpost.com/7812660.html</link>
+      <description>&lt;![CDATA[低空经济2025：热潮、泡沫与真价值的博弈]]&gt;</description>
+      <pubDate>Thu, 18 Dec 2025 12:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7812660.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>林清轩叩响港股大门，珀莱雅增速放缓，国货美妆品牌“分化”</title>
+      <link>https://www.tmtpost.com/7813034.html</link>
+      <description>&lt;![CDATA[林清轩叩响港股大门，珀莱雅增速放缓，国货美妆品牌“分化”]]&gt;</description>
+      <pubDate>Thu, 18 Dec 2025 12:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7813034.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>抖音“偷袭”支付宝</title>
+      <link>https://www.tmtpost.com/7812604.html</link>
+      <description>&lt;![CDATA[抖音“偷袭”支付宝]]&gt;</description>
+      <pubDate>Thu, 18 Dec 2025 12:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7812604.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>年轻人不爱逛华润万家了？</title>
+      <link>https://www.tmtpost.com/7812526.html</link>
+      <description>&lt;![CDATA[年轻人不爱逛华润万家了？]]&gt;</description>
+      <pubDate>Thu, 18 Dec 2025 12:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7812526.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>全岛封关，新海南来了</title>
+      <link>https://www.tmtpost.com/7811852.html</link>
+      <description>&lt;![CDATA[全岛封关，新海南来了]]&gt;</description>
+      <pubDate>Thu, 18 Dec 2025 12:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7811852.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>海南封关不是“全都零关税”，但品牌现在就该行动</title>
+      <link>https://www.tmtpost.com/7813048.html</link>
+      <description>&lt;![CDATA[海南封关不是“全都零关税”，但品牌现在就该行动]]&gt;</description>
+      <pubDate>Thu, 18 Dec 2025 12:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7813048.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>扫地机鼻祖，一场出海大败局</title>
+      <link>https://www.tmtpost.com/7813117.html</link>
+      <description>&lt;![CDATA[扫地机鼻祖，一场出海大败局]]&gt;</description>
+      <pubDate>Thu, 18 Dec 2025 12:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7813117.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>战略还是组织，二选一？</title>
+      <link>https://www.tmtpost.com/7812925.html</link>
+      <description>&lt;![CDATA[战略还是组织，二选一？]]&gt;</description>
+      <pubDate>Thu, 18 Dec 2025 12:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7812925.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>企业级AI架构的工程化落地</title>
+      <link>https://www.tmtpost.com/7812978.html</link>
+      <description>&lt;![CDATA[企业级AI架构的工程化落地]]&gt;</description>
+      <pubDate>Thu, 18 Dec 2025 12:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7812978.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>蚂蚁想要一个AI超级入口，可以跟支付宝无关</title>
+      <link>https://www.tmtpost.com/7813019.html</link>
+      <description>&lt;![CDATA[蚂蚁想要一个AI超级入口，可以跟支付宝无关]]&gt;</description>
+      <pubDate>Thu, 18 Dec 2025 12:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7813019.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>用3D打印机搞副业，包赚的？</title>
+      <link>https://www.tmtpost.com/7812982.html</link>
+      <description>&lt;![CDATA[用3D打印机搞副业，包赚的？]]&gt;</description>
+      <pubDate>Thu, 18 Dec 2025 12:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7812982.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>美光MU：AI点燃存力，存储大周期启幕？</title>
+      <link>https://www.tmtpost.com/7812976.html</link>
+      <description>&lt;![CDATA[美光MU：AI点燃存力，存储大周期启幕？]]&gt;</description>
+      <pubDate>Thu, 18 Dec 2025 12:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7812976.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>降本增效喊了好多年，为啥很多酒店还是不赚钱?</title>
+      <link>https://www.tmtpost.com/7812843.html</link>
+      <description>&lt;![CDATA[降本增效喊了好多年，为啥很多酒店还是不赚钱?]]&gt;</description>
+      <pubDate>Thu, 18 Dec 2025 12:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7812843.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>2026产业预判：AI智能体接管互联网，认知差异将重塑贫富格局</title>
+      <link>https://www.tmtpost.com/7812863.html</link>
+      <description>&lt;![CDATA[2026产业预判：AI智能体接管互联网，认知差异将重塑贫富格局]]&gt;</description>
+      <pubDate>Thu, 18 Dec 2025 12:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7812863.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Z世代“收割机”！新国标洗牌期，雅迪凭啥让年轻人持续“上头”？</title>
+      <link>https://www.tmtpost.com/7812514.html</link>
+      <description>&lt;![CDATA[Z世代“收割机”！新国标洗牌期，雅迪凭啥让年轻人持续“上头”？]]&gt;</description>
+      <pubDate>Thu, 18 Dec 2025 12:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7812514.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>拟用28亿公积金补亏，5500亿“寒王”想分红？</title>
+      <link>https://www.tmtpost.com/7812603.html</link>
+      <description>&lt;![CDATA[拟用28亿公积金补亏，5500亿“寒王”想分红？]]&gt;</description>
+      <pubDate>Thu, 18 Dec 2025 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7812603.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>明星科技股两大创始人，锒铛入狱</title>
+      <link>https://www.tmtpost.com/7812615.html</link>
+      <description>&lt;![CDATA[明星科技股两大创始人，锒铛入狱]]&gt;</description>
+      <pubDate>Thu, 18 Dec 2025 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7812615.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>「速度猎人」成就指南：探寻驾驶之外的形形色色</title>
+      <link>https://sspai.com/post/104686</link>
+      <description>&lt;![CDATA[「速度猎人」成就指南：探寻驾驶之外的形形色色]]&gt;</description>
+      <pubDate>Thu, 18 Dec 2025 11:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/104686</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>派早报：小米发布 MiMo-V2-Flash 模型、FIFA 将推出新游戏等</title>
+      <link>https://sspai.com/post/104678</link>
+      <description>&lt;![CDATA[派早报：小米发布 MiMo-V2-Flash 模型、FIFA 将推出新游戏等]]&gt;</description>
+      <pubDate>Thu, 18 Dec 2025 08:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/104678</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>可信赖的生产力：保障AI加速开发的安全</title>
+      <link>https://www.infoq.cn/article/HJvbyy31tAphigte8lct?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[可信赖的生产力：保障AI加速开发的安全]]&gt;</description>
+      <pubDate>Thu, 18 Dec 2025 11:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/HJvbyy31tAphigte8lct?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>筑基 AI 战略：从数据采集到 AI 就绪的数据工程变革</title>
+      <link>https://www.infoq.cn/article/xrUR8chqlufc4DbJ43FR?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[筑基 AI 战略：从数据采集到 AI 就绪的数据工程变革]]&gt;</description>
+      <pubDate>Thu, 18 Dec 2025 11:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/xrUR8chqlufc4DbJ43FR?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>赋能开发者：Snowflake 如何实现 AI 规模化影响力</title>
+      <link>https://www.infoq.cn/article/WFeDzzrxsJd9qOEOu9sl?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[赋能开发者：Snowflake 如何实现 AI 规模化影响力]]&gt;</description>
+      <pubDate>Thu, 18 Dec 2025 11:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/WFeDzzrxsJd9qOEOu9sl?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>构建 Agentic AI 未来：Snowflake Build 大会开幕主题演讲技术发布一览</title>
+      <link>https://www.infoq.cn/article/IiLfSVDNdxCd8guuT2mP?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[构建 Agentic AI 未来：Snowflake Build 大会开幕主题演讲技术发布一览]]&gt;</description>
+      <pubDate>Thu, 18 Dec 2025 11:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/IiLfSVDNdxCd8guuT2mP?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>打破孤岛：Netflix推出Upper元模型实现内容工程一致性</title>
+      <link>https://www.infoq.cn/article/vWvl2cJwD62P6KW1qg5f?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[打破孤岛：Netflix推出Upper元模型实现内容工程一致性]]&gt;</description>
+      <pubDate>Thu, 18 Dec 2025 10:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/vWvl2cJwD62P6KW1qg5f?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>微软推出兼容Postgres的Azure HorizonDB</title>
+      <link>https://www.infoq.cn/article/ac96XrpwYH9pG3FbPdx9?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[微软推出兼容Postgres的Azure HorizonDB]]&gt;</description>
+      <pubDate>Thu, 18 Dec 2025 09:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/ac96XrpwYH9pG3FbPdx9?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Agentic Postgres：为智能体应用而生的 Postgres，支持快速分叉与 AI 就绪能力</title>
+      <link>https://www.infoq.cn/article/EcYFuPVq0EJKYBjW6N3a?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Agentic Postgres：为智能体应用而生的 Postgres，支持快速分叉与 AI 就绪能力]]&gt;</description>
+      <pubDate>Thu, 18 Dec 2025 09:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/EcYFuPVq0EJKYBjW6N3a?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>昨夜，谷歌祭出迄今编程能力最强模型 Gemini 3 Flash！白菜价、但代码能力超过 Gemini 3 Pro</title>
       <link>https://www.infoq.cn/article/psNsqsoX4ORhoR3v8EMx?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Cursor 又要被秒了？谷歌祭出迄今编程能力最强模型 Gemini 3 Flash！白菜价、但代码能力超过 Gemini 3 Pro]]&gt;</description>
+      <description>&lt;![CDATA[昨夜，谷歌祭出迄今编程能力最强模型 Gemini 3 Flash！白菜价、但代码能力超过 Gemini 3 Pro]]&gt;</description>
       <pubDate>Thu, 18 Dec 2025 06:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.infoq.cn/article/psNsqsoX4ORhoR3v8EMx?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>谷歌创始人罕见反思：低估 Transformer，也低估了 AI 编程的风险，“代码错了，代价更高”</title>
-      <link>https://www.infoq.cn/article/iJKo3Ncd7Rx1ZjghNyQK?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[谷歌创始人罕见反思：低估 Transformer，也低估了 AI 编程的风险，“代码错了，代价更高”]]&gt;</description>
-      <pubDate>Wed, 17 Dec 2025 18:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/iJKo3Ncd7Rx1ZjghNyQK?utm_source=rss&amp;utm_medium=article</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>罗福莉执掌小米大模型首秀！定调下一代模型，全新MiMo-V2开源还横扫Agent第一梯队</title>
-      <link>https://www.infoq.cn/article/h4z0Jtcxg8yai3dRpLeP?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[罗福莉执掌小米大模型首秀！定调下一代模型，全新MiMo-V2开源还横扫Agent第一梯队]]&gt;</description>
-      <pubDate>Wed, 17 Dec 2025 18:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/h4z0Jtcxg8yai3dRpLeP?utm_source=rss&amp;utm_medium=article</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>腾讯大模型中枢升级：AI Infra、AI Data等三大部门成立，混元进入“工程化快车道”</title>
-      <link>https://www.infoq.cn/article/6Q26bBtuxsoE8lV6rRuv?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[腾讯大模型中枢升级：AI Infra、AI Data等三大部门成立，混元进入“工程化快车道”]]&gt;</description>
-      <pubDate>Wed, 17 Dec 2025 18:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/6Q26bBtuxsoE8lV6rRuv?utm_source=rss&amp;utm_medium=article</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>告别“试验田”：当大模型真正嵌入 ERP、供应链与核心决策流 | AICon</title>
-      <link>https://www.infoq.cn/article/6bqdoH1eN7d07vDVvob1?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[告别“试验田”：当大模型真正嵌入 ERP、供应链与核心决策流 | AICon]]&gt;</description>
-      <pubDate>Wed, 17 Dec 2025 16:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/6bqdoH1eN7d07vDVvob1?utm_source=rss&amp;utm_medium=article</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Google Deploys Faster Gemini 3 Flash to Challenge OpenAI, Sets as Default App Model and Powers Search</title>
-      <link>https://www.tmtpost.com/7812709.html</link>
-      <description>&lt;![CDATA[Google Deploys Faster Gemini 3 Flash to Challenge OpenAI, Sets as Default App Model and Powers Search]]&gt;</description>
-      <pubDate>Thu, 18 Dec 2025 02:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7812709.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>半导体十大预测，“进度条”几何？</title>
-      <link>https://www.tmtpost.com/7812464.html</link>
-      <description>&lt;![CDATA[半导体十大预测，“进度条”几何？]]&gt;</description>
-      <pubDate>Wed, 17 Dec 2025 20:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7812464.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>AI的真命之主恐怕还是谷歌</title>
-      <link>https://www.tmtpost.com/7812392.html</link>
-      <description>&lt;![CDATA[AI的真命之主恐怕还是谷歌]]&gt;</description>
-      <pubDate>Wed, 17 Dec 2025 20:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7812392.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Vertex掀了I型糖尿病桌子？</title>
-      <link>https://www.tmtpost.com/7811692.html</link>
-      <description>&lt;![CDATA[Vertex掀了I型糖尿病桌子？]]&gt;</description>
-      <pubDate>Wed, 17 Dec 2025 20:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7811692.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>2025医疗人工智能报告：价值计量与支付探索，医疗人工智能的两个困局</title>
-      <link>https://www.tmtpost.com/7812079.html</link>
-      <description>&lt;![CDATA[2025医疗人工智能报告：价值计量与支付探索，医疗人工智能的两个困局]]&gt;</description>
-      <pubDate>Wed, 17 Dec 2025 20:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7812079.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>港股2026：会否极泰来吗？</title>
-      <link>https://www.tmtpost.com/7811938.html</link>
-      <description>&lt;![CDATA[港股2026：会否极泰来吗？]]&gt;</description>
-      <pubDate>Wed, 17 Dec 2025 20:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7811938.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>击穿行业天花板：马斯克的万亿商业局</title>
-      <link>https://www.tmtpost.com/7811896.html</link>
-      <description>&lt;![CDATA[击穿行业天花板：马斯克的万亿商业局]]&gt;</description>
-      <pubDate>Wed, 17 Dec 2025 20:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7811896.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>铁锂正极公司都在“爆单”，这家全球NO.1的龙头为何“失语”？</title>
-      <link>https://www.tmtpost.com/7811588.html</link>
-      <description>&lt;![CDATA[铁锂正极公司都在“爆单”，这家全球NO.1的龙头为何“失语”？]]&gt;</description>
-      <pubDate>Wed, 17 Dec 2025 20:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7811588.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>CoreWeave：英伟达“干儿子”真能子凭父贵？</title>
-      <link>https://www.tmtpost.com/7811850.html</link>
-      <description>&lt;![CDATA[CoreWeave：英伟达“干儿子”真能子凭父贵？]]&gt;</description>
-      <pubDate>Wed, 17 Dec 2025 20:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7811850.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>“00”后成二手交易主力，理性消费时代的重要信号</title>
-      <link>https://www.tmtpost.com/7811621.html</link>
-      <description>&lt;![CDATA[“00”后成二手交易主力，理性消费时代的重要信号]]&gt;</description>
-      <pubDate>Wed, 17 Dec 2025 20:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7811621.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>女性向+奇幻题材+热血+非遗，没有情爱CP后的女频短剧，还能怎么融合？</title>
-      <link>https://www.tmtpost.com/7808864.html</link>
-      <description>&lt;![CDATA[女性向+奇幻题材+热血+非遗，没有情爱CP后的女频短剧，还能怎么融合？]]&gt;</description>
-      <pubDate>Wed, 17 Dec 2025 20:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7808864.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>单价5元起、200+SKU，火锅巨头开了家“海鲜大排档”</title>
-      <link>https://www.tmtpost.com/7812155.html</link>
-      <description>&lt;![CDATA[单价5元起、200+SKU，火锅巨头开了家“海鲜大排档”]]&gt;</description>
-      <pubDate>Wed, 17 Dec 2025 19:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7812155.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>杠杆松绑，券商股的逻辑变了？</title>
-      <link>https://www.tmtpost.com/7811648.html</link>
-      <description>&lt;![CDATA[杠杆松绑，券商股的逻辑变了？]]&gt;</description>
-      <pubDate>Wed, 17 Dec 2025 18:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7811648.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>前首富的新传奇：陈天桥亲自下场“复刻人脑”</title>
-      <link>https://www.tmtpost.com/7811657.html</link>
-      <description>&lt;![CDATA[前首富的新传奇：陈天桥亲自下场“复刻人脑”]]&gt;</description>
-      <pubDate>Wed, 17 Dec 2025 18:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7811657.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>人工智能抽干资本市场</title>
-      <link>https://www.tmtpost.com/7811895.html</link>
-      <description>&lt;![CDATA[人工智能抽干资本市场]]&gt;</description>
-      <pubDate>Wed, 17 Dec 2025 18:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7811895.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>剧集公司2025：“六大”变天，“新王”险胜</title>
-      <link>https://www.tmtpost.com/7811939.html</link>
-      <description>&lt;![CDATA[剧集公司2025：“六大”变天，“新王”险胜]]&gt;</description>
-      <pubDate>Wed, 17 Dec 2025 18:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7811939.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>腾讯大模型「变阵」：成立 AI Infra 部，姚顺雨出任首席 AI 科学家</title>
-      <link>http://www.geekpark.net/news/358147</link>
-      <description>&lt;![CDATA[腾讯大模型「变阵」：成立 AI Infra 部，姚顺雨出任首席 AI 科学家]]&gt;</description>
-      <pubDate>Wed, 17 Dec 2025 19:59:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/358147</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>网飞秘史</title>
-      <link>http://www.huxiu.com/article/4818282.html?f=wangzhan</link>
-      <description>&lt;![CDATA[网飞秘史]]&gt;</description>
-      <pubDate>Wed, 17 Dec 2025 19:57:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.huxiu.com/article/4818282.html?f=wangzhan</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>时间、项目双维度，打造真正有用的工作笔记</title>
-      <link>https://sspai.com/post/103960</link>
-      <description>&lt;![CDATA[时间、项目双维度，打造真正有用的工作笔记]]&gt;</description>
-      <pubDate>Wed, 17 Dec 2025 17:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/103960</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>具透：微软改名部上线，Homebrew 弃用实用选项引起争议</title>
-      <link>https://sspai.com/prime/story/inside-release-notes-251217</link>
-      <description>&lt;![CDATA[具透：微软改名部上线，Homebrew 弃用实用选项引起争议]]&gt;</description>
-      <pubDate>Wed, 17 Dec 2025 16:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sspai.com/prime/story/inside-release-notes-251217</guid>
+      <title>OpenAI 已讨论以约 7500 亿美元的估值筹集数百亿美元资金；消息称 SpaceX 要求员工进入 IPO 前的「静默期」；《阿凡达 3》媒体口碑解禁：烂番茄新鲜度 68%，M 站开分 64｜极客早知道</title>
+      <link>http://www.geekpark.net/news/358151</link>
+      <description>&lt;![CDATA[OpenAI 已讨论以约 7500 亿美元的估值筹集数百亿美元资金；消息称 SpaceX 要求员工进入 IPO 前的「静默期」；《阿凡达 3》媒体口碑解禁：烂番茄新鲜度 68%，M 站开分 64｜极客早知道]]&gt;</description>
+      <pubDate>Thu, 18 Dec 2025 08:51:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/358151</guid>
       <category>Technology</category>
     </item>
   </channel>
