@@ -1,7 +1,32 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-18 23:23
+**最后更新时间**: 2025-12-19 05:25
+
+---
+
+## 🆕 最新更新 (2025-12-19 05:25)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [EU agrees €90bn loan to Ukraine after frozen Russian asset plan fails](https://www.ft.com/content/e5691048-696b-44cd-8a0a-50b917e3d62a)
+**发布时间**: 2025-12-19 04:56
+
+#### [Japan raises interest rates to highest level in 30 years](https://www.ft.com/content/cbaaff02-9c62-4f5f-8e02-d38798df4196)
+**发布时间**: 2025-12-19 04:51
+
+#### [Law firms Hogan Lovells and Cadwalader set to merge in record deal](https://www.ft.com/content/c3953a97-027b-4c99-bc4d-4a816e4dbac5)
+**发布时间**: 2025-12-18 16:28
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Uber’s stock is almost historically cheap. Are robotaxis an existential threat?](https://www.marketwatch.com/story/ubers-stock-is-almost-historically-cheap-are-robotaxis-an-existential-threat-76dc9783?mod=mw_rss_topstories)
+**发布时间**: 2025-12-19 03:32
+
+#### [Oracle’s stock is rising. Why TikTok’s U.S. deal could be good news for the tech company.](https://www.marketwatch.com/story/oracles-stock-is-rising-why-tiktoks-u-s-deal-could-be-good-news-for-the-tech-company-1ae40cde?mod=mw_rss_topstories)
+**发布时间**: 2025-12-19 01:17
+
+#### [Micron just had its Nvidia moment. What comes next for the stock?](https://www.marketwatch.com/story/micron-just-had-its-nvidia-moment-what-comes-next-for-the-stock-cba32b69?mod=mw_rss_topstories)
+**发布时间**: 2025-12-19 00:18
 
 ---
 
