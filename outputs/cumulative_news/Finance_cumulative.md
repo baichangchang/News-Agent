@@ -1,7 +1,41 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-20 08:29
+**最后更新时间**: 2025-12-20 23:26
+
+---
+
+## 🆕 最新更新 (2025-12-20 23:26)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [US justice department under fire for removing Trump image from Epstein files](https://www.ft.com/content/a1a1bf4f-96f7-4280-842e-ccdf10de291d)
+**发布时间**: 2025-12-20 23:09
+
+#### [Robey Warshaw partners share £40mn profit](https://www.ft.com/content/bbe87541-7230-495a-8903-b9004eed107c)
+**发布时间**: 2025-12-20 15:05
+
+#### [Epstein files release leaves Trump facing fresh row over limited disclosures](https://www.ft.com/content/d45702ed-ea92-40e1-958c-777d33779567)
+**发布时间**: 2025-12-20 05:17
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [My husband and I are splitting our estate between his child and my three children. Should they get equal shares?](https://www.marketwatch.com/story/my-husband-and-i-are-splitting-our-estate-between-his-child-and-my-three-children-should-they-get-equal-shares-ef1c0061?mod=mw_rss_topstories)
+**发布时间**: 2025-12-20 22:00
+
+#### [You’ve just won the $1.5 billion Powerball jackpot. Here are the 5 money moves you need to make next.](https://www.marketwatch.com/story/5-money-moves-to-make-if-you-win-the-1-4-billion-powerball-jackpot-tonight-or-get-a-similar-financial-windfall-8fe31838?mod=mw_rss_topstories)
+**发布时间**: 2025-12-20 19:52
+
+#### [I’m only 54 and my 401(k) plan is emailing me about buying annuities. Is this something I should do?](https://www.marketwatch.com/story/my-401-k-plan-is-emailing-me-about-annuities-but-im-only-in-my-50s-is-this-something-i-should-do-6ba01b31?mod=mw_rss_topstories)
+**发布时间**: 2025-12-20 19:39
+
+#### [What’s next for airfares after ticket prices fell in November](https://www.marketwatch.com/story/airfares-fell-more-than-5-in-november-but-will-the-deals-last-2521874f?mod=mw_rss_topstories)
+**发布时间**: 2025-12-20 18:17
+
+#### [When retirees go back to work is it a sign of a strong labor force — or a recession?](https://www.marketwatch.com/story/when-retirees-go-back-to-work-is-it-a-sign-of-a-strong-labor-force-or-a-recession-779d295c?mod=mw_rss_topstories)
+**发布时间**: 2025-12-20 18:10
+
+#### [OK, boomer: Why you should start giving your money to your adult kids now](https://www.marketwatch.com/story/ok-boomer-why-you-should-start-giving-your-money-to-your-adult-kids-now-c58703a5?mod=mw_rss_topstories)
+**发布时间**: 2025-12-20 17:26
 
 ---
 
