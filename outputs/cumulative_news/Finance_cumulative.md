@@ -1,7 +1,27 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-20 05:23
+**最后更新时间**: 2025-12-20 08:29
+
+---
+
+## 🆕 最新更新 (2025-12-20 08:29)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [How a failed baseball player and ex-stock broker became a major arms dealer](https://www.ft.com/content/d7f95899-d634-43c9-adac-da8da67f3cdb)
+**发布时间**: 2025-12-20 05:00
+
+#### [Have we reached a tipping point on public debt?](https://www.ft.com/content/bee3d60f-adfd-49d2-9e82-a7e35ecf867a)
+**发布时间**: 2025-12-20 05:00
+
+#### [The case for denial](https://www.ft.com/content/ce7f5696-ea62-4759-a89d-3f0f09b12b25)
+**发布时间**: 2025-12-20 05:00
+
+#### [Struggling vintage champagne market begins to fizz again](https://www.ft.com/content/1b7ae5ee-1752-4b18-acfb-05415cb67442)
+**发布时间**: 2025-12-20 05:00
+
+#### [What we know about the new Epstein files release](https://www.ft.com/content/9cd16b30-d2f0-4da0-acdc-6ff53ed06a68)
+**发布时间**: 2025-12-20 02:24
 
 ---
 
