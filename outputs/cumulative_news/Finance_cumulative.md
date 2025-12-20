@@ -1,7 +1,32 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-19 23:26
+**最后更新时间**: 2025-12-20 05:23
+
+---
+
+## 🆕 最新更新 (2025-12-20 05:23)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Trump fails to put Epstein behind him with partial release of files](https://www.ft.com/content/d45702ed-ea92-40e1-958c-777d33779567)
+**发布时间**: 2025-12-20 05:17
+
+#### [What to know about the new Epstein files release](https://www.ft.com/content/9cd16b30-d2f0-4da0-acdc-6ff53ed06a68)
+**发布时间**: 2025-12-20 02:24
+
+#### [US justice department releases cache of Epstein files](https://www.ft.com/content/485d7f51-4868-4c9c-b158-54a3eb2245bf)
+**发布时间**: 2025-12-20 01:56
+
+#### [US launches strikes on Isis targets in Syria in retaliation for ambush](https://www.ft.com/content/3e16c530-d54a-48b9-867a-a6ec6fa054d5)
+**发布时间**: 2025-12-20 01:34
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Rocket Lab’s stock blasts to a new high. Here’s what’s driving the surge.](https://www.marketwatch.com/story/rocket-labs-stock-blasts-toward-new-high-heres-whats-driving-the-surge-78814c96?mod=mw_rss_topstories)
+**发布时间**: 2025-12-20 00:09
+
+#### [As stock-market rally broadens, it’s tough for the S&P 500 to keep advancing without tech](https://www.marketwatch.com/story/as-stock-market-rally-broadens-its-tough-for-the-s-p-500-to-keep-advancing-without-tech-0b8185ae?mod=mw_rss_topstories)
+**发布时间**: 2025-12-19 23:56
 
 ---
 
