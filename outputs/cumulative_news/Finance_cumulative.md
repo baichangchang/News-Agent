@@ -1,7 +1,15 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-21 05:29
+**最后更新时间**: 2025-12-21 08:34
+
+---
+
+## 🆕 最新更新 (2025-12-21 08:34)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Royal Mail’s new pension scheme falls 5% in first six months](https://www.ft.com/content/a819f1bf-f4fe-4a29-977d-46d2342b1214)
+**发布时间**: 2025-12-21 05:00
 
 ---
 
