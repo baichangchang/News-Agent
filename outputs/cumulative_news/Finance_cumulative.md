@@ -1,7 +1,18 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-22 05:27
+**最后更新时间**: 2025-12-22 08:34
+
+---
+
+## 🆕 最新更新 (2025-12-22 08:34)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Donald Trump names special envoy for Greenland](https://www.ft.com/content/8c0eddd7-e88f-4c96-9c32-d50cb7bb5899)
+**发布时间**: 2025-12-22 07:17
+
+#### [How one PE group’s deals show the risks of firms selling to themselves](https://www.ft.com/content/69bd2bea-4f52-4f7b-9ece-89133e4964e6)
+**发布时间**: 2025-12-22 05:00
 
 ---
 
