@@ -1,7 +1,21 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-23 05:27
+**最后更新时间**: 2025-12-23 08:38
+
+---
+
+## 🆕 最新更新 (2025-12-23 08:38)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Is Christmas as good for the UK economy as it used to be?](https://www.ft.com/content/fa98dcea-4948-4fe9-8006-661785264db4)
+**发布时间**: 2025-12-23 05:00
+
+#### [The prison island where Turkey locked its past](https://www.ft.com/content/1764223a-47a6-443c-98dc-bcd41b0176bc)
+**发布时间**: 2025-12-23 05:00
+
+#### [Private credit firms pile into consumer debt as risk-taking mounts](https://www.ft.com/content/1583928d-08ec-4ae3-ab2f-ab07d9669fcf)
+**发布时间**: 2025-12-23 05:00
 
 ---
 
