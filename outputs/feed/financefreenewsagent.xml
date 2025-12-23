@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 23 Dec 2025 05:27:00 GMT</pubDate>
-    <lastBuildDate>Tue, 23 Dec 2025 05:27:54 GMT</lastBuildDate>
+    <pubDate>Tue, 23 Dec 2025 23:23:00 GMT</pubDate>
+    <lastBuildDate>Tue, 23 Dec 2025 23:23:23 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,67 +14,123 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>AI debt boom pushes US corporate bond sales close to record</title>
-      <link>https://www.ft.com/content/faa3d747-9a32-4219-93eb-a93c10502f06</link>
-      <description>&lt;![CDATA[AI debt boom pushes US corporate bond sales close to record]]&gt;</description>
-      <pubDate>Tue, 23 Dec 2025 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/faa3d747-9a32-4219-93eb-a93c10502f06</guid>
+      <title>US economy grew at 4.3% rate in third quarter</title>
+      <link>https://www.ft.com/content/fea44f00-6e54-4bd0-b722-6b029ad4411c</link>
+      <description>&lt;![CDATA[US economy grew at 4.3% rate in third quarter]]&gt;</description>
+      <pubDate>Tue, 23 Dec 2025 22:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/fea44f00-6e54-4bd0-b722-6b029ad4411c</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Is Christmas as good for the economy as it used to be?</title>
-      <link>https://www.ft.com/content/fa98dcea-4948-4fe9-8006-661785264db4</link>
-      <description>&lt;![CDATA[Is Christmas as good for the economy as it used to be?]]&gt;</description>
-      <pubDate>Tue, 23 Dec 2025 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/fa98dcea-4948-4fe9-8006-661785264db4</guid>
+      <title>Epstein files appear to show former Prince Andrew asked Maxwell for ‘inappropriate friends’</title>
+      <link>https://www.ft.com/content/782edbd9-be90-4947-981c-41cbf6116ae8</link>
+      <description>&lt;![CDATA[Epstein files appear to show former Prince Andrew asked Maxwell for ‘inappropriate friends’]]&gt;</description>
+      <pubDate>Tue, 23 Dec 2025 17:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/782edbd9-be90-4947-981c-41cbf6116ae8</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Year in a word: AI bubble</title>
-      <link>https://www.ft.com/content/3e411742-b6bb-40c2-9432-4ee6f562af8f</link>
-      <description>&lt;![CDATA[Year in a word: AI bubble]]&gt;</description>
-      <pubDate>Tue, 23 Dec 2025 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/3e411742-b6bb-40c2-9432-4ee6f562af8f</guid>
+      <title>UK government forced into climbdown on inheritance tax for farmers</title>
+      <link>https://www.ft.com/content/cb5dbf7e-aee7-4a53-99fe-73d21c5dc8a8</link>
+      <description>&lt;![CDATA[UK government forced into climbdown on inheritance tax for farmers]]&gt;</description>
+      <pubDate>Tue, 23 Dec 2025 17:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/cb5dbf7e-aee7-4a53-99fe-73d21c5dc8a8</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>The good, the bad and the ugly of Britain’s labour market reforms</title>
-      <link>https://www.ft.com/content/ceb1269a-d7c3-43c1-899e-7e9d744cc4bc</link>
-      <description>&lt;![CDATA[The good, the bad and the ugly of Britain’s labour market reforms]]&gt;</description>
-      <pubDate>Tue, 23 Dec 2025 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/ceb1269a-d7c3-43c1-899e-7e9d744cc4bc</guid>
+      <title>Trump administration accuses China of unfair chip trade practices</title>
+      <link>https://www.ft.com/content/a1274e4a-baf3-4f63-82f6-2758af1aa745</link>
+      <description>&lt;![CDATA[Trump administration accuses China of unfair chip trade practices]]&gt;</description>
+      <pubDate>Tue, 23 Dec 2025 17:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/a1274e4a-baf3-4f63-82f6-2758af1aa745</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>House prices fall in half of London boroughs</title>
-      <link>https://www.ft.com/content/a33f4f58-a7c0-43ae-bc99-e8652976b969</link>
-      <description>&lt;![CDATA[House prices fall in half of London boroughs]]&gt;</description>
-      <pubDate>Tue, 23 Dec 2025 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/a33f4f58-a7c0-43ae-bc99-e8652976b969</guid>
+      <title>Epstein appointed Staley and Summers as executors of his will</title>
+      <link>https://www.ft.com/content/cff3b2aa-9a98-45e6-bc56-82eb4c90e1ff</link>
+      <description>&lt;![CDATA[Epstein appointed Staley and Summers as executors of his will]]&gt;</description>
+      <pubDate>Tue, 23 Dec 2025 16:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/cff3b2aa-9a98-45e6-bc56-82eb4c90e1ff</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Whisky galore: Trump’s tariffs and cost of living create glut of undrunk Scotch</title>
-      <link>https://www.ft.com/content/db41452e-2f9a-4262-ada5-b4f6d7a49508</link>
-      <description>&lt;![CDATA[Whisky galore: Trump’s tariffs and cost of living create glut of undrunk Scotch]]&gt;</description>
-      <pubDate>Tue, 23 Dec 2025 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/db41452e-2f9a-4262-ada5-b4f6d7a49508</guid>
+      <title>Bet365 boss Denise Coates nets £260mn payout</title>
+      <link>https://www.ft.com/content/7b682a66-df96-4448-8953-9b954eda0f48</link>
+      <description>&lt;![CDATA[Bet365 boss Denise Coates nets £260mn payout]]&gt;</description>
+      <pubDate>Tue, 23 Dec 2025 09:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/7b682a66-df96-4448-8953-9b954eda0f48</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Novo Nordisk weight-loss drug wins US approval as a daily pill</title>
-      <link>https://www.ft.com/content/c8630c2a-321a-4a25-ad19-7c2b571c77f7</link>
-      <description>&lt;![CDATA[Novo Nordisk weight-loss drug wins US approval as a daily pill]]&gt;</description>
-      <pubDate>Tue, 23 Dec 2025 01:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/c8630c2a-321a-4a25-ad19-7c2b571c77f7</guid>
+      <title>Americans are starting the new year with record debt. Here’s how they can get it under control.</title>
+      <link>https://www.marketwatch.com/story/americans-are-starting-the-new-year-with-record-debt-heres-how-they-can-get-it-under-control-75c0f08a?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Americans are starting the new year with record debt. Here’s how they can get it under control.]]&gt;</description>
+      <pubDate>Tue, 23 Dec 2025 21:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/americans-are-starting-the-new-year-with-record-debt-heres-how-they-can-get-it-under-control-75c0f08a?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>This shipbuilder’s stock soars to a fresh record as company wins contract to produce a new type of Navy frigate</title>
-      <link>https://www.marketwatch.com/story/this-shipbuilders-stock-is-soaring-to-a-fresh-record-as-company-wins-contract-to-produce-a-new-type-of-navy-frigate-9f9704d5?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[This shipbuilder’s stock soars to a fresh record as company wins contract to produce a new type of Navy frigate]]&gt;</description>
-      <pubDate>Tue, 23 Dec 2025 01:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/this-shipbuilders-stock-is-soaring-to-a-fresh-record-as-company-wins-contract-to-produce-a-new-type-of-navy-frigate-9f9704d5?mod=mw_rss_topstories</guid>
+      <title>Tesla’s EV sales keep falling, but Wall Street stays focused on robotaxis</title>
+      <link>https://www.marketwatch.com/story/teslas-ev-sales-keep-falling-but-wall-street-stays-focused-on-robotaxis-a2728dd3?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Tesla’s EV sales keep falling, but Wall Street stays focused on robotaxis]]&gt;</description>
+      <pubDate>Tue, 23 Dec 2025 21:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/teslas-ev-sales-keep-falling-but-wall-street-stays-focused-on-robotaxis-a2728dd3?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Wall Street’s ‘fear gauge’ shows investors feeling confident heading into 2026 — and overlooking some big risks</title>
+      <link>https://www.marketwatch.com/story/wall-streets-fear-gauge-shows-investors-feeling-confident-heading-into-2026-and-overlooking-some-big-risks-95fbf04d?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Wall Street’s ‘fear gauge’ shows investors feeling confident heading into 2026 — and overlooking some big risks]]&gt;</description>
+      <pubDate>Tue, 23 Dec 2025 21:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/wall-streets-fear-gauge-shows-investors-feeling-confident-heading-into-2026-and-overlooking-some-big-risks-95fbf04d?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Who claims Social Security while they are still working — and why do they do it?</title>
+      <link>https://www.marketwatch.com/story/who-claims-social-security-while-they-are-still-working-and-why-do-they-do-it-ab987d2e?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Who claims Social Security while they are still working — and why do they do it?]]&gt;</description>
+      <pubDate>Tue, 23 Dec 2025 21:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/who-claims-social-security-while-they-are-still-working-and-why-do-they-do-it-ab987d2e?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>More uninsured drivers, more unfixed damage: Soaring car-insurance prices have pushed Americans into risky trade-offs</title>
+      <link>https://www.marketwatch.com/story/more-uninsured-drivers-more-unfixed-damage-soaring-car-insurance-prices-have-pushed-americans-into-risky-trade-offs-9d322a39?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[More uninsured drivers, more unfixed damage: Soaring car-insurance prices have pushed Americans into risky trade-offs]]&gt;</description>
+      <pubDate>Tue, 23 Dec 2025 21:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/more-uninsured-drivers-more-unfixed-damage-soaring-car-insurance-prices-have-pushed-americans-into-risky-trade-offs-9d322a39?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>America’s food market is rigged. Look who’s getting rich while many of us struggle with grocery bills</title>
+      <link>https://www.marketwatch.com/story/many-americans-are-struggling-to-afford-food-ask-yourself-whos-getting-rich-from-this-5a04b33e?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[America’s food market is rigged. Look who’s getting rich while many of us struggle with grocery bills]]&gt;</description>
+      <pubDate>Tue, 23 Dec 2025 21:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/many-americans-are-struggling-to-afford-food-ask-yourself-whos-getting-rich-from-this-5a04b33e?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Workers are getting very worried about losing their jobs as financial fears rise</title>
+      <link>https://www.marketwatch.com/story/workers-are-getting-very-worried-about-losing-their-jobs-as-financial-fears-rise-6a431691?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Workers are getting very worried about losing their jobs as financial fears rise]]&gt;</description>
+      <pubDate>Tue, 23 Dec 2025 20:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/workers-are-getting-very-worried-about-losing-their-jobs-as-financial-fears-rise-6a431691?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>How to start a solo 401(k) for your side hustle — and boost your savings up to the $70,000 limit</title>
+      <link>https://www.marketwatch.com/story/how-to-start-a-solo-401-k-for-your-side-hustle-and-boost-your-savings-up-to-the-70-000-limit-fd5f5e85?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[How to start a solo 401(k) for your side hustle — and boost your savings up to the $70,000 limit]]&gt;</description>
+      <pubDate>Tue, 23 Dec 2025 19:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/how-to-start-a-solo-401-k-for-your-side-hustle-and-boost-your-savings-up-to-the-70-000-limit-fd5f5e85?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Quantum computing is the stock market’s next big tech play — and these stocks are still cheap</title>
+      <link>https://www.marketwatch.com/story/quantum-stocks-are-where-ai-was-five-years-ago-these-bets-could-be-big-winners-099dcf37?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Quantum computing is the stock market’s next big tech play — and these stocks are still cheap]]&gt;</description>
+      <pubDate>Tue, 23 Dec 2025 18:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/quantum-stocks-are-where-ai-was-five-years-ago-these-bets-could-be-big-winners-099dcf37?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>

@@ -1,7 +1,65 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-23 08:38
+**最后更新时间**: 2025-12-23 23:23
+
+---
+
+## 🆕 最新更新 (2025-12-23 23:23)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [US economy grew at 4.3% rate in third quarter](https://www.ft.com/content/fea44f00-6e54-4bd0-b722-6b029ad4411c)
+**发布时间**: 2025-12-23 22:45
+
+#### [Epstein files appear to show former Prince Andrew asked Maxwell for ‘inappropriate friends’](https://www.ft.com/content/782edbd9-be90-4947-981c-41cbf6116ae8)
+**发布时间**: 2025-12-23 17:53
+
+#### [UK government forced into climbdown on inheritance tax for farmers](https://www.ft.com/content/cb5dbf7e-aee7-4a53-99fe-73d21c5dc8a8)
+**发布时间**: 2025-12-23 17:24
+
+#### [Trump administration accuses China of unfair chip trade practices](https://www.ft.com/content/a1274e4a-baf3-4f63-82f6-2758af1aa745)
+**发布时间**: 2025-12-23 17:01
+
+#### [Epstein appointed Staley and Summers as executors of his will](https://www.ft.com/content/cff3b2aa-9a98-45e6-bc56-82eb4c90e1ff)
+**发布时间**: 2025-12-23 16:10
+
+#### [Bet365 boss Denise Coates nets £260mn payout](https://www.ft.com/content/7b682a66-df96-4448-8953-9b954eda0f48)
+**发布时间**: 2025-12-23 09:40
+
+#### [John Elkann’s year to forget: a pile-up of problems from family to Ferrari](https://www.ft.com/content/81c45730-dc41-4985-9de8-6dd6aa7cdd89)
+**发布时间**: 2025-12-23 05:00
+
+#### [‘A stream of negativity and abuse’: why are Labour MPs still sticking with X?](https://www.ft.com/content/5b0e3ea9-acc9-4dcc-85fe-2273ea8abb86)
+**发布时间**: 2025-12-23 05:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Americans are starting the new year with record debt. Here’s how they can get it under control.](https://www.marketwatch.com/story/americans-are-starting-the-new-year-with-record-debt-heres-how-they-can-get-it-under-control-75c0f08a?mod=mw_rss_topstories)
+**发布时间**: 2025-12-23 21:46
+
+#### [Tesla’s EV sales keep falling, but Wall Street stays focused on robotaxis](https://www.marketwatch.com/story/teslas-ev-sales-keep-falling-but-wall-street-stays-focused-on-robotaxis-a2728dd3?mod=mw_rss_topstories)
+**发布时间**: 2025-12-23 21:44
+
+#### [Wall Street’s ‘fear gauge’ shows investors feeling confident heading into 2026 — and overlooking some big risks](https://www.marketwatch.com/story/wall-streets-fear-gauge-shows-investors-feeling-confident-heading-into-2026-and-overlooking-some-big-risks-95fbf04d?mod=mw_rss_topstories)
+**发布时间**: 2025-12-23 21:39
+
+#### [Who claims Social Security while they are still working — and why do they do it?](https://www.marketwatch.com/story/who-claims-social-security-while-they-are-still-working-and-why-do-they-do-it-ab987d2e?mod=mw_rss_topstories)
+**发布时间**: 2025-12-23 21:38
+
+#### [More uninsured drivers, more unfixed damage: Soaring car-insurance prices have pushed Americans into risky trade-offs](https://www.marketwatch.com/story/more-uninsured-drivers-more-unfixed-damage-soaring-car-insurance-prices-have-pushed-americans-into-risky-trade-offs-9d322a39?mod=mw_rss_topstories)
+**发布时间**: 2025-12-23 21:35
+
+#### [America’s food market is rigged. Look who’s getting rich while many of us struggle with grocery bills](https://www.marketwatch.com/story/many-americans-are-struggling-to-afford-food-ask-yourself-whos-getting-rich-from-this-5a04b33e?mod=mw_rss_topstories)
+**发布时间**: 2025-12-23 21:06
+
+#### [Workers are getting very worried about losing their jobs as financial fears rise](https://www.marketwatch.com/story/workers-are-getting-very-worried-about-losing-their-jobs-as-financial-fears-rise-6a431691?mod=mw_rss_topstories)
+**发布时间**: 2025-12-23 20:51
+
+#### [How to start a solo 401(k) for your side hustle — and boost your savings up to the $70,000 limit](https://www.marketwatch.com/story/how-to-start-a-solo-401-k-for-your-side-hustle-and-boost-your-savings-up-to-the-70-000-limit-fd5f5e85?mod=mw_rss_topstories)
+**发布时间**: 2025-12-23 19:18
+
+#### [Quantum computing is the stock market’s next big tech play — and these stocks are still cheap](https://www.marketwatch.com/story/quantum-stocks-are-where-ai-was-five-years-ago-these-bets-could-be-big-winners-099dcf37?mod=mw_rss_topstories)
+**发布时间**: 2025-12-23 18:59
 
 ---
 
