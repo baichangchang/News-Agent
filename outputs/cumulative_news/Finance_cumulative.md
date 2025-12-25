@@ -1,7 +1,29 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-25 08:33
+**最后更新时间**: 2025-12-25 23:27
+
+---
+
+## 🆕 最新更新 (2025-12-25 23:27)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [For investors, the real gift from Wall Street comes a day after Christmas](https://www.marketwatch.com/story/for-investors-the-real-gift-from-wall-street-comes-one-day-after-christmas-43da2299?mod=mw_rss_topstories)
+**发布时间**: 2025-12-25 17:10
+
+#### [Move over, Mariah: Michael Bublé is becoming the king of Christmas music with nearly $16 million in holiday earnings](https://www.marketwatch.com/story/move-over-mariah-michael-buble-is-becoming-the-king-of-christmas-music-with-nearly-16-million-in-holiday-earnings-d2ae04cb?mod=mw_rss_topstories)
+**发布时间**: 2025-12-25 15:51
+
+#### [‘I would like to give her a head start in life’: My house rose in value by $500K. Do I gift it to my daughter at a bargain price?](https://www.marketwatch.com/story/i-would-like-to-give-her-a-head-start-in-life-my-house-rose-in-value-by-500k-do-i-gift-it-to-my-daughter-at-a-bargain-price-c65ec44a?mod=mw_rss_topstories)
+**发布时间**: 2025-12-25 14:41
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [AI ‘world models’ promise to reshape $190bn video games industry](https://www.ft.com/content/9b1b1bc3-6573-451d-892b-e6abb819a112)
+**发布时间**: 2025-12-25 11:00
+
+#### [Year in a word: 6-7](https://www.ft.com/content/3b2eb64a-e49d-4d6e-acea-f779e7d4a4e2)
+**发布时间**: 2025-12-25 05:00
 
 ---
 
