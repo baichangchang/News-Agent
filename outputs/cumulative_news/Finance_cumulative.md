@@ -1,7 +1,30 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-25 05:31
+**最后更新时间**: 2025-12-25 08:33
+
+---
+
+## 🆕 最新更新 (2025-12-25 08:33)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Fine wine investors find little cheer in third year of falls](https://www.ft.com/content/e84d4fc6-35a6-434d-9ae8-693966348b6e)
+**发布时间**: 2025-12-25 05:00
+
+#### [Tariff turmoil, a gold rush and the sinking dollar — 2025 in charts](https://www.ft.com/content/6e32f728-51a7-4677-b5e4-fff33f05e730)
+**发布时间**: 2025-12-25 05:00
+
+#### [City of London churches offer sublime music in a divine setting](https://www.ft.com/content/650df66a-b102-4673-9c28-ada60d879e6f)
+**发布时间**: 2025-12-25 05:00
+
+#### [AI upheaval shows little sign of lessening](https://www.ft.com/content/728b03a4-cef3-4ee9-a421-d681998ef7d8)
+**发布时间**: 2025-12-25 05:00
+
+#### [Law firms hire record number of City partners as US players expand aggressively](https://www.ft.com/content/6efdc17d-bfff-4bb9-a7a1-4c42763adbe9)
+**发布时间**: 2025-12-25 05:00
+
+#### [Democratic senators urge Trump to halt mass recall of ambassadors](https://www.ft.com/content/ffe6a612-dc55-4643-8d0a-04e5f805a812)
+**发布时间**: 2025-12-24 21:03
 
 ---
 
