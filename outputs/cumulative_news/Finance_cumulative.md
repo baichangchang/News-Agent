@@ -1,7 +1,36 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-25 23:27
+**最后更新时间**: 2025-12-26 05:30
+
+---
+
+## 🆕 最新更新 (2025-12-26 05:30)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [AI boom adds $500bn to net worth of US tech billionaires in 2025](https://www.ft.com/content/9dcd770a-1ca7-4533-980c-08c5704c9670)
+**发布时间**: 2025-12-26 05:00
+
+#### [How weight-loss jabs are changing life in the City](https://www.ft.com/content/2164f23c-9602-4bcd-9c39-f310861dfd48)
+**发布时间**: 2025-12-26 05:00
+
+#### [China isn’t just dumping cheap goods anymore — it’s sending caviar](https://www.ft.com/content/461009e1-ec74-47ab-ae6b-72a32474df31)
+**发布时间**: 2025-12-26 05:00
+
+#### [The FTSE 100’s worst and best performers in 2025](https://www.ft.com/content/22053b83-a584-42f6-a3fc-1bf5d53c9b90)
+**发布时间**: 2025-12-26 05:00
+
+#### [UK aid sector braces spending cuts in 2026](https://www.ft.com/content/f388c2cf-d081-4e48-8ec5-7facc4faad4f)
+**发布时间**: 2025-12-26 05:00
+
+#### [Bayeux Tapestry set to be covered by £800mn UK Treasury indemnity](https://www.ft.com/content/ec9ac8eb-adce-43b1-914d-c2a7a381bf0d)
+**发布时间**: 2025-12-26 05:00
+
+#### [Solar power surplus in Spain triggers ‘discount season’ for plants](https://www.ft.com/content/5b0572e3-51f1-4d00-a7c5-b99737e1184f)
+**发布时间**: 2025-12-26 05:00
+
+#### [Trump says US struck Isis targets in Nigeria over attacks on Christians](https://www.ft.com/content/f095460e-ec99-4a63-84a5-e24ce0436cf7)
+**发布时间**: 2025-12-26 00:30
 
 ---
 

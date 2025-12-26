@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 25 Dec 2025 08:32:00 GMT</pubDate>
-    <lastBuildDate>Thu, 25 Dec 2025 08:33:36 GMT</lastBuildDate>
+    <pubDate>Fri, 26 Dec 2025 05:30:00 GMT</pubDate>
+    <lastBuildDate>Fri, 26 Dec 2025 05:30:51 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,51 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>腾讯按下AI加速键，人才、组织、开源动作密集</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-25-9</link>
-      <description>&lt;![CDATA[腾讯按下AI加速键，人才、组织、开源动作密集]]&gt;</description>
-      <pubDate>Thu, 25 Dec 2025 14:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-25-9</guid>
+      <title>Agent「记吃不记打」？华为诺亚&amp;港中文发布SCOPE：Prompt自我进化，让HLE成功率翻倍</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-26-5</link>
+      <description>&lt;![CDATA[Agent「记吃不记打」？华为诺亚&amp;港中文发布SCOPE：Prompt自我进化，让HLE成功率翻倍]]&gt;</description>
+      <pubDate>Fri, 26 Dec 2025 13:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-26-5</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>无需再训练微调，一个辅助系统让GPT-5.2准确率飙到创纪录的75%</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-25-8</link>
-      <description>&lt;![CDATA[无需再训练微调，一个辅助系统让GPT-5.2准确率飙到创纪录的75%]]&gt;</description>
-      <pubDate>Thu, 25 Dec 2025 14:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-25-8</guid>
+      <title>顶刊TPAMI｜多模态视频理解领域重磅数据更新：MeViSv2发布</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-26-4</link>
+      <description>&lt;![CDATA[顶刊TPAMI｜多模态视频理解领域重磅数据更新：MeViSv2发布]]&gt;</description>
+      <pubDate>Fri, 26 Dec 2025 13:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-26-4</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>模仿人类直觉的AI，化学本体驱动的反应路径搜索新范式，用知识结构替代暴力搜索</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-25-7</link>
-      <description>&lt;![CDATA[模仿人类直觉的AI，化学本体驱动的反应路径搜索新范式，用知识结构替代暴力搜索]]&gt;</description>
-      <pubDate>Thu, 25 Dec 2025 14:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-25-7</guid>
+      <title>离谱：256G内存比RTX5090还贵，你要为AI买单吗？</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-26-3</link>
+      <description>&lt;![CDATA[离谱：256G内存比RTX5090还贵，你要为AI买单吗？]]&gt;</description>
+      <pubDate>Fri, 26 Dec 2025 11:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-26-3</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>越狱成功率飙升至87.6%，南京大学联合美团、上交破解主流视频生成模型安全漏洞</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-25-6</link>
-      <description>&lt;![CDATA[越狱成功率飙升至87.6%，南京大学联合美团、上交破解主流视频生成模型安全漏洞]]&gt;</description>
-      <pubDate>Thu, 25 Dec 2025 14:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-25-6</guid>
+      <title>全异构、全异步的RLinf v0.2尝鲜版发布，支持真机强化学习，像使用GPU一样使用你的机器人！</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-26-2</link>
+      <description>&lt;![CDATA[全异构、全异步的RLinf v0.2尝鲜版发布，支持真机强化学习，像使用GPU一样使用你的机器人！]]&gt;</description>
+      <pubDate>Fri, 26 Dec 2025 11:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-26-2</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>字节Seed发布最强数学模型：一招“打草稿”，IMO银牌变金牌</title>
-      <link>https://www.qbitai.com/2025/12/365878.html</link>
-      <description>&lt;![CDATA[字节Seed发布最强数学模型：一招“打草稿”，IMO银牌变金牌]]&gt;</description>
-      <pubDate>Thu, 25 Dec 2025 06:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/12/365878.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>PPIO荣获InfoQ2025 年度 AI 基础设施卓越奖</title>
-      <link>https://www.qbitai.com/2025/12/365873.html</link>
-      <description>&lt;![CDATA[PPIO荣获InfoQ2025 年度 AI 基础设施卓越奖]]&gt;</description>
-      <pubDate>Thu, 25 Dec 2025 05:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/12/365873.html</guid>
+      <title>灵巧手企业曦诺未来Xynova完成超亿元天使轮融资</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-26</link>
+      <description>&lt;![CDATA[灵巧手企业曦诺未来Xynova完成超亿元天使轮融资]]&gt;</description>
+      <pubDate>Fri, 26 Dec 2025 10:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-26</guid>
       <category>Ai</category>
     </item>
   </channel>
