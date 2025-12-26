@@ -1,7 +1,15 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-26 05:30
+**最后更新时间**: 2025-12-26 08:32
+
+---
+
+## 🆕 最新更新 (2025-12-26 08:32)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [UK aid sector braces for spending cuts in 2026](https://www.ft.com/content/f388c2cf-d081-4e48-8ec5-7facc4faad4f)
+**发布时间**: 2025-12-26 05:00
 
 ---
 
