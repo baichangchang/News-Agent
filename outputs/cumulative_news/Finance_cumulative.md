@@ -1,7 +1,15 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-26 23:22
+**最后更新时间**: 2025-12-27 05:24
+
+---
+
+## 🆕 最新更新 (2025-12-27 05:24)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Union chief backs calls for a UK-EU customs union](https://www.ft.com/content/ebd2a3f7-43d7-4cb8-ac68-8a1f6499b320)
+**发布时间**: 2025-12-27 00:01
 
 ---
 
