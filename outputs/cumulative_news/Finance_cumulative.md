@@ -1,7 +1,23 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-27 08:30
+**最后更新时间**: 2025-12-27 23:22
+
+---
+
+## 🆕 最新更新 (2025-12-27 23:22)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [America’s food market is rigged. Look who’s getting rich while many of us struggle with grocery bills.](https://www.marketwatch.com/story/many-americans-are-struggling-to-afford-food-ask-yourself-whos-getting-rich-from-this-5a04b33e?mod=mw_rss_topstories)
+**发布时间**: 2025-12-27 21:17
+
+#### [‘Is this really what college bowl games have become?’: Critics say goofy Pop-Tarts and Duke’s Mayo sponsorships are overshadowing the football](https://www.marketwatch.com/story/is-this-really-what-college-bowl-games-have-become-critics-say-games-sponsored-by-pop-tarts-and-mayonnaise-take-attention-away-from-football-8bccaa12?mod=mw_rss_topstories)
+**发布时间**: 2025-12-27 18:14
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Russia launches air attack on Kyiv as Zelenskyy prepares for Trump meeting](https://www.ft.com/content/a7339abf-741d-43d7-aae7-b6b8330af737)
+**发布时间**: 2025-12-27 20:06
 
 ---
 

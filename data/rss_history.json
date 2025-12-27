@@ -57,66 +57,6 @@
       }
     },
     "Technology": {
-      "760d881e10a9fc43675de8588a17c3473e731c6f2441152b2b7ef83155c2cfb7": {
-        "title": "C++之父亲临北京，AI 原生时代最值得参加的系统软件技术大会日程发布",
-        "link": "https://www.tmtpost.com/7784981.html",
-        "published_date": "Thu, 27 Nov 2025 16:19:00 GMT",
-        "first_seen": "2025-11-27T08:31:11.075370"
-      },
-      "74fc32419ac01ecb5877fd80f1d15c3ba7e1fd5f9a6b8025701a09ec6dcf73e5": {
-        "title": "金山办公与钉钉、飞书进入正面战场",
-        "link": "https://www.tmtpost.com/7784927.html",
-        "published_date": "Thu, 27 Nov 2025 15:54:00 GMT",
-        "first_seen": "2025-11-27T08:31:11.075500"
-      },
-      "70887e68c441f00e1118cb44b514a0218279eb27e5a8e3bdc68bc8389342d851": {
-        "title": "技术突破叠加资本入局，硅基负极大规模商业化道路还有多远？",
-        "link": "https://www.tmtpost.com/7784076.html",
-        "published_date": "Thu, 27 Nov 2025 15:39:00 GMT",
-        "first_seen": "2025-11-27T08:31:11.075440"
-      },
-      "105d30507e031fabbcb48bc11556b265b5909000f71e244e60114b82f5c55ff4": {
-        "title": "3800 亿，也撑不起阿里的 AI 野心？",
-        "link": "https://www.tmtpost.com/7784871.html",
-        "published_date": "Thu, 27 Nov 2025 15:30:00 GMT",
-        "first_seen": "2025-11-27T08:31:11.075512"
-      },
-      "e81c8f64d196a07d6d47ef5329e3692ac5df7b2954819ca19688a83c15655a24": {
-        "title": "AI泡沫论升温，智能体为何迎来爆发元年？",
-        "link": "https://www.tmtpost.com/7784821.html",
-        "published_date": "Thu, 27 Nov 2025 15:30:00 GMT",
-        "first_seen": "2025-11-27T08:31:11.075521"
-      },
-      "659ba5cffbb1abb59a7e918419f46e01c8f9513dfe80660b353061466c4d4d9c": {
-        "title": "谷歌 Ironwood TPU 突袭，英伟达 GPU 迎来挑战者？",
-        "link": "https://www.tmtpost.com/7784794.html",
-        "published_date": "Thu, 27 Nov 2025 15:30:00 GMT",
-        "first_seen": "2025-11-27T08:31:11.075533"
-      },
-      "e4caf7a9acb6d642660fc4eafe1aff7d305b0ea25d58a7cccb5417bd2d52c7d9": {
-        "title": "储能观察：特斯拉与中企混战，全球储能龙头再易主",
-        "link": "https://www.tmtpost.com/7784574.html",
-        "published_date": "Thu, 27 Nov 2025 15:29:00 GMT",
-        "first_seen": "2025-11-27T08:31:11.075544"
-      },
-      "c770608b060c761486992850049d4fabfabc97d1d136463bc7477af62d761afa": {
-        "title": "瑞士机器人科技公司Gravis Robotics研发模块化车顶自主控制套件，实现建筑土方作业自动化",
-        "link": "https://www.tmtpost.com/7784835.html",
-        "published_date": "Thu, 27 Nov 2025 15:29:00 GMT",
-        "first_seen": "2025-11-27T08:31:11.075459"
-      },
-      "d4fa836f3de0af4b0d45ad68148cbf2bb6ebc50845b6c9afa05be5ff0496f5e3": {
-        "title": "核弹级交易！Meta砸数十亿美元购谷歌AI芯片，英伟达10%江山将易主？Alphabet市值飙向4万亿美元",
-        "link": "https://www.infoq.cn/article/WIWiB8ye8TACR1u7rEPN?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 27 Nov 2025 15:25:00 GMT",
-        "first_seen": "2025-11-27T08:31:11.075476"
-      },
-      "83780a7402e16fd8817fe671f900dd183b19de9197ddf7c2ec21061381c7f836": {
-        "title": "AI 万象，最近直播间一款很有梗的产品",
-        "link": "http://www.geekpark.net/news/357351",
-        "published_date": "Thu, 27 Nov 2025 14:54:00 GMT",
-        "first_seen": "2025-11-27T08:31:11.075489"
-      },
       "c4cad3e093752290b19ce39bc0e196b9d7bd06bd9423beb60fdd6bb937700551": {
         "title": "【钛晨报】国常会最新部署！鼓励促进全民阅读的新技术、新载体、新设施等开发应用；10倍大牛股紧急公告：风险巨大，今起停牌；中国AI开源模型下载量占比首超美国",
         "link": "https://www.tmtpost.com/7785605.html",
@@ -10862,6 +10802,42 @@
         "link": "https://www.infoq.cn/article/PiKd5qvf3L7NQRYqwSvj?utm_source=rss&utm_medium=article",
         "published_date": "Sat, 27 Dec 2025 13:37:00 GMT",
         "first_seen": "2025-12-27T08:30:35.332040"
+      },
+      "6cec2239389120f587a991dc175367d4574bb2fc93a74a59fe77504d2bf2a3e7": {
+        "title": "百度将于2026年在英国测试无人驾驶；香飘飘拟在泰国投资建设生产基地；小鹏公布中东非市场进展｜一周大公司出海动态",
+        "link": "https://www.tmtpost.com/7823124.html",
+        "published_date": "Sat, 27 Dec 2025 20:01:00 GMT",
+        "first_seen": "2025-12-27T23:22:29.360357"
+      },
+      "f28a4247294d7ea7b14a9761c9f4ffadc6e8c0045df42466c3ea3401ddfd8dd5": {
+        "title": "豆瓣9.6分，Netflix怒砸4.8亿美元的悬疑王炸，结局封神",
+        "link": "https://www.tmtpost.com/7823209.html",
+        "published_date": "Sat, 27 Dec 2025 18:41:00 GMT",
+        "first_seen": "2025-12-27T23:22:29.360364"
+      },
+      "3f1978326e7b466e7ccd2a95822994114db07e1bac5729793242efa4c067b326": {
+        "title": "从植脂末到咖啡因，霸王茶姬“罪”不在茶",
+        "link": "https://www.tmtpost.com/7823185.html",
+        "published_date": "Sat, 27 Dec 2025 17:50:00 GMT",
+        "first_seen": "2025-12-27T23:22:29.360366"
+      },
+      "56a42a408bdacb8545921d495868eae9d81a421be233275831e6afcd5929ded4": {
+        "title": "70后中专生逆袭，网红按摩仪如何“按”出10亿生意",
+        "link": "https://www.tmtpost.com/7823178.html",
+        "published_date": "Sat, 27 Dec 2025 17:50:00 GMT",
+        "first_seen": "2025-12-27T23:22:29.360368"
+      },
+      "20970d7b853dfcb4c978c481acb156bfe567208be3b4dfc1698ed0fbcb1ec945": {
+        "title": "84%中国人误认的“国货”利润骤降，日本饮料巨头的中国光环正在褪色",
+        "link": "https://www.tmtpost.com/7823106.html",
+        "published_date": "Sat, 27 Dec 2025 16:32:00 GMT",
+        "first_seen": "2025-12-27T23:22:29.360369"
+      },
+      "10d3defffd4333f7a2b03161982315b8b6cdccd260e19240975dec6ae5c156a8": {
+        "title": "预估3万亿，特斯拉用AI攥住美股的话语权",
+        "link": "https://www.tmtpost.com/7823144.html",
+        "published_date": "Sat, 27 Dec 2025 16:32:00 GMT",
+        "first_seen": "2025-12-27T23:22:29.360371"
       }
     },
     "Finance": {
@@ -14962,6 +14938,18 @@
         "link": "https://www.ft.com/content/9c3051a5-7f08-4555-b437-75527ad51d77",
         "published_date": "Sat, 27 Dec 2025 08:02:00 GMT",
         "first_seen": "2025-12-27T08:30:35.140376"
+      },
+      "a58a428cc51eb6a670e4ef9de297e3ef89ec9996a36e00ec43c3b0dcdaed485e": {
+        "title": "‘Is this really what college bowl games have become?’: Critics say goofy Pop-Tarts and Duke’s Mayo sponsorships are overshadowing the football",
+        "link": "https://www.marketwatch.com/story/is-this-really-what-college-bowl-games-have-become-critics-say-games-sponsored-by-pop-tarts-and-mayonnaise-take-attention-away-from-football-8bccaa12?mod=mw_rss_topstories",
+        "published_date": "Sat, 27 Dec 2025 18:14:00 GMT",
+        "first_seen": "2025-12-27T23:22:29.141222"
+      },
+      "bacdc72017f81c44a480fce2dab84d0ab04ddec625f501692e7a93f20b869eba": {
+        "title": "Russia launches air attack on Kyiv as Zelenskyy prepares for Trump meeting",
+        "link": "https://www.ft.com/content/a7339abf-741d-43d7-aae7-b6b8330af737",
+        "published_date": "Sat, 27 Dec 2025 20:06:00 GMT",
+        "first_seen": "2025-12-27T23:22:29.141231"
       }
     },
     "Ai": {
@@ -17766,13 +17754,37 @@
         "link": "https://www.qbitai.com/2025/12/365991.html",
         "published_date": "Fri, 26 Dec 2025 08:34:00 GMT",
         "first_seen": "2025-12-26T23:22:07.294748"
+      },
+      "542034699b7cf3bc254d3fc89c325e465a5ac79f1211c5c28e08272fe3031f3f": {
+        "title": "AI大佬Karpathy焦虑了：作为程序员，我从未感到如此落后",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-27-4",
+        "published_date": "Sat, 27 Dec 2025 19:34:00 GMT",
+        "first_seen": "2025-12-27T23:22:29.267523"
+      },
+      "9fdd5e9be44fa14214bcbc821a369f570598c8d8a38734f0f68040bffbf11f70": {
+        "title": "告别「单线程」思维：通研院提出NPR框架，让智能体进化出原生的并行推理大脑",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-27-3",
+        "published_date": "Sat, 27 Dec 2025 19:25:00 GMT",
+        "first_seen": "2025-12-27T23:22:29.267530"
+      },
+      "52028a10faf143e89376c732765ad0c79875b5bb2080f5888d530098f7e4f7ff": {
+        "title": "SIGGRAPH Asia 2025｜当视频生成真正「看清一个人」：多视角身份一致、真实光照与可控镜头的统一框架",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-27-2",
+        "published_date": "Sat, 27 Dec 2025 19:18:00 GMT",
+        "first_seen": "2025-12-27T23:22:29.267533"
+      },
+      "5fbdb3e0a5eaddd1fff0d13ba0708e78ba4d930f9b15b121b6fef0722e374aa5": {
+        "title": "马斯克圣诞礼物：X上所有图片都能一键AI改图了，全球画师暴怒",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-27",
+        "published_date": "Sat, 27 Dec 2025 19:14:00 GMT",
+        "first_seen": "2025-12-27T23:22:29.267535"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2025-12-27T08:30:35.332042",
-    "Finance": "2025-12-27T08:30:35.140390",
-    "Ai": "2025-12-26T23:22:07.294750"
+    "Technology": "2025-12-27T23:22:29.360373",
+    "Finance": "2025-12-27T23:22:29.141234",
+    "Ai": "2025-12-27T23:22:29.267537"
   }
 }
