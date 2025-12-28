@@ -10537,6 +10537,12 @@
         "link": "https://www.tmtpost.com/7822224.html",
         "published_date": "Sun, 28 Dec 2025 08:30:00 GMT",
         "first_seen": "2025-12-28T05:28:07.247371"
+      },
+      "15a68576c2935f44287f3d15d085c956e64b2eb3078e0854e97a0c9dead72381": {
+        "title": "借 AntiGravity，给个人消费一次「年度盘点」",
+        "link": "https://sspai.com/post/104232",
+        "published_date": "Sun, 28 Dec 2025 15:28:00 GMT",
+        "first_seen": "2025-12-28T08:35:22.043094"
       }
     },
     "Finance": {
@@ -14697,6 +14703,12 @@
         "link": "https://www.ft.com/content/2d9ed75f-b149-4c1a-917a-1215dde5718e",
         "published_date": "Sun, 28 Dec 2025 05:00:00 GMT",
         "first_seen": "2025-12-28T05:28:07.031020"
+      },
+      "84f1a106471ff58879a28d587fce24ce024edcfcb626acce1d5f884fff0d3ba2": {
+        "title": "Japanese births set to fall below lowest official forecasts in 2025",
+        "link": "https://www.ft.com/content/a8127924-2e46-47aa-8429-8813099a26c4",
+        "published_date": "Sun, 28 Dec 2025 05:53:00 GMT",
+        "first_seen": "2025-12-28T08:35:21.852755"
       }
     },
     "Ai": {
@@ -17542,8 +17554,8 @@
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2025-12-28T05:28:07.247373",
-    "Finance": "2025-12-28T05:28:07.031021",
+    "Technology": "2025-12-28T08:35:22.043101",
+    "Finance": "2025-12-28T08:35:21.852761",
     "Ai": "2025-12-28T05:28:07.159640"
   }
 }

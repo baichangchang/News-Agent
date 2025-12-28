@@ -1,7 +1,15 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-28 05:28
+**最后更新时间**: 2025-12-28 08:35
+
+---
+
+## 🆕 最新更新 (2025-12-28 08:35)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Japanese births set to fall below lowest official forecasts in 2025](https://www.ft.com/content/a8127924-2e46-47aa-8429-8813099a26c4)
+**发布时间**: 2025-12-28 05:53
 
 ---
 
