@@ -1,7 +1,62 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-29 05:31
+**最后更新时间**: 2025-12-29 23:22
+
+---
+
+## 🆕 最新更新 (2025-12-29 23:22)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Why your kitchen cabinets and furniture could get more expensive next year](https://www.marketwatch.com/story/why-your-kitchen-cabinets-and-furniture-could-get-more-expensive-next-year-4cff045f?mod=mw_rss_topstories)
+**发布时间**: 2025-12-29 23:17
+
+#### [‘I completely trust her’: Should I name my daughter as beneficiary on all my accounts — or add her name instead?](https://www.marketwatch.com/story/i-completely-trust-her-should-i-name-my-daughter-as-beneficiary-on-all-my-accounts-or-add-her-name-instead-dc24750b?mod=mw_rss_topstories)
+**发布时间**: 2025-12-29 23:01
+
+#### [‘I’m fed up’: My selfish mother-in-law has controlled me for 30 years. How can I regain my power?](https://www.marketwatch.com/story/im-completely-fed-up-my-selfish-boomer-mother-in-law-has-controlled-me-for-30-years-how-can-i-regain-my-power-7d6b82e0?mod=mw_rss_topstories)
+**发布时间**: 2025-12-29 22:37
+
+#### [Strategy’s stock falls to fresh lows after using more share sales to buy bitcoin](https://www.marketwatch.com/story/strategys-stock-falls-to-fresh-lows-after-using-more-share-sales-to-buy-bitcoin-a399f21d?mod=mw_rss_topstories)
+**发布时间**: 2025-12-29 22:09
+
+#### [Beyoncé just became a billionaire. Here’s how she did it.](https://www.marketwatch.com/story/beyonce-just-became-a-billionaire-heres-how-she-did-it-e267802d?mod=mw_rss_topstories)
+**发布时间**: 2025-12-29 22:00
+
+#### [Trump eyes January for announcement of Powell replacement as he renews attacks on Fed chief](https://www.marketwatch.com/story/trump-eyes-january-for-announcement-of-powell-replacement-as-he-renews-attacks-on-fed-chief-914828b2?mod=mw_rss_topstories)
+**发布时间**: 2025-12-29 21:52
+
+#### [Warren Buffett gifts us 5 secrets for investing success, as he hands off Berkshire’s reins this week](https://www.marketwatch.com/story/warren-buffett-gifts-us-these-5-investing-gems-as-berkshires-new-ceo-takes-the-reins-aa948685?mod=mw_rss_topstories)
+**发布时间**: 2025-12-29 21:30
+
+#### [The Fed has gone into hibernation. Tuesday may bring clues to how long it might wait to emerge.](https://www.marketwatch.com/story/the-fed-has-gone-into-hibernation-tuesday-may-bring-clues-to-how-long-it-might-wait-to-emerge-7ee04f6c?mod=mw_rss_topstories)
+**发布时间**: 2025-12-29 21:23
+
+#### [How Lululemon’s founder is looking to restore investors’ faith as a new CEO is picked](https://www.marketwatch.com/story/why-lululemon-founder-chip-wilson-wants-to-shake-up-the-board-ahead-of-ceos-departure-c2b5387e?mod=mw_rss_topstories)
+**发布时间**: 2025-12-29 21:20
+
+#### [This winning fund manager spills 4 secrets about smart ways to buy non-U.S. stocks](https://www.marketwatch.com/story/this-winning-fund-manager-spills-4-secrets-about-smart-ways-to-buy-non-u-s-stocks-35fd47da?mod=mw_rss_topstories)
+**发布时间**: 2025-12-29 20:30
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [UK’s Octopus Energy to sell stake in tech spin-off Kraken at $8.65bn valuation](https://www.ft.com/content/eaad78f4-b52c-4116-ad1b-3e79694ebeed)
+**发布时间**: 2025-12-29 22:53
+
+#### [Lululemon founder calls for board overhaul at struggling fitness brand](https://www.ft.com/content/e46824b3-e80f-4c63-9ab0-69aad4f651dd)
+**发布时间**: 2025-12-29 22:42
+
+#### [US stocks eclipsed by rest of world in 2025 as investors diversify](https://www.ft.com/content/10a8a099-5719-42ce-a2eb-edc3045a632f)
+**发布时间**: 2025-12-29 21:10
+
+#### [Trump confirms US carried out strike on ‘dock area’ in Venezuela](https://www.ft.com/content/c68fe25d-2462-4ed9-8159-1f3bbdc07a54)
+**发布时间**: 2025-12-29 20:47
+
+#### [Silver price tumbles as record-breaking rally goes into reverse](https://www.ft.com/content/b9cad28d-b786-431a-a10f-a377dbf1a868)
+**发布时间**: 2025-12-29 17:16
+
+#### [The events that defined world politics in 2025](https://www.ft.com/content/a76fc207-d63f-4deb-9f43-7a69da4b8856)
+**发布时间**: 2025-12-29 14:15
 
 ---
 
