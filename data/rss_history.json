@@ -2,18 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "b5f8894a64dd70d3b1cbdfbf8eaa25ad8eb66c28fc063ac9b999059bb4f82c96": {
-        "title": "对话卡尔动力CEO韦峻青：自动驾驶卡车赛道即将形成商业闭环 | 巴伦精选",
-        "link": "https://www.tmtpost.com/7788529.html",
-        "published_date": "Sun, 30 Nov 2025 15:06:00 GMT",
-        "first_seen": "2025-11-30T08:27:55.937827"
-      },
-      "47ec6ea0065f5b164bee3362fc0c7bb902915a011abd0b799183bbbdc3ec5c04": {
-        "title": "央行定调稳定币违法，相比欧美中国为何走“禁止”这条路？| 马上评",
-        "link": "https://www.tmtpost.com/7788487.html",
-        "published_date": "Sun, 30 Nov 2025 14:12:00 GMT",
-        "first_seen": "2025-11-30T08:27:55.937834"
-      },
       "e1b0dc575d63d73d02e5ac625bbbfe8a290792be0366e914660c086fa093c51c": {
         "title": "宝马M的“平衡术”：在激进转型的车市中，寻找燃油车的生存缝隙",
         "link": "https://www.tmtpost.com/7788829.html",
@@ -10441,45 +10429,141 @@
         "link": "https://sspai.com/post/104994",
         "published_date": "Tue, 30 Dec 2025 08:12:00 GMT",
         "first_seen": "2025-12-30T05:28:04.977447"
+      },
+      "6c649853da591acc9c6e972b7583ed697a060eeb872c6387a6127f9d8b25d077": {
+        "title": "大模型狂叠 buff、Agent乱杀，2025大洗牌预警：96%中国机器人公司恐活不过明年，哪个行业真正被AI改造了？",
+        "link": "https://www.infoq.cn/article/RdJt87O52zdYrmi81CEp?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 30 Dec 2025 16:23:00 GMT",
+        "first_seen": "2025-12-30T08:33:40.354645"
+      },
+      "00cf3969b2574705e5ed977317303ec2f6f02223a012ebb36ff313106ce43146": {
+        "title": "真正的Jarvis要来了？涂鸦智能押注Physical AI",
+        "link": "https://www.infoq.cn/article/wMddiUfgpHt9QzDTpGDM?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 30 Dec 2025 15:05:00 GMT",
+        "first_seen": "2025-12-30T08:33:40.354653"
+      },
+      "422bb54f2a31375b90155aaf57b8083005d72c9ecbf3259005f6fda4ab0d3ad7": {
+        "title": "整机 29 克、全球最轻的AI眼镜上线？闪极两款AI眼镜新品开售，入手价1999元起",
+        "link": "https://www.infoq.cn/article/8FBNCryRBNOp8AIr8LgZ?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 30 Dec 2025 15:01:00 GMT",
+        "first_seen": "2025-12-30T08:33:40.354655"
+      },
+      "cb61dddc22da6287559f001a23cf5914d6d59cf9ac1ba7483921b4c57ed7fd8b": {
+        "title": "对话天猪：AI 时代的挑战与程序员的认知进化",
+        "link": "https://www.infoq.cn/article/EiO80Aacx4sMZHjtXqNR?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 30 Dec 2025 14:30:00 GMT",
+        "first_seen": "2025-12-30T08:33:40.354657"
+      },
+      "522d4b3544428f06d63a808ab5ffb0426725843ada881870d07417ef561b98b4": {
+        "title": "对话 CodeBuddy黄广民：一堆“冒烟”的上下文，正在决定 AI 编程的成败",
+        "link": "https://www.infoq.cn/article/j8jMvIOfmZS8M33t72uP?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 30 Dec 2025 14:30:00 GMT",
+        "first_seen": "2025-12-30T08:33:40.354659"
+      },
+      "8088c154a941c45e9d76e9c70d7890bbc5f24f488cfbc362d977ca33db5c65af": {
+        "title": "在Go中使用QJS和WebAssembly运行现代ES2023 JavaScript",
+        "link": "https://www.infoq.cn/article/xmt3XjJbX8LTPUHUd0XL?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 30 Dec 2025 14:27:00 GMT",
+        "first_seen": "2025-12-30T08:33:40.354660"
+      },
+      "e1555795a4d286def871445de12d0b2dc7e1812d442c4c20bca2ca971f120d20": {
+        "title": "优步采用Amazon OpenSearch进行语义搜索，以更好地捕捉用户意图",
+        "link": "https://www.infoq.cn/article/mkdfBHl8tbvjFbP19JP6?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 30 Dec 2025 13:42:00 GMT",
+        "first_seen": "2025-12-30T08:33:40.354662"
+      },
+      "250abf2faebfc0a26b395be75e0e6068add196cbc6c85e2f83a28e21807b8782": {
+        "title": "Snowflake Intelligence：与数据对话，解锁真实商业洞察 ｜ 技术趋势",
+        "link": "https://www.infoq.cn/article/HlkoQs3mGH89AsawtGaU?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 30 Dec 2025 13:40:00 GMT",
+        "first_seen": "2025-12-30T08:33:40.354663"
+      },
+      "c18858e451d845056c2388de089dcc184719c28df5e2f1e0ff27c286206525de": {
+        "title": "智谱启动招股，估值超500亿港元",
+        "link": "https://www.tmtpost.com/7826011.html",
+        "published_date": "Tue, 30 Dec 2025 15:59:00 GMT",
+        "first_seen": "2025-12-30T08:33:40.354664"
+      },
+      "73d3433bb635be8804330a64581e2f9982777f428571d01c718230a1fff6e55d": {
+        "title": "绵柔飘香世界，洋河股份斩获“全球化先锋企业” 称号",
+        "link": "https://www.tmtpost.com/7825974.html",
+        "published_date": "Tue, 30 Dec 2025 15:13:00 GMT",
+        "first_seen": "2025-12-30T08:33:40.354666"
+      },
+      "789c18b4f32e97c1016406f240e426b39ccc7ed2ad0ea5defc1079f9c6ed3bc7": {
+        "title": "国网综能副总樊功成被查，为何牵动“隔墙售电”改革神经？",
+        "link": "https://www.tmtpost.com/7825891.html",
+        "published_date": "Tue, 30 Dec 2025 15:12:00 GMT",
+        "first_seen": "2025-12-30T08:33:40.354668"
+      },
+      "3065ac8fd7078f02fc2cc72160f8e9fb6709ca7814a86d5341a727ab0d35a08a": {
+        "title": "“斩杀线”下的美国养老真相",
+        "link": "https://www.tmtpost.com/7825916.html",
+        "published_date": "Tue, 30 Dec 2025 15:12:00 GMT",
+        "first_seen": "2025-12-30T08:33:40.354669"
+      },
+      "b11b95d3b207f4a4869de289806731ce70307c02498c3bb7ec804e7197b958f2": {
+        "title": "大批卖家被迫出局，意大利市场大洗牌",
+        "link": "https://www.tmtpost.com/7825917.html",
+        "published_date": "Tue, 30 Dec 2025 15:12:00 GMT",
+        "first_seen": "2025-12-30T08:33:40.354671"
+      },
+      "9052c7ec70c24960438e36df4000d3c016679f8fdb9fd15dc891ccb2bbb774d2": {
+        "title": "从4个月2.2亿到1个月10亿播放，女频漫剧距离爆款还差哪一步？",
+        "link": "https://www.tmtpost.com/7825970.html",
+        "published_date": "Tue, 30 Dec 2025 15:12:00 GMT",
+        "first_seen": "2025-12-30T08:33:40.354672"
+      },
+      "a25a87c905445acff3950f1a36902e8b6c82f8c021030355e7455102f173eafe": {
+        "title": "全球AI制药领军企业英矽智能成功登陆港交所 | 公司动态",
+        "link": "https://www.tmtpost.com/7825831.html",
+        "published_date": "Tue, 30 Dec 2025 14:20:00 GMT",
+        "first_seen": "2025-12-30T08:33:40.354674"
+      },
+      "9e652ebfb3d146c1929d193f87fe6a089346dee3c9d249205dd19594c35cccc0": {
+        "title": "Meta买下Manus，买的是AI变现模板",
+        "link": "https://www.tmtpost.com/7825802.html",
+        "published_date": "Tue, 30 Dec 2025 14:06:00 GMT",
+        "first_seen": "2025-12-30T08:33:40.354675"
+      },
+      "2b37752553a67f04b7e9a47b6257f035a108e96bb545f31aaed65af1efc853ee": {
+        "title": "春节把“乐事”带回家，为什么能占据消费者心智？",
+        "link": "https://www.tmtpost.com/7819356.html",
+        "published_date": "Tue, 30 Dec 2025 14:05:00 GMT",
+        "first_seen": "2025-12-30T08:33:40.354677"
+      },
+      "fe7d71120c566961d82e6db47cb3cb0b2147b57aeaa0411bd6b2933d40bee94c": {
+        "title": "优衣库们盯上了娃衣",
+        "link": "https://www.tmtpost.com/7825820.html",
+        "published_date": "Tue, 30 Dec 2025 13:43:00 GMT",
+        "first_seen": "2025-12-30T08:33:40.354678"
+      },
+      "c1eabb2ff3fc1132e8b803974fa8481094b56bc0e6337aaf48564b21005017f5": {
+        "title": "酒店收并购走向激流深处",
+        "link": "https://www.tmtpost.com/7825771.html",
+        "published_date": "Tue, 30 Dec 2025 13:42:00 GMT",
+        "first_seen": "2025-12-30T08:33:40.354680"
+      },
+      "11c68c0e090456817f584f58060d495b2a50b0be9f58a4e05e40f3e2652c05f5": {
+        "title": "安全键盘：一场横跨 30 年的大型掩耳盗铃",
+        "link": "https://sspai.com/post/104978",
+        "published_date": "Tue, 30 Dec 2025 15:00:00 GMT",
+        "first_seen": "2025-12-30T08:33:40.354681"
+      },
+      "5850307036ce388cfccbe007830bf5f6c38845978512635071977cb66a5636a3": {
+        "title": "从热搜报告中，我发现了跟过往不同的三个深层变化......",
+        "link": "http://www.huxiu.com/article/4821404.html?f=wangzhan",
+        "published_date": "Tue, 30 Dec 2025 14:00:00 GMT",
+        "first_seen": "2025-12-30T08:33:40.354683"
+      },
+      "8a0d86f4a6b95bb9bbeb069e100b375c87c97ef9332384fd5b6341677f521fdd": {
+        "title": "李书福，考验将至",
+        "link": "http://www.huxiu.com/article/4815326.html?f=wangzhan",
+        "published_date": "Tue, 30 Dec 2025 07:08:00 GMT",
+        "first_seen": "2025-12-30T08:33:40.354685"
       }
     },
     "Finance": {
-      "7b7b0b0be72038950a7cbd4401fef44993a88d852d5a75e4a12ee48b299d1d29": {
-        "title": "How time became money: clocks, capitalism and wealth",
-        "link": "https://www.ft.com/content/696d9ced-9022-49bc-9cd9-501fce897146",
-        "published_date": "Sun, 30 Nov 2025 05:00:00 GMT",
-        "first_seen": "2025-11-30T08:27:55.765876"
-      },
-      "2e24ff0f6d9a7af1906a116148c2fe3415e66ef258704a3632cc7b89d452c953": {
-        "title": "OpenAI’s lead under pressure as rivals start to close the gap",
-        "link": "https://www.ft.com/content/8881062d-ff4f-4454-8e9d-d992e8e2c4e3",
-        "published_date": "Sun, 30 Nov 2025 05:00:00 GMT",
-        "first_seen": "2025-11-30T08:27:55.765885"
-      },
-      "ccb16ad33fd20402d52cae2b87ead792932b534ca4b8ddc32158cd219019ff43": {
-        "title": "Morgan Stanley and Goldman dominate Hong Kong equity deals",
-        "link": "https://www.ft.com/content/58155300-5c0d-47ce-90fa-2350cd43ffff",
-        "published_date": "Sun, 30 Nov 2025 05:00:00 GMT",
-        "first_seen": "2025-11-30T08:27:55.765887"
-      },
-      "ccf3bcca642c412aa6f868ced115ac536398ac40558721dac10fce8ace1392b2": {
-        "title": "Switzerland votes on 50% inheritance tax for the super-rich",
-        "link": "https://www.ft.com/content/f03fdcf8-d032-40ef-9ea1-ff32c182df8a",
-        "published_date": "Sun, 30 Nov 2025 05:00:00 GMT",
-        "first_seen": "2025-11-30T08:27:55.765889"
-      },
-      "26ad461c6a33a2351655f2656f29951c5b7f16442c74b3bd7e9fb62829bfeea7": {
-        "title": "Health minister says UK should cash in on NHS patient data",
-        "link": "https://www.ft.com/content/0531e76b-a800-450f-8a10-ac5ada1b2695",
-        "published_date": "Sun, 30 Nov 2025 05:00:00 GMT",
-        "first_seen": "2025-11-30T08:27:55.765891"
-      },
-      "d0cd0c8562480f1ead27c8abe087078b0704f7871a2f66316665524d69252197": {
-        "title": "China services activity hits three-year low while factory slump persists",
-        "link": "https://www.ft.com/content/d6470584-f019-499c-bd27-839d2373f7f6",
-        "published_date": "Sun, 30 Nov 2025 04:53:00 GMT",
-        "first_seen": "2025-11-30T08:27:55.765892"
-      },
       "2dcf737b0192c18a6fe10219e8dd367e6b36e40419f4e85ee0bcd1c144ce0127": {
         "title": "Ukraine says it held ‘difficult but productive’ talks with US on peace plan",
         "link": "https://www.ft.com/content/feea78a5-364a-4296-895b-a68323fe4944",
@@ -14640,18 +14724,6 @@
       }
     },
     "Ai": {
-      "4071fcb0b263627ea943dac939e52bc5d5f850564f5826a677fa5a5495ed2f7c": {
-        "title": "阶跃开源4B Agent模型，跑通所有安卓设备，手搓党一键部署",
-        "link": "https://www.qbitai.com/2025/11/357627.html",
-        "published_date": "Sun, 30 Nov 2025 07:04:00 GMT",
-        "first_seen": "2025-11-30T08:27:55.886007"
-      },
-      "16c053900e0627e716f2d1cb65cc8bf0a6c10713adf098b8c718e6449df88ed3": {
-        "title": "居然有21%的ICLR 2026评审纯用AI生成…",
-        "link": "https://www.qbitai.com/2025/11/357579.html",
-        "published_date": "Sun, 30 Nov 2025 06:57:00 GMT",
-        "first_seen": "2025-11-30T08:27:55.886014"
-      },
       "951dc2cc4f04e5a68146bdcdc1a7c9b8545779180aea6eb4681b7fcd474db08d": {
         "title": "15岁拿下量子物理博士，他马不停蹄转战AI医学，誓言「创造超人类」",
         "link": "https://www.jiqizhixin.com/articles/2025-11-30-5",
@@ -17477,13 +17549,25 @@
         "link": "https://www.qbitai.com/2025/12/366226.html",
         "published_date": "Tue, 30 Dec 2025 00:15:00 GMT",
         "first_seen": "2025-12-30T05:28:04.851917"
+      },
+      "ff23db636efa5cf07341a3b7bf4cdc4f5a72e707bcc1a2aa81f52c68cfda990f": {
+        "title": "吴恩达年终总结：2025是AI工业时代的黎明",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-30-7",
+        "published_date": "Tue, 30 Dec 2025 15:17:00 GMT",
+        "first_seen": "2025-12-30T08:33:40.241498"
+      },
+      "bbdb68200cee46818590127d378d84257c9b3c943000ff5f819f2f20d31b4d0c": {
+        "title": "自回归因果注意力也能并行解码？上交联合UCSD突破LLM推理瓶颈，模型代码全开源",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-30-6",
+        "published_date": "Tue, 30 Dec 2025 15:10:00 GMT",
+        "first_seen": "2025-12-30T08:33:40.241508"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2025-12-30T05:28:04.977449",
+    "Technology": "2025-12-30T08:33:40.354687",
     "Finance": "2025-12-30T05:28:04.724444",
-    "Ai": "2025-12-30T05:28:04.851919"
+    "Ai": "2025-12-30T08:33:40.241511"
   }
 }
