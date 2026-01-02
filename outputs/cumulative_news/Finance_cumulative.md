@@ -1,7 +1,18 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-02 05:29
+**最后更新时间**: 2026-01-02 08:33
+
+---
+
+## 🆕 最新更新 (2026-01-02 08:33)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Donald Trump warns Iran it will ‘rescue’ protesters](https://www.ft.com/content/1aa432f5-1d01-4fcd-b6d9-c17d67d01ea5)
+**发布时间**: 2026-01-02 08:19
+
+#### [Why supermarkets are taking a bigger slice of UK pizza night](https://www.ft.com/content/e0bc0ce4-46d0-4022-ab8e-591273e92759)
+**发布时间**: 2026-01-02 05:00
 
 ---
 
