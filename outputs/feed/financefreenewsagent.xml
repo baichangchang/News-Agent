@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 02 Jan 2026 08:33:00 GMT</pubDate>
-    <lastBuildDate>Fri, 02 Jan 2026 08:33:36 GMT</lastBuildDate>
+    <pubDate>Fri, 02 Jan 2026 23:22:00 GMT</pubDate>
+    <lastBuildDate>Fri, 02 Jan 2026 23:22:27 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,11 +14,147 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Donald Trump warns Iran it will ‘rescue’ protesters</title>
-      <link>https://www.ft.com/content/1aa432f5-1d01-4fcd-b6d9-c17d67d01ea5</link>
-      <description>&lt;![CDATA[Donald Trump warns Iran it will ‘rescue’ protesters]]&gt;</description>
-      <pubDate>Fri, 02 Jan 2026 08:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/1aa432f5-1d01-4fcd-b6d9-c17d67d01ea5</guid>
+      <title>FTSE 100 tops 10,000 for first time in new year rally</title>
+      <link>https://www.ft.com/content/86286e3f-f206-437a-a634-af630d616090</link>
+      <description>&lt;![CDATA[FTSE 100 tops 10,000 for first time in new year rally]]&gt;</description>
+      <pubDate>Fri, 02 Jan 2026 22:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/86286e3f-f206-437a-a634-af630d616090</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Volodymyr Zelenskyy overhauls Ukraine’s security apparatus</title>
+      <link>https://www.ft.com/content/73140502-f8e1-427e-b70a-04e2489cae67</link>
+      <description>&lt;![CDATA[Volodymyr Zelenskyy overhauls Ukraine’s security apparatus]]&gt;</description>
+      <pubDate>Fri, 02 Jan 2026 22:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/73140502-f8e1-427e-b70a-04e2489cae67</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Tesla loses EV crown to China’s BYD</title>
+      <link>https://www.ft.com/content/c1c5f811-7b3f-4011-8e1e-cccb5aa80313</link>
+      <description>&lt;![CDATA[Tesla loses EV crown to China’s BYD]]&gt;</description>
+      <pubDate>Fri, 02 Jan 2026 22:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/c1c5f811-7b3f-4011-8e1e-cccb5aa80313</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>HSBC files bankruptcy petitions against senior members of Barclay family</title>
+      <link>https://www.ft.com/content/1baed2f6-dd47-488e-8baf-77c5262e1bae</link>
+      <description>&lt;![CDATA[HSBC files bankruptcy petitions against senior members of Barclay family]]&gt;</description>
+      <pubDate>Fri, 02 Jan 2026 19:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/1baed2f6-dd47-488e-8baf-77c5262e1bae</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>What a Soros theory can tell us about the AI boom</title>
+      <link>https://www.ft.com/content/2ae4ac28-c496-4e02-ae7e-40bedf41a8b8</link>
+      <description>&lt;![CDATA[What a Soros theory can tell us about the AI boom]]&gt;</description>
+      <pubDate>Fri, 02 Jan 2026 18:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/2ae4ac28-c496-4e02-ae7e-40bedf41a8b8</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Elon Musk’s AI chatbot generates child sexual images</title>
+      <link>https://www.ft.com/content/0747a53c-19b6-4ed9-8eea-88c327f27fe6</link>
+      <description>&lt;![CDATA[Elon Musk’s AI chatbot generates child sexual images]]&gt;</description>
+      <pubDate>Fri, 02 Jan 2026 17:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/0747a53c-19b6-4ed9-8eea-88c327f27fe6</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>A year that will dictate Starmer’s fate as prime minister</title>
+      <link>https://www.ft.com/content/2a0bef58-ad84-47dd-a093-178fd49552c7</link>
+      <description>&lt;![CDATA[A year that will dictate Starmer’s fate as prime minister]]&gt;</description>
+      <pubDate>Fri, 02 Jan 2026 14:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/2a0bef58-ad84-47dd-a093-178fd49552c7</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Computer scientist Yann LeCun: ‘Intelligence really is about learning’</title>
+      <link>https://www.ft.com/content/e3c4c2f6-4ea7-4adf-b945-e58495f836c2</link>
+      <description>&lt;![CDATA[Computer scientist Yann LeCun: ‘Intelligence really is about learning’]]&gt;</description>
+      <pubDate>Fri, 02 Jan 2026 12:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/e3c4c2f6-4ea7-4adf-b945-e58495f836c2</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>UK investment platforms to cut fees in effort to woo customers</title>
+      <link>https://www.ft.com/content/15d5edec-3493-457e-99ab-d135fb039027</link>
+      <description>&lt;![CDATA[UK investment platforms to cut fees in effort to woo customers]]&gt;</description>
+      <pubDate>Fri, 02 Jan 2026 10:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/15d5edec-3493-457e-99ab-d135fb039027</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Retirement investors should beware our volatile ‘Marie Antoinette’ market</title>
+      <link>https://www.marketwatch.com/story/retirement-investors-should-beware-our-volatile-marie-antoinette-market-ee256efd?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Retirement investors should beware our volatile ‘Marie Antoinette’ market]]&gt;</description>
+      <pubDate>Fri, 02 Jan 2026 22:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/retirement-investors-should-beware-our-volatile-marie-antoinette-market-ee256efd?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>January’s first trading days predict the stock market’s year — or so they say</title>
+      <link>https://www.marketwatch.com/story/januarys-first-trading-days-predict-the-stock-markets-year-or-so-they-say-5a858b95?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[January’s first trading days predict the stock market’s year — or so they say]]&gt;</description>
+      <pubDate>Fri, 02 Jan 2026 22:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/januarys-first-trading-days-predict-the-stock-markets-year-or-so-they-say-5a858b95?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Stocks need to find their footing fast if investors hope to keep the bears away</title>
+      <link>https://www.marketwatch.com/story/stocks-need-to-find-their-footing-fast-if-investors-hope-to-keep-the-bears-away-8e3046cf?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Stocks need to find their footing fast if investors hope to keep the bears away]]&gt;</description>
+      <pubDate>Fri, 02 Jan 2026 21:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/stocks-need-to-find-their-footing-fast-if-investors-hope-to-keep-the-bears-away-8e3046cf?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Tax-related selling could set up these 11 stocks for big gains early in 2026</title>
+      <link>https://www.marketwatch.com/story/tax-related-selling-could-set-up-these-11-stocks-for-big-gains-early-in-2026-e7da4f3a?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Tax-related selling could set up these 11 stocks for big gains early in 2026]]&gt;</description>
+      <pubDate>Fri, 02 Jan 2026 20:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/tax-related-selling-could-set-up-these-11-stocks-for-big-gains-early-in-2026-e7da4f3a?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Could retail actually rebound in 2026? These are the chains — and trends — to watch.</title>
+      <link>https://www.marketwatch.com/story/could-retail-actually-rebound-in-2026-these-are-the-chains-and-trends-to-watch-83492ac0?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Could retail actually rebound in 2026? These are the chains — and trends — to watch.]]&gt;</description>
+      <pubDate>Fri, 02 Jan 2026 20:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/could-retail-actually-rebound-in-2026-these-are-the-chains-and-trends-to-watch-83492ac0?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Tesla EV sales fall short of Wall Street’s low expectations</title>
+      <link>https://www.marketwatch.com/story/tesla-ev-sales-fall-short-of-wall-streets-low-expectations-35980885?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Tesla EV sales fall short of Wall Street’s low expectations]]&gt;</description>
+      <pubDate>Fri, 02 Jan 2026 19:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/tesla-ev-sales-fall-short-of-wall-streets-low-expectations-35980885?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>These undervalued stocks blew away the S&amp;P 500 in 2025 — a 2026 repeat is likely</title>
+      <link>https://www.marketwatch.com/story/these-stocks-doubled-the-s-p-500s-return-in-2025-why-a-2026-repeat-looks-likely-bdc93716?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[These undervalued stocks blew away the S&amp;P 500 in 2025 — a 2026 repeat is likely]]&gt;</description>
+      <pubDate>Fri, 02 Jan 2026 19:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/these-stocks-doubled-the-s-p-500s-return-in-2025-why-a-2026-repeat-looks-likely-bdc93716?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>China is using silver as an economic weapon. What that means for investors and prices.</title>
+      <link>https://www.marketwatch.com/story/china-launches-its-silver-weapon-on-jan-1-heres-what-that-means-for-prices-5c543123?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[China is using silver as an economic weapon. What that means for investors and prices.]]&gt;</description>
+      <pubDate>Fri, 02 Jan 2026 19:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/china-launches-its-silver-weapon-on-jan-1-heres-what-that-means-for-prices-5c543123?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Over 6 million Americans on Medicare will now need to get prior authorization from AI for these 17 procedures</title>
+      <link>https://www.marketwatch.com/story/over-6-million-americans-on-medicare-will-now-need-to-get-prior-authorization-from-ai-for-these-17-procedures-0cf605a2?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Over 6 million Americans on Medicare will now need to get prior authorization from AI for these 17 procedures]]&gt;</description>
+      <pubDate>Fri, 02 Jan 2026 17:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/over-6-million-americans-on-medicare-will-now-need-to-get-prior-authorization-from-ai-for-these-17-procedures-0cf605a2?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>
