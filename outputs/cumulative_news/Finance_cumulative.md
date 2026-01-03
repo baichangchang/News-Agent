@@ -1,7 +1,21 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-02 23:22
+**最后更新时间**: 2026-01-03 05:24
+
+---
+
+## 🆕 最新更新 (2026-01-03 05:24)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘I’m on a fixed budget’: Silver and gold are too rich for my blood. What else can I gift my adorable grandchildren?](https://www.marketwatch.com/story/im-on-a-fixed-budget-silver-and-gold-are-too-expensive-what-else-can-i-gift-my-infant-grandchildren-e12fa551?mod=mw_rss_topstories)
+**发布时间**: 2026-01-03 02:00
+
+#### [Here are the most popular Moneyist columns of 2025](https://www.marketwatch.com/story/here-are-the-most-popular-moneyist-columns-of-2025-057730fd?mod=mw_rss_topstories)
+**发布时间**: 2026-01-03 01:25
+
+#### [Retirement investors should beware of our volatile ‘Marie Antoinette’ market](https://www.marketwatch.com/story/retirement-investors-should-beware-our-volatile-marie-antoinette-market-ee256efd?mod=mw_rss_topstories)
+**发布时间**: 2026-01-02 22:23
 
 ---
 
