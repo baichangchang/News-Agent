@@ -1,7 +1,33 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-03 05:24
+**最后更新时间**: 2026-01-03 08:32
+
+---
+
+## 🆕 最新更新 (2026-01-03 08:32)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Explosions hit Venezuelan capital Caracas](https://www.ft.com/content/46ee8a0f-d421-4f7d-9514-297a576ec346)
+**发布时间**: 2026-01-03 08:10
+
+#### [How the bubble bursts](https://www.ft.com/content/7987310a-5c90-4976-b730-3559502006e2)
+**发布时间**: 2026-01-03 05:00
+
+#### [The messy art of escapism](https://www.ft.com/content/59325685-8945-4d50-bcda-3c5e607119ca)
+**发布时间**: 2026-01-03 05:00
+
+#### [The red flags investors should look for in private lending](https://www.ft.com/content/d6b2a25f-7a0d-4f31-96d8-3a0e184af27e)
+**发布时间**: 2026-01-03 05:00
+
+#### [Electric vehicle sales set for slowest growth since pandemic](https://www.ft.com/content/1c7d0e22-ea15-400f-ad05-69abe13be23c)
+**发布时间**: 2026-01-03 05:00
+
+#### [Gold tipped to extend record-breaking rally in 2026](https://www.ft.com/content/a2b62f00-3174-4818-9a90-7489fc9be6d8)
+**发布时间**: 2026-01-03 05:00
+
+#### [Mukesh Ambani takes on Coca-Cola and Pepsi for India fizzy drink supremacy](https://www.ft.com/content/b2f5a634-1f95-49b7-b4bc-131b5ebc13b8)
+**发布时间**: 2026-01-03 03:06
 
 ---
 
