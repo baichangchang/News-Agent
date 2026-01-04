@@ -1,7 +1,24 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-04 05:28
+**最后更新时间**: 2026-01-04 08:33
+
+---
+
+## 🆕 最新更新 (2026-01-04 08:33)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [European office deals rebound as investors bet on supply crunch](https://www.ft.com/content/40a45c02-a52d-4a0e-97d8-2fb0417d0427)
+**发布时间**: 2026-01-04 05:00
+
+#### [US to extend productivity lead on back of AI boom, say economists](https://www.ft.com/content/1af296f4-32af-4ec2-9d40-cd3c1c744a89)
+**发布时间**: 2026-01-04 05:00
+
+#### [Botswana pitches ‘golden passport’ scheme as diamond sales fall](https://www.ft.com/content/b0edfbd4-063c-4bf6-bbce-0afa783c7972)
+**发布时间**: 2026-01-04 05:00
+
+#### [Ed Davey: ‘Europe is crying out for closer relations with Britain’](https://www.ft.com/content/b23447b6-dc70-40e9-bc91-89f15a0657dd)
+**发布时间**: 2026-01-04 05:00
 
 ---
 
