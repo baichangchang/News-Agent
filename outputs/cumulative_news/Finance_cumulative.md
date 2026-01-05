@@ -1,7 +1,18 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-05 05:41
+**最后更新时间**: 2026-01-05 08:43
+
+---
+
+## 🆕 最新更新 (2026-01-05 08:43)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Oil prices fall after Trump’s Venezuela strikes](https://www.ft.com/content/4a21608d-363c-467c-9698-b6c083715493)
+**发布时间**: 2026-01-05 08:25
+
+#### [Maduro set to face drug trafficking charges in New York](https://www.ft.com/content/e4d84f5f-0e7c-423d-8026-33f78331f06e)
+**发布时间**: 2026-01-05 08:01
 
 ---
 
