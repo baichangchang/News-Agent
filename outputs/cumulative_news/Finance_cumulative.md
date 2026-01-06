@@ -1,7 +1,18 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-06 05:28
+**最后更新时间**: 2026-01-06 08:40
+
+---
+
+## 🆕 最新更新 (2026-01-06 08:40)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Trump’s Greenland claim leaves Europe struggling for an answer](https://www.ft.com/content/c1c8abb1-5c09-46b0-a1d3-68341c4e5d98)
+**发布时间**: 2026-01-06 05:00
+
+#### [Telegram hit by $500mn Russian bond freeze](https://www.ft.com/content/36a37387-cb71-4851-a56f-de2571d520d8)
+**发布时间**: 2026-01-06 05:00
 
 ---
 

@@ -2,54 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "abcc1933e22a78edb7ebfaafac7b515dc80d9da742a8559f1427720cdbc90058": {
-        "title": "Reddit将其评论功能的后端从Python迁移为Go微服务",
-        "link": "https://www.infoq.cn/article/TySjafhFlBNc7c6790mA?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 07 Dec 2025 16:16:00 GMT",
-        "first_seen": "2025-12-07T08:33:11.845889"
-      },
-      "aec8c397432ad6428659af946a9f7c9d8db4a6af87aa5b46f8ee921b342c4985": {
-        "title": "KubeCon NA 2025：Robert Nishihara讨论了使用Kubernetes、Ray、PyTorch和vLLM进行开源AI计算",
-        "link": "https://www.infoq.cn/article/dczheUgoX86KGZo7USe9?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 07 Dec 2025 16:12:00 GMT",
-        "first_seen": "2025-12-07T08:33:11.845895"
-      },
-      "28799df8420d4eadaaaa97d0061cafb08d2e71111b0b755e1957171156412689": {
-        "title": "运维大规模反向代理的教训",
-        "link": "https://www.infoq.cn/article/Cyz98fir5Fz0IdQM7o8M?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 07 Dec 2025 16:09:00 GMT",
-        "first_seen": "2025-12-07T08:33:11.845897"
-      },
-      "8cc9ce0ddc285575ca91f2524cf58df587602945fb3a0434c638ab2d9396ce71": {
-        "title": "字节即梦张楠：AI 时代，如何探索人的想象力？",
-        "link": "http://www.geekpark.net/news/357697",
-        "published_date": "Sun, 07 Dec 2025 15:33:00 GMT",
-        "first_seen": "2025-12-07T08:33:11.845899"
-      },
-      "45df68a34365539c3ddf8e5494aed6eee96a9760eef37fbab3eed537bf47b0dd": {
-        "title": "影石刘靖康：全景无人机，是「马车时代的汽车」",
-        "link": "http://www.geekpark.net/news/357696",
-        "published_date": "Sun, 07 Dec 2025 15:20:00 GMT",
-        "first_seen": "2025-12-07T08:33:11.845900"
-      },
-      "d735db849dc2832abff0d3c2977b1aba4d63485a18a68ba74dd423b482809a37": {
-        "title": "好产品与时代共振｜2025 年度极客最爱好物",
-        "link": "http://www.geekpark.net/news/357695",
-        "published_date": "Sun, 07 Dec 2025 14:43:00 GMT",
-        "first_seen": "2025-12-07T08:33:11.845901"
-      },
-      "405858bef732fec6cbaaeecc458db1c27b08de7ee08d8e148bff9222664d805f": {
-        "title": "做豆包AI手机前，张一鸣也行应该跟马化腾聊一聊",
-        "link": "https://www.tmtpost.com/7799620.html",
-        "published_date": "Sun, 07 Dec 2025 13:49:00 GMT",
-        "first_seen": "2025-12-07T08:33:11.845903"
-      },
-      "9751109064e757a79d117f3616618c4de67ab41b66549524c43e26e01045406d": {
-        "title": "对话Aha王健聪：一个AI Agent搞定全球达人投放｜AI Founder请回答 | 巴伦精选",
-        "link": "https://www.tmtpost.com/7799686.html",
-        "published_date": "Sun, 07 Dec 2025 13:33:00 GMT",
-        "first_seen": "2025-12-07T08:33:11.845904"
-      },
       "d85ca7ffcfbb4873385f5032a994bb5a9f5ccfb5a682e54c2c2c173555d90508": {
         "title": "英霸已老，谷王当立 | 财经峰评",
         "link": "https://www.tmtpost.com/7799905.html",
@@ -9901,6 +9853,102 @@
         "link": "http://www.huxiu.com/article/4823296.html?f=wangzhan",
         "published_date": "Tue, 06 Jan 2026 08:00:00 GMT",
         "first_seen": "2026-01-06T05:28:25.494776"
+      },
+      "89ce91404231671c041e22b223a6f7c76f39f6958efa3023b1a4c5863e128874": {
+        "title": "全岛封关，海南酒店“分层时代”已至",
+        "link": "https://www.tmtpost.com/7832286.html",
+        "published_date": "Tue, 06 Jan 2026 16:17:00 GMT",
+        "first_seen": "2026-01-06T08:40:44.861824"
+      },
+      "1284f63c9b3d9f919efb48d5da18e88a8c5e793b4185ee90c72700d74132953f": {
+        "title": "机器人的罪与罚",
+        "link": "https://www.tmtpost.com/7832492.html",
+        "published_date": "Tue, 06 Jan 2026 16:09:00 GMT",
+        "first_seen": "2026-01-06T08:40:44.861838"
+      },
+      "60c432d9dc7ab7dc04f88176b1570c8688a06f7f297084152e448d475837ded7": {
+        "title": "黄仁勋携Rubin架构亮相CES，英伟达铁了心要做“AI卖铲人”",
+        "link": "https://www.tmtpost.com/7831996.html",
+        "published_date": "Tue, 06 Jan 2026 16:09:00 GMT",
+        "first_seen": "2026-01-06T08:40:44.861841"
+      },
+      "db43a680d3779ab6e10216d4a61704c6153860840f6365f5daab8e365eb2c242": {
+        "title": "OpenAI、李飞飞同台助阵，苏姿丰CES对决黄仁勋",
+        "link": "https://www.tmtpost.com/7832526.html",
+        "published_date": "Tue, 06 Jan 2026 15:47:00 GMT",
+        "first_seen": "2026-01-06T08:40:44.861843"
+      },
+      "14e6c4362302db127aaaf204675272e793e5b81599f64c74851fa8ae3bcb7442": {
+        "title": "分析师称，迪士尼2026年开局或许会较为缓慢，但不建议抛售该股票",
+        "link": "https://www.tmtpost.com/7832598.html",
+        "published_date": "Tue, 06 Jan 2026 15:46:00 GMT",
+        "first_seen": "2026-01-06T08:40:44.861845"
+      },
+      "63278ec0dc605a522c36cf22c24764b5535fb81a9aab1bb68aaae4822ba88bc7": {
+        "title": "贵州茅台的盈利会下降吗？",
+        "link": "https://www.tmtpost.com/7831974.html",
+        "published_date": "Tue, 06 Jan 2026 15:20:00 GMT",
+        "first_seen": "2026-01-06T08:40:44.861847"
+      },
+      "89f1217490f4831feb0098c3fcfa92114f938f12c463b206843284136820c40c": {
+        "title": "China’s First! Airwallex Partners with China Construction Bank to Pioneer a New Model in Cross-Border Finance",
+        "link": "https://www.tmtpost.com/7832563.html",
+        "published_date": "Tue, 06 Jan 2026 15:12:00 GMT",
+        "first_seen": "2026-01-06T08:40:44.861849"
+      },
+      "82128060c9b75100b00f584f11a32e65466016136545aa36cf4e81c4cc354893": {
+        "title": "黄仁勋CES预言：另一个“时刻”快到来了",
+        "link": "https://www.tmtpost.com/7832269.html",
+        "published_date": "Tue, 06 Jan 2026 14:48:00 GMT",
+        "first_seen": "2026-01-06T08:40:44.861851"
+      },
+      "01f5435c8d60362070788f11f581e5ad8a68ee4d24e58ae4882523c07b9172d2": {
+        "title": "4A景区“大批发”？",
+        "link": "https://www.tmtpost.com/7831732.html",
+        "published_date": "Tue, 06 Jan 2026 14:23:00 GMT",
+        "first_seen": "2026-01-06T08:40:44.861852"
+      },
+      "5b8637d34a9cb6e5586b527695976f0886ea310de636612820801b35ac0f95d7": {
+        "title": "踩雷财税后押注机器人，金财互联拼装式转型能走多远？",
+        "link": "https://www.tmtpost.com/7831626.html",
+        "published_date": "Tue, 06 Jan 2026 14:20:00 GMT",
+        "first_seen": "2026-01-06T08:40:44.861853"
+      },
+      "efe762c6329e71e11a0c0ef8ff20b1841d18047991357c046f950058f15e1f9d": {
+        "title": "石化，周期复苏不远了",
+        "link": "https://www.tmtpost.com/7832120.html",
+        "published_date": "Tue, 06 Jan 2026 13:43:00 GMT",
+        "first_seen": "2026-01-06T08:40:44.861855"
+      },
+      "571a429fa9872f1427e3d5c18ec5749d9dd819851cdeb2669dcb4ef3647a99d0": {
+        "title": "Alexey 精选的 2025 年他最喜欢的 ClickHouse 功能",
+        "link": "https://www.infoq.cn/article/o6JKDDXl1l25YL5i3yzQ?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 06 Jan 2026 16:03:00 GMT",
+        "first_seen": "2026-01-06T08:40:44.861856"
+      },
+      "ed7aaad295b1acbf31b5de5e4e1558d6a2a00bafac970c265a988b0921b0e331": {
+        "title": "Cloudflare年度回顾：AI机器人疯狂爬网、后量子加密普及率达50%、Go语言用户翻倍",
+        "link": "https://www.infoq.cn/article/GDVwJpAygF5Lkfg6kG5V?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 06 Jan 2026 15:04:00 GMT",
+        "first_seen": "2026-01-06T08:40:44.861858"
+      },
+      "7a8de135ce919b9e2e4bb049b00580577d91edee98b08d200db93e4d457c5087": {
+        "title": "Bun 推出内置数据库客户端与零配置前端开发",
+        "link": "https://www.infoq.cn/article/12DFcmoFXOyQ2xZRf6vl?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 06 Jan 2026 13:53:00 GMT",
+        "first_seen": "2026-01-06T08:40:44.861859"
+      },
+      "4a8025ff4fd27465cec8b97ec60e48f8c08b6c1b8d9c7974d9fcfd6b85614f58": {
+        "title": "谷歌 Gemini API 负责人自曝：用竞品Claude Code 1小时复现自己团队一年成果，工程师圈炸了！",
+        "link": "https://www.infoq.cn/article/EA1kt3KhCCTXM4efbAXH?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 06 Jan 2026 13:23:00 GMT",
+        "first_seen": "2026-01-06T08:40:44.861861"
+      },
+      "796e07ca8913747b09a4c9917476be246214448b5cc14cdc3678f07c525619da": {
+        "title": "Matrix Talk | 2025 年我们都薅到了哪些「数字羊毛」",
+        "link": "https://sspai.com/post/105165",
+        "published_date": "Tue, 06 Jan 2026 15:00:00 GMT",
+        "first_seen": "2026-01-06T08:40:44.861863"
       }
     },
     "Finance": {
@@ -13890,18 +13938,6 @@
       }
     },
     "Ai": {
-      "de3d6fdf6ff3be183130eb96afff49944aaa076b7924f7417bccdb917b445c00": {
-        "title": "跨境电商的疑难杂症，被1688这个AI全包了…",
-        "link": "https://www.qbitai.com/2025/12/359462.html",
-        "published_date": "Sun, 07 Dec 2025 04:50:00 GMT",
-        "first_seen": "2025-12-07T08:33:11.790040"
-      },
-      "ef8e8eff616b431ed2529ec27d0d2d2936f4388c4994fd3ceee633ba5e6c8e35": {
-        "title": "苹果芯片主管也要跑路！库克被曝出现健康问题",
-        "link": "https://www.qbitai.com/2025/12/359470.html",
-        "published_date": "Sun, 07 Dec 2025 04:44:00 GMT",
-        "first_seen": "2025-12-07T08:33:11.790050"
-      },
       "fa5da11081cecfac4e1b992299c767b221b8a042b81a19405b5ff4afd75a290b": {
         "title": "LLM强化学习不稳定之谜，被Qwen团队从「一阶近似」视角解开",
         "link": "https://www.jiqizhixin.com/articles/2025-12-07-5",
@@ -16475,13 +16511,19 @@
         "link": "https://www.qbitai.com/2026/01/366596.html",
         "published_date": "Tue, 06 Jan 2026 01:09:00 GMT",
         "first_seen": "2026-01-06T05:28:25.345584"
+      },
+      "7115f517f8bfc86afa30a558ebdb7e3db55fe3ab4e3d49d8dacb00790d5222ca": {
+        "title": "1956-2026：人类与机器智能的七十年对话",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-06-4",
+        "published_date": "Tue, 06 Jan 2026 14:27:00 GMT",
+        "first_seen": "2026-01-06T08:40:44.750154"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-01-06T05:28:25.494778",
+    "Technology": "2026-01-06T08:40:44.861865",
     "Finance": "2026-01-06T05:28:25.218983",
-    "Ai": "2026-01-06T05:28:25.345587"
+    "Ai": "2026-01-06T08:40:44.750165"
   }
 }
