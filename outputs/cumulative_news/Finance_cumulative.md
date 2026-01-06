@@ -1,7 +1,68 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-06 08:40
+**最后更新时间**: 2026-01-06 23:24
+
+---
+
+## 🆕 最新更新 (2026-01-06 23:24)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Strategy’s stock is rising as investors get some much-needed good news](https://www.marketwatch.com/story/strategys-stock-is-rising-as-investors-get-some-much-needed-good-news-971e0f9f?mod=mw_rss_topstories)
+**发布时间**: 2026-01-06 23:21
+
+#### [I’m retired and selling my home after 35 years — what’s changed since the ‘90s?](https://www.marketwatch.com/story/planning-to-sell-your-home-in-retirement-do-these-tasks-first-ef5cb0b4?mod=mw_rss_topstories)
+**发布时间**: 2026-01-06 23:13
+
+#### [Why U.S. oil refiners could be the big winners in Venezuela — even if its actual reserves disappoint](https://www.marketwatch.com/story/why-u-s-oil-refiners-could-be-the-big-winners-in-venezuela-even-if-its-actual-reserves-disappoint-6a9a6b1a?mod=mw_rss_topstories)
+**发布时间**: 2026-01-06 23:10
+
+#### [Elon Musk is taking on ChatGPT — and xAI now has $20 billion more to do it](https://www.marketwatch.com/story/elon-musk-is-taking-on-chatgpt-and-xai-now-has-20-billion-more-to-do-it-ec28bc2d?mod=mw_rss_topstories)
+**发布时间**: 2026-01-06 22:28
+
+#### [What you need to know about changes to Social Security, Medicare and Medicaid in 2026](https://www.marketwatch.com/story/what-you-need-to-know-about-changes-to-social-security-medicare-and-medicaid-in-2026-549b2f8c?mod=mw_rss_topstories)
+**发布时间**: 2026-01-06 22:04
+
+#### [It’s rare for the S&P 500 and the VIX to post gains on the same day. Here’s why it just happened.](https://www.marketwatch.com/story/its-rare-for-the-s-p-500-and-the-vix-to-post-gains-on-the-same-day-heres-why-it-just-happened-f3ba1311?mod=mw_rss_topstories)
+**发布时间**: 2026-01-06 22:02
+
+#### [Emerging-market stocks —  even in Venezuela — are rallying after Maduro’s capture](https://www.marketwatch.com/story/emerging-market-stocks-even-in-venezuela-are-rallying-after-maduros-capture-10eb2e61?mod=mw_rss_topstories)
+**发布时间**: 2026-01-06 21:58
+
+#### [Why chains such as Chipotle and Chili’s could have a better 2026 than their rivals](https://www.marketwatch.com/story/why-chains-such-as-chipotle-and-chilis-could-have-a-better-2026-than-their-rivals-6389c38a?mod=mw_rss_topstories)
+**发布时间**: 2026-01-06 21:34
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [US says using military is among ‘options’ to acquire Greenland](https://www.ft.com/content/28485ea3-68ce-4897-8b74-b728d54b5479)
+**发布时间**: 2026-01-06 22:23
+
+#### [Musk’s xAI raises $20bn in funding round that doubles valuation](https://www.ft.com/content/f87bde18-ffd4-4e47-a5c8-a3e2099e08f9)
+**发布时间**: 2026-01-06 21:47
+
+#### [Nvidia stepping up H200 production ahead of sales to China, Huang says](https://www.ft.com/content/ae4f28a0-39f9-48e6-bdf4-09321b03c236)
+**发布时间**: 2026-01-06 21:30
+
+#### [France and UK commit to deploying troops under proposed Ukraine peace deal](https://www.ft.com/content/13b7cb47-3ec5-4542-a3c1-74badfb2b2b4)
+**发布时间**: 2026-01-06 21:06
+
+#### [US oil tankers sail towards Venezuela as risk of production ‘collapse’ looms](https://www.ft.com/content/08ca8f8e-6e52-4344-9c0d-2433e98e204c)
+**发布时间**: 2026-01-06 20:47
+
+#### [Reform UK councils unveil plans for tax rises and service cuts](https://www.ft.com/content/6837f724-7e8b-43e8-914f-ef22d8358c90)
+**发布时间**: 2026-01-06 20:35
+
+#### [US tracking oil tanker off UK coast linked to Venezuela, Russia and Iran](https://www.ft.com/content/a699169a-983a-4472-ab23-54bceb9dd2bd)
+**发布时间**: 2026-01-06 17:32
+
+#### [Starmer tells ministers to work ‘as a team’ amid leadership speculation](https://www.ft.com/content/5ac7887e-9c29-4e21-9242-5a9e263156c5)
+**发布时间**: 2026-01-06 16:25
+
+#### [Fund managers prepare for ‘reckoning’ in US tech sector](https://www.ft.com/content/48d9c100-0ec6-4edf-9395-eb44879ea5c6)
+**发布时间**: 2026-01-06 16:10
+
+#### [Trump really wants Greenland](https://www.ft.com/content/21f3f75e-9f98-4e23-88cb-eaca05dc16f6)
+**发布时间**: 2026-01-06 12:01
 
 ---
 
