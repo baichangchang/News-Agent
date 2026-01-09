@@ -1,7 +1,68 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-09 08:35
+**最后更新时间**: 2026-01-09 23:23
+
+---
+
+## 🆕 最新更新 (2026-01-09 23:23)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [My wife, 74, collects survivor benefits on her first husband. Can she now claim on her own Social Security record?](https://www.marketwatch.com/story/my-wife-74-collects-survivor-benefits-on-her-first-husband-can-she-now-claim-on-her-own-social-security-record-66bc65c2?mod=mw_rss_topstories)
+**发布时间**: 2026-01-09 23:06
+
+#### [Intel’s stock soars anew — but some say the recent momentum doesn’t quite make sense](https://www.marketwatch.com/story/intels-stock-soars-anew-but-some-say-the-recent-momentum-doesnt-quite-make-sense-3d64262d?mod=mw_rss_topstories)
+**发布时间**: 2026-01-09 22:07
+
+#### [Trump’s new prediction for ‘massive wealth’ from Venezuelan oil may take a while to play out](https://www.marketwatch.com/story/trump-says-big-oil-will-invest-100-billion-in-venezuela-as-chevon-exxon-come-to-the-white-house-today-heres-what-to-watch-5bbaccf4?mod=mw_rss_topstories)
+**发布时间**: 2026-01-09 22:06
+
+#### [Friday’s stock-market rally reveals what investors are really focused on in 2026](https://www.marketwatch.com/story/fridays-stock-market-rally-reveals-what-investors-are-really-focused-on-in-2026-53908635?mod=mw_rss_topstories)
+**发布时间**: 2026-01-09 21:51
+
+#### [Mortgage rates drop below 6% for the first time in 3 years as Trump official says purchases of mortgage bonds are starting](https://www.marketwatch.com/story/mortgage-rates-drop-below-6-for-the-first-time-in-3-years-as-trump-floats-purchase-of-mortgage-bonds-2636b0d7?mod=mw_rss_topstories)
+**发布时间**: 2026-01-09 21:16
+
+#### [Oracle and Amazon are AI ‘loser’ stocks — but here’s why that’s primed to change](https://www.marketwatch.com/story/oracle-and-amazon-are-ai-loser-stocks-but-heres-why-thats-primed-to-change-68d87116?mod=mw_rss_topstories)
+**发布时间**: 2026-01-09 21:08
+
+#### [Oil rises 3% this week — and not just because of Venezuela](https://www.marketwatch.com/story/oil-rises-3-this-week-and-not-just-because-of-venezuela-3e2e63df?mod=mw_rss_topstories)
+**发布时间**: 2026-01-09 20:03
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Trump posted jobs data early on Truth Social](https://www.ft.com/content/2dc5bbba-921a-4660-84c4-f3998300c889)
+**发布时间**: 2026-01-09 21:27
+
+#### [How Elon Musk’s Grok spread sexual deepfakes and child exploitation images](https://www.ft.com/content/117af7cc-3fe6-4292-a706-7204b82bb8dc)
+**发布时间**: 2026-01-09 21:00
+
+#### [California’s divisive plan to tax billionaires](https://www.ft.com/content/ddfcbf1a-4f20-4214-8c29-360396f599c3)
+**发布时间**: 2026-01-09 19:22
+
+#### [Exxon tells Trump Venezuela ‘uninvestable’ without big changes](https://www.ft.com/content/29866a31-2a18-4463-9d61-c237feb5ab54)
+**发布时间**: 2026-01-09 19:00
+
+#### [What is to stop Trump upending the rules in global finance too?](https://www.ft.com/content/6f6919cf-56ba-40d9-aaf3-37b4562f14aa)
+**发布时间**: 2026-01-09 18:00
+
+#### [Elon Musk’s xAI restricts Grok after outcry over sexualised images](https://www.ft.com/content/c24d3d77-e104-4b86-b0b2-0c19e4860c60)
+**发布时间**: 2026-01-09 16:47
+
+#### [Venezuelan currency plunges as economy choked by US blockade](https://www.ft.com/content/3fcdb737-0354-4eaa-8245-0e2331bf8ace)
+**发布时间**: 2026-01-09 16:35
+
+#### [Starmer should not be afraid to pick a fight to get things done](https://www.ft.com/content/28511d0a-0d9a-4356-a805-8cd96d6f8e35)
+**发布时间**: 2026-01-09 16:00
+
+#### [US economy undershoots expectations to add just 50,000 jobs in December](https://www.ft.com/content/026e599f-7b29-40fc-b0ce-dea43a792e6e)
+**发布时间**: 2026-01-09 13:55
+
+#### [UK hedge fund trader Chris Rokos pays himself £477mn](https://www.ft.com/content/e0cbaa80-8aac-4707-b7ed-3261eb8f318e)
+**发布时间**: 2026-01-09 10:02
+
+#### [How Russia’s Venezuelan oil gambit went awry](https://www.ft.com/content/e09a6030-325f-4be5-ace3-4d70121071cb)
+**发布时间**: 2026-01-09 05:00
 
 ---
 
