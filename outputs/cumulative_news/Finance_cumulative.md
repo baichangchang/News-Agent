@@ -1,7 +1,41 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-10 08:30
+**最后更新时间**: 2026-01-10 23:22
+
+---
+
+## 🆕 最新更新 (2026-01-10 23:22)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘I’m at a crossroads’: I have $35K left on my mortgage at 3% interest. Do I dip into my $700K IRA to pay it off?](https://www.marketwatch.com/story/im-at-a-crossroads-i-have-35k-left-on-my-mortgage-at-3-interest-do-i-dip-into-my-700k-ira-to-pay-it-off-0715335f?mod=mw_rss_topstories)
+**发布时间**: 2026-01-10 21:30
+
+#### [‘I have no mortgage’: Is it reckless to cancel my homeowner’s insurance? I can’t justify $4K a year anymore.](https://www.marketwatch.com/story/i-have-no-mortgage-is-it-reckless-to-cancel-my-homeowners-insurance-i-cant-justify-4k-a-year-anymore-d1a03452?mod=mw_rss_topstories)
+**发布时间**: 2026-01-10 21:12
+
+#### [‘I’m ready to walk away’: I have $400K in retirement savings and want to quit my job of 30 years. Can I do it?](https://www.marketwatch.com/story/im-ready-to-walk-away-i-have-400k-in-retirement-savings-and-want-to-quit-my-job-of-30-years-can-i-do-it-8c6ac8dd?mod=mw_rss_topstories)
+**发布时间**: 2026-01-10 17:22
+
+#### [The eldercare crisis is about to get much worse as millions more Americans turn 85](https://www.marketwatch.com/story/the-elder-care-crisis-is-about-to-get-much-worse-as-millions-more-americans-turn-85-3673e0bf?mod=mw_rss_topstories)
+**发布时间**: 2026-01-10 17:22
+
+#### [Could ‘Trump accounts’ make your kids millionaires? Maybe — with this strategy.](https://www.marketwatch.com/story/could-trump-accounts-make-your-kids-millionaires-maybe-with-this-strategy-8fc6fbbe?mod=mw_rss_topstories)
+**发布时间**: 2026-01-10 17:22
+
+#### [The Social Security crisis could leave U.S. retirees worse off than those in poorer countries](https://www.marketwatch.com/story/social-security-crisis-could-leave-u-s-retirees-worse-off-than-those-in-poorer-countries-like-ecuador-and-poland-76a2deb8?mod=mw_rss_topstories)
+**发布时间**: 2026-01-10 17:22
+
+#### [Trump renews his assault on shareholder democracy, siding with CEOs over stockholders](https://www.marketwatch.com/story/trump-renews-his-assault-on-shareholder-democracy-siding-with-ceos-over-stockholders-270f5286?mod=mw_rss_topstories)
+**发布时间**: 2026-01-10 17:22
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Iran tightens crackdown as it tackles biggest protests in years](https://www.ft.com/content/957fcdd4-d10a-4d9e-b5f3-293bdf1305f4)
+**发布时间**: 2026-01-10 18:49
+
+#### [Military briefing: the return of the war chopper](https://www.ft.com/content/25347e7c-d7cc-4cd3-90c2-253f043be761)
+**发布时间**: 2026-01-10 13:21
 
 ---
 
