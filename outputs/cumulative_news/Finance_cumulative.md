@@ -1,7 +1,36 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-10 05:24
+**最后更新时间**: 2026-01-10 08:30
+
+---
+
+## 🆕 最新更新 (2026-01-10 08:30)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [A stable Venezuela could offer visitors more than just oil](https://www.ft.com/content/96e51ef4-5839-473d-b053-ce3350da0959)
+**发布时间**: 2026-01-10 05:00
+
+#### [Trump, Venezuela and the doctrine that wouldn’t die](https://www.ft.com/content/4e0eab9d-3195-42f0-add1-661187ce4099)
+**发布时间**: 2026-01-10 05:00
+
+#### [Jens-Frederik Nielsen, the Greenlandic leader under pressure](https://www.ft.com/content/68a173d0-1a9c-489f-9133-a3c4be1dfc4c)
+**发布时间**: 2026-01-10 05:00
+
+#### [How special forces became modern warfare’s go-to solution](https://www.ft.com/content/a269a24a-04ea-4166-a978-bee35f094f08)
+**发布时间**: 2026-01-10 05:00
+
+#### [Spending on consultants cut by 14% across UK government](https://www.ft.com/content/c64aa44b-dc7f-42dd-8d41-f79f62a6e178)
+**发布时间**: 2026-01-10 05:00
+
+#### [Food wins, fashion loses in UK retail’s underwhelming Christmas](https://www.ft.com/content/badf33d1-e908-4010-b186-d17db83152c6)
+**发布时间**: 2026-01-10 05:00
+
+#### [Can Venezuela settle its debts?](https://www.ft.com/content/59491879-2d53-49f9-9823-7318f361d64c)
+**发布时间**: 2026-01-10 04:00
+
+#### [The exiled royal urging Iranians on to the streets](https://www.ft.com/content/c930adea-b9f8-4bcd-bfe5-ad9dad497106)
+**发布时间**: 2026-01-09 17:29
 
 ---
 
