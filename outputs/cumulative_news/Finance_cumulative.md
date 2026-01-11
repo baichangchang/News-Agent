@@ -1,7 +1,36 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-11 05:28
+**最后更新时间**: 2026-01-11 08:30
+
+---
+
+## 🆕 最新更新 (2026-01-11 08:30)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [EU demands ‘Farage clause’ as part of Brexit reset talks with Britain](https://www.ft.com/content/3733b2b0-5d1e-47ba-b39f-ac8b113cce65)
+**发布时间**: 2026-01-11 05:00
+
+#### [Venezuela: the Hizbollah connection](https://www.ft.com/content/70c38500-a6d8-47ea-b58c-b83d4e8b698d)
+**发布时间**: 2026-01-11 05:00
+
+#### [Trump’s assault on US defence industry puts investors on edge](https://www.ft.com/content/2fc633e0-b8da-4b1a-983a-cb536eb35da5)
+**发布时间**: 2026-01-11 05:00
+
+#### [Why men should really be reading more fiction](https://www.ft.com/content/da33f535-9171-4163-a773-ac64c753c6c6)
+**发布时间**: 2026-01-11 05:00
+
+#### [Nato silence on Trump’s Greenland threats rattles European allies](https://www.ft.com/content/d2974417-172f-43f9-a5d5-9f4da48668ae)
+**发布时间**: 2026-01-11 05:00
+
+#### [Digital euro ‘only defence’ against deepening US control of money, economists warn](https://www.ft.com/content/b0602271-cd43-4a6e-a96d-c8166a05d040)
+**发布时间**: 2026-01-11 05:00
+
+#### [Elite German army unit accused of sexual harassment, drug use and making Nazi salutes](https://www.ft.com/content/9d20eec7-aa95-4731-b863-2acbb65c652c)
+**发布时间**: 2026-01-11 05:00
+
+#### [US corporate bond sales hit $95bn in busiest week since Covid pandemic](https://www.ft.com/content/43e825c2-d4f9-4cdb-b982-e86ac2e0ac65)
+**发布时间**: 2026-01-11 05:00
 
 ---
 
