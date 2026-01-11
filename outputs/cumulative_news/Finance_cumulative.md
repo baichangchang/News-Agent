@@ -1,7 +1,15 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-10 23:22
+**最后更新时间**: 2026-01-11 05:28
+
+---
+
+## 🆕 最新更新 (2026-01-11 05:28)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [US could ease sanctions on Venezuela next week, says Bessent](https://www.ft.com/content/c4fa621f-7605-4f07-8a7c-090c77a32f9c)
+**发布时间**: 2026-01-11 00:13
 
 ---
 
