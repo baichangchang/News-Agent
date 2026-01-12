@@ -1,7 +1,25 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-01-12 08:36
+**最后更新时间**: 2026-01-12 23:19
+
+---
+
+## 🆕 最新更新 (2026-01-12 23:19)
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [NeuralGCM harnesses AI to better simulate long-range global precipitation](https://research.google/blog/neuralgcm-harnesses-ai-to-better-simulate-long-range-global-precipitation/)
+**发布时间**: 2026-01-12 17:52
+
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [端到端智驾的算力困局，九章智算云这样破局](https://www.jiqizhixin.com/articles/2026-01-12-8)
+**发布时间**: 2026-01-12 17:08
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [和闫俊杰一起敲钟的她：31岁，身价48亿](https://www.qbitai.com/2026/01/369227.html)
+**发布时间**: 2026-01-12 09:09
 
 ---
 

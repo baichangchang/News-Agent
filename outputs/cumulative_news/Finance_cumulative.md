@@ -1,7 +1,74 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-12 08:36
+**最后更新时间**: 2026-01-12 23:19
+
+---
+
+## 🆕 最新更新 (2026-01-12 23:19)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Why oil prices could rise as U.S.-Iran tensions swell](https://www.marketwatch.com/story/why-oil-prices-could-rise-as-u-s-iran-tensions-swell-ee893694?mod=mw_rss_topstories)
+**发布时间**: 2026-01-12 23:02
+
+#### [BlackRock’s Rieder repeats his view that Fed needs to bring interest rates down to 3%](https://www.marketwatch.com/story/blackrocks-rieder-repeats-his-view-that-fed-needs-to-bring-interest-rates-down-to-3-0c1a61d3?mod=mw_rss_topstories)
+**发布时间**: 2026-01-12 22:47
+
+#### [Microsoft, Oracle and ServiceNow could be the top stocks to play a software comeback](https://www.marketwatch.com/story/microsoft-oracle-and-servicenow-could-be-the-top-stocks-to-play-a-software-comeback-eec473e0?mod=mw_rss_topstories)
+**发布时间**: 2026-01-12 22:35
+
+#### [PGA Tour to welcome back some LIV golfers. But they will have to pay a big price.](https://www.marketwatch.com/story/pga-tour-to-welcome-back-some-liv-golfers-but-they-will-have-to-pay-a-big-price-e59e7ccb?mod=mw_rss_topstories)
+**发布时间**: 2026-01-12 22:29
+
+#### [‘I still have a mortgage’: I’m no longer confident that my costs will actually fall in retirement. What can I do?](https://www.marketwatch.com/story/i-still-have-a-mortgage-im-no-longer-confident-that-my-costs-will-actually-fall-in-retirement-what-can-i-do-ff9164a5?mod=mw_rss_topstories)
+**发布时间**: 2026-01-12 22:05
+
+#### [‘I will soon turn 65’: My son wants to live in my investment property for less than market rent. Do I say yes?](https://www.marketwatch.com/story/i-would-like-to-quit-working-im-65-my-son-wants-to-live-in-my-second-home-for-less-than-the-market-rent-do-i-say-yes-4182adee?mod=mw_rss_topstories)
+**发布时间**: 2026-01-12 21:59
+
+#### [Why the Dow, S&P 500 just closed at record highs despite Trump’s new pressure campaign against Fed’s Powell](https://www.marketwatch.com/story/heres-whats-at-stake-for-investors-as-trump-opens-a-new-pressure-campaign-against-feds-powell-a8e740cd?mod=mw_rss_topstories)
+**发布时间**: 2026-01-12 21:54
+
+#### [Why Abercrombie’s stock took a dive after just a slight tweak to the earnings outlook](https://www.marketwatch.com/story/why-abercrombies-stock-took-a-dive-after-just-a-slight-tweak-to-the-earnings-outlook-a677c59d?mod=mw_rss_topstories)
+**发布时间**: 2026-01-12 21:43
+
+#### [Trade Desk’s stock has never been this cheap, and its brutal selloff might finally be over](https://www.marketwatch.com/story/trade-desks-stock-has-never-been-this-cheap-and-its-brutal-selloff-might-finally-be-over-d33f1aa6?mod=mw_rss_topstories)
+**发布时间**: 2026-01-12 21:38
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Dina Powell McCormick appointed president and vice-chair at Meta](https://www.ft.com/content/1255421d-4634-4258-9ea0-c2365010a862)
+**发布时间**: 2026-01-12 22:37
+
+#### [Trump announces 25% tariff on countries ‘doing business’ with Iran](https://www.ft.com/content/c266f78d-1b53-4aa5-99ff-1726a5126a23)
+**发布时间**: 2026-01-12 22:07
+
+#### [Alphabet hits $4tn valuation on AI hopes](https://www.ft.com/content/02d44794-815f-40dc-9b49-0e10432147a9)
+**发布时间**: 2026-01-12 21:25
+
+#### [Shares in US credit card issuers slide after Trump calls for 10% rate cap](https://www.ft.com/content/5b1ea851-5613-48ae-a8a7-5653855d507e)
+**发布时间**: 2026-01-12 21:15
+
+#### [DoJ’s probe into Powell galvanises Fed leaders to repel Trump attacks](https://www.ft.com/content/c5bfbc6d-cd05-4f53-b3b0-5a2de80c139a)
+**发布时间**: 2026-01-12 21:09
+
+#### [Former Fed chiefs attack justice department probe into Jay Powell](https://www.ft.com/content/970c725e-d42e-495d-b9e8-ae59fc326206)
+**发布时间**: 2026-01-12 18:38
+
+#### [UK to outlaw non-consensual intimate images after Grok outcry](https://www.ft.com/content/8eec6d77-c72e-4e8f-a6b5-ce82575e71c6)
+**发布时间**: 2026-01-12 17:50
+
+#### [The next Fed chair is . . . Donald Trump](https://www.ft.com/content/59e72013-5e97-4895-b5cf-2df8f5e3ba68)
+**发布时间**: 2026-01-12 13:59
+
+#### [Europe needs to think the unthinkable on Nato](https://www.ft.com/content/56907500-b6f6-4511-a423-368837a2182f)
+**发布时间**: 2026-01-12 12:29
+
+#### [Nadhim Zahawi defects to Reform UK](https://www.ft.com/content/be92400b-c18c-42df-bb76-f749ac9a1b12)
+**发布时间**: 2026-01-12 11:26
+
+#### [The mega-rich are flocking to Washington DC](https://www.ft.com/content/372af786-2525-489f-9297-f6a3716a69ce)
+**发布时间**: 2026-01-12 11:18
 
 ---
 
