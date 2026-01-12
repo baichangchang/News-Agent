@@ -1,7 +1,53 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-11 23:22
+**最后更新时间**: 2026-01-12 05:33
+
+---
+
+## 🆕 最新更新 (2026-01-12 05:33)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [‘I don’t want to live in an American empire’: Greenlanders bristle at US threats](https://www.ft.com/content/20cbe59e-0ab9-4027-b1ff-b5d738f1bc49)
+**发布时间**: 2026-01-12 05:00
+
+#### [Trump’s new ‘great game’: Mining, mapping and mercantilism](https://www.ft.com/content/0d2a957d-8897-4054-ba04-b6ea22e199e7)
+**发布时间**: 2026-01-12 05:00
+
+#### [India needs to import more capital and export fewer workers](https://www.ft.com/content/999a8dd3-a494-4bf9-892f-22446b9de73b)
+**发布时间**: 2026-01-12 05:00
+
+#### [Wall Street headed for best investment banking year since pandemic](https://www.ft.com/content/f3d79af1-b55a-4c86-b39a-41bf3cec77d1)
+**发布时间**: 2026-01-12 05:00
+
+#### [Trump says US ‘looking’ at military operations in Iran](https://www.ft.com/content/62f8d723-fcb2-4712-8b61-a13e967f642a)
+**发布时间**: 2026-01-12 02:47
+
+#### [US prosecutors launch criminal investigation into Fed’s Powell](https://www.ft.com/content/a4230e9a-504a-4e39-87bc-9450e2b71287)
+**发布时间**: 2026-01-12 02:40
+
+#### [Trump threatens to block Exxon from Venezuela](https://www.ft.com/content/5a97cb9f-548d-4480-a3c1-713beb61b8d9)
+**发布时间**: 2026-01-12 02:18
+
+#### [Police chief says London is ‘extraordinarily safe’ as murder rate hits historic low](https://www.ft.com/content/52b03928-9eae-4392-81d2-b6b302086706)
+**发布时间**: 2026-01-12 00:01
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [U.S. stock futures sink after Powell accuses Trump of intimidation over DOJ probe](https://www.marketwatch.com/story/u-s-stock-futures-dip-ahead-of-a-busy-week-on-wall-street-6558f5f1?mod=mw_rss_topstories)
+**发布时间**: 2026-01-12 04:02
+
+#### [Trump says he’s ‘inclined to keep Exxon out’ of Venezuela after CEO’s skepticism](https://www.marketwatch.com/story/trump-says-hes-inclined-to-keep-exxon-out-of-venezuela-after-ceos-skepticism-358d841c?mod=mw_rss_topstories)
+**发布时间**: 2026-01-12 03:59
+
+#### [Apple’s stock can climb 35% this year — if these four scenarios play out](https://www.marketwatch.com/story/apples-stock-can-climb-35-this-year-if-these-four-scenarios-play-out-76137826?mod=mw_rss_topstories)
+**发布时间**: 2026-01-12 02:42
+
+#### [Powell says criminal investigation by Trump’s Justice Department threatens Fed’s independence](https://www.marketwatch.com/story/powell-says-criminal-investigation-by-trumps-justice-department-threatens-feds-independence-c613e0d5?mod=mw_rss_topstories)
+**发布时间**: 2026-01-12 02:30
+
+#### [Why investors shouldn’t panic yet about Trump’s plan to cap credit-card rates](https://www.marketwatch.com/story/why-investors-shouldnt-panic-yet-about-trumps-credit-card-rate-cap-proposal-d33952b0?mod=mw_rss_topstories)
+**发布时间**: 2026-01-12 02:04
 
 ---
 
