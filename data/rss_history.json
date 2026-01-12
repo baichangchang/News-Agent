@@ -2,54 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "6cc196f95cc20fa8ee89904034d325793112c91005f62b0621130746dda36864": {
-        "title": "银行理财破33万亿，却不再是投资者“稳稳的幸福”",
-        "link": "https://www.tmtpost.com/7808171.html",
-        "published_date": "Sat, 13 Dec 2025 15:26:00 GMT",
-        "first_seen": "2025-12-13T08:33:36.683452"
-      },
-      "ae34297750d34102a816d5e78d0205356d79c2b24990ed27ae94eb3282f3145e": {
-        "title": "博通这家公司很神奇",
-        "link": "https://www.tmtpost.com/7808099.html",
-        "published_date": "Sat, 13 Dec 2025 15:17:00 GMT",
-        "first_seen": "2025-12-13T08:33:36.683460"
-      },
-      "bff78ce2e9867405c363be364e343f5210676e9158fb651043c453541be14c10": {
-        "title": "股东变客户：“实物分红”背后，是市值甘露还是糖衣炮弹？",
-        "link": "https://www.tmtpost.com/7808100.html",
-        "published_date": "Sat, 13 Dec 2025 15:17:00 GMT",
-        "first_seen": "2025-12-13T08:33:36.683462"
-      },
-      "76d9386ca06f7cdb36a89865beea650a05c6eb00939289fa52e99fae1115887d": {
-        "title": "“户外潮”危机初现，“平替”正无处不在 | 行业风向标",
-        "link": "https://www.tmtpost.com/7808156.html",
-        "published_date": "Sat, 13 Dec 2025 14:08:00 GMT",
-        "first_seen": "2025-12-13T08:33:36.683464"
-      },
-      "cb05532b6e1773521ab82db16c3cda750cf4d790bb2224e8028e9e65097b3ea3": {
-        "title": "小红书还是啃不动O2O，上线仅百日的小红卡暂停",
-        "link": "https://www.tmtpost.com/7808151.html",
-        "published_date": "Sat, 13 Dec 2025 14:07:00 GMT",
-        "first_seen": "2025-12-13T08:33:36.683465"
-      },
-      "58aff82d9f81afa5c54d45aa5c20034158acac96a0f4bb480865032f5347c433": {
-        "title": "郑州，竖起来了",
-        "link": "https://www.tmtpost.com/7808102.html",
-        "published_date": "Sat, 13 Dec 2025 14:02:00 GMT",
-        "first_seen": "2025-12-13T08:33:36.683467"
-      },
-      "9d3a9af62ae03c00741fb54a543b7f6961527f77281c59e0f0b0b6bd343c7b26": {
-        "title": "共筑知识产权发展新生态——2025海南国际知识产权交易大会纪实",
-        "link": "https://www.tmtpost.com/7808123.html",
-        "published_date": "Sat, 13 Dec 2025 13:54:00 GMT",
-        "first_seen": "2025-12-13T08:33:36.683468"
-      },
-      "1c4f3d4421bcdbd4604167d8403d02906164d637886ab5de11ea4ff300d67196": {
-        "title": "Svelte 团队成员开源新框架 Ripple，又一个想“改写前端”的框架？",
-        "link": "https://www.infoq.cn/article/84yOUazuZVZydfEZa1Nh?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 13 Dec 2025 14:38:00 GMT",
-        "first_seen": "2025-12-13T08:33:36.683469"
-      },
       "d59924d3c5092ebe7d9023ff2b74ae7902d0a9114397811d4365c9f1c747a7c4": {
         "title": "天桥脑科学研究院成立尖峰智能实验室，推动类脑大模型发展",
         "link": "https://www.tmtpost.com/7808249.html",
@@ -9613,6 +9565,72 @@
         "link": "https://www.infoq.cn/article/EbQ24746fmKpCj7qJmIZ?utm_source=rss&utm_medium=article",
         "published_date": "Mon, 12 Jan 2026 09:55:00 GMT",
         "first_seen": "2026-01-12T05:33:18.927394"
+      },
+      "9d309c2704c63be741b759e7255ae9c8af4258dfe02756176cd040e2ff1e5034": {
+        "title": "MongoBleed漏洞允许攻击者从MongoDB的堆内存中读取数据",
+        "link": "https://www.infoq.cn/article/HN7NXQZUkbU2StoW9Kl9?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 12 Jan 2026 16:23:00 GMT",
+        "first_seen": "2026-01-12T08:36:59.954452"
+      },
+      "3aa073111a52d4d26df204ef9e29a21eeda66b5d1ecb058b04709260351fd9ed": {
+        "title": "亚马逊云科技预览Route 53 Global Resolver，将DNS与区域故障解耦",
+        "link": "https://www.infoq.cn/article/Jey8ALfAhSOBWZ7El1is?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 12 Jan 2026 15:44:00 GMT",
+        "first_seen": "2026-01-12T08:36:59.954460"
+      },
+      "6a4ef330c33e02039f43b70b1f2c144c0413a515f80620ea9a26e9102fa2c2aa": {
+        "title": "抨击AI炒作、曝企业需求为先，Anthropic 联创：模型提 0.01 性能就血赚，算力烧钱但值！",
+        "link": "https://www.infoq.cn/article/fZkrM56MKzx9s8dNHYZ7?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 12 Jan 2026 15:02:00 GMT",
+        "first_seen": "2026-01-12T08:36:59.954462"
+      },
+      "9f36c8acfdb66238cb2fed48c1a8b31fded8c76c5019a386f17ad2a9d938bf93": {
+        "title": "“死了么”APP爆火，3人开发成本1500元：不改名；姚顺雨入职腾讯后首发声；微软本月大裁员，至少涉1.1 万人；字节实习生全面涨薪 | AI周报",
+        "link": "https://www.infoq.cn/article/OVgxgVu4Tph8UfgKshIv?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 12 Jan 2026 15:00:00 GMT",
+        "first_seen": "2026-01-12T08:36:59.954464"
+      },
+      "426f9950c666f46eb146cca5ff5b5bf8a4566d50d19b6468e32ba904f194ab3f": {
+        "title": "测试人员可以做些什么来确保软件安全",
+        "link": "https://www.infoq.cn/article/aWcsjzxXhQcwf3hgWkz2?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 12 Jan 2026 14:51:00 GMT",
+        "first_seen": "2026-01-12T08:36:59.954466"
+      },
+      "9b210d7258d7359c99642643bf1d6823fb3cc5a0713361a98c755f5397bc2d08": {
+        "title": "代理式终端——如何使用CLI智能体激活你的终端",
+        "link": "https://www.infoq.cn/article/t712SX2KtxLUAF9rZZ6y?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 12 Jan 2026 14:09:00 GMT",
+        "first_seen": "2026-01-12T08:36:59.954468"
+      },
+      "c381ddb85f4cbb8590411cc8b45b8bb5bc184a17e623e1d2c4da9aaa371235a0": {
+        "title": "二手高奢与本土新锐夹击，轻奢品牌如何反攻？",
+        "link": "https://www.tmtpost.com/7839010.html",
+        "published_date": "Mon, 12 Jan 2026 15:21:00 GMT",
+        "first_seen": "2026-01-12T08:36:59.954470"
+      },
+      "4efca704a71421f373dcc245e7ab63ff6a53407b756ee8ac4882f42b0c87a330": {
+        "title": "这个春节，海南酒店市场稳了",
+        "link": "https://www.tmtpost.com/7838994.html",
+        "published_date": "Mon, 12 Jan 2026 14:51:00 GMT",
+        "first_seen": "2026-01-12T08:36:59.954471"
+      },
+      "ba2873dcac1ac4316fbaff466145a87436b726a945661c66cd0e2fcdb569f8bd": {
+        "title": "2025人工智能发展现状报告：超级智能与中美大模型PK，限制与超越 | 企服国际观察",
+        "link": "https://www.tmtpost.com/7838702.html",
+        "published_date": "Mon, 12 Jan 2026 13:31:00 GMT",
+        "first_seen": "2026-01-12T08:36:59.954473"
+      },
+      "162ca2810dff627506755d048325d8022a0576c0f102e9f493b9c5a9b8da22f2": {
+        "title": "Physical AI Should Start Small to Earn Trust, Says Sentigent Technology CEO",
+        "link": "https://www.tmtpost.com/7839116.html",
+        "published_date": "Mon, 12 Jan 2026 13:28:00 GMT",
+        "first_seen": "2026-01-12T08:36:59.954474"
+      },
+      "81eb813d8e335125381377d0c4382ca735ce2ec4b246b41c5517d403d38c533a": {
+        "title": "冬天，在济州岛跨年",
+        "link": "https://sspai.com/post/105267",
+        "published_date": "Mon, 12 Jan 2026 15:00:00 GMT",
+        "first_seen": "2026-01-12T08:36:59.954476"
       }
     },
     "Finance": {
@@ -13521,15 +13539,21 @@
         "link": "https://www.marketwatch.com/story/why-investors-shouldnt-panic-yet-about-trumps-credit-card-rate-cap-proposal-d33952b0?mod=mw_rss_topstories",
         "published_date": "Mon, 12 Jan 2026 02:04:00 GMT",
         "first_seen": "2026-01-12T05:33:18.676300"
+      },
+      "9621b81a387f1dbe1bca2414f07b196dd949af1e3fc13a6d51ac7f2f39889f7c": {
+        "title": "Gold hits record high on worries over Fed independence",
+        "link": "https://www.ft.com/content/09aa1ffc-3776-4c72-8342-47d4d1bd5186",
+        "published_date": "Mon, 12 Jan 2026 07:51:00 GMT",
+        "first_seen": "2026-01-12T08:36:59.705301"
+      },
+      "d6338d15cc0d8777ad74dea06e7d89da32da27e427a8094122ed189322ea89ca": {
+        "title": "Criminalising the Fed",
+        "link": "https://www.ft.com/content/21b5418c-0c55-4a10-94ac-cb4faeafea32",
+        "published_date": "Mon, 12 Jan 2026 06:30:00 GMT",
+        "first_seen": "2026-01-12T08:36:59.705313"
       }
     },
     "Ai": {
-      "30bde27fb4bf22a299ea94a6934050163940e24107821fd3116cd59394c46560": {
-        "title": "交大高金朱宁：经济学家视角下AI时代的范式思维转变 | MEET2026",
-        "link": "https://www.qbitai.com/2025/12/360576.html",
-        "published_date": "Sat, 13 Dec 2025 04:53:00 GMT",
-        "first_seen": "2025-12-13T08:33:36.600570"
-      },
       "3de7555536479c8093880f8c0ef4e4649d3dbd9ba43f5aad2050386283af4fff": {
         "title": "ACL Fellows 2025名单公布：西湖大学张岳与UIUC季姮入选",
         "link": "https://www.jiqizhixin.com/articles/2025-12-14-7",
@@ -16037,13 +16061,55 @@
         "link": "https://www.jiqizhixin.com/articles/2026-01-12",
         "published_date": "Mon, 12 Jan 2026 10:25:00 GMT",
         "first_seen": "2026-01-12T05:33:18.803890"
+      },
+      "39bca3da45d37bac837754f9d52c13e19e5eb38e7c71d59a6a368ae8bd2ec0b9": {
+        "title": "真香！刚骂完AI，Linux之父的首个Vibe Coding项目上线",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-12-7",
+        "published_date": "Mon, 12 Jan 2026 15:06:00 GMT",
+        "first_seen": "2026-01-12T08:36:59.833184"
+      },
+      "21345019d20c30e2290c2bcc5cbbe967686dbdc6c650650c7860edc8622bdab1": {
+        "title": "引入几何约束后，VLM跨越了「空间推理」的认知鸿沟",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-12-6",
+        "published_date": "Mon, 12 Jan 2026 15:00:00 GMT",
+        "first_seen": "2026-01-12T08:36:59.833191"
+      },
+      "1401a8d331131b2b52d41bc54246e9d2a3e4ac484dfafd8350548bcdf2cf4ff1": {
+        "title": "清华等团队用AI驱动百万倍速药物筛选，一天内十万亿次扫描的超高速虚拟平台",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-12-5",
+        "published_date": "Mon, 12 Jan 2026 14:11:00 GMT",
+        "first_seen": "2026-01-12T08:36:59.833194"
+      },
+      "9136e32ecba3949e46147f93b95475753ddc991eeab6ebbcc185873fc618eee5": {
+        "title": "具身开源模型新王！千寻Spirit v1.5模型登顶 RoboChallenge，终结 Pi0.5领跑时代",
+        "link": "https://www.qbitai.com/2026/01/369107.html",
+        "published_date": "Mon, 12 Jan 2026 08:06:00 GMT",
+        "first_seen": "2026-01-12T08:36:59.833195"
+      },
+      "a61eee4eb88b81833150b51d0a1e70aabce8711ca5ec7a08d45f674a3312883a": {
+        "title": "KAN一作刘子鸣回国任教，清华官网盖章认证了",
+        "link": "https://www.qbitai.com/2026/01/369187.html",
+        "published_date": "Mon, 12 Jan 2026 07:53:00 GMT",
+        "first_seen": "2026-01-12T08:36:59.833197"
+      },
+      "eb54af6b49a46c2ae70c92ccaca9f447099bcf157949cd7332a23ecf0e0f0cd1": {
+        "title": "暴跌12.5%，宝马在中国卖不动了",
+        "link": "https://www.qbitai.com/2026/01/369157.html",
+        "published_date": "Mon, 12 Jan 2026 07:45:00 GMT",
+        "first_seen": "2026-01-12T08:36:59.833198"
+      },
+      "20fe234369ceecdd8399b60d55c534f7eb5db6b0105026e9ab331e943fdcca56": {
+        "title": "具身智能开年最大融资，字节红杉领投10亿",
+        "link": "https://www.qbitai.com/2026/01/369147.html",
+        "published_date": "Mon, 12 Jan 2026 06:51:00 GMT",
+        "first_seen": "2026-01-12T08:36:59.833200"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-01-12T05:33:18.927396",
-    "Finance": "2026-01-12T05:33:18.676302",
-    "Ai": "2026-01-12T05:33:18.803893"
+    "Technology": "2026-01-12T08:36:59.954477",
+    "Finance": "2026-01-12T08:36:59.705317",
+    "Ai": "2026-01-12T08:36:59.833202"
   }
 }
