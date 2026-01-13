@@ -2,12 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "cc499f9a13bf9d2cafb8fe0735bfd30c883166c7d65a2451e892204f5a3a5514": {
-        "title": "昨夜星辰（四）我的三星职场之旅",
-        "link": "https://www.tmtpost.com/7808408.html",
-        "published_date": "Sun, 14 Dec 2025 16:14:00 GMT",
-        "first_seen": "2025-12-14T08:34:27.803357"
-      },
       "37c10eccd240a820effaebdac72f0c20cd59bbf645e0c5f3d7ccfbb3e00fd49b": {
         "title": "哈森股份重组受阻，终止收购辰瓴光学；新疆猪企龙头抛出12亿元并购【并购一线】",
         "link": "https://www.tmtpost.com/7808562.html",
@@ -9835,51 +9829,99 @@
         "link": "https://www.infoq.cn/article/Iz1JUWqd0FvejBXDKWk3?utm_source=rss&utm_medium=article",
         "published_date": "Tue, 13 Jan 2026 08:00:00 GMT",
         "first_seen": "2026-01-13T05:28:55.343478"
+      },
+      "0a37495d2a3c02c4c4d5dac235e7cdfecf830f9b873946aac348f956bfeb310c": {
+        "title": "黄仁勋的Agentic AI，闯入全球市值最高药厂",
+        "link": "https://www.tmtpost.com/7840454.html",
+        "published_date": "Tue, 13 Jan 2026 15:42:00 GMT",
+        "first_seen": "2026-01-13T08:35:19.528819"
+      },
+      "a3ff30b9f05dcef2aa8b9751a7223bd43ad8e321736d92edfab3945d42b21a26": {
+        "title": "星空计划亮相 2026 CES，试图押注超豪华新能源赛道",
+        "link": "https://www.tmtpost.com/7840692.html",
+        "published_date": "Tue, 13 Jan 2026 15:40:00 GMT",
+        "first_seen": "2026-01-13T08:35:19.528827"
+      },
+      "88d70efa3afecd8d6fa9f0a83848ba112deadbb7bc2efcfd7c68fafbdc0e8a51": {
+        "title": "联讯仪器：盈利质量不佳叠加股权乱象，高募资合理性遭拷问｜IPO观察",
+        "link": "https://www.tmtpost.com/7839370.html",
+        "published_date": "Tue, 13 Jan 2026 15:15:00 GMT",
+        "first_seen": "2026-01-13T08:35:19.528829"
+      },
+      "c9fb820fa4b85144f87df849fa9f34b615f324723ce1a5ecde778a813c3cf18c": {
+        "title": "年入40亿、复购率70%，中国“平替王”悄悄席卷全国",
+        "link": "https://www.tmtpost.com/7840719.html",
+        "published_date": "Tue, 13 Jan 2026 15:04:00 GMT",
+        "first_seen": "2026-01-13T08:35:19.528830"
+      },
+      "91a9fcbfcf3174cf724a3b6fd59108c5c215139e2f1782d8ea4daff899c58041": {
+        "title": "Matrix Robotics Unveils MATRIX-3, Next-Generation Humanoid Robot with Advanced Physical AI",
+        "link": "https://www.tmtpost.com/7840778.html",
+        "published_date": "Tue, 13 Jan 2026 15:03:00 GMT",
+        "first_seen": "2026-01-13T08:35:19.528832"
+      },
+      "08536cca415189aa573b60343cd82b73ed3ea03821b68e0da2496567d9300365": {
+        "title": "蔡浩宇赴硅谷二次创业：打造下一个400亿平台？",
+        "link": "https://www.tmtpost.com/7832642.html",
+        "published_date": "Tue, 13 Jan 2026 15:02:00 GMT",
+        "first_seen": "2026-01-13T08:35:19.528833"
+      },
+      "88d6d4a2ffa4e316e8c6779af55845e425e529db372a667d014745f009c04673": {
+        "title": "00后天才辍学创业，AI宠物有人买单吗？",
+        "link": "https://www.tmtpost.com/7839034.html",
+        "published_date": "Tue, 13 Jan 2026 14:57:00 GMT",
+        "first_seen": "2026-01-13T08:35:19.528835"
+      },
+      "e50febbe46e8dd748336c0d243d10d903b8e2a1d210f98f12cc929250c6a957f": {
+        "title": "吴恩达最新研判：算力封锁？中国模型抢占17%份额，开源AI完成“反向突围”？",
+        "link": "https://www.tmtpost.com/7840637.html",
+        "published_date": "Tue, 13 Jan 2026 14:57:00 GMT",
+        "first_seen": "2026-01-13T08:35:19.528836"
+      },
+      "4d64872e5da247a7f188e90edca0a1a481d8b89ff68a94a2718f8abfe0d3fbfa": {
+        "title": "苹果与谷歌驶入AI深水区",
+        "link": "https://www.tmtpost.com/7840674.html",
+        "published_date": "Tue, 13 Jan 2026 14:56:00 GMT",
+        "first_seen": "2026-01-13T08:35:19.528837"
+      },
+      "074687706361940196c10107fa9d32c818d16633ae019be731aa6f573604e1da": {
+        "title": "2026，大家都是木头姐",
+        "link": "https://www.tmtpost.com/7840629.html",
+        "published_date": "Tue, 13 Jan 2026 14:53:00 GMT",
+        "first_seen": "2026-01-13T08:35:19.528839"
+      },
+      "4c392a84506179b5fdb4cedb1a5b4e65f1194478d1bbbc69b2daefa4a8f59852": {
+        "title": "Anthropic筑墙，DeepSeek修路",
+        "link": "https://www.tmtpost.com/7840693.html",
+        "published_date": "Tue, 13 Jan 2026 14:51:00 GMT",
+        "first_seen": "2026-01-13T08:35:19.528840"
+      },
+      "5880c196e7293dab38f744e2581b8109281fb8d17fa2a4795c821091b0bd7ae3": {
+        "title": "牛市来了，AI或可当你的理财搭子",
+        "link": "https://www.tmtpost.com/7840677.html",
+        "published_date": "Tue, 13 Jan 2026 14:07:00 GMT",
+        "first_seen": "2026-01-13T08:35:19.528842"
+      },
+      "0e13174136b8122beec21be88f58e392aa6e2e29ab80258564cbf89b907061e0": {
+        "title": "Typeless：语音输入法新物种，开启 AI 信息记录新时代",
+        "link": "https://sspai.com/post/105358",
+        "published_date": "Tue, 13 Jan 2026 15:22:00 GMT",
+        "first_seen": "2026-01-13T08:35:19.528843"
+      },
+      "f31d07a5e95ad90c06d79c4e2bf89ce24bcb27fc395cbca89e659608f6a45716": {
+        "title": "Claude Code创建者的开发工作流程",
+        "link": "https://www.infoq.cn/article/4VI90fSOKGG8DrpQrD37?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 13 Jan 2026 15:03:00 GMT",
+        "first_seen": "2026-01-13T08:35:19.528844"
+      },
+      "adbc14c62d994edecf20a76c2812ba70ebc7ea13d6f2fe9b9203a33d7f0406e1": {
+        "title": "亚马逊云科技推出VPC加密控制，在传输过程中实施强制加密",
+        "link": "https://www.infoq.cn/article/Wrhj4dCb7ARmzcKkdgcM?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 13 Jan 2026 14:11:00 GMT",
+        "first_seen": "2026-01-13T08:35:19.528846"
       }
     },
     "Finance": {
-      "dd43ad28fa753b6914fdcf76b20b769ef7a153ca5bb082c976c87268bce94a2d": {
-        "title": "Hedge funds pile into commodities in search of fresh source of returns",
-        "link": "https://www.ft.com/content/598c3bfc-008c-438f-837c-f7ec73a993f6",
-        "published_date": "Sun, 14 Dec 2025 05:00:00 GMT",
-        "first_seen": "2025-12-14T08:34:27.601592"
-      },
-      "ef6331e26739a7c17e1f9e38d3afc717ed4c94ff64e36a12b76e56373b470fdf": {
-        "title": "It makes sense to look smart when flying",
-        "link": "https://www.ft.com/content/011bea6d-d468-4804-be3e-b5e11789ee2b",
-        "published_date": "Sun, 14 Dec 2025 05:00:00 GMT",
-        "first_seen": "2025-12-14T08:34:27.601600"
-      },
-      "f8e248ae915cc9bf2b6b1679007fe3b189817484f2e8d2e3721d2bebdcf78ec8": {
-        "title": "How the ‘Brussels effect’ backfired",
-        "link": "https://www.ft.com/content/abc3002e-a7be-48e2-8197-aeddf937afec",
-        "published_date": "Sun, 14 Dec 2025 05:00:00 GMT",
-        "first_seen": "2025-12-14T08:34:27.601603"
-      },
-      "c33699830b84796e66db4f93559b0cf042f5b5596bf386a95066cf163b4d317d": {
-        "title": "Swiss dealmaking surges to record highs despite strong franc",
-        "link": "https://www.ft.com/content/13bb7aca-b46e-4460-aab7-24d81410bb62",
-        "published_date": "Sun, 14 Dec 2025 05:00:00 GMT",
-        "first_seen": "2025-12-14T08:34:27.601605"
-      },
-      "8ee06bda1f1970a098e014e1f7410d5ef12e177ffe484bf84d33c7677086f6ed": {
-        "title": "IPO of bubble-era Japan bank seen as trigger for more deals",
-        "link": "https://www.ft.com/content/47bdd495-849d-42a6-bf13-8472c992788a",
-        "published_date": "Sun, 14 Dec 2025 05:00:00 GMT",
-        "first_seen": "2025-12-14T08:34:27.601606"
-      },
-      "bfcbbe6791083c7d5d95d4ea90c0ee30d13a843468d584e5f20bf6d14e4a68e1": {
-        "title": "Keir Starmer risks losing ally at top of Britain’s biggest union",
-        "link": "https://www.ft.com/content/cfa24458-0afb-481d-a99b-2f14bd69bdcc",
-        "published_date": "Sun, 14 Dec 2025 05:00:00 GMT",
-        "first_seen": "2025-12-14T08:34:27.601608"
-      },
-      "f1b7bc712a4acac1ce0bbb9c69801149e29972f689faf136e3345688c36e7fa4": {
-        "title": "VW gears up for first production closure in Germany in its 88-year history",
-        "link": "https://www.ft.com/content/d7d0fbc8-2e92-49c5-be38-1412d8392fa9",
-        "published_date": "Sun, 14 Dec 2025 05:00:00 GMT",
-        "first_seen": "2025-12-14T08:34:27.601609"
-      },
       "c2e23f96256fbe8e42ac61304fdf1fc444126c6c30037d9ec893d54fe59eebd9": {
         "title": "U.S. stock futures little changed ahead of year’s last full week of trading",
         "link": "https://www.marketwatch.com/story/u-s-stock-futures-little-changed-ahead-of-years-last-full-week-of-trading-58783137?mod=mw_rss_topstories",
@@ -13851,15 +13893,33 @@
         "link": "https://www.marketwatch.com/story/could-apples-gemini-deal-be-the-catalyst-the-stock-needs-b3cbc2af?mod=mw_rss_topstories",
         "published_date": "Mon, 12 Jan 2026 23:33:00 GMT",
         "first_seen": "2026-01-13T05:28:55.077133"
+      },
+      "1ada9c8e353128a45acae2fd9f83065323d2e7a22fa320b848a12d961a4f7dc2": {
+        "title": "Where one of Trump’s candidates to be Fed chair wants to take interest rates",
+        "link": "https://www.marketwatch.com/story/blackrocks-rieder-repeats-his-view-that-fed-needs-to-bring-interest-rates-down-to-3-0c1a61d3?mod=mw_rss_topstories",
+        "published_date": "Tue, 13 Jan 2026 08:19:00 GMT",
+        "first_seen": "2026-01-13T08:35:19.289412"
+      },
+      "b30195d709c6a2a2e9d5a2aebe07e1ef781319e2d32bacf509d7ddda2533dd41": {
+        "title": "This contrarian strategist says Trump is predictable and the Fed was never independent as he makes these bold calls",
+        "link": "https://www.marketwatch.com/story/this-contrarian-strategist-says-trump-is-predictable-and-the-fed-was-never-independent-as-he-makes-these-bold-calls-858b54f9?mod=mw_rss_topstories",
+        "published_date": "Tue, 13 Jan 2026 08:07:00 GMT",
+        "first_seen": "2026-01-13T08:35:19.289422"
+      },
+      "53aa642f90e741607f8453c113db531981b202b1348d2c1b11068862af4776d1": {
+        "title": "Yen tumbles and Japan stocks soar as election talk reignites ‘Takaichi trade’",
+        "link": "https://www.ft.com/content/54a3eca2-33cf-474c-ba87-098489a8eee2",
+        "published_date": "Tue, 13 Jan 2026 07:34:00 GMT",
+        "first_seen": "2026-01-13T08:35:19.289424"
+      },
+      "385952c76465d0bf702d42c966836793f0b25205e8e37c06713207c3bdc1dbf3": {
+        "title": "Wellcome Trust builds cash pile as it warns on record high equity markets",
+        "link": "https://www.ft.com/content/1bc7d391-56c1-40f1-8db2-c2895ef67fe1",
+        "published_date": "Tue, 13 Jan 2026 07:00:00 GMT",
+        "first_seen": "2026-01-13T08:35:19.289426"
       }
     },
     "Ai": {
-      "21169da2e516c054f6d44c88e73657fe132a876f954cc51174892292c553023a": {
-        "title": "OpenAI突然开源新模型！99.9%的权重是0，新稀疏性方法代替MoE",
-        "link": "https://www.qbitai.com/2025/12/360864.html",
-        "published_date": "Sun, 14 Dec 2025 06:27:00 GMT",
-        "first_seen": "2025-12-14T08:34:27.722742"
-      },
       "8d34f39a9793a89f7ea3cc4a5db027ea30e7b5942a9b24ef0277a535cfb379d6": {
         "title": "谷歌创始人布林：当年发完Transformer论文，我们太不当回事了",
         "link": "https://www.jiqizhixin.com/articles/2025-12-14-12",
@@ -16397,13 +16457,25 @@
         "link": "https://www.qbitai.com/2026/01/369244.html",
         "published_date": "Tue, 13 Jan 2026 04:30:00 GMT",
         "first_seen": "2026-01-13T05:28:55.206233"
+      },
+      "98b4bc8200250838bb57e6f510ad9651aa7920c9dfbc6a8f4e815ffa66252c99": {
+        "title": "无需重新训练，即可学习新任务，Arc研究所开源单细胞基础模型Stack及细胞反应全景图谱",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-13-7",
+        "published_date": "Tue, 13 Jan 2026 16:25:00 GMT",
+        "first_seen": "2026-01-13T08:35:19.414894"
+      },
+      "ef165e0cb27b3c9028c18c1591bf3be310ee469dd0f91681c75d836dd2dfdfd6": {
+        "title": "AI太记仇！做完心理治疗后仍记得「被工程师虐待」",
+        "link": "https://www.qbitai.com/2026/01/369273.html",
+        "published_date": "Tue, 13 Jan 2026 07:35:00 GMT",
+        "first_seen": "2026-01-13T08:35:19.414902"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-01-13T05:28:55.343479",
-    "Finance": "2026-01-13T05:28:55.077135",
-    "Ai": "2026-01-13T05:28:55.206235"
+    "Technology": "2026-01-13T08:35:19.528847",
+    "Finance": "2026-01-13T08:35:19.289429",
+    "Ai": "2026-01-13T08:35:19.414904"
   }
 }

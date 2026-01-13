@@ -1,7 +1,32 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-13 05:28
+**最后更新时间**: 2026-01-13 08:35
+
+---
+
+## 🆕 最新更新 (2026-01-13 08:35)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Where one of Trump’s candidates to be Fed chair wants to take interest rates](https://www.marketwatch.com/story/blackrocks-rieder-repeats-his-view-that-fed-needs-to-bring-interest-rates-down-to-3-0c1a61d3?mod=mw_rss_topstories)
+**发布时间**: 2026-01-13 08:19
+
+#### [This contrarian strategist says Trump is predictable and the Fed was never independent as he makes these bold calls](https://www.marketwatch.com/story/this-contrarian-strategist-says-trump-is-predictable-and-the-fed-was-never-independent-as-he-makes-these-bold-calls-858b54f9?mod=mw_rss_topstories)
+**发布时间**: 2026-01-13 08:07
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Yen tumbles and Japan stocks soar as election talk reignites ‘Takaichi trade’](https://www.ft.com/content/54a3eca2-33cf-474c-ba87-098489a8eee2)
+**发布时间**: 2026-01-13 07:34
+
+#### [Wellcome Trust builds cash pile as it warns on record high equity markets](https://www.ft.com/content/1bc7d391-56c1-40f1-8db2-c2895ef67fe1)
+**发布时间**: 2026-01-13 07:00
+
+#### [Billions from a million: the London VC that hit the jackpot with Revolut](https://www.ft.com/content/97e6f29e-bc79-43e0-bcbd-2dfe98755ea3)
+**发布时间**: 2026-01-13 05:00
+
+#### [Understanding Iran: seven books that help explain the unrest](https://www.ft.com/content/0a120fb1-2462-4cbb-a2bb-2d81cba83541)
+**发布时间**: 2026-01-13 05:00
 
 ---
 
