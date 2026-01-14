@@ -1,7 +1,41 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-13 23:23
+**最后更新时间**: 2026-01-14 05:28
+
+---
+
+## 🆕 最新更新 (2026-01-14 05:28)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Prudential names Douglas Flint as chair](https://www.ft.com/content/c793e62c-1590-4e76-9684-69f4a5746c34)
+**发布时间**: 2026-01-14 05:11
+
+#### [The Maga war on European democracy](https://www.ft.com/content/f1230ddd-0e24-4f0f-8b6e-3fde907fc651)
+**发布时间**: 2026-01-14 05:00
+
+#### [‘Welcome to hell’: Venezuela’s most notorious torture chamber](https://www.ft.com/content/810f5931-5138-4ad2-a71e-a4812608c85e)
+**发布时间**: 2026-01-14 05:00
+
+#### [Trump warns Iran to ‘show humanity’ or face ‘very strong action’](https://www.ft.com/content/ab009ef4-4fec-40f5-a087-241447ef6c51)
+**发布时间**: 2026-01-14 00:51
+
+#### [Netflix preparing all-cash offer for Warner Bros to fend off Paramount](https://www.ft.com/content/86b66ead-3020-4757-9106-55d216c5a455)
+**发布时间**: 2026-01-13 22:40
+
+#### [Reeves to unveil £45bn railway upgrade in northern England](https://www.ft.com/content/6782ecd4-e58f-48db-ba2b-495cd42d3764)
+**发布时间**: 2026-01-13 22:35
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Looking for a house under $300,000? Here’s why newly built homes may offer the best deals.](https://www.marketwatch.com/story/looking-for-a-house-under-300-000-heres-why-newly-built-homes-may-offer-the-best-deals-d622b6c5?mod=mw_rss_topstories)
+**发布时间**: 2026-01-14 00:52
+
+#### [Investors should buy AMD’s stock now: This analyst explains why he changed his mind](https://www.marketwatch.com/story/investors-should-buy-amds-stock-now-this-analyst-explains-why-he-changed-his-mind-6a51f184?mod=mw_rss_topstories)
+**发布时间**: 2026-01-13 23:59
+
+#### [Intel’s stock is popping. Here’s how it can become an AI winner and rack up even more gains.](https://www.marketwatch.com/story/intels-stock-is-popping-heres-how-it-can-become-an-ai-winner-and-rack-up-even-more-gains-062d7e59?mod=mw_rss_topstories)
+**发布时间**: 2026-01-13 23:54
 
 ---
 
