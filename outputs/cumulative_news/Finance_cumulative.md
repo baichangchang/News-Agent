@@ -1,7 +1,74 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-14 08:35
+**最后更新时间**: 2026-01-14 23:20
+
+---
+
+## 🆕 最新更新 (2026-01-14 23:20)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Sadiq Khan to warn AI could cause ‘mass unemployment’ in London](https://www.ft.com/content/6f92844e-6eb6-48dc-a36a-fd63115e45b5)
+**发布时间**: 2026-01-14 22:30
+
+#### [Israel waits on US to settle ‘unfinished business’ with Iran](https://www.ft.com/content/0c5a836a-3176-4d2e-b78c-1eb6ffd8be0c)
+**发布时间**: 2026-01-14 21:51
+
+#### [Trump says he has received assurances ‘killing in Iran is stopping’](https://www.ft.com/content/c698ff51-7854-4cf9-a92b-0c06e2a1a182)
+**发布时间**: 2026-01-14 21:49
+
+#### [US, Denmark and Greenland to form Arctic working group after tense talks](https://www.ft.com/content/6edecbed-c88e-401f-9bbd-911db69e5a54)
+**发布时间**: 2026-01-14 20:59
+
+#### [Rachel Reeves signals expansion of pubs tax U-turn to other businesses](https://www.ft.com/content/d1d1974c-c1cf-4864-8ecb-55bc885d7537)
+**发布时间**: 2026-01-14 19:12
+
+#### [The dangers of a trigger-happy US president](https://www.ft.com/content/64917371-c076-449d-aa93-f15ee03037a5)
+**发布时间**: 2026-01-14 18:29
+
+#### [The historic bazaar where Iran’s protests began](https://www.ft.com/content/3f9608df-913f-455d-ac67-76a91286764b)
+**发布时间**: 2026-01-14 18:12
+
+#### [US to pause immigrant visa processing for nationals of 75 countries](https://www.ft.com/content/df02ed88-8e36-4bff-920b-dcd67ec38cfc)
+**发布时间**: 2026-01-14 18:01
+
+#### [Latest U-turn raises renewed questions over Starmer’s judgment](https://www.ft.com/content/ddffc1e8-9579-4243-ad4b-6bf8a781e618)
+**发布时间**: 2026-01-14 13:00
+
+#### [How Nigel Farage gets away with it](https://www.ft.com/content/e519b064-64e4-422c-b2e7-aa256344fe11)
+**发布时间**: 2026-01-14 12:29
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Verizon’s outage may have annoyed users, but it didn’t bother investors](https://www.marketwatch.com/story/verizons-outage-may-have-annoyed-users-but-it-didnt-bother-investors-59606094?mod=mw_rss_topstories)
+**发布时间**: 2026-01-14 22:14
+
+#### [Your wealth and investments are on the line if Trump torpedoes the Fed’s independence](https://www.marketwatch.com/story/your-wealth-and-investments-would-be-on-the-line-if-trump-torpedoes-the-feds-independence-32205e6f?mod=mw_rss_topstories)
+**发布时间**: 2026-01-14 21:27
+
+#### [3 ways to invest in what could become a $200 billion market for humanoid robots](https://www.marketwatch.com/story/3-ways-to-invest-in-what-could-become-a-200-billion-market-for-humanoid-robots-e258d39f?mod=mw_rss_topstories)
+**发布时间**: 2026-01-14 20:46
+
+#### [Microsoft’s stock may be an AI winner — but it’s not acting like one](https://www.marketwatch.com/story/microsofts-stock-may-be-an-ai-winner-but-its-not-acting-like-one-549c9065?mod=mw_rss_topstories)
+**发布时间**: 2026-01-14 20:32
+
+#### [Businesses across the U.S. are beginning to pass tariff costs to consumers, Fed’s ‘beige book’ finds](https://www.marketwatch.com/story/businesses-across-the-country-are-starting-to-pass-along-higher-costs-from-tariffs-feds-beige-book-finds-f5bfd0df?mod=mw_rss_topstories)
+**发布时间**: 2026-01-14 19:56
+
+#### [Saks files for bankruptcy. These big fashion brands — and tech names — are waiting to get paid.](https://www.marketwatch.com/story/saks-global-files-for-bankruptcy-heres-how-luxury-retail-went-out-of-style-199e0677?mod=mw_rss_topstories)
+**发布时间**: 2026-01-14 19:53
+
+#### [The financial elite aren’t worried about a stock-market bubble yet — but you can’t afford to be so complacent](https://www.marketwatch.com/story/if-you-havent-experienced-a-bear-market-talk-with-someone-who-has-youll-thank-them-later-4cb15a97?mod=mw_rss_topstories)
+**发布时间**: 2026-01-14 19:32
+
+#### [Wall Street is now wondering how Trump’s tariffs align with his ‘affordability’ pivot](https://www.marketwatch.com/story/how-trumps-affordability-push-is-prompting-wall-street-to-rethink-whats-next-for-tariffs-18fbe875?mod=mw_rss_topstories)
+**发布时间**: 2026-01-14 19:26
+
+#### [The wait for a tariff ruling could signal a Trump win — or a refund headache](https://www.marketwatch.com/story/the-wait-for-a-tariff-ruling-could-signal-a-trump-win-or-a-refund-headache-e1d55605?mod=mw_rss_topstories)
+**发布时间**: 2026-01-14 19:09
+
+#### [Trump says the economy is better under him than Biden. Here’s how they stack up.](https://www.marketwatch.com/story/trump-says-the-u-s-economy-has-super-high-growth-is-he-right-bc1f7eef?mod=mw_rss_topstories)
+**发布时间**: 2026-01-14 19:07
 
 ---
 
