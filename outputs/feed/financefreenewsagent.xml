@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 15 Jan 2026 08:35:00 GMT</pubDate>
-    <lastBuildDate>Thu, 15 Jan 2026 08:35:35 GMT</lastBuildDate>
+    <pubDate>Thu, 15 Jan 2026 23:25:00 GMT</pubDate>
+    <lastBuildDate>Thu, 15 Jan 2026 23:25:24 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,11 +14,179 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>UK economy beat expectations to grow 0.3% in November</title>
-      <link>https://www.ft.com/content/2a7e4534-b97a-4abd-ba5d-c689c2ec7802</link>
-      <description>&lt;![CDATA[UK economy beat expectations to grow 0.3% in November]]&gt;</description>
-      <pubDate>Thu, 15 Jan 2026 08:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/2a7e4534-b97a-4abd-ba5d-c689c2ec7802</guid>
+      <title>Venezuela’s opposition leader gives her Nobel Peace Prize medal to Trump</title>
+      <link>https://www.ft.com/content/bd789480-53df-4027-92b6-5ec0421825f6</link>
+      <description>&lt;![CDATA[Venezuela’s opposition leader gives her Nobel Peace Prize medal to Trump]]&gt;</description>
+      <pubDate>Thu, 15 Jan 2026 22:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/bd789480-53df-4027-92b6-5ec0421825f6</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Oil prices tumble as fears of US action in Iran ease</title>
+      <link>https://www.ft.com/content/9cbf6010-3e10-4806-a889-6ecf216fd136</link>
+      <description>&lt;![CDATA[Oil prices tumble as fears of US action in Iran ease]]&gt;</description>
+      <pubDate>Thu, 15 Jan 2026 20:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/9cbf6010-3e10-4806-a889-6ecf216fd136</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Regulator raises alarm over rise in top grades at English universities</title>
+      <link>https://www.ft.com/content/69354429-5d7b-4e1e-9df0-82698256669f</link>
+      <description>&lt;![CDATA[Regulator raises alarm over rise in top grades at English universities]]&gt;</description>
+      <pubDate>Thu, 15 Jan 2026 19:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/69354429-5d7b-4e1e-9df0-82698256669f</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Jenrick joins Reform UK after being sacked from Tory shadow cabinet</title>
+      <link>https://www.ft.com/content/991213ae-dab4-44ad-86eb-48045f97de96</link>
+      <description>&lt;![CDATA[Jenrick joins Reform UK after being sacked from Tory shadow cabinet]]&gt;</description>
+      <pubDate>Thu, 15 Jan 2026 19:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/991213ae-dab4-44ad-86eb-48045f97de96</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Middle East governments believe US-Iran tension ‘de-escalated’</title>
+      <link>https://www.ft.com/content/df0c0833-59f6-45d6-a74f-008b46756e72</link>
+      <description>&lt;![CDATA[Middle East governments believe US-Iran tension ‘de-escalated’]]&gt;</description>
+      <pubDate>Thu, 15 Jan 2026 19:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/df0c0833-59f6-45d6-a74f-008b46756e72</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Jenrick defection redraws battle lines on right of British politics</title>
+      <link>https://www.ft.com/content/029c20d8-77f4-4739-8465-08949092be3f</link>
+      <description>&lt;![CDATA[Jenrick defection redraws battle lines on right of British politics]]&gt;</description>
+      <pubDate>Thu, 15 Jan 2026 18:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/029c20d8-77f4-4739-8465-08949092be3f</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Goldman and Morgan Stanley investment bankers ride dealmaking wave</title>
+      <link>https://www.ft.com/content/265dd109-bbc6-4542-9f0a-3b5db7aa1784</link>
+      <description>&lt;![CDATA[Goldman and Morgan Stanley investment bankers ride dealmaking wave]]&gt;</description>
+      <pubDate>Thu, 15 Jan 2026 18:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/265dd109-bbc6-4542-9f0a-3b5db7aa1784</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>How Iran’s Islamic revolution devoured itself</title>
+      <link>https://www.ft.com/content/14da829b-4e71-4369-9037-915f504ab4d7</link>
+      <description>&lt;![CDATA[How Iran’s Islamic revolution devoured itself]]&gt;</description>
+      <pubDate>Thu, 15 Jan 2026 16:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/14da829b-4e71-4369-9037-915f504ab4d7</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Jenrick’s sacking is both threat and opportunity for Badenoch</title>
+      <link>https://www.ft.com/content/89bebb48-6e89-4c95-bdb1-03a3e4376c12</link>
+      <description>&lt;![CDATA[Jenrick’s sacking is both threat and opportunity for Badenoch]]&gt;</description>
+      <pubDate>Thu, 15 Jan 2026 13:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/89bebb48-6e89-4c95-bdb1-03a3e4376c12</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>A warning shot to our tech overlords</title>
+      <link>https://www.ft.com/content/b5ac5abe-667a-4244-aea2-6b1c183f1cce</link>
+      <description>&lt;![CDATA[A warning shot to our tech overlords]]&gt;</description>
+      <pubDate>Thu, 15 Jan 2026 12:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/b5ac5abe-667a-4244-aea2-6b1c183f1cce</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Revolut, Visa and Mastercard lose UK legal challenge over fee cap</title>
+      <link>https://www.ft.com/content/90c00ca5-2d1d-4bb8-aaa9-5fa40c9f974f</link>
+      <description>&lt;![CDATA[Revolut, Visa and Mastercard lose UK legal challenge over fee cap]]&gt;</description>
+      <pubDate>Thu, 15 Jan 2026 11:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/90c00ca5-2d1d-4bb8-aaa9-5fa40c9f974f</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>BoE accused of making ‘mistake’ in loosening capital rules</title>
+      <link>https://www.ft.com/content/4f158502-9cc0-4813-bc2d-a2017fd752bc</link>
+      <description>&lt;![CDATA[BoE accused of making ‘mistake’ in loosening capital rules]]&gt;</description>
+      <pubDate>Thu, 15 Jan 2026 11:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/4f158502-9cc0-4813-bc2d-a2017fd752bc</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>College sports has a new money problem — and St. John’s may be the latest example: ‘It’s the Wild West’</title>
+      <link>https://www.marketwatch.com/story/college-sports-has-a-new-money-problem-and-st-johns-may-be-the-latest-example-its-the-wild-west-e35648ba?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[College sports has a new money problem — and St. John’s may be the latest example: ‘It’s the Wild West’]]&gt;</description>
+      <pubDate>Thu, 15 Jan 2026 22:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/college-sports-has-a-new-money-problem-and-st-johns-may-be-the-latest-example-its-the-wild-west-e35648ba?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Why portfolio managers are whispering about inflation worries in 2026</title>
+      <link>https://www.marketwatch.com/story/why-portfolio-managers-are-whispering-about-inflation-worries-in-2026-694cb01c?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Why portfolio managers are whispering about inflation worries in 2026]]&gt;</description>
+      <pubDate>Thu, 15 Jan 2026 21:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/why-portfolio-managers-are-whispering-about-inflation-worries-in-2026-694cb01c?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>These charts show the stock market giving investors a lot to like — for now — as the S&amp;P 500 nears 7,000</title>
+      <link>https://www.marketwatch.com/story/these-charts-show-the-stock-market-giving-investors-a-lot-to-like-for-now-as-the-s-p-500-nears-7-000-00d5d41d?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[These charts show the stock market giving investors a lot to like — for now — as the S&amp;P 500 nears 7,000]]&gt;</description>
+      <pubDate>Thu, 15 Jan 2026 21:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/these-charts-show-the-stock-market-giving-investors-a-lot-to-like-for-now-as-the-s-p-500-nears-7-000-00d5d41d?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Verizon outage spurs calls for mandatory refunds when cell service is disrupted: You shouldn’t have to ‘beg for it’</title>
+      <link>https://www.marketwatch.com/story/verizon-outage-spurs-calls-for-mandatory-refunds-when-cell-service-is-disrupted-you-shouldnt-have-to-beg-for-it-d95650b2?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Verizon outage spurs calls for mandatory refunds when cell service is disrupted: You shouldn’t have to ‘beg for it’]]&gt;</description>
+      <pubDate>Thu, 15 Jan 2026 21:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/verizon-outage-spurs-calls-for-mandatory-refunds-when-cell-service-is-disrupted-you-shouldnt-have-to-beg-for-it-d95650b2?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>The S&amp;P 500’s final push to 7,000 could be tougher than it looks</title>
+      <link>https://www.marketwatch.com/story/the-s-p-500s-final-push-to-7-000-could-be-tougher-than-it-looks-1fd78660?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[The S&amp;P 500’s final push to 7,000 could be tougher than it looks]]&gt;</description>
+      <pubDate>Thu, 15 Jan 2026 21:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/the-s-p-500s-final-push-to-7-000-could-be-tougher-than-it-looks-1fd78660?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Can I leave my 401(k) with my employer when I retire?</title>
+      <link>https://www.marketwatch.com/story/can-i-leave-my-401-k-with-my-employer-when-i-retire-08971d61?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Can I leave my 401(k) with my employer when I retire?]]&gt;</description>
+      <pubDate>Thu, 15 Jan 2026 20:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/can-i-leave-my-401-k-with-my-employer-when-i-retire-08971d61?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Why Trump’s ‘Great Healthcare Plan’ strikes Wall Street as so underwhelming</title>
+      <link>https://www.marketwatch.com/story/trump-unveils-his-great-healthcare-plan-analysts-dont-expect-much-of-an-impact-8e99a02a?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Why Trump’s ‘Great Healthcare Plan’ strikes Wall Street as so underwhelming]]&gt;</description>
+      <pubDate>Thu, 15 Jan 2026 20:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/trump-unveils-his-great-healthcare-plan-analysts-dont-expect-much-of-an-impact-8e99a02a?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>There’s one thing that could make Trump’s ‘Great Healthcare Plan’ perfect</title>
+      <link>https://www.marketwatch.com/story/theres-one-thing-that-could-make-trumps-great-healthcare-plan-perfect-1b9b72ac?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[There’s one thing that could make Trump’s ‘Great Healthcare Plan’ perfect]]&gt;</description>
+      <pubDate>Thu, 15 Jan 2026 19:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/theres-one-thing-that-could-make-trumps-great-healthcare-plan-perfect-1b9b72ac?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>This stock-and-bond blend made double-digit gains last year — yet too many investors dismiss it</title>
+      <link>https://www.marketwatch.com/story/this-mix-of-stocks-and-bonds-delivered-double-digit-gains-last-year-yet-too-many-investors-dismiss-it-44c15413?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[This stock-and-bond blend made double-digit gains last year — yet too many investors dismiss it]]&gt;</description>
+      <pubDate>Thu, 15 Jan 2026 19:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/this-mix-of-stocks-and-bonds-delivered-double-digit-gains-last-year-yet-too-many-investors-dismiss-it-44c15413?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>I refused to invest in Tesla for years — but now’s the time to bet on Elon Musk</title>
+      <link>https://www.marketwatch.com/story/i-refused-to-invest-in-tesla-for-years-but-nows-the-time-to-bet-on-elon-musk-2cbe0af8?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[I refused to invest in Tesla for years — but now’s the time to bet on Elon Musk]]&gt;</description>
+      <pubDate>Thu, 15 Jan 2026 19:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/i-refused-to-invest-in-tesla-for-years-but-nows-the-time-to-bet-on-elon-musk-2cbe0af8?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>
