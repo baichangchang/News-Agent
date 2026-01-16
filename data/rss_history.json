@@ -2,156 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "1ad5aa8ba6b4251a2431660426430fd22ab57cc0e372e695451d679765221998": {
-        "title": "Cursor 又要被秒了？谷歌祭出迄今编程能力最强模型 Gemini 3 Flash！白菜价、但代码能力超过 Gemini 3 Pro",
-        "link": "https://www.infoq.cn/article/psNsqsoX4ORhoR3v8EMx?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 18 Dec 2025 06:00:00 GMT",
-        "first_seen": "2025-12-17T23:22:58.691626"
-      },
-      "49ba2baa7f1ba125ae3dbc3dc1f27a94d440aa9e14c3a456ff00dbe25e4fef77": {
-        "title": "谷歌创始人罕见反思：低估 Transformer，也低估了 AI 编程的风险，“代码错了，代价更高”",
-        "link": "https://www.infoq.cn/article/iJKo3Ncd7Rx1ZjghNyQK?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 17 Dec 2025 18:40:00 GMT",
-        "first_seen": "2025-12-17T23:22:58.691632"
-      },
-      "f7bc42e2ec79f32c58d330eba543c8b24d2a1b2227da0681ce7b7b7c44ee1f38": {
-        "title": "罗福莉执掌小米大模型首秀！定调下一代模型，全新MiMo-V2开源还横扫Agent第一梯队",
-        "link": "https://www.infoq.cn/article/h4z0Jtcxg8yai3dRpLeP?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 17 Dec 2025 18:31:00 GMT",
-        "first_seen": "2025-12-17T23:22:58.691634"
-      },
-      "aab4ba34ab84209bd2f5f53f1d98b83c3b584caaf00b07975c12e7a9579dcca4": {
-        "title": "腾讯大模型中枢升级：AI Infra、AI Data等三大部门成立，混元进入“工程化快车道”",
-        "link": "https://www.infoq.cn/article/6Q26bBtuxsoE8lV6rRuv?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 17 Dec 2025 18:08:00 GMT",
-        "first_seen": "2025-12-17T23:22:58.691636"
-      },
-      "b26e1b3edf1db9104112db691a94a403584dd0db65abdf89b5f204cddb3a0939": {
-        "title": "告别“试验田”：当大模型真正嵌入 ERP、供应链与核心决策流 | AICon",
-        "link": "https://www.infoq.cn/article/6bqdoH1eN7d07vDVvob1?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 17 Dec 2025 16:57:00 GMT",
-        "first_seen": "2025-12-17T23:22:58.691638"
-      },
-      "a6c9985225a09d3a65807db8ae8e8a914de8ffc7c7634888b5b0caf67fb2a2c0": {
-        "title": "Google Deploys Faster Gemini 3 Flash to Challenge OpenAI, Sets as Default App Model and Powers Search",
-        "link": "https://www.tmtpost.com/7812709.html",
-        "published_date": "Thu, 18 Dec 2025 02:22:00 GMT",
-        "first_seen": "2025-12-17T23:22:58.691639"
-      },
-      "4a8aa56b6db2d586412cba2a3d7c558bb3169db1f18895c5e28d02b15bf692d3": {
-        "title": "半导体十大预测，“进度条”几何？",
-        "link": "https://www.tmtpost.com/7812464.html",
-        "published_date": "Wed, 17 Dec 2025 20:03:00 GMT",
-        "first_seen": "2025-12-17T23:22:58.691640"
-      },
-      "2f250a3027a2235ecc5b4f40bda2dcdda01fc7beddb6b8af6fc194a528d01970": {
-        "title": "AI的真命之主恐怕还是谷歌",
-        "link": "https://www.tmtpost.com/7812392.html",
-        "published_date": "Wed, 17 Dec 2025 20:03:00 GMT",
-        "first_seen": "2025-12-17T23:22:58.691642"
-      },
-      "8560bd2291b8793c7bdc05e9677b84897b0366b1145a2bbd2d353c9c09c93e8f": {
-        "title": "Vertex掀了I型糖尿病桌子？",
-        "link": "https://www.tmtpost.com/7811692.html",
-        "published_date": "Wed, 17 Dec 2025 20:03:00 GMT",
-        "first_seen": "2025-12-17T23:22:58.691643"
-      },
-      "43c03e5b2f3e5b6e44b73b0498f9575b96c8f235e010109f7cddbdac14379eb1": {
-        "title": "2025医疗人工智能报告：价值计量与支付探索，医疗人工智能的两个困局",
-        "link": "https://www.tmtpost.com/7812079.html",
-        "published_date": "Wed, 17 Dec 2025 20:03:00 GMT",
-        "first_seen": "2025-12-17T23:22:58.691645"
-      },
-      "b0e2e9625fbe66a5fceb29ac9aff38d84aca21c26c65cbf77b06bf396f352cf4": {
-        "title": "港股2026：会否极泰来吗？",
-        "link": "https://www.tmtpost.com/7811938.html",
-        "published_date": "Wed, 17 Dec 2025 20:03:00 GMT",
-        "first_seen": "2025-12-17T23:22:58.691646"
-      },
-      "204950b5668595adb01b04db01456b89a4e99cf005be1a0e9c46902abcfa0f1d": {
-        "title": "击穿行业天花板：马斯克的万亿商业局",
-        "link": "https://www.tmtpost.com/7811896.html",
-        "published_date": "Wed, 17 Dec 2025 20:03:00 GMT",
-        "first_seen": "2025-12-17T23:22:58.691647"
-      },
-      "c7cd16ba4eeed2f974fd7e5952f12cd36256db284b5d4d060acff160b6f0d1a8": {
-        "title": "铁锂正极公司都在“爆单”，这家全球NO.1的龙头为何“失语”？",
-        "link": "https://www.tmtpost.com/7811588.html",
-        "published_date": "Wed, 17 Dec 2025 20:03:00 GMT",
-        "first_seen": "2025-12-17T23:22:58.691648"
-      },
-      "c8e849a8b781db0a727d49945ed7818bdb9f052c897676de6ac48149242e18cf": {
-        "title": "CoreWeave：英伟达“干儿子”真能子凭父贵？",
-        "link": "https://www.tmtpost.com/7811850.html",
-        "published_date": "Wed, 17 Dec 2025 20:03:00 GMT",
-        "first_seen": "2025-12-17T23:22:58.691650"
-      },
-      "a42e419685e23609aea3a4fec74620347130e8f91c2e013c3dc21f28ec49203c": {
-        "title": "“00”后成二手交易主力，理性消费时代的重要信号",
-        "link": "https://www.tmtpost.com/7811621.html",
-        "published_date": "Wed, 17 Dec 2025 20:03:00 GMT",
-        "first_seen": "2025-12-17T23:22:58.691651"
-      },
-      "5171b388c394f2c3b584f44c1a82af67e990e88c7cf78f26232535d7f341ccb0": {
-        "title": "女性向+奇幻题材+热血+非遗，没有情爱CP后的女频短剧，还能怎么融合？",
-        "link": "https://www.tmtpost.com/7808864.html",
-        "published_date": "Wed, 17 Dec 2025 20:03:00 GMT",
-        "first_seen": "2025-12-17T23:22:58.691652"
-      },
-      "8470870fd5d4d34435565e4b052e87e74f2f66e8e4a9be11e18b77c76cbc3f9a": {
-        "title": "单价5元起、200+SKU，火锅巨头开了家“海鲜大排档”",
-        "link": "https://www.tmtpost.com/7812155.html",
-        "published_date": "Wed, 17 Dec 2025 19:01:00 GMT",
-        "first_seen": "2025-12-17T23:22:58.691654"
-      },
-      "0d1333dc52bca9799832b63ea705b28c04296eb6cc23f5ec02d52732a62b84d5": {
-        "title": "杠杆松绑，券商股的逻辑变了？",
-        "link": "https://www.tmtpost.com/7811648.html",
-        "published_date": "Wed, 17 Dec 2025 18:42:00 GMT",
-        "first_seen": "2025-12-17T23:22:58.691655"
-      },
-      "6632cff575de9ef1cfa8e22f743ea8c918c668a7f914d0134d07a19450866c39": {
-        "title": "前首富的新传奇：陈天桥亲自下场“复刻人脑”",
-        "link": "https://www.tmtpost.com/7811657.html",
-        "published_date": "Wed, 17 Dec 2025 18:42:00 GMT",
-        "first_seen": "2025-12-17T23:22:58.691656"
-      },
-      "43d4eb4433b7418eda5c8ab3332188fc715fecad5daebbe8cf93e6bd7a1f1043": {
-        "title": "人工智能抽干资本市场",
-        "link": "https://www.tmtpost.com/7811895.html",
-        "published_date": "Wed, 17 Dec 2025 18:42:00 GMT",
-        "first_seen": "2025-12-17T23:22:58.691657"
-      },
-      "67d07f9c1342276d6b21bc22a2c4ff2354b3f144385876b25cbaf226a5b38609": {
-        "title": "剧集公司2025：“六大”变天，“新王”险胜",
-        "link": "https://www.tmtpost.com/7811939.html",
-        "published_date": "Wed, 17 Dec 2025 18:42:00 GMT",
-        "first_seen": "2025-12-17T23:22:58.691659"
-      },
-      "9b801414a95e9ea4326b0c939caebf72422e780cfe2a5967d09c2c1a07aa1148": {
-        "title": "腾讯大模型「变阵」：成立 AI Infra 部，姚顺雨出任首席 AI 科学家",
-        "link": "http://www.geekpark.net/news/358147",
-        "published_date": "Wed, 17 Dec 2025 19:59:00 GMT",
-        "first_seen": "2025-12-17T23:22:58.691660"
-      },
-      "aaa0d25ec1859e96762674ce025ae2f6324c1f22bde0940ad5adb3342780f232": {
-        "title": "网飞秘史",
-        "link": "http://www.huxiu.com/article/4818282.html?f=wangzhan",
-        "published_date": "Wed, 17 Dec 2025 19:57:00 GMT",
-        "first_seen": "2025-12-17T23:22:58.691661"
-      },
-      "65e6a0ca0be67d748d63b3156a0bd58068ec656e033a60a5f2448b1c53fd675b": {
-        "title": "时间、项目双维度，打造真正有用的工作笔记",
-        "link": "https://sspai.com/post/103960",
-        "published_date": "Wed, 17 Dec 2025 17:41:00 GMT",
-        "first_seen": "2025-12-17T23:22:58.691663"
-      },
-      "39ab0b3864e272ec2abf40ee1d3acbc7fee2c232c1947648106940bce4d7b5cb": {
-        "title": "具透：微软改名部上线，Homebrew 弃用实用选项引起争议",
-        "link": "https://sspai.com/prime/story/inside-release-notes-251217",
-        "published_date": "Wed, 17 Dec 2025 16:27:00 GMT",
-        "first_seen": "2025-12-17T23:22:58.691664"
-      },
       "28ded0fe7a4b8f5df8b797f6b41f19faba9136602af3cbcf3f7a8cca5165a155": {
         "title": "2026全球资产前瞻：美股美债、AI科技股怎么走？| 巴伦菁英月谈会",
         "link": "https://www.tmtpost.com/7813221.html",
@@ -9949,117 +9799,135 @@
         "link": "https://sspai.com/post/105008",
         "published_date": "Fri, 16 Jan 2026 15:00:00 GMT",
         "first_seen": "2026-01-16T08:36:03.444399"
+      },
+      "07835e5998687d91f852490ca7630909d84172406e16cb403a68741967f16872": {
+        "title": "4600亿元新车消费被激活：汽车以旧换新走向常态化",
+        "link": "https://www.tmtpost.com/7846077.html",
+        "published_date": "Fri, 16 Jan 2026 21:39:00 GMT",
+        "first_seen": "2026-01-16T23:23:27.948610"
+      },
+      "2b3137ddb4cbf67615e15a73d54ea6b5ed8985e42be6b4a19bd9a444c14d8381": {
+        "title": "Costco退货，该股的技术面正在迅速改善",
+        "link": "https://www.tmtpost.com/7846103.html",
+        "published_date": "Fri, 16 Jan 2026 21:38:00 GMT",
+        "first_seen": "2026-01-16T23:23:27.948619"
+      },
+      "829c5767a9fa4a1310bf87271b761ff59b2fd8a8f14ae437a3ee87f30fa0af07": {
+        "title": "创新、跨界、融合 2025年度北京十大商业品牌揭晓",
+        "link": "https://www.tmtpost.com/7845940.html",
+        "published_date": "Fri, 16 Jan 2026 20:05:00 GMT",
+        "first_seen": "2026-01-16T23:23:27.948620"
+      },
+      "268fda9170c14d15907ab6a0589dc5674fb4a1daa19184f8a9b5803be522da17": {
+        "title": "三倍牛股，三年连亏，科森科技没能讲出市场爱听的故事",
+        "link": "https://www.tmtpost.com/7845976.html",
+        "published_date": "Fri, 16 Jan 2026 19:51:00 GMT",
+        "first_seen": "2026-01-16T23:23:27.948622"
+      },
+      "3426fbe89c8e883ce38b0c93e9814be36546206ca987652769675b5750347a37": {
+        "title": "COMMUNE幻师、袁记食品递表港交所；Alo将在上海、北京开出首批中国门店；迪桑特中国区董事长丁少翔接管MAIA ACTIVE｜消研所周报",
+        "link": "https://www.tmtpost.com/7845868.html",
+        "published_date": "Fri, 16 Jan 2026 19:36:00 GMT",
+        "first_seen": "2026-01-16T23:23:27.948624"
+      },
+      "50ea8f7c38e96e6b16fc6115b85fa71a930715d03ac20b7019495e4071aec464": {
+        "title": "字节把云推上“火山口”",
+        "link": "https://www.tmtpost.com/7845791.html",
+        "published_date": "Fri, 16 Jan 2026 19:24:00 GMT",
+        "first_seen": "2026-01-16T23:23:27.948626"
+      },
+      "2d8ce8f8f267b373cdefeca17ac7cd3c55668af02f39a6147e618f35b695160b": {
+        "title": "天下苦航空公司久矣",
+        "link": "https://www.tmtpost.com/7845724.html",
+        "published_date": "Fri, 16 Jan 2026 19:24:00 GMT",
+        "first_seen": "2026-01-16T23:23:27.948628"
+      },
+      "33211acaf5367d1d8d2b98ffe5a8022785aba56ccf8c6208881939e19b446ac1": {
+        "title": "天际股份的“冰与火”：四季度业绩V型反转，却因三重违规遭监管问责",
+        "link": "https://www.tmtpost.com/7845792.html",
+        "published_date": "Fri, 16 Jan 2026 18:15:00 GMT",
+        "first_seen": "2026-01-16T23:23:27.948630"
+      },
+      "d2be8e2d660b597af9633e64f24ab4246776004fe656fa77ac812e153d6de88a": {
+        "title": "高额分红的股票很诱人，但它们的风险有多大？",
+        "link": "https://www.tmtpost.com/7845796.html",
+        "published_date": "Fri, 16 Jan 2026 17:59:00 GMT",
+        "first_seen": "2026-01-16T23:23:27.948632"
+      },
+      "acf9abdec2c40e362285f9a58bf61b9429ed192df32d5194ea1e8d6fd34d3370": {
+        "title": "希尔顿、万豪和凯悦股价接近历史高位，这两只酒店股更值得买入",
+        "link": "https://www.tmtpost.com/7845794.html",
+        "published_date": "Fri, 16 Jan 2026 17:58:00 GMT",
+        "first_seen": "2026-01-16T23:23:27.948634"
+      },
+      "6664e58ef7c26218f0987ca73b32932bc0c3d26e3aee3a0e510e2a18ed242607": {
+        "title": "价值700亿美元的AI+医疗仍有很长的路要走丨ToB产业观察",
+        "link": "https://www.tmtpost.com/7845150.html",
+        "published_date": "Fri, 16 Jan 2026 17:33:00 GMT",
+        "first_seen": "2026-01-16T23:23:27.948635"
+      },
+      "636561c6e6d6f84eb06abae11db67c3fce5bfa9fe326b47d16509bc65116e68b": {
+        "title": "一盒内存条价值上海一套房，2026年将成消费电子“最贵之年”？",
+        "link": "https://www.tmtpost.com/7845705.html",
+        "published_date": "Fri, 16 Jan 2026 17:16:00 GMT",
+        "first_seen": "2026-01-16T23:23:27.948637"
+      },
+      "ec50d440d4ca4a171d095b52052edec34f6dcd4ef1d511fbf7244e41176a0ed7": {
+        "title": "豆包和OpenAI，都在押注同一个未来 | 「钛度号」作品月榜第134期",
+        "link": "https://www.tmtpost.com/7844641.html",
+        "published_date": "Fri, 16 Jan 2026 17:13:00 GMT",
+        "first_seen": "2026-01-16T23:23:27.948638"
+      },
+      "ccbffca6f7abb69d64c9d30e7e65ae0817876889e9d09a9ab11dc63ddc006cf3": {
+        "title": "光伏组件涨价了，然后呢？",
+        "link": "https://www.tmtpost.com/7845616.html",
+        "published_date": "Fri, 16 Jan 2026 17:13:00 GMT",
+        "first_seen": "2026-01-16T23:23:27.948640"
+      },
+      "800212b9a6ac1d4c84de24fa5f70bd62f2e4063821bd0009b5d14d460b5d7ee7": {
+        "title": "奥特曼要给你的脑子装上GPT",
+        "link": "https://www.tmtpost.com/7845493.html",
+        "published_date": "Fri, 16 Jan 2026 16:42:00 GMT",
+        "first_seen": "2026-01-16T23:23:27.948642"
+      },
+      "1ad4b9ee5b1881db4fa82d93dad2759c615601b40708d009b8ecfb895a476421": {
+        "title": "AI 的下一个十年：从技术拐点到工程落地的路线图",
+        "link": "https://www.infoq.cn/article/wLeViF4hSl0WQrw3r2cQ?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 16 Jan 2026 20:02:00 GMT",
+        "first_seen": "2026-01-16T23:23:27.948643"
+      },
+      "532e2befd11a8baec08fc58b06069bd3ef7e8009a0f6dd3cc73490c350ff26cd": {
+        "title": "受够了Copilot的“霸王条款”？GitHub全球宕机遭怒骂，引爆开发者“大逃离”！",
+        "link": "https://www.infoq.cn/article/H16Z6V1Cz3Sf1qeb4fwr?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 16 Jan 2026 18:00:00 GMT",
+        "first_seen": "2026-01-16T23:23:27.948645"
+      },
+      "934c69b9b04230d1f7b74eb5401e8d7716f74fe3342fa9c326f48eb9aee3059d": {
+        "title": "拒绝传统Router“瞎指挥”，多智能体如何实现智能任务分配？",
+        "link": "https://www.infoq.cn/article/cYlRMETcNGxhDvBqCDII?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 16 Jan 2026 17:20:00 GMT",
+        "first_seen": "2026-01-16T23:23:27.948646"
+      },
+      "643843f4220b81e3af8fe330ac5324f3e90d0ba0931dea93d87ded33817a2d7d": {
+        "title": "聚焦 AI Agent 系统诊断，智能运维助手 SysOM MCP 正式开源",
+        "link": "https://www.infoq.cn/article/285HkzS0EM8tpHg9mBgY?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 16 Jan 2026 16:46:00 GMT",
+        "first_seen": "2026-01-16T23:23:27.948648"
+      },
+      "73c10fe36cf744196d1eae77d31a644be88f39ef4bbf60fba087d6fd3de9640f": {
+        "title": "本周看什么 | 最近值得一看的 11 部作品",
+        "link": "https://sspai.com/post/105504",
+        "published_date": "Fri, 16 Jan 2026 17:45:00 GMT",
+        "first_seen": "2026-01-16T23:23:27.948649"
+      },
+      "304b9cc2700fa16a9b692981fb162c2622a1c4e23757ac0db2d4cb16987628ba": {
+        "title": "一条视频了解爆火的GEO到底是啥？有哪些机会？",
+        "link": "http://www.huxiu.com/article/4826763.html?f=wangzhan",
+        "published_date": "Fri, 16 Jan 2026 15:10:00 GMT",
+        "first_seen": "2026-01-16T23:23:27.948651"
       }
     },
     "Finance": {
-      "037acfa529fbe918a9469bc8b3c4aa299d11a0ed6f243f3eef716a7585f9230d": {
-        "title": "This chart captures Tesla’s EV sales woes — and things are about to get worse",
-        "link": "https://www.marketwatch.com/story/this-chart-captures-teslas-ev-sales-woes-and-things-are-about-to-get-worse-09f1edd4?mod=mw_rss_topstories",
-        "published_date": "Wed, 17 Dec 2025 23:06:00 GMT",
-        "first_seen": "2025-12-17T23:22:58.443871"
-      },
-      "d9ee1b763dd6afcd0a9e816a3c5031d4c8c60904c059532eec9af74d6f0a1a7c": {
-        "title": "You’ve just won the $1.25 billion Powerball jackpot. Here are the 5 money moves you need to make next.",
-        "link": "https://www.marketwatch.com/story/5-money-moves-to-make-if-you-win-the-1-4-billion-powerball-jackpot-tonight-or-get-a-similar-financial-windfall-8fe31838?mod=mw_rss_topstories",
-        "published_date": "Wed, 17 Dec 2025 22:39:00 GMT",
-        "first_seen": "2025-12-17T23:22:58.443880"
-      },
-      "6ee9e4ea7826f6c244bf4a365194d9fd0716f34cd00e0cf1c9ced65606960ebe": {
-        "title": "It’s been illegal to make women have a man co-sign their loans since the ’70s. Now the Trump administration could change that.",
-        "link": "https://www.marketwatch.com/story/its-been-illegal-to-make-women-have-a-man-co-sign-their-loans-since-the-70s-now-the-trump-administration-could-change-that-307521b2?mod=mw_rss_topstories",
-        "published_date": "Wed, 17 Dec 2025 22:25:00 GMT",
-        "first_seen": "2025-12-17T23:22:58.443882"
-      },
-      "a51cb437264aa7604b56f099d741aa45ce684a33a75e5a5f49b3ed85d2c0d47d": {
-        "title": "Why Nvidia, Broadcom and other AI stocks are falling sharply",
-        "link": "https://www.marketwatch.com/story/why-nvidia-broadcom-and-other-ai-stocks-are-falling-sharply-25d35edd?mod=mw_rss_topstories",
-        "published_date": "Wed, 17 Dec 2025 22:13:00 GMT",
-        "first_seen": "2025-12-17T23:22:58.443884"
-      },
-      "ed90be40d7b2c5950894d7397440ffd284d8dc30029b950cc0914a3de0c907f9": {
-        "title": "Medline’s IPO underscores broad investor appetite for a sleepy corner of the healthcare business",
-        "link": "https://www.marketwatch.com/story/medlines-ipo-underscores-broad-investor-appetite-for-a-sleepy-corner-of-the-healthcare-business-fa0dadce?mod=mw_rss_topstories",
-        "published_date": "Wed, 17 Dec 2025 21:43:00 GMT",
-        "first_seen": "2025-12-17T23:22:58.443886"
-      },
-      "88466ad50b32e03fb1caeb72be13e95740712057dec4fcc93798ddea1e35e4ee": {
-        "title": "Micron blows past expectations, and the stock is climbing",
-        "link": "https://www.marketwatch.com/story/micron-blows-past-expectations-and-the-stock-is-climbing-d0e2943a?mod=mw_rss_topstories",
-        "published_date": "Wed, 17 Dec 2025 21:36:00 GMT",
-        "first_seen": "2025-12-17T23:22:58.443887"
-      },
-      "b350156eb0f42fc9f2be9cfe45fd13cd27912175ecb37aae2381f50113c9fde8": {
-        "title": "Flu season is ‘early’ and ‘aggressive’ in New York City. Here’s what that means for the rest of the country.",
-        "link": "https://www.marketwatch.com/story/flu-season-is-early-and-aggressive-in-new-york-city-heres-what-that-means-for-the-rest-of-the-country-056cdbbf?mod=mw_rss_topstories",
-        "published_date": "Wed, 17 Dec 2025 21:02:00 GMT",
-        "first_seen": "2025-12-17T23:22:58.443889"
-      },
-      "4a773d40c87e20a1b354e650e637fb937f2ff5a2442efbfc9c14b71e1f4be9db": {
-        "title": "BP picks Woodside boss Meg O’Neill as new chief executive",
-        "link": "https://www.ft.com/content/802414de-72a1-4db1-9886-f21ccd6cca66",
-        "published_date": "Wed, 17 Dec 2025 22:30:00 GMT",
-        "first_seen": "2025-12-17T23:22:58.443890"
-      },
-      "0d6b7cfbfd2402996c178fbaa9c9c3566d9a0b2b847622b4bcb8919eee1fb671": {
-        "title": "Oracle’s $10bn Michigan data centre in limbo after Blue Owl funding talks stall",
-        "link": "https://www.ft.com/content/84c147a4-aabb-4243-8298-11fabf1022a3",
-        "published_date": "Wed, 17 Dec 2025 21:31:00 GMT",
-        "first_seen": "2025-12-17T23:22:58.443892"
-      },
-      "cb238e712bcbf17c0bfa741e62a8e7b4d91804e4bad979502805ebf8fefd1d8e": {
-        "title": "US tech stocks slide as Oracle data centre setback reignites AI concerns",
-        "link": "https://www.ft.com/content/ce60f74f-ccc8-4bde-bbec-842041ecf8e7",
-        "published_date": "Wed, 17 Dec 2025 21:19:00 GMT",
-        "first_seen": "2025-12-17T23:22:58.443893"
-      },
-      "0ffcdc8ca8f8570404a35b3d627eb604008d6058c71aa31d32b7f5c93f326402": {
-        "title": "Inside the Paramount-Netflix brawl for WBD: 10 takeaways from new filing",
-        "link": "https://www.ft.com/content/aa528df7-1fab-414e-b93d-9480bd67ef21",
-        "published_date": "Wed, 17 Dec 2025 17:57:00 GMT",
-        "first_seen": "2025-12-17T23:22:58.443895"
-      },
-      "9710f5e85e9032bf85a14fd1cb5b3f317b965778d998e6ce4a3878f53acfb010": {
-        "title": "US defence act passes in rebuke to Trump administration’s stance on Europe",
-        "link": "https://www.ft.com/content/9bbfd46c-8fb7-4f31-9014-f88b2a00831f",
-        "published_date": "Wed, 17 Dec 2025 17:43:00 GMT",
-        "first_seen": "2025-12-17T23:22:58.443896"
-      },
-      "dfe1e200ace0570d32c03b71d2b117e3760a19dde105068e37ff9cdc10610135": {
-        "title": "Putin predicts European ‘swine’ backing Ukraine will lose power",
-        "link": "https://www.ft.com/content/52c0b594-d299-4473-a35e-9a9235267d92",
-        "published_date": "Wed, 17 Dec 2025 17:31:00 GMT",
-        "first_seen": "2025-12-17T23:22:58.443897"
-      },
-      "1e1728e7e02b5d7f518fd44a7e2d4670854cdef3039fe06be249bb5bda4e7148": {
-        "title": "Warner Bros board urges investors to reject Paramount’s ‘inferior’ $108bn bid",
-        "link": "https://www.ft.com/content/35621088-51bd-48af-b11a-b3ee2eecc21e",
-        "published_date": "Wed, 17 Dec 2025 17:25:00 GMT",
-        "first_seen": "2025-12-17T23:22:58.443899"
-      },
-      "5bc25baaa6fad738999cfa8e35118f103306395ffa2eda43a56b1c34ca06cb04": {
-        "title": "Slowing inflation fuels concerns about a cooling UK economy",
-        "link": "https://www.ft.com/content/b45f3009-a12c-4a6f-8b26-727202618917",
-        "published_date": "Wed, 17 Dec 2025 17:05:00 GMT",
-        "first_seen": "2025-12-17T23:22:58.443900"
-      },
-      "32b517e35c0309d53dc7190cb47c7b4a06b6ff8a2e45852fd0d73b80e3d1657d": {
-        "title": "Cinven CEO and CFO step down amid risk of ban over price gouging",
-        "link": "https://www.ft.com/content/0968e55f-2701-4c7b-a3ca-70a024368895",
-        "published_date": "Wed, 17 Dec 2025 17:03:00 GMT",
-        "first_seen": "2025-12-17T23:22:58.443901"
-      },
-      "3fa6d0512b2c8b4e782f5a3e3d45515a45d206443189e66be6d2365515f84982": {
-        "title": "Open source could pop the AI bubble — and soon",
-        "link": "https://www.ft.com/content/353adf48-a5d6-4ea0-b5d7-9a94b141213a",
-        "published_date": "Wed, 17 Dec 2025 16:56:00 GMT",
-        "first_seen": "2025-12-17T23:22:58.443902"
-      },
-      "71f7c57f4c83df888a5f28d6754c85aa3fa2be88bc9a18395ce08749bd7bbc16": {
-        "title": "When business and democracy don’t mix",
-        "link": "https://www.ft.com/content/36c23306-6ad4-4d06-bd4f-e5c2e3e51491",
-        "published_date": "Wed, 17 Dec 2025 13:29:00 GMT",
-        "first_seen": "2025-12-17T23:22:58.443904"
-      },
       "0714edb9bed9e0d44d2ada89b236c7914c9a6e32216e9af4444f4e7d493d0a5a": {
         "title": "The coming battle over the EU’s budget shake-up",
         "link": "https://www.ft.com/content/5d46d849-44b1-4d4f-81d4-5a5d86c5baca",
@@ -14037,33 +13905,123 @@
         "link": "https://www.marketwatch.com/story/microns-stock-gets-an-8-million-vote-of-confidence-from-this-industry-veteran-caf334bc?mod=mw_rss_topstories",
         "published_date": "Fri, 16 Jan 2026 08:33:00 GMT",
         "first_seen": "2026-01-16T08:36:03.197410"
+      },
+      "d85fb871a45d78a19cf9019c422c45733c1c0847e557fee2981a79fca1967959": {
+        "title": "Trump wants to let you take money from your 401(k) to buy a house. Putting it back is complicated.",
+        "link": "https://www.marketwatch.com/story/trump-wants-to-let-you-take-money-from-your-401-k-to-buy-a-house-putting-it-back-is-complicated-da955f85?mod=mw_rss_topstories",
+        "published_date": "Fri, 16 Jan 2026 22:42:00 GMT",
+        "first_seen": "2026-01-16T23:23:27.704278"
+      },
+      "e8961aa591e543a73c67b0aa98f85cbaab85a3a80be8b5068538879520d95e21": {
+        "title": "These stocks have the most to lose from Trump’s push to lower electricity prices",
+        "link": "https://www.marketwatch.com/story/these-stocks-have-the-most-to-lose-from-trumps-push-to-lower-electricity-prices-e920c47f?mod=mw_rss_topstories",
+        "published_date": "Fri, 16 Jan 2026 22:16:00 GMT",
+        "first_seen": "2026-01-16T23:23:27.704290"
+      },
+      "4d9c064b77d5ad3df92575a254605c3697e958c05454f819a7cb67b4602e8dca": {
+        "title": "Warsh’s chances of becoming Fed chair jump as Trump suggests he doesn’t want Hassett in that job",
+        "link": "https://www.marketwatch.com/story/warshs-chances-of-becoming-fed-chair-jump-as-trump-suggests-he-doesnt-want-hassett-in-that-job-146fb6a9?mod=mw_rss_topstories",
+        "published_date": "Fri, 16 Jan 2026 22:03:00 GMT",
+        "first_seen": "2026-01-16T23:23:27.704304"
+      },
+      "f6fce4fa9289ad11f21c4091c4806f0cfeba66f1d9ff84158dfbd1ca5edbee01": {
+        "title": "My mom, 90, has dementia. My brother wants her to buy a $500K property near his house. Does that make any sense?",
+        "link": "https://www.marketwatch.com/story/tell-me-im-not-crazy-my-mom-90-has-dementia-my-sibling-wants-her-to-buy-a-500k-house-nearby-does-that-make-any-sense-14b78953?mod=mw_rss_topstories",
+        "published_date": "Fri, 16 Jan 2026 21:38:00 GMT",
+        "first_seen": "2026-01-16T23:23:27.704306"
+      },
+      "ef78799db4cca2b1530375cd13b6eb6f7b85ebd1eba8712800f921a788b4b2e7": {
+        "title": "‘I don’t want to step on any toes’: I manage an $80K trust for a 15-year-old relative. How do I deal with interfering relatives?",
+        "link": "https://www.marketwatch.com/story/i-dont-want-to-step-on-any-toes-i-manage-a-80k-trust-for-a-15-year-old-relative-how-do-i-deal-with-nosy-relatives-9f2d4754?mod=mw_rss_topstories",
+        "published_date": "Fri, 16 Jan 2026 21:31:00 GMT",
+        "first_seen": "2026-01-16T23:23:27.704307"
+      },
+      "e7fd30ae0e0ec9c4350ced5d016814d1efda1d794f62aa78bb15f997fdbbb2d5": {
+        "title": "Micron’s stunning stock gains are encapsulated by this milestone",
+        "link": "https://www.marketwatch.com/story/microns-stunning-stock-gains-are-encapsulated-by-this-milestone-a42b3ada?mod=mw_rss_topstories",
+        "published_date": "Fri, 16 Jan 2026 21:00:00 GMT",
+        "first_seen": "2026-01-16T23:23:27.704309"
+      },
+      "40eec329777d61955485ec5b5734c21f4a10e83a7fa8a26767db94dee827f214": {
+        "title": "Education Department pauses plan to seize wages, tax refunds of defaulted student-loan borrowers",
+        "link": "https://www.marketwatch.com/story/education-department-pauses-plan-to-seize-wages-tax-refunds-of-defaulted-student-loan-borrowers-be7a4e69?mod=mw_rss_topstories",
+        "published_date": "Fri, 16 Jan 2026 20:40:00 GMT",
+        "first_seen": "2026-01-16T23:23:27.704310"
+      },
+      "69686b83fe1991fb7d51f903366440abf3faa8518d28b0f84c7fe30d9e20f8da": {
+        "title": "Trump tried to give Powell one last shove out the door. Now he’s likely to stay at the Fed.",
+        "link": "https://www.marketwatch.com/story/trump-tried-to-give-powell-one-last-shove-out-the-door-now-hes-likely-to-stay-ab5e4ab9?mod=mw_rss_topstories",
+        "published_date": "Fri, 16 Jan 2026 19:58:00 GMT",
+        "first_seen": "2026-01-16T23:23:27.704312"
+      },
+      "17f7a2de396fb2184d49e0577a5f462ffd12be67f9562a4139905eb0742e9938": {
+        "title": "Colleges could go tuition-free if their endowment-fund managers just invested in this stock index",
+        "link": "https://www.marketwatch.com/story/colleges-could-go-tuition-free-if-their-endowment-fund-managers-just-invested-in-this-stock-index-64129772?mod=mw_rss_topstories",
+        "published_date": "Fri, 16 Jan 2026 19:41:00 GMT",
+        "first_seen": "2026-01-16T23:23:27.704313"
+      },
+      "62a98b09e4a3924bc28076cf1b0927345b8106605dbaf70d7b3b01df132ad680": {
+        "title": "Trump names Tony Blair, Jared Kushner and Marc Rowan to Gaza ‘Board of Peace’",
+        "link": "https://www.ft.com/content/e98e3cbd-9653-44a8-b9e7-daa467ddc945",
+        "published_date": "Fri, 16 Jan 2026 22:37:00 GMT",
+        "first_seen": "2026-01-16T23:23:27.704315"
+      },
+      "138e89fc07f1dddeccf6c982e9374abfe1c759acad24645eeaf6ac197b7bac1e": {
+        "title": "The threat to the global economy from Trump’s war on the Fed",
+        "link": "https://www.ft.com/content/77f43154-8ce1-45ab-bcfd-23b77ee06f21",
+        "published_date": "Fri, 16 Jan 2026 21:47:00 GMT",
+        "first_seen": "2026-01-16T23:23:27.704316"
+      },
+      "d204a01bf881f13c393939f8fe38793fb446dc93ad5000ccf642b0f19871b103": {
+        "title": "Trump says he wants Fed chair contender Hassett to stay in White House job",
+        "link": "https://www.ft.com/content/ef716145-8e4b-461d-8b09-b61160f7f9d2",
+        "published_date": "Fri, 16 Jan 2026 21:41:00 GMT",
+        "first_seen": "2026-01-16T23:23:27.704318"
+      },
+      "7e684cc8cf31ae303c28c5409df139cb163a0b5e3b4873eec2581433c31d34c3": {
+        "title": "US floats expanding Gaza ‘Board of Peace’ to other global hotspots",
+        "link": "https://www.ft.com/content/34617296-0816-4e94-b807-7cef5f90e4a1",
+        "published_date": "Fri, 16 Jan 2026 20:11:00 GMT",
+        "first_seen": "2026-01-16T23:23:27.704319"
+      },
+      "28bccb21f1dcb551dba28f9358877ce66f7a014eaa56aa03d814b1347090f5d7": {
+        "title": "Trump threatens tariffs on allies over opposition to Greenland plan",
+        "link": "https://www.ft.com/content/8c804726-aecb-4d48-b532-91334be8cd1b",
+        "published_date": "Fri, 16 Jan 2026 18:43:00 GMT",
+        "first_seen": "2026-01-16T23:23:27.704320"
+      },
+      "dfd6edbe948214d89bb21216d9b8c66bbe354d62c0656c96c19a1275da5026b1": {
+        "title": "Is Britain ungovernable?",
+        "link": "https://www.ft.com/content/06cfd51b-9e64-42dd-9966-2a0ca8cae461",
+        "published_date": "Fri, 16 Jan 2026 18:14:00 GMT",
+        "first_seen": "2026-01-16T23:23:27.704322"
+      },
+      "6226dba4a906066f246fae092d9274cb303d95ae3b51a0d5fa7b4422144a58e9": {
+        "title": "Death of a dream: Saks’ crisis exposes luxury department store woes",
+        "link": "https://www.ft.com/content/9d997311-fbc3-4f7a-a362-cc18db92f735",
+        "published_date": "Fri, 16 Jan 2026 18:10:00 GMT",
+        "first_seen": "2026-01-16T23:23:27.704323"
+      },
+      "da2e068f7a181f8bfd1a602a29224f31ee5f0c6eb8fbe15e46ee857b23d3acfd": {
+        "title": "Populism makes managing global economy harder, Andrew Bailey warns",
+        "link": "https://www.ft.com/content/4da5be40-9807-40d2-8c11-56af67f055a2",
+        "published_date": "Fri, 16 Jan 2026 15:33:00 GMT",
+        "first_seen": "2026-01-16T23:23:27.704325"
+      },
+      "f6de2277619a0e7b02a0f351135b57e6fd39b1b37f2c9230d071c4bb59a0b264": {
+        "title": "To transform Iran, the west needs patience not over-reach",
+        "link": "https://www.ft.com/content/36258864-3996-4c5d-882e-18df767db611",
+        "published_date": "Fri, 16 Jan 2026 15:30:00 GMT",
+        "first_seen": "2026-01-16T23:23:27.704326"
+      },
+      "ce028c1ad7c13c8e4b515f495a223a0eb0e555fb69be272685535a1ca6cd64c0": {
+        "title": "Porsche suffers biggest sales fall since 2009",
+        "link": "https://www.ft.com/content/21760d4a-7150-43c5-b090-bd050c571d7e",
+        "published_date": "Fri, 16 Jan 2026 12:11:00 GMT",
+        "first_seen": "2026-01-16T23:23:27.704328"
       }
     },
     "Ai": {
-      "6f07065b7d9d079e8b66de8db20170eda14dd3486f4b0306825ab9d1305abf28": {
-        "title": "官宣！姚顺雨出任腾讯首席AI科学家，带队大语言模型、AI Infra",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-17-17",
-        "published_date": "Wed, 17 Dec 2025 17:28:00 GMT",
-        "first_seen": "2025-12-17T23:22:58.571049"
-      },
-      "0b0517f14b98ea05f94d23ce81ad762b96f10271312b046851024ced1238401b": {
-        "title": "分割一切、3D重建一切还不够，Meta开源SAM Audio分割一切声音",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-17-16",
-        "published_date": "Wed, 17 Dec 2025 17:24:00 GMT",
-        "first_seen": "2025-12-17T23:22:58.571056"
-      },
-      "a20be1e62831a0129e1c3bb0379438179b0831f04bdc444e5ebd1840f4a42ac7": {
-        "title": "大模型的进化方向：Words to Worlds | 对话商汤林达华",
-        "link": "https://www.qbitai.com/2025/12/361575.html",
-        "published_date": "Wed, 17 Dec 2025 15:17:00 GMT",
-        "first_seen": "2025-12-17T23:22:58.571058"
-      },
-      "424b5c46b0b1a665790cb66717c86b5dec5a58b4d7c4abe4a3a592c81035652f": {
-        "title": "摩尔线程算法一鸣惊人，图形学顶会夺银！已开源",
-        "link": "https://www.qbitai.com/2025/12/361555.html",
-        "published_date": "Wed, 17 Dec 2025 09:50:00 GMT",
-        "first_seen": "2025-12-17T23:22:58.571060"
-      },
       "0ce09aa18f0f33ba943ce9a3f277bf08e75a98901ef34b961645dde7dfe12f06": {
         "title": "OpenAI推出“AI工具链”，让湿实验室生物研究更快更智能",
         "link": "https://www.jiqizhixin.com/articles/2025-12-18-3",
@@ -16547,13 +16505,25 @@
         "link": "https://www.jiqizhixin.com/articles/2026-01-16-9",
         "published_date": "Fri, 16 Jan 2026 14:03:00 GMT",
         "first_seen": "2026-01-16T08:36:03.321715"
+      },
+      "13075080b6fce552e97d158723e6eedb07fbf491b572d8dd02b06d6d15608be1": {
+        "title": "腾讯云ADP国内首发AI原生Widget：一句话秒级生成交互组件，重塑Agent使用体验",
+        "link": "https://www.qbitai.com/2026/01/370069.html",
+        "published_date": "Fri, 16 Jan 2026 10:06:00 GMT",
+        "first_seen": "2026-01-16T23:23:27.825299"
+      },
+      "1719d2b684639c74a8d81550b55ad7dcd8db28e1cedade2ae043369449689e6d": {
+        "title": "福特战略掉头！拥抱中国比亚迪，弃用韩国LG",
+        "link": "https://www.qbitai.com/2026/01/370034.html",
+        "published_date": "Fri, 16 Jan 2026 09:12:00 GMT",
+        "first_seen": "2026-01-16T23:23:27.825308"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-01-16T08:36:03.444401",
-    "Finance": "2026-01-16T08:36:03.197419",
-    "Ai": "2026-01-16T08:36:03.321717"
+    "Technology": "2026-01-16T23:23:27.948653",
+    "Finance": "2026-01-16T23:23:27.704330",
+    "Ai": "2026-01-16T23:23:27.825311"
   }
 }
