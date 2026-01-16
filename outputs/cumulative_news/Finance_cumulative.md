@@ -1,7 +1,20 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-16 05:28
+**最后更新时间**: 2026-01-16 08:36
+
+---
+
+## 🆕 最新更新 (2026-01-16 08:36)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Micron’s stock gets an $8 million vote of confidence from this industry veteran](https://www.marketwatch.com/story/microns-stock-gets-an-8-million-vote-of-confidence-from-this-industry-veteran-caf334bc?mod=mw_rss_topstories)
+**发布时间**: 2026-01-16 08:33
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [BBC to show programmes on YouTube in landmark deal](https://www.ft.com/content/cdcfbec7-1472-4161-a29f-71426333bd40)
+**发布时间**: 2026-01-16 05:00
 
 ---
 
