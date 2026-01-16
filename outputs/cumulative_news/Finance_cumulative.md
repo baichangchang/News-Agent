@@ -1,7 +1,59 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-15 23:25
+**最后更新时间**: 2026-01-16 05:28
+
+---
+
+## 🆕 最新更新 (2026-01-16 05:28)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [EU ‘membership-lite’ plan for Ukraine spooks European capitals](https://www.ft.com/content/a42ea7ba-af22-4133-b1d3-e2fdf561c7ba)
+**发布时间**: 2026-01-16 05:00
+
+#### [How Iran’s regime retook the streets](https://www.ft.com/content/d1848379-0bc0-453a-a748-b02f8ea1b3f0)
+**发布时间**: 2026-01-16 05:00
+
+#### [Fiscal threats lurk in the undergrowth for Japan](https://www.ft.com/content/a609b461-5302-4606-b5f9-fd4b1f1802a2)
+**发布时间**: 2026-01-16 05:00
+
+#### [Trump is making the world fall in love with China](https://www.ft.com/content/658e3fc5-4a43-4dd5-8942-cf2f7fe3a686)
+**发布时间**: 2026-01-16 05:00
+
+#### [France warns US that Greenland seizure would endanger EU trade](https://www.ft.com/content/0b35932b-eb39-465b-b49e-342946d8e14b)
+**发布时间**: 2026-01-16 05:00
+
+#### [BBC to strike content deal with YouTube](https://www.ft.com/content/cdcfbec7-1472-4161-a29f-71426333bd40)
+**发布时间**: 2026-01-16 05:00
+
+#### [Middle East governments believe US-Iran tension has ‘de-escalated’](https://www.ft.com/content/df0c0833-59f6-45d6-a74f-008b46756e72)
+**发布时间**: 2026-01-16 01:19
+
+#### [Trump’s first Venezuela oil sale deal goes to megadonor’s company](https://www.ft.com/content/da74c248-fb36-4ff1-8fb2-d2dd1e00fde8)
+**发布时间**: 2026-01-16 01:19
+
+#### [Nato troops to be in Greenland on ‘more permanent’ basis](https://www.ft.com/content/1dfa8153-1d2b-4a60-a5eb-aba0695be287)
+**发布时间**: 2026-01-15 16:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Inflation relief is on the way — if these 3 market forces can come together](https://www.marketwatch.com/story/inflation-relief-is-on-the-way-if-these-3-market-forces-can-come-together-this-year-13be218f?mod=mw_rss_topstories)
+**发布时间**: 2026-01-16 01:56
+
+#### [This stock-and-bond blend made double-digit gains last year — investors still dismiss it](https://www.marketwatch.com/story/this-mix-of-stocks-and-bonds-delivered-double-digit-gains-last-year-yet-too-many-investors-dismiss-it-44c15413?mod=mw_rss_topstories)
+**发布时间**: 2026-01-16 01:04
+
+#### [Young men are worried about having enough money — but confident they’ll own a home. What gives?](https://www.marketwatch.com/story/gen-z-men-believe-theyll-buy-a-home-someday-but-see-their-finances-getting-worse-what-gives-73edc83d?mod=mw_rss_topstories)
+**发布时间**: 2026-01-16 01:02
+
+#### [‘I have an economics degree from a fantastic university’: I’m 71 with $3 million and earn $250K. Is it time to retire?](https://www.marketwatch.com/story/i-have-an-economics-degree-from-a-fantastic-university-im-71-with-3-million-and-earn-250k-is-it-time-to-retire-05a9aa37?mod=mw_rss_topstories)
+**发布时间**: 2026-01-16 00:30
+
+#### [‘The house has quadrupled in value’: I bought a house with my brother. He never contributed. How do I remove him?](https://www.marketwatch.com/story/the-house-has-quadrupled-in-value-i-bought-a-house-with-my-brother-he-never-contributed-how-do-i-remove-him-de28bd02?mod=mw_rss_topstories)
+**发布时间**: 2026-01-16 00:00
+
+#### [‘Tell me I’m not crazy’: My mom, 90, has dementia. My sibling wants her to buy a $500K house nearby. Does that make any sense?](https://www.marketwatch.com/story/tell-me-im-not-crazy-my-mom-90-has-dementia-my-sibling-wants-her-to-buy-a-500k-house-nearby-does-that-make-any-sense-14b78953?mod=mw_rss_topstories)
+**发布时间**: 2026-01-15 23:38
 
 ---
 
