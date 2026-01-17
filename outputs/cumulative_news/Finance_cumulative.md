@@ -1,7 +1,26 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-16 23:23
+**最后更新时间**: 2026-01-17 05:25
+
+---
+
+## 🆕 最新更新 (2026-01-17 05:25)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Trump names Tony Blair, Jared Kushner and Marc Rowan to advise Gaza ‘Board of Peace’](https://www.ft.com/content/e98e3cbd-9653-44a8-b9e7-daa467ddc945)
+**发布时间**: 2026-01-17 02:05
+
+#### [Lancet study finds no higher risk of autism when pregnant women take paracetamol](https://www.ft.com/content/18ac00eb-0ab4-478c-9a5b-e4c4c5b47d1c)
+**发布时间**: 2026-01-16 23:30
+
+#### [US Supreme Court to hear Bayer’s appeal against weedkiller lawsuits](https://www.ft.com/content/1c95bd41-9bb8-4911-bede-650e953b00cd)
+**发布时间**: 2026-01-16 22:53
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [From Iran to Venezuela, why the oil market is on edge this weekend](https://www.marketwatch.com/story/from-iran-to-venezuela-why-the-oil-market-is-on-edge-this-weekend-cf5e1ddb?mod=mw_rss_topstories)
+**发布时间**: 2026-01-17 01:46
 
 ---
 
