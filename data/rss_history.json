@@ -2,120 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "62151453a10aa855326f8e267632b42ad666600eb72dbb4ab7251e4c4d9ac6a9": {
-        "title": "IF 2026 最大「黑马」：钢铁侠故事背后的温度和创新",
-        "link": "http://www.geekpark.net/news/358191",
-        "published_date": "Thu, 18 Dec 2025 16:33:00 GMT",
-        "first_seen": "2025-12-18T08:34:41.520040"
-      },
-      "9e39fc85614f6585bbb3b1c04b1b8954b3fd5dbe3b3dcc4b95f71ac0efb81e8c": {
-        "title": "人人都能当电影导演？万相 2.6 杀疯了：角色扮演、分镜控制，硬刚 Sora2",
-        "link": "http://www.geekpark.net/news/358189",
-        "published_date": "Thu, 18 Dec 2025 16:29:00 GMT",
-        "first_seen": "2025-12-18T08:34:41.520047"
-      },
-      "93cbe0ab14ec1232b7560d4daa1029bbee767ce56243c4fc837e69fa3e0d2024": {
-        "title": "数美科技CTO梁堃：当黑灰产完成“AI工业化”，风控防御需重构工程范式",
-        "link": "https://www.infoq.cn/article/uCdgWGJUOrBIOsIsBOOE?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 18 Dec 2025 16:25:00 GMT",
-        "first_seen": "2025-12-18T08:34:41.520069"
-      },
-      "03bf48096761347cd3773c0149153a26f0a0a70c707d3e994cf407e90b515b72": {
-        "title": "腾讯云TencentOS智能运维平台TManager正式发布 | Q推荐",
-        "link": "https://www.infoq.cn/article/0sQNUHiVBjLqTV6ybm0T?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 18 Dec 2025 16:09:00 GMT",
-        "first_seen": "2025-12-18T08:34:41.520071"
-      },
-      "fb53db1a5e6c538a6228f98f1ad8a6fea4a54d6c3707f2e2c4ea488b7414d4f4": {
-        "title": "来，和模力工场一起亮相 AI 闪耀中国！\n——12月28日，共赴一场定义未来的思想盛宴",
-        "link": "https://www.infoq.cn/article/G0SSQ5R7jb0UqaOectys?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 18 Dec 2025 15:58:00 GMT",
-        "first_seen": "2025-12-18T08:34:41.520072"
-      },
-      "0766a6bc32dda2a30406512fb5567a71a9286f6943f57c3e35adc17349857fca": {
-        "title": "Meta的React Compiler 1.0将自动记忆化引入到生产环境",
-        "link": "https://www.infoq.cn/article/eZhUvA5QqELFOE5joOzR?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 18 Dec 2025 15:30:00 GMT",
-        "first_seen": "2025-12-18T08:34:41.520074"
-      },
-      "4ed7b20657dd82949cbe4fed0de1709549266bfc3814ce9a5d86b7a3b0e76924": {
-        "title": "生成式 AI 的投资回报远超预期",
-        "link": "https://www.infoq.cn/minibook/aja6h8SVCM1Smvggyvvu?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 18 Dec 2025 15:02:00 GMT",
-        "first_seen": "2025-12-18T08:34:41.520076"
-      },
-      "96596a1a77e077a25d74f6807346aef0d8b9fe1e126851a1034eeeda9d003355": {
-        "title": "人才济济的大厂，为何频频产出垃圾代码？",
-        "link": "https://www.infoq.cn/article/jXR5eXUZdt3IW7zJgaUE?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 18 Dec 2025 14:55:00 GMT",
-        "first_seen": "2025-12-18T08:34:41.520077"
-      },
-      "553c718e048f17fbb175af3d0518363ab846098c2f7b68fb139b09d316d251c1": {
-        "title": "TornadoVM 2.0为Java提供自动GPU加速和LLM支持",
-        "link": "https://www.infoq.cn/article/WETdDcH0thPepBGK5vkh?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 18 Dec 2025 14:00:00 GMT",
-        "first_seen": "2025-12-18T08:34:41.520078"
-      },
-      "9e6c3af96e576f61f4325badd6deabf3d7e79fdf836f752e274fda9f11e8d19f": {
-        "title": "月活暴跌70%背后，Kimi走在钢索之上",
-        "link": "https://www.tmtpost.com/7813316.html",
-        "published_date": "Thu, 18 Dec 2025 16:01:00 GMT",
-        "first_seen": "2025-12-18T08:34:41.520080"
-      },
-      "eb4f1695f6bf15b8b9853746bdd200abffb969383a5c2b2915fb1f67571f8c68": {
-        "title": "AI云的“半程路标”：谷歌云和阿里云的逆袭，AWS、微软云的再审视",
-        "link": "https://www.tmtpost.com/7813373.html",
-        "published_date": "Thu, 18 Dec 2025 16:01:00 GMT",
-        "first_seen": "2025-12-18T08:34:41.520081"
-      },
-      "80fc644d1ee442dac7f886c9d7f8606bb690ff22e21bea7b6f0c3906ed57949c": {
-        "title": "Gemini 3 Flash发布：谷歌以“速度优先”重新定义AI效率之战",
-        "link": "https://www.tmtpost.com/7813380.html",
-        "published_date": "Thu, 18 Dec 2025 15:59:00 GMT",
-        "first_seen": "2025-12-18T08:34:41.520082"
-      },
-      "e9f9860f603f3d479beaaf4c306a4b4e4c2d49b3952e9225e7a8ba5e47b9a6bc": {
-        "title": "互联网大厂跨越2025：不出海，就出局；乱出海，也出局？",
-        "link": "https://www.tmtpost.com/7813303.html",
-        "published_date": "Thu, 18 Dec 2025 15:57:00 GMT",
-        "first_seen": "2025-12-18T08:34:41.520084"
-      },
-      "fc66c1ac1cf8c156e969779022c9ec48a40a36a9a050036bcab130c024833bca": {
-        "title": "曾不被李彦宏和余凯等大佬看好的L3，如今支棱起来了",
-        "link": "https://www.tmtpost.com/7813245.html",
-        "published_date": "Thu, 18 Dec 2025 15:54:00 GMT",
-        "first_seen": "2025-12-18T08:34:41.520085"
-      },
-      "7d5bed2bbb506741db99652cbb2c6bd98c42e5a0be68922b5d622a43249154f8": {
-        "title": "玛莎拉蒂的坠落：从“总裁座驾”到30万清仓",
-        "link": "https://www.tmtpost.com/7813235.html",
-        "published_date": "Thu, 18 Dec 2025 15:54:00 GMT",
-        "first_seen": "2025-12-18T08:34:41.520086"
-      },
-      "614ed977904145de3573205eeeed839d2ae0b07615655187572d9ed3048f0bc3": {
-        "title": "甲骨文魔幻100天：从AI狂欢到债务恐惧",
-        "link": "https://www.tmtpost.com/7813226.html",
-        "published_date": "Thu, 18 Dec 2025 15:52:00 GMT",
-        "first_seen": "2025-12-18T08:34:41.520088"
-      },
-      "04cb215e3ff1946fd59187e78abe70e4d7737d214f4cdb6ca41cfc534933e78f": {
-        "title": "OpenAI Said to Explore Funding Round of Up to $100 billion at $750 Billion Valuation",
-        "link": "https://www.tmtpost.com/7813253.html",
-        "published_date": "Thu, 18 Dec 2025 13:35:00 GMT",
-        "first_seen": "2025-12-18T08:34:41.520089"
-      },
-      "5b95f8336fe82973c1ef4fab0f8f53d0de41a221b95aceeeb76e2d5933d50018": {
-        "title": "一条视频讲透海南封关意味着什么？有哪些机会可抓？",
-        "link": "http://www.huxiu.com/article/4818365.html?f=wangzhan",
-        "published_date": "Thu, 18 Dec 2025 11:25:00 GMT",
-        "first_seen": "2025-12-18T08:34:41.520091"
-      },
-      "abebc25ef5a86da9303572477fe56ee1ef9baa0ed0dc51bb3552f118d0d975cd": {
-        "title": "近700家喜茶门店关闭，新茶饮行业再迎大逃杀",
-        "link": "http://www.huxiu.com/article/4818190.html?f=wangzhan",
-        "published_date": "Thu, 18 Dec 2025 10:30:00 GMT",
-        "first_seen": "2025-12-18T08:34:41.520092"
-      },
       "c96c5481e0642b7874aa0bdd652d61745b150defc64a3bc46985d86daac0005e": {
         "title": "Superintelligence Set to Disrupt the Job Market, Says Chinese AI Expert",
         "link": "https://www.tmtpost.com/7814023.html",
@@ -9811,27 +9697,75 @@
         "link": "https://www.infoq.cn/article/KXHUrhczo8le9KpyyNjr?utm_source=rss&utm_medium=article",
         "published_date": "Sat, 17 Jan 2026 13:36:00 GMT",
         "first_seen": "2026-01-17T08:30:14.957664"
+      },
+      "c91c07228b57d0d3193d6ed7ab99f82642fcc9cdd02f5f5df4de9c9eb834ba22": {
+        "title": "烧掉数万亿 Token、数百 Agent 连跑一周：Cursor“从零写浏览器”，结果是拼装人类代码？",
+        "link": "https://www.infoq.cn/article/t0rpY0X2G9RBmXf9SK6g?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 17 Jan 2026 20:00:00 GMT",
+        "first_seen": "2026-01-17T23:22:43.297544"
+      },
+      "50eaa4e7a1caf669eff2a7fd77052bf90b2141a4b81747eb759136ba4fced477": {
+        "title": "告别“刀片利润”，AI如何帮中国数百万中小工厂构筑新护城河？",
+        "link": "https://www.infoq.cn/article/uPMimwjtFsRSB8thczFi?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 17 Jan 2026 19:37:00 GMT",
+        "first_seen": "2026-01-17T23:22:43.297550"
+      },
+      "90535b29fa504cd97f621fd437f7882f4e13832b0fe92f1266c2fc2774a6c532": {
+        "title": "这轮对外卖行业“调查评估”，现阶段主要看什么？",
+        "link": "https://www.tmtpost.com/7846042.html",
+        "published_date": "Sat, 17 Jan 2026 19:23:00 GMT",
+        "first_seen": "2026-01-17T23:22:43.297552"
+      },
+      "dc1bab8a806052322e84f0ae9adaae3b5eeff1a0cc04128938c7f567577c4e33": {
+        "title": "2026，AI音乐跃迁元年？",
+        "link": "https://www.tmtpost.com/7846436.html",
+        "published_date": "Sat, 17 Jan 2026 19:23:00 GMT",
+        "first_seen": "2026-01-17T23:22:43.297554"
+      },
+      "8bcc32e476682a50134926ae10e7e5807a1f4fe8a70fc6f6ac8799b8d1461d86": {
+        "title": "携程遭反垄断调查，OTA行业硝烟再起",
+        "link": "https://www.tmtpost.com/7846535.html",
+        "published_date": "Sat, 17 Jan 2026 19:23:00 GMT",
+        "first_seen": "2026-01-17T23:22:43.297555"
+      },
+      "b9eb736361659081b6d9b3fdcddc69c300449322654c507482311f6a10af0f0f": {
+        "title": "餐酒吧连锁，是一门怎样的生意？",
+        "link": "https://www.tmtpost.com/7846252.html",
+        "published_date": "Sat, 17 Jan 2026 18:04:00 GMT",
+        "first_seen": "2026-01-17T23:22:43.297556"
+      },
+      "27468fb85a0c832ede37d31d93fc1bfb9f59e3febbb97940fbd0cd627421dd5a": {
+        "title": "Staar Surgical、Alumis等公司股票因激进投资者的行动而出现波动",
+        "link": "https://www.tmtpost.com/7846443.html",
+        "published_date": "Sat, 17 Jan 2026 17:35:00 GMT",
+        "first_seen": "2026-01-17T23:22:43.297558"
+      },
+      "e9d4767673dc64640adf101d34b6ee7c7478a92ea78d12157fadd8107519c05e": {
+        "title": "分析师称Affirm将从循环信贷中抢占份额",
+        "link": "https://www.tmtpost.com/7846441.html",
+        "published_date": "Sat, 17 Jan 2026 17:34:00 GMT",
+        "first_seen": "2026-01-17T23:22:43.297559"
+      },
+      "3d8473349a369887e38cabf062b7a4cea8288a19a4489d9ad40d49fd52dfdeb9": {
+        "title": "仅用一周时间，谷歌就让OpenAI认清现实",
+        "link": "https://www.tmtpost.com/7846324.html",
+        "published_date": "Sat, 17 Jan 2026 16:59:00 GMT",
+        "first_seen": "2026-01-17T23:22:43.297560"
+      },
+      "84b5f975a4db132972e45c81d2c488ca5b96e3ca3949c9e31c3be53e6cdcb86b": {
+        "title": "黄金迎来史诗级牛市，上游矿企狂欢，金饰品牌陷“关店潮”",
+        "link": "https://www.tmtpost.com/7846056.html",
+        "published_date": "Sat, 17 Jan 2026 16:34:00 GMT",
+        "first_seen": "2026-01-17T23:22:43.297562"
+      },
+      "d4dc71ad62734d09cea371a63653b9d71cc1b631483c3a6b201897cf5b53948b": {
+        "title": "BBA，势败如山倒",
+        "link": "http://www.huxiu.com/article/4827348.html?f=wangzhan",
+        "published_date": "Sat, 17 Jan 2026 15:54:00 GMT",
+        "first_seen": "2026-01-17T23:22:43.297563"
       }
     },
     "Finance": {
-      "ad0b9c5d56c3d3f3e646a82299843e473248db3b8e28edaf9c100325e2a0b24b": {
-        "title": "BP replaces CEO Murray Auchincloss after less than two years",
-        "link": "https://www.ft.com/content/802414de-72a1-4db1-9886-f21ccd6cca66",
-        "published_date": "Thu, 18 Dec 2025 08:04:00 GMT",
-        "first_seen": "2025-12-18T08:34:41.274441"
-      },
-      "66e73f6237c7e5a36034ef21428d94a0106efa5dd2a6a284e501608671076c49": {
-        "title": "US approves $11bn arms sale to Taiwan",
-        "link": "https://www.ft.com/content/feda40da-5297-43f8-80a0-a5252e6bc89e",
-        "published_date": "Thu, 18 Dec 2025 07:57:00 GMT",
-        "first_seen": "2025-12-18T08:34:41.274450"
-      },
-      "8af99188c7e848b3df9412710ce0cbb83a7b5f664538f0913546370afb459d1e": {
-        "title": "Can Venezuela’s Maduro survive Trump’s oil blockade?",
-        "link": "https://www.ft.com/content/283eb1b9-2274-41f1-8075-b1cc4cba477c",
-        "published_date": "Thu, 18 Dec 2025 06:14:00 GMT",
-        "first_seen": "2025-12-18T08:34:41.274453"
-      },
       "08474d1ad13b3585f9996184d2e02f0576d0d45718c54b0732697c8290e2185e": {
         "title": "My mother ghosted me after my father died. Is she stealing his money?",
         "link": "https://www.marketwatch.com/story/am-i-simply-the-unloved-son-my-mother-ghosted-me-after-my-father-died-is-she-stealing-his-money-522ec5b7?mod=mw_rss_topstories",
@@ -13869,27 +13803,75 @@
         "link": "https://www.marketwatch.com/story/from-iran-to-venezuela-why-the-oil-market-is-on-edge-this-weekend-cf5e1ddb?mod=mw_rss_topstories",
         "published_date": "Sat, 17 Jan 2026 01:46:00 GMT",
         "first_seen": "2026-01-17T05:25:44.680117"
+      },
+      "94f05ca8c6c26077ff70f78bd69bd7a7237f0ddd573d61ba6860713c188a576d": {
+        "title": "Broad mandate of Trump’s Board of Peace sets it up for rivalry with UN",
+        "link": "https://www.ft.com/content/0ee79faa-86d3-4c01-a180-add6e164ac28",
+        "published_date": "Sat, 17 Jan 2026 22:35:00 GMT",
+        "first_seen": "2026-01-17T23:22:43.062988"
+      },
+      "1f33e2c5759e2cf388c5d0f89d29814e1dacfa82200faae5e1bb5ff8af80cd14": {
+        "title": "Trump to hit Europe with 10% tariffs until Greenland deal is agreed",
+        "link": "https://www.ft.com/content/60552052-78b7-4734-b398-efc87c1d4b17",
+        "published_date": "Sat, 17 Jan 2026 20:07:00 GMT",
+        "first_seen": "2026-01-17T23:22:43.062996"
+      },
+      "c799552f545f4abc0fab698419be79140388d9f5dd17f6a021330f082aa304bd": {
+        "title": "Ali Sha’ath: the new Gaza chief who must rebuild the shattered enclave",
+        "link": "https://www.ft.com/content/814f1ab6-31d5-4591-9c83-eeb328c1ea4e",
+        "published_date": "Sat, 17 Jan 2026 17:06:00 GMT",
+        "first_seen": "2026-01-17T23:22:43.062999"
+      },
+      "e582951d647dd4d72c6b392ad888c853ad0bf35a28ca1e91dc644f66d0cb710c": {
+        "title": "EU and Mercosur bloc sign trade deal after decades of talks",
+        "link": "https://www.ft.com/content/d894fa07-72a5-4081-8311-42127f20ab76",
+        "published_date": "Sat, 17 Jan 2026 16:51:00 GMT",
+        "first_seen": "2026-01-17T23:22:43.063000"
+      },
+      "f72eb4b472dfa6576ec0de160b500033ecc7ded313ac6ef05ce7beb821bbc933": {
+        "title": "Private credit investors pull $7bn from Wall Street’s biggest funds",
+        "link": "https://www.ft.com/content/8d7a9c3d-8e1c-40be-915c-7118c4946468",
+        "published_date": "Sat, 17 Jan 2026 12:00:00 GMT",
+        "first_seen": "2026-01-17T23:22:43.063002"
+      },
+      "a1da8e9694c8a7b3e22c54e1c3b374bc3b97358e94763f7d14c8b4a2928b33fb": {
+        "title": "These 20 cheap S&P 500 stocks can cushion the blow in a market downturn",
+        "link": "https://www.marketwatch.com/story/these-stocks-are-steady-eddies-if-s-p-500-earnings-growth-slips-and-the-market-slides-add642d0?mod=mw_rss_topstories",
+        "published_date": "Sat, 17 Jan 2026 19:54:00 GMT",
+        "first_seen": "2026-01-17T23:22:43.063003"
+      },
+      "9f27e17d3d10d7c7fc11fed3136872c7021f3adf1cd133e050260f3231a3d9cb": {
+        "title": "14 million Americans are getting access to these game-changing investment accounts — without risking their Supplemental Security Income and Medicaid benefits",
+        "link": "https://www.marketwatch.com/story/14-million-americans-are-getting-access-to-these-game-changing-investment-accounts-without-risking-their-supplemental-security-income-and-medicaid-benefits-afeb569d?mod=mw_rss_topstories",
+        "published_date": "Sat, 17 Jan 2026 19:35:00 GMT",
+        "first_seen": "2026-01-17T23:22:43.063005"
+      },
+      "fe60abd392ee10d6670b0161a9acecde987a75bec67d2afc2924137f07b81dec": {
+        "title": "Trump plans 10% tariffs on European countries over Greenland: What it means for markets.",
+        "link": "https://www.marketwatch.com/story/trump-plans-10-tariffs-on-european-countries-over-greenland-what-it-means-for-markets-1b2d3373?mod=mw_rss_topstories",
+        "published_date": "Sat, 17 Jan 2026 19:15:00 GMT",
+        "first_seen": "2026-01-17T23:22:43.063012"
+      },
+      "fc96879053c0dc098be3d40c35a5ad2bcd6525aaea187660ad182bb54918cf4e": {
+        "title": "‘Your whole life is on the phone.’ Should companies like Verizon be forced to refund you the next time there’s a major outage?",
+        "link": "https://www.marketwatch.com/story/verizon-outage-spurs-calls-for-mandatory-refunds-when-cell-service-is-disrupted-you-shouldnt-have-to-beg-for-it-d95650b2?mod=mw_rss_topstories",
+        "published_date": "Sat, 17 Jan 2026 18:08:00 GMT",
+        "first_seen": "2026-01-17T23:22:43.063013"
+      },
+      "95a48775b64bdd15eec76b6a55c8dc010cd33ad5761feaad1404e889bfffeba1": {
+        "title": "6 stocks and ETFs that these unsung market heroes see outperforming in 2026",
+        "link": "https://www.marketwatch.com/story/6-stocks-and-etfs-that-these-unsung-market-heroes-see-outperforming-in-2026-0aef8bb8?mod=mw_rss_topstories",
+        "published_date": "Sat, 17 Jan 2026 17:04:00 GMT",
+        "first_seen": "2026-01-17T23:22:43.063015"
+      },
+      "b51bae4f624429bb951ae98fe4099ea665dbe22e0f47427f4262162031d7d7a7": {
+        "title": "My wealthy friend invited me to stay, but he doesn’t need more ‘stuff.’ What do I get the man who has everything?",
+        "link": "https://www.marketwatch.com/story/my-wealthy-friend-invited-me-to-stay-but-he-doesnt-need-more-stuff-what-do-i-get-the-man-who-has-everything-077914b7?mod=mw_rss_topstories",
+        "published_date": "Sat, 17 Jan 2026 17:00:00 GMT",
+        "first_seen": "2026-01-17T23:22:43.063016"
       }
     },
     "Ai": {
-      "fd32392a1b4c139e68c35c25362d9b0dbedb7e7c1fa417c0c5e7e0297a7fc404": {
-        "title": "“特斯拉延期交付机器人是卡在灵巧手上，中国灵巧手遥遥领先”| 灵心巧手@MEET2026",
-        "link": "https://www.qbitai.com/2025/12/361803.html",
-        "published_date": "Thu, 18 Dec 2025 06:40:00 GMT",
-        "first_seen": "2025-12-18T08:34:41.401223"
-      },
-      "e7b86409a2c6cfaf1223b240267771d270f882993aa0f541efd33ae792b59601": {
-        "title": "具身智能的数据难题，终于有了可规模化的解法",
-        "link": "https://www.qbitai.com/2025/12/361743.html",
-        "published_date": "Thu, 18 Dec 2025 06:20:00 GMT",
-        "first_seen": "2025-12-18T08:34:41.401231"
-      },
-      "5666c036eb7a8660792fa6609a507663873f46211aa37741eefae3b96155e293": {
-        "title": "医生版ChatGPT，估值120亿美元",
-        "link": "https://www.qbitai.com/2025/12/361726.html",
-        "published_date": "Thu, 18 Dec 2025 05:45:00 GMT",
-        "first_seen": "2025-12-18T08:34:41.401233"
-      },
       "f8e320c185ef13d675ef04baca27a1c75cef0bc4e1576d281f67fd4460162d40": {
         "title": "不卖「工具」卖「生产力」，百融云创如何用「硅基员工」打破AI落地僵局？",
         "link": "https://www.jiqizhixin.com/articles/2025-12-18-8",
@@ -16349,13 +16331,19 @@
         "link": "https://www.jiqizhixin.com/articles/2026-01-17",
         "published_date": "Sat, 17 Jan 2026 13:25:00 GMT",
         "first_seen": "2026-01-17T08:30:14.866091"
+      },
+      "256bfb9ab022946a69eec9a740c1e67c16bf35af9b6cb0c476c3ed2b419bd396": {
+        "title": "AI 视频生成时代，留给人类的只有演技？",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-17-4",
+        "published_date": "Sat, 17 Jan 2026 17:57:00 GMT",
+        "first_seen": "2026-01-17T23:22:43.186897"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-01-17T08:30:14.957666",
-    "Finance": "2026-01-17T05:25:44.680120",
-    "Ai": "2026-01-17T08:30:14.866093"
+    "Technology": "2026-01-17T23:22:43.297564",
+    "Finance": "2026-01-17T23:22:43.063018",
+    "Ai": "2026-01-17T23:22:43.186905"
   }
 }
