@@ -1,7 +1,15 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-17 23:22
+**最后更新时间**: 2026-01-18 05:29
+
+---
+
+## 🆕 最新更新 (2026-01-18 05:29)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [I started working as a dishwasher at age 13. Social Security refuses to acknowledge this. Am I being cheated?](https://www.marketwatch.com/story/i-started-working-as-a-dishwasher-at-13-social-security-refuses-to-acknowledge-this-am-i-being-cheated-164d6435?mod=mw_rss_topstories)
+**发布时间**: 2026-01-18 00:30
 
 ---
 
