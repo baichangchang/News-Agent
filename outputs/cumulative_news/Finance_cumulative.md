@@ -1,7 +1,20 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-19 05:34
+**最后更新时间**: 2026-01-19 08:37
+
+---
+
+## 🆕 最新更新 (2026-01-19 08:37)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Stock futures lead global markets sharply lower and gold hits fresh record as Trump threatens tariffs on Europe over Greenland](https://www.marketwatch.com/story/stock-futures-lead-global-markets-sharply-lower-and-gold-hits-fresh-record-as-trump-threatens-tariffs-on-europe-over-greenland-e52bcb8e?mod=mw_rss_topstories)
+**发布时间**: 2026-01-19 08:33
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Gold hits record and stocks fall as Greenland crisis deepens](https://www.ft.com/content/8d2b76e7-4450-4859-8128-866bc7cbfb90)
+**发布时间**: 2026-01-19 07:23
 
 ---
 
