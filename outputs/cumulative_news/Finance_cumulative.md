@@ -1,7 +1,39 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-18 23:23
+**最后更新时间**: 2026-01-19 05:34
+
+---
+
+## 🆕 最新更新 (2026-01-19 05:34)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [How could Trump’s Greenland tariffs hit individual EU countries?](https://www.ft.com/content/5c85d4af-4874-43cc-a1f5-f3f1f6664c70)
+**发布时间**: 2026-01-19 05:00
+
+#### [The dangerous triumph of neo-mercantilism](https://www.ft.com/content/cd68b35f-f00d-4a7d-a9be-56c639dd6b91)
+**发布时间**: 2026-01-19 05:00
+
+#### [Trump’s attack on the Fed should galvanise the GOP](https://www.ft.com/content/daa32259-983c-4dad-a56b-cf844adf1f49)
+**发布时间**: 2026-01-19 05:00
+
+#### [China registers lowest number of births since records began](https://www.ft.com/content/a294436d-9d74-49f5-873e-22ba7a83365b)
+**发布时间**: 2026-01-19 04:58
+
+#### [China’s GDP grows 5% in 2025 as exports offset weak domestic outlook](https://www.ft.com/content/5fc6effd-29a0-4dca-a409-fd11a3160fdc)
+**发布时间**: 2026-01-19 03:06
+
+#### [UK chancellor hails ‘golden age’ for City after easing tax and regulation](https://www.ft.com/content/e3c9ac38-58c1-4762-91e2-3396946dc0e0)
+**发布时间**: 2026-01-19 00:02
+
+#### [UK Treasury to review wasteful spending by Whitehall departments](https://www.ft.com/content/2c4871e3-a7c9-429e-a8d4-8cdcb656940d)
+**发布时间**: 2026-01-19 00:02
+
+#### [House prices jump across Britain as sentiment rebounds after Budget](https://www.ft.com/content/5a449880-0276-442e-b56a-cae505b15bed)
+**发布时间**: 2026-01-19 00:02
+
+#### [Chris Hohn beats hedge fund rivals with record-breaking $19bn profit](https://www.ft.com/content/c670fa3a-05d8-41e5-9701-8239a9c7206f)
+**发布时间**: 2026-01-19 00:01
 
 ---
 
