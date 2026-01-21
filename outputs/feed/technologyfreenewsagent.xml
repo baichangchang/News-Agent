@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 21 Jan 2026 05:31:00 GMT</pubDate>
-    <lastBuildDate>Wed, 21 Jan 2026 05:31:59 GMT</lastBuildDate>
+    <pubDate>Wed, 21 Jan 2026 08:36:00 GMT</pubDate>
+    <lastBuildDate>Wed, 21 Jan 2026 08:36:33 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,163 +14,141 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>VCSEL芯片及解决方案提供商瑞识科技完成数亿元C轮融资 | 融资动态</title>
-      <link>https://www.tmtpost.com/7850362.html</link>
-      <description>&lt;![CDATA[VCSEL芯片及解决方案提供商瑞识科技完成数亿元C轮融资 | 融资动态]]&gt;</description>
-      <pubDate>Wed, 21 Jan 2026 13:05:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7850362.html</guid>
+      <title>Node.js之父宣判“手写代码时代结束”！DHH明确反对“结束论”：大模型还差口气，手写更有竞争力</title>
+      <link>https://www.infoq.cn/article/NJFBOuIqvvyUjc4BQhk5?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Node.js之父宣判“手写代码时代结束”！DHH明确反对“结束论”：大模型还差口气，手写更有竞争力]]&gt;</description>
+      <pubDate>Wed, 21 Jan 2026 16:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/NJFBOuIqvvyUjc4BQhk5?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>GDP增长将取决于Tokens数量？微软CEO纳德拉达沃斯对话信息量太大了……</title>
-      <link>https://www.tmtpost.com/7849912.html</link>
-      <description>&lt;![CDATA[GDP增长将取决于Tokens数量？微软CEO纳德拉达沃斯对话信息量太大了……]]&gt;</description>
-      <pubDate>Wed, 21 Jan 2026 11:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7849912.html</guid>
+      <title>XAML Studio 开源：一款老牌原型工具，如何在 WinUI 时代重获生命力</title>
+      <link>https://www.infoq.cn/article/JCw7RzpyL4DUPvC0kHwE?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[XAML Studio 开源：一款老牌原型工具，如何在 WinUI 时代重获生命力]]&gt;</description>
+      <pubDate>Wed, 21 Jan 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/JCw7RzpyL4DUPvC0kHwE?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>A股银行年度盘点：2025告别普涨，2026拥抱分化</title>
-      <link>https://www.tmtpost.com/7850186.html</link>
-      <description>&lt;![CDATA[A股银行年度盘点：2025告别普涨，2026拥抱分化]]&gt;</description>
-      <pubDate>Wed, 21 Jan 2026 11:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7850186.html</guid>
+      <title>飞猪搭建系统演进：从人工运营到多Agent协同
+搭投生产</title>
+      <link>https://www.infoq.cn/article/T96C1HNWw5IEiwmMj7It?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[飞猪搭建系统演进：从人工运营到多Agent协同
+搭投生产]]&gt;</description>
+      <pubDate>Wed, 21 Jan 2026 13:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/T96C1HNWw5IEiwmMj7It?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>ECM重写3000亿医美市场规则</title>
-      <link>https://www.tmtpost.com/7849888.html</link>
-      <description>&lt;![CDATA[ECM重写3000亿医美市场规则]]&gt;</description>
-      <pubDate>Wed, 21 Jan 2026 11:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7849888.html</guid>
+      <title>大厂“卷”向录音笔：一场围绕AI与数据入口的生态暗战</title>
+      <link>https://www.tmtpost.com/7850118.html</link>
+      <description>&lt;![CDATA[大厂“卷”向录音笔：一场围绕AI与数据入口的生态暗战]]&gt;</description>
+      <pubDate>Wed, 21 Jan 2026 15:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7850118.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>油气巨头热情消退，全球绿氢遭遇“寒风冷雨”</title>
-      <link>https://www.tmtpost.com/7850049.html</link>
-      <description>&lt;![CDATA[油气巨头热情消退，全球绿氢遭遇“寒风冷雨”]]&gt;</description>
-      <pubDate>Wed, 21 Jan 2026 11:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7850049.html</guid>
+      <title>黄仁勋亲自邀请的男人，将PCB生意做到了3000亿</title>
+      <link>https://www.tmtpost.com/7850144.html</link>
+      <description>&lt;![CDATA[黄仁勋亲自邀请的男人，将PCB生意做到了3000亿]]&gt;</description>
+      <pubDate>Wed, 21 Jan 2026 15:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7850144.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>四百年剪刀老字号，“保不住”一辆迈巴赫？</title>
-      <link>https://www.tmtpost.com/7849858.html</link>
-      <description>&lt;![CDATA[四百年剪刀老字号，“保不住”一辆迈巴赫？]]&gt;</description>
-      <pubDate>Wed, 21 Jan 2026 11:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7849858.html</guid>
+      <title>高瓴、智元机器人联手投资，小米前高管王腾创立AI睡眠公司“今日宜休”</title>
+      <link>https://www.tmtpost.com/7850537.html</link>
+      <description>&lt;![CDATA[高瓴、智元机器人联手投资，小米前高管王腾创立AI睡眠公司“今日宜休”]]&gt;</description>
+      <pubDate>Wed, 21 Jan 2026 15:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7850537.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>暴涨超200%的白银，一场史无前例的超级黄金周期</title>
-      <link>https://www.tmtpost.com/7850121.html</link>
-      <description>&lt;![CDATA[暴涨超200%的白银，一场史无前例的超级黄金周期]]&gt;</description>
-      <pubDate>Wed, 21 Jan 2026 10:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7850121.html</guid>
+      <title>惠康科技：实控人套现5.61亿、不差钱仍募资、低研发却有高毛利｜IPO观察</title>
+      <link>https://www.tmtpost.com/7849141.html</link>
+      <description>&lt;![CDATA[惠康科技：实控人套现5.61亿、不差钱仍募资、低研发却有高毛利｜IPO观察]]&gt;</description>
+      <pubDate>Wed, 21 Jan 2026 15:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7849141.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>估值超100亿，医疗界“拼多多”杀疯了！</title>
-      <link>https://www.tmtpost.com/7849875.html</link>
-      <description>&lt;![CDATA[估值超100亿，医疗界“拼多多”杀疯了！]]&gt;</description>
-      <pubDate>Wed, 21 Jan 2026 10:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7849875.html</guid>
+      <title>上市即 “贬值”？弥富科技突击入股估值倒挂，应收账款逾期超三成｜IPO观察</title>
+      <link>https://www.tmtpost.com/7849197.html</link>
+      <description>&lt;![CDATA[上市即 “贬值”？弥富科技突击入股估值倒挂，应收账款逾期超三成｜IPO观察]]&gt;</description>
+      <pubDate>Wed, 21 Jan 2026 15:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7849197.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>2026：国产手机厂商重回战国时代？</title>
-      <link>https://www.tmtpost.com/7849759.html</link>
-      <description>&lt;![CDATA[2026：国产手机厂商重回战国时代？]]&gt;</description>
-      <pubDate>Wed, 21 Jan 2026 09:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7849759.html</guid>
+      <title>从“买算力”到“买人”：Humans&amp;获得4.8亿美元种子轮，英伟达、贝索斯联手投资</title>
+      <link>https://www.tmtpost.com/7850502.html</link>
+      <description>&lt;![CDATA[从“买算力”到“买人”：Humans&amp;获得4.8亿美元种子轮，英伟达、贝索斯联手投资]]&gt;</description>
+      <pubDate>Wed, 21 Jan 2026 15:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7850502.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>别再给我推AI音乐了</title>
-      <link>https://www.tmtpost.com/7849590.html</link>
-      <description>&lt;![CDATA[别再给我推AI音乐了]]&gt;</description>
-      <pubDate>Wed, 21 Jan 2026 08:39:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7849590.html</guid>
+      <title>呼吸机概念60日涨超20%：从ICU闯入“卧室赛道”的产业价值重估丨行业风向标</title>
+      <link>https://www.tmtpost.com/7850421.html</link>
+      <description>&lt;![CDATA[呼吸机概念60日涨超20%：从ICU闯入“卧室赛道”的产业价值重估丨行业风向标]]&gt;</description>
+      <pubDate>Wed, 21 Jan 2026 14:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7850421.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>苹果换购计划扩员，库克要抢华为小米Ov的换机用户</title>
-      <link>https://www.tmtpost.com/7849616.html</link>
-      <description>&lt;![CDATA[苹果换购计划扩员，库克要抢华为小米Ov的换机用户]]&gt;</description>
-      <pubDate>Wed, 21 Jan 2026 08:39:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7849616.html</guid>
+      <title>黄金涨疯了，想租银行保险箱要排队5-6年</title>
+      <link>https://www.tmtpost.com/7850417.html</link>
+      <description>&lt;![CDATA[黄金涨疯了，想租银行保险箱要排队5-6年]]&gt;</description>
+      <pubDate>Wed, 21 Jan 2026 14:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7850417.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>端侧AI下半场，从跑起来到会思考</title>
-      <link>https://www.tmtpost.com/7849609.html</link>
-      <description>&lt;![CDATA[端侧AI下半场，从跑起来到会思考]]&gt;</description>
-      <pubDate>Wed, 21 Jan 2026 08:39:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7849609.html</guid>
+      <title>两位大佬放出“坏消息”：实习生进入AI“斩杀线”</title>
+      <link>https://www.tmtpost.com/7850077.html</link>
+      <description>&lt;![CDATA[两位大佬放出“坏消息”：实习生进入AI“斩杀线”]]&gt;</description>
+      <pubDate>Wed, 21 Jan 2026 13:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7850077.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>年卖4000台、每台8万块，这家机器人公司要上市</title>
-      <link>https://www.tmtpost.com/7849622.html</link>
-      <description>&lt;![CDATA[年卖4000台、每台8万块，这家机器人公司要上市]]&gt;</description>
-      <pubDate>Wed, 21 Jan 2026 08:39:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7849622.html</guid>
+      <title>奈飞：收购拖垮剧王？又到考验信仰的时候了</title>
+      <link>https://www.tmtpost.com/7850133.html</link>
+      <description>&lt;![CDATA[奈飞：收购拖垮剧王？又到考验信仰的时候了]]&gt;</description>
+      <pubDate>Wed, 21 Jan 2026 13:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7850133.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>【钛晨报】激发民间投资、促进消费，财政部详解一揽子扩内需政策；交易所紧急出手，调整金银铜铝合约风控参数；丹麦养老基金据悉将退出美国国债投资</title>
-      <link>https://www.tmtpost.com/7849833.html</link>
-      <description>&lt;![CDATA[【钛晨报】激发民间投资、促进消费，财政部详解一揽子扩内需政策；交易所紧急出手，调整金银铜铝合约风控参数；丹麦养老基金据悉将退出美国国债投资]]&gt;</description>
-      <pubDate>Wed, 21 Jan 2026 07:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7849833.html</guid>
+      <title>瑞士机器人科技公司Nautica研发自主船体清洁机器人，推动航运业生物污损自动化处理</title>
+      <link>https://www.tmtpost.com/7850281.html</link>
+      <description>&lt;![CDATA[瑞士机器人科技公司Nautica研发自主船体清洁机器人，推动航运业生物污损自动化处理]]&gt;</description>
+      <pubDate>Wed, 21 Jan 2026 13:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7850281.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>零售进入 Agent 时代：Google 联合 Walmart、Shopify 推出 UCP</title>
-      <link>https://www.infoq.cn/article/Rqjcx2J5ZbOSjlNJ9BUz?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[零售进入 Agent 时代：Google 联合 Walmart、Shopify 推出 UCP]]&gt;</description>
-      <pubDate>Wed, 21 Jan 2026 11:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/Rqjcx2J5ZbOSjlNJ9BUz?utm_source=rss&amp;utm_medium=article</guid>
+      <title>格陵兰岛争端为啥会推高金价？</title>
+      <link>http://www.huxiu.com/article/4828208.html?f=wangzhan</link>
+      <description>&lt;![CDATA[格陵兰岛争端为啥会推高金价？]]&gt;</description>
+      <pubDate>Wed, 21 Jan 2026 15:30:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.huxiu.com/article/4828208.html?f=wangzhan</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Agent 不再各自为战：GitLab Duo 构建可编排的研发智能体系</title>
-      <link>https://www.infoq.cn/article/7PsJIm4r5EKqUasq3xYt?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Agent 不再各自为战：GitLab Duo 构建可编排的研发智能体系]]&gt;</description>
-      <pubDate>Wed, 21 Jan 2026 11:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/7PsJIm4r5EKqUasq3xYt?utm_source=rss&amp;utm_medium=article</guid>
+      <title>为什么聚酯纤维填充的棉服有的便宜有的贵呢？</title>
+      <link>http://www.huxiu.com/article/4828145.html?f=wangzhan</link>
+      <description>&lt;![CDATA[为什么聚酯纤维填充的棉服有的便宜有的贵呢？]]&gt;</description>
+      <pubDate>Wed, 21 Jan 2026 14:00:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.huxiu.com/article/4828145.html?f=wangzhan</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Agent Skills 落地实战：拒绝“裸奔”，构建确定性与灵活性共存的混合架构</title>
-      <link>https://www.infoq.cn/article/MUo1faBPQqOwxVDWA9vB?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Agent Skills 落地实战：拒绝“裸奔”，构建确定性与灵活性共存的混合架构]]&gt;</description>
-      <pubDate>Wed, 21 Jan 2026 10:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/MUo1faBPQqOwxVDWA9vB?utm_source=rss&amp;utm_medium=article</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Pinterest的Moka：Kubernetes如何重写大数据处理规则</title>
-      <link>https://www.infoq.cn/article/DksL1xE1iKPIIzqOorEw?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Pinterest的Moka：Kubernetes如何重写大数据处理规则]]&gt;</description>
-      <pubDate>Wed, 21 Jan 2026 09:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/DksL1xE1iKPIIzqOorEw?utm_source=rss&amp;utm_medium=article</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>致敬好剧新姿势：纯代码从零复刻 Pluribus 片头动画</title>
-      <link>https://sspai.com/post/105365</link>
-      <description>&lt;![CDATA[致敬好剧新姿势：纯代码从零复刻 Pluribus 片头动画]]&gt;</description>
-      <pubDate>Wed, 21 Jan 2026 11:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/105365</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>派早报：索尼宣布与 TCL 成立合资公司、Ayaneo 发布 Konkr Fit 掌机等</title>
-      <link>https://sspai.com/post/105628</link>
-      <description>&lt;![CDATA[派早报：索尼宣布与 TCL 成立合资公司、Ayaneo 发布 Konkr Fit 掌机等]]&gt;</description>
-      <pubDate>Wed, 21 Jan 2026 07:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/105628</guid>
+      <title>5 款替代品，找回 LaunchPad 的快捷</title>
+      <link>https://sspai.com/post/105471</link>
+      <description>&lt;![CDATA[5 款替代品，找回 LaunchPad 的快捷]]&gt;</description>
+      <pubDate>Wed, 21 Jan 2026 15:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/105471</guid>
       <category>Technology</category>
     </item>
   </channel>

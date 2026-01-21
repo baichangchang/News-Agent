@@ -1,7 +1,18 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-21 05:31
+**最后更新时间**: 2026-01-21 08:36
+
+---
+
+## 🆕 最新更新 (2026-01-21 08:36)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [UK inflation rises more than expected to 3.4% in December](https://www.ft.com/content/df1b7436-35fe-4b64-954a-9009b371c444)
+**发布时间**: 2026-01-21 07:27
+
+#### [Gold hits record as Trump heads to Davos for Greenland talks](https://www.ft.com/content/1369a45e-e39b-4aaa-a347-b1800da7fd31)
+**发布时间**: 2026-01-21 04:35
 
 ---
 
