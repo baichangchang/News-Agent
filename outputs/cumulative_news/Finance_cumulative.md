@@ -1,7 +1,53 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-20 23:26
+**最后更新时间**: 2026-01-21 05:31
+
+---
+
+## 🆕 最新更新 (2026-01-21 05:31)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Can the EU keep up with Trump in a trade war?](https://www.ft.com/content/c3d1e6f6-4f37-4e1e-9b42-d46495107907)
+**发布时间**: 2026-01-21 05:00
+
+#### [Trump row over Greenland derails Ukraine postwar deal](https://www.ft.com/content/9904baa7-d90b-4170-898d-d5ac8bebe466)
+**发布时间**: 2026-01-21 05:00
+
+#### [World Economic Forum weighs moving flagship event from Davos](https://www.ft.com/content/da52a13e-98ff-4df5-9122-f80abd43ebe7)
+**发布时间**: 2026-01-21 05:00
+
+#### [Nigel Farage seeks to persuade Tory mayor Ben Houchen to defect to Reform](https://www.ft.com/content/503f58bc-c254-403f-aaf5-31ec68f8873a)
+**发布时间**: 2026-01-21 05:00
+
+#### [KPMG’s UK boss in two-man race for global leadership](https://www.ft.com/content/6fd4b037-2569-415c-a10b-1b3759c24cac)
+**发布时间**: 2026-01-21 05:00
+
+#### [Greenland latest: Trump returns to US after ‘electrical issue’ on Air Force One](https://www.ft.com/content/1369a45e-e39b-4aaa-a347-b1800da7fd31)
+**发布时间**: 2026-01-21 04:35
+
+#### [Republicans begin to push back against Trump’s pursuit of Greenland](https://www.ft.com/content/20917af3-1506-405c-9933-f8944961e2ea)
+**发布时间**: 2026-01-21 00:18
+
+#### [Carney warns of ‘rupture’ to global order as Trump rattles allies](https://www.ft.com/content/7d9609d4-14cd-4b0c-b48c-0b3f2e4f6611)
+**发布时间**: 2026-01-20 23:46
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘People are often unreasonable when money is involved’: My husband, 62, gave me a 5-year life estate. Would I have to pay for a new roof?](https://www.marketwatch.com/story/people-are-often-unreasonable-when-money-is-involved-my-husband-62-gave-me-a-5-year-life-estate-would-i-have-to-pay-for-a-new-roof-db4e0efb?mod=mw_rss_topstories)
+**发布时间**: 2026-01-21 04:42
+
+#### [‘I’m simply exhausted’: I’m 55 and have $1.3 million for retirement. Can I retire next year?](https://www.marketwatch.com/story/im-simply-exhausted-im-55-and-have-1-3-million-for-retirement-can-i-retire-next-year-8a796d64?mod=mw_rss_topstories)
+**发布时间**: 2026-01-21 04:10
+
+#### [Trump’s Greenland tariff threats rattle investors: The stakes are higher this time around](https://www.marketwatch.com/story/trump-threatens-more-tariffs-investors-gasp-dont-freak-out-over-your-401-k-d94aec34?mod=mw_rss_topstories)
+**发布时间**: 2026-01-21 03:49
+
+#### [Kraft Heinz stock falls as Berkshire Hathaway may sell off nearly its entire stake](https://www.marketwatch.com/story/kraft-heinz-stock-falls-as-berkshire-hathaway-may-sell-off-nearly-its-entire-stake-55623e91?mod=mw_rss_topstories)
+**发布时间**: 2026-01-21 02:41
+
+#### [Investors are worried — but waiting for Trump to pivot on Greenland threat](https://www.marketwatch.com/story/investors-are-worried-but-waiting-for-trump-to-pivot-on-greenland-threat-16ed8b8c?mod=mw_rss_topstories)
+**发布时间**: 2026-01-21 01:21
 
 ---
 
