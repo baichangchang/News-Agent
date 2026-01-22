@@ -1,7 +1,80 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-22 08:36
+**最后更新时间**: 2026-01-22 23:25
+
+---
+
+## 🆕 最新更新 (2026-01-22 23:25)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Bond investors should worry less about Treasury yields, and watch this move instead](https://www.marketwatch.com/story/bond-investors-should-worry-less-about-treasury-yields-and-watch-this-move-instead-937fc339?mod=mw_rss_topstories)
+**发布时间**: 2026-01-22 23:22
+
+#### [Wall Street clocks in a rally for second day across tech stocks, small caps and long-term Treasurys](https://www.marketwatch.com/story/wall-street-clocks-in-a-rally-for-second-day-across-tech-stocks-small-caps-and-long-term-treasurys-294f1384?mod=mw_rss_topstories)
+**发布时间**: 2026-01-22 23:01
+
+#### [Elon Musk has an ambitious new target for when Tesla’s Optimus robots will go on sale](https://www.marketwatch.com/story/elon-musk-says-tesla-will-sell-optimus-robots-to-consumers-by-the-end-of-2027-b0ce1729?mod=mw_rss_topstories)
+**发布时间**: 2026-01-22 22:37
+
+#### [Under Armour is investigating claims of a data breach. Here’s what customer info may have been compromised.](https://www.marketwatch.com/story/under-armour-is-investigating-claims-of-a-data-breach-heres-what-customer-info-may-have-been-compromised-59c25f26?mod=mw_rss_topstories)
+**发布时间**: 2026-01-22 22:32
+
+#### [Clorox to buy Purell maker for more than $2 billion, eyeing 20 million hand-sanitizer dispensers and more](https://www.marketwatch.com/story/clorox-to-buy-purell-maker-for-more-than-2-billion-eyeing-20-million-hand-sanitizer-dispensers-and-more-c563a034?mod=mw_rss_topstories)
+**发布时间**: 2026-01-22 22:05
+
+#### [Lululemon’s founder says yoga-wear giant has ‘completely lost its way’](https://www.marketwatch.com/story/lululemons-founder-lashes-out-at-the-company-saying-it-has-completely-lost-its-way-12ac062c?mod=mw_rss_topstories)
+**发布时间**: 2026-01-22 21:39
+
+#### [Tesla’s stock pops on a robotaxi milestone. Here’s what comes next.](https://www.marketwatch.com/story/teslas-stock-pops-on-a-robotaxi-milestone-heres-what-comes-next-00aae31f?mod=mw_rss_topstories)
+**发布时间**: 2026-01-22 21:36
+
+#### [BitGo’s stock leaps out of the gate, as IPO investors are undeterred by bitcoin’s selloff](https://www.marketwatch.com/story/bitgo-is-boldly-going-public-at-a-time-of-uncertainty-for-bitcoins-outlook-2cc35d74?mod=mw_rss_topstories)
+**发布时间**: 2026-01-22 21:33
+
+#### [AMD’s stock is on a hot streak not seen in six years](https://www.marketwatch.com/story/amds-stock-is-on-a-hot-streak-not-seen-in-six-years-eae76f1d?mod=mw_rss_topstories)
+**发布时间**: 2026-01-22 21:25
+
+#### [Why the winter storm that’s about to hit could be especially treacherous for flying](https://www.marketwatch.com/story/why-the-winter-storm-thats-about-to-hit-could-be-especially-treacherous-for-flying-72c4f55f?mod=mw_rss_topstories)
+**发布时间**: 2026-01-22 21:15
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Trump sues JPMorgan and CEO Dimon for $5bn over debanking](https://www.ft.com/content/da3b880c-fcab-47d8-a40c-9e6755616e94)
+**发布时间**: 2026-01-22 23:08
+
+#### [JPMorgan boosts Dimon’s pay to record $43mn](https://www.ft.com/content/340ee8ce-46fe-4107-ac9b-595fbb16ca1e)
+**发布时间**: 2026-01-22 22:56
+
+#### [Nato chief and Trump discussed revamp of US-Denmark military deal](https://www.ft.com/content/706b7233-9e16-4f64-970e-5732988969e5)
+**发布时间**: 2026-01-22 21:19
+
+#### [‘Everybody is trying to capitalise on the chaos’: The race to replace Starmer](https://www.ft.com/content/4c1a4601-3790-401f-b2f2-9e42b1bb939c)
+**发布时间**: 2026-01-22 19:04
+
+#### [EU leaders fear for US relationship despite Trump climbdown](https://www.ft.com/content/58cbcac1-f9ae-4ed1-9a69-e005d9fdd37b)
+**发布时间**: 2026-01-22 18:42
+
+#### [Elon Musk’s SpaceX lines up 4 banks for blockbuster IPO](https://www.ft.com/content/55235da5-9a3f-4e0f-b00c-4e1f5abdc606)
+**发布时间**: 2026-01-22 18:24
+
+#### [Starmer’s allies ready to block Burnham’s bid for Westminster comeback](https://www.ft.com/content/7066b1e8-30f9-4bf4-a3bb-cd4b02d0472c)
+**发布时间**: 2026-01-22 17:33
+
+#### [From bored of peace to the Board of Peace](https://www.ft.com/content/14995028-168c-46a6-9aba-6a7a54d15557)
+**发布时间**: 2026-01-22 16:33
+
+#### [Jared Kushner sets out $30bn vision for ‘New Gaza’](https://www.ft.com/content/b6ad9dde-d034-4cfa-a9d0-e799f8360d9d)
+**发布时间**: 2026-01-22 15:01
+
+#### [Thanks Donald, Europe will take it from here](https://www.ft.com/content/fe36182a-f7d9-4f15-a401-2fa7df32968a)
+**发布时间**: 2026-01-22 13:19
+
+#### [Zelenskyy launches attack on ‘fragmented’ Europe](https://www.ft.com/content/3c5e84b4-4e9f-4bed-a0c8-2d41de52497d)
+**发布时间**: 2026-01-22 06:08
+
+#### [Israel set to sell defence company stakes to offset war costs](https://www.ft.com/content/f1a0cb21-2c68-4d1e-93da-854a9959297a)
+**发布时间**: 2026-01-22 05:00
 
 ---
 
