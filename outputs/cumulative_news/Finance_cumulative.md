@@ -1,7 +1,24 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-23 05:30
+**最后更新时间**: 2026-01-23 08:34
+
+---
+
+## 🆕 最新更新 (2026-01-23 08:34)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Donald Trump withdraws Mark Carney’s invitation to join ‘Board of Peace’](https://www.ft.com/content/15d88de2-07e9-42c6-8001-afbc3a53b828)
+**发布时间**: 2026-01-23 07:15
+
+#### [‘Waiting for the king’: how Trump dominated Davos](https://www.ft.com/content/49286969-ab39-4cbd-bb18-f563cc2eb31b)
+**发布时间**: 2026-01-23 05:00
+
+#### [Greenland has had enough of Trump](https://www.ft.com/content/726fd41e-a9d9-43ac-afaf-cc7257b1a387)
+**发布时间**: 2026-01-23 05:00
+
+#### [TikTok finalises Trump deal to stay online in US](https://www.ft.com/content/b905cb50-3093-4273-b097-4cedc835fadd)
+**发布时间**: 2026-01-23 01:31
 
 ---
 
