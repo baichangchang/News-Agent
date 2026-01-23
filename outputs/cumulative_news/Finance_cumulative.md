@@ -1,7 +1,59 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-22 23:25
+**最后更新时间**: 2026-01-23 05:30
+
+---
+
+## 🆕 最新更新 (2026-01-23 05:30)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Trump’s tariff ‘shock regime’ tests Wall Street’s mettle](https://www.ft.com/content/cb1a8211-ac60-4cb2-b68f-955f3d0f98f5)
+**发布时间**: 2026-01-23 05:00
+
+#### [‘I am just so tired of Trump’: Greenland on alert as US hovers](https://www.ft.com/content/726fd41e-a9d9-43ac-afaf-cc7257b1a387)
+**发布时间**: 2026-01-23 05:00
+
+#### [Is liberal democracy in terminal decline?](https://www.ft.com/content/b4d2c7a3-587d-440f-a7a9-7e5e85b93a88)
+**发布时间**: 2026-01-23 05:00
+
+#### [Lessons for business in Trumpian uncertainty](https://www.ft.com/content/deb0b172-0e47-410c-b458-d4319877bcd6)
+**发布时间**: 2026-01-23 05:00
+
+#### [Netflix says Paramount bid ‘doesn’t pass sniff test’ as Warner battle intensifies](https://www.ft.com/content/0542086a-f921-4e24-8b7c-df5777ef126d)
+**发布时间**: 2026-01-23 05:00
+
+#### [Revolut scraps US merger plans in favour of push for standalone licence](https://www.ft.com/content/908e261f-2b78-4798-8aa2-aff2e828d31a)
+**发布时间**: 2026-01-23 05:00
+
+#### [Trump’s TikTok deal is a gift to China](https://www.ft.com/content/59b91fc8-03a1-48df-9821-e2fdff24bd33)
+**发布时间**: 2026-01-23 01:32
+
+#### [TikTok sets up US unit under Trump deal but leaves core business with ByteDance](https://www.ft.com/content/b905cb50-3093-4273-b097-4cedc835fadd)
+**发布时间**: 2026-01-23 01:31
+
+#### [UK consumer confidence marks 10 years without a positive reading](https://www.ft.com/content/66eb1b1b-7fdd-46d1-bd5b-dc5c1245381a)
+**发布时间**: 2026-01-23 00:01
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [I’m 75 and still working, but my job is boring. Can I retire with $830K in cash and investments?](https://www.marketwatch.com/story/im-75-and-still-working-but-my-job-is-boring-can-i-retire-with-830k-in-cash-and-investments-40a02d3b?mod=mw_rss_topstories)
+**发布时间**: 2026-01-23 02:21
+
+#### [TikTok forms joint venture to keep operating in U.S., ending yearslong saga](https://www.marketwatch.com/story/tiktok-forms-joint-venture-to-keep-operating-in-u-s-ending-yearslong-saga-2191c8c1?mod=mw_rss_topstories)
+**发布时间**: 2026-01-23 02:12
+
+#### [‘It’s driving me crazy’: My brother-in-law is coercing my husband to cosign a renovation loan. How can I stop this?](https://www.marketwatch.com/story/its-driving-me-crazy-my-brother-in-law-is-coercing-my-husband-to-cosign-a-renovation-loan-how-can-i-stop-this-c7d9c1cf?mod=mw_rss_topstories)
+**发布时间**: 2026-01-23 01:30
+
+#### [‘It’s my money’: My $800K inheritance is paying for a $1.6 million house. Shouldn’t I decide where my husband and I live?](https://www.marketwatch.com/story/its-my-money-my-800k-inheritance-is-paying-for-a-1-6-million-house-shouldnt-i-decide-where-my-husband-and-i-live-995dbd0c?mod=mw_rss_topstories)
+**发布时间**: 2026-01-23 01:15
+
+#### [My husband’s kids didn’t even show up for his heart surgery. So why is he leaving them his $1 million life insurance?](https://www.marketwatch.com/story/i-am-resentful-my-second-husbands-kids-treat-him-like-dirt-so-why-is-he-leaving-them-his-1-million-life-insurance-8fe0f2ae?mod=mw_rss_topstories)
+**发布时间**: 2026-01-23 00:45
+
+#### [I need to spend $15K on my roof. Do I take it from my Roth IRA, 401(k), IRA or money-market account?](https://www.marketwatch.com/story/i-need-to-spend-15k-on-my-roof-do-i-take-it-from-my-roth-ira-401-k-ira-or-money-market-account-170e36a9?mod=mw_rss_topstories)
+**发布时间**: 2026-01-23 00:44
 
 ---
 
