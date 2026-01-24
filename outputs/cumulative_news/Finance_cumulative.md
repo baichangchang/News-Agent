@@ -1,7 +1,53 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-24 08:31
+**最后更新时间**: 2026-01-24 23:22
+
+---
+
+## 🆕 最新更新 (2026-01-24 23:22)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘It’s an expensive piece of equipment’: My neighbor asked to borrow my snowblower. Do I say yes?](https://www.marketwatch.com/story/its-an-expensive-piece-of-equipment-my-neighbor-asked-to-borrow-my-snowblower-do-i-say-yes-4ae68f4e?mod=mw_rss_topstories)
+**发布时间**: 2026-01-24 23:00
+
+#### [Nearly 15,000 U.S. flights have been canceled due to the winter storm — and counting](https://www.marketwatch.com/story/nearly-2-000-u-s-flights-have-already-been-canceled-ahead-of-winter-storm-b2f46de3?mod=mw_rss_topstories)
+**发布时间**: 2026-01-24 21:25
+
+#### [67 million Americans could lose telehealth coverage in the coming days unless Congress approves funding](https://www.marketwatch.com/story/67-million-americans-could-lose-telehealth-coverage-in-the-coming-days-unless-congress-approves-funding-5693cf1d?mod=mw_rss_topstories)
+**发布时间**: 2026-01-24 20:38
+
+#### [Yes, ‘DOGE’ put our Social Security data at risk. Here’s what lawmakers are doing about it.](https://www.marketwatch.com/story/turns-out-doge-did-put-social-security-data-at-risk-heres-what-lawmakers-are-doing-about-it-d453c466?mod=mw_rss_topstories)
+**发布时间**: 2026-01-24 20:37
+
+#### [Marriage can be great for your finances — but avoid these 3 mistakes](https://www.marketwatch.com/story/marriage-can-be-great-for-your-finances-but-watch-out-for-these-3-mistakes-57549260?mod=mw_rss_topstories)
+**发布时间**: 2026-01-24 20:37
+
+#### [How to plan for the end of your life if you don’t have kids or a spouse](https://www.marketwatch.com/story/how-to-plan-for-the-end-of-your-life-if-you-dont-have-kids-or-a-spouse-587027b9?mod=mw_rss_topstories)
+**发布时间**: 2026-01-24 20:36
+
+#### [Yes, you still need an emergency fund in retirement. Here’s how much you should have.](https://www.marketwatch.com/story/yes-you-still-need-an-emergency-fund-in-retirement-heres-how-much-you-should-have-3611fd2f?mod=mw_rss_topstories)
+**发布时间**: 2026-01-24 20:35
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Federal agents shoot man dead in Minneapolis](https://www.ft.com/content/3d855ba7-3e96-4512-b34c-6ff87ade6c12)
+**发布时间**: 2026-01-24 22:00
+
+#### [Andy Burnham announces bid to stand for Westminster seat](https://www.ft.com/content/2085c014-b214-46ef-bdd6-82243b6bd17c)
+**发布时间**: 2026-01-24 18:58
+
+#### [Snowstorm leaves thousands without power across US](https://www.ft.com/content/875708c1-a682-48b1-a000-d327d0b05362)
+**发布时间**: 2026-01-24 18:53
+
+#### [Trump threatens 100% tariffs on Canada if it seals trade deal with China](https://www.ft.com/content/cfba49b6-feb6-4982-b61d-6ec6cba5c845)
+**发布时间**: 2026-01-24 18:07
+
+#### [Xi takes sole operational control of army as China probes military leaders](https://www.ft.com/content/a065b8e9-c246-4d2f-bc47-425ba2a7e871)
+**发布时间**: 2026-01-24 13:50
+
+#### [Banning under-16s won’t fix social media](https://www.ft.com/content/c6980fc4-97b6-40bf-a3d0-c40c3a6cac56)
+**发布时间**: 2026-01-24 05:00
 
 ---
 
