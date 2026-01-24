@@ -1,7 +1,21 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-24 05:24
+**最后更新时间**: 2026-01-24 08:31
+
+---
+
+## 🆕 最新更新 (2026-01-24 08:31)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Greenland, America and the end of Atlanticism](https://www.ft.com/content/5657be61-33f0-424d-b11e-431b3f74d5ce)
+**发布时间**: 2026-01-24 05:00
+
+#### [A liberal in illiberal times](https://www.ft.com/content/4c1676f1-9b2b-429d-9e61-e318c29552c7)
+**发布时间**: 2026-01-24 05:00
+
+#### [Starmer’s dilemma: America or Europe?](https://www.ft.com/content/6956a7de-dcc6-47d9-b8ed-b4c55f87b753)
+**发布时间**: 2026-01-24 05:00
 
 ---
 
