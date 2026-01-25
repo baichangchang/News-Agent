@@ -1,7 +1,21 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-24 23:22
+**最后更新时间**: 2026-01-25 05:31
+
+---
+
+## 🆕 最新更新 (2026-01-25 05:31)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Middle powers may miss the global order more than they think](https://www.ft.com/content/647d375b-26f6-4bf3-ac68-175558ba6ab0)
+**发布时间**: 2026-01-25 05:00
+
+#### [No laughing matter as Lebanon goes after its comedians](https://www.ft.com/content/f8dd74d4-c532-4adb-b148-27b2a63e8840)
+**发布时间**: 2026-01-25 05:00
+
+#### [Link MPs’ pay to GDP, says UK business secretary](https://www.ft.com/content/e401f72e-0888-4664-a321-d9214503655f)
+**发布时间**: 2026-01-25 05:00
 
 ---
 
