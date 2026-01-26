@@ -1,7 +1,41 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-25 23:23
+**最后更新时间**: 2026-01-26 05:35
+
+---
+
+## 🆕 最新更新 (2026-01-26 05:35)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [‘We are the Good Samaritans’: Minneapolis hits back at ICE](https://www.ft.com/content/48115f71-c6e2-4b3f-8c8a-7154d1f496d3)
+**发布时间**: 2026-01-26 05:00
+
+#### [Why people still matter in the AI era](https://www.ft.com/content/6cfe1c0a-03e7-4d77-929a-521fb556ac39)
+**发布时间**: 2026-01-26 05:00
+
+#### [Trump is the wrong answer to the right questions](https://www.ft.com/content/b32d2bb5-9a07-4f53-a9d3-9535552b5a27)
+**发布时间**: 2026-01-26 05:00
+
+#### [European IPO market starts 2026 at record pace, sparking hope of revival](https://www.ft.com/content/264bf83c-7c5b-4ced-aa4e-edb9327f4986)
+**发布时间**: 2026-01-26 05:00
+
+#### [Starmer prepares for Chinese charm offensive](https://www.ft.com/content/801c2f56-bde5-428f-b974-2569aa47cb40)
+**发布时间**: 2026-01-26 05:00
+
+#### [Yen surges on intervention talk](https://www.ft.com/content/76fd82ae-8546-49ef-9774-cef6397f131f)
+**发布时间**: 2026-01-26 02:57
+
+#### [Gold rises past $5,000 for first time](https://www.ft.com/content/14cecaac-2aac-4d49-8564-7260dc762abc)
+**发布时间**: 2026-01-26 01:22
+
+#### [Labour Party tensions mount as Andy Burnham is blocked from standing as an MP](https://www.ft.com/content/6c62a6cb-b235-434e-8cf7-3dffbb91fad9)
+**发布时间**: 2026-01-25 19:10
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Gold now costs more than $5,000 an ounce. Here’s how it got to this milestone price.](https://www.marketwatch.com/story/gold-now-costs-more-than-5-000-an-ounce-heres-how-it-got-to-this-milestone-price-e34fc376?mod=mw_rss_topstories)
+**发布时间**: 2026-01-26 03:38
 
 ---
 
