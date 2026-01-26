@@ -2,66 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "b19c7c9e2c72f41897c849dbaabb650da9f7731607f79c03d5ccde4cfcfe3632": {
-        "title": "国家首批零碳园区名单落定： 52个园区的“零碳”军备赛已打响",
-        "link": "https://www.tmtpost.com/7823004.html",
-        "published_date": "Sat, 27 Dec 2025 14:55:00 GMT",
-        "first_seen": "2025-12-27T08:30:35.332020"
-      },
-      "4ae7bc393c9df4855b7e92125be48efd3a4861c6c51d88a7298025c0fd16accb": {
-        "title": "1400亿收编Groq，英伟达的收购史，以及黄仁勋的并购逻辑",
-        "link": "https://www.tmtpost.com/7822982.html",
-        "published_date": "Sat, 27 Dec 2025 14:31:00 GMT",
-        "first_seen": "2025-12-27T08:30:35.332028"
-      },
-      "881af9abb6cfba2c1b9bb7576527932e6a5daf3430ea7ad96da56ebbd9d961b5": {
-        "title": "AI时代，开放互联网还有没有机会？",
-        "link": "https://www.tmtpost.com/7822997.html",
-        "published_date": "Sat, 27 Dec 2025 14:17:00 GMT",
-        "first_seen": "2025-12-27T08:30:35.332030"
-      },
-      "c377283ec96f78f2e9af6dbf5718a6c953172179838a5a0637e1a402754225bd": {
-        "title": "1000亿资金进场，风险投资国家队要干件“大”事 | 马上评",
-        "link": "https://www.tmtpost.com/7823014.html",
-        "published_date": "Sat, 27 Dec 2025 14:13:00 GMT",
-        "first_seen": "2025-12-27T08:30:35.332032"
-      },
-      "0c7327583bf11267134af0b187b0945e531a7838bd3a77a473975df76300c337": {
-        "title": "益方生物赴港提速，前三季度营收增长、亏损收窄，授权合作一劳永逸？",
-        "link": "https://www.tmtpost.com/7823001.html",
-        "published_date": "Sat, 27 Dec 2025 13:55:00 GMT",
-        "first_seen": "2025-12-27T08:30:35.332034"
-      },
-      "ae6bfc6893d65117191a3d60a91932460397805266a047651c92c615575126a6": {
-        "title": "糖水“翻红”，这次能火多久？",
-        "link": "https://www.tmtpost.com/7823003.html",
-        "published_date": "Sat, 27 Dec 2025 13:53:00 GMT",
-        "first_seen": "2025-12-27T08:30:35.332035"
-      },
-      "8b6c98a43470869a8ba77ddab4fcafb9f3da42cb1d3c7972acfb5cd3df7e123f": {
-        "title": "手握11亿美金现金，MiniMax赴港IPO，不为输血为哪般？",
-        "link": "https://www.tmtpost.com/7822967.html",
-        "published_date": "Sat, 27 Dec 2025 13:46:00 GMT",
-        "first_seen": "2025-12-27T08:30:35.332036"
-      },
-      "ee62e254377baa651fac28f39dbe7ee7452f80d844bfa11e053bb8711e763d20": {
-        "title": "子公司停产，跨界光伏 25 年的老牌药企梦碎",
-        "link": "https://www.tmtpost.com/7823025.html",
-        "published_date": "Sat, 27 Dec 2025 13:46:00 GMT",
-        "first_seen": "2025-12-27T08:30:35.332038"
-      },
-      "cf85fa6c33e230213123c975c2bf1a152166d4f14b3b5265e64f0f1a30b7fde5": {
-        "title": "AI 饭局装腔指南：3 分钟速成行业大佬",
-        "link": "https://sspai.com/post/104832",
-        "published_date": "Sat, 27 Dec 2025 14:47:00 GMT",
-        "first_seen": "2025-12-27T08:30:35.332039"
-      },
-      "ba924df1affe3b5bd3bdcd483c1162c28d183b374945c7c40058d3bc91d5302f": {
-        "title": "存储通胀时代的架构突围：为何 2025 年是企业告别传统 IT 的“分水岭”？",
-        "link": "https://www.infoq.cn/article/PiKd5qvf3L7NQRYqwSvj?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 27 Dec 2025 13:37:00 GMT",
-        "first_seen": "2025-12-27T08:30:35.332040"
-      },
       "6cec2239389120f587a991dc175367d4574bb2fc93a74a59fe77504d2bf2a3e7": {
         "title": "百度将于2026年在英国测试无人驾驶；香飘飘拟在泰国投资建设生产基地；小鹏公布中东非市场进展｜一周大公司出海动态",
         "link": "https://www.tmtpost.com/7823124.html",
@@ -9211,15 +9151,75 @@
         "link": "http://www.huxiu.com/article/4829374.html?f=wangzhan",
         "published_date": "Mon, 26 Jan 2026 10:28:00 GMT",
         "first_seen": "2026-01-26T05:35:08.934972"
+      },
+      "d9bf6ab3baceda30b0a0b7c86c9c82aca6c7525b0de6ed96aa9561fc484ff5df": {
+        "title": "AI全自主产出剧本，会革了短剧编剧的“命”吗？",
+        "link": "https://www.tmtpost.com/7855165.html",
+        "published_date": "Mon, 26 Jan 2026 16:12:00 GMT",
+        "first_seen": "2026-01-26T08:37:40.566883"
+      },
+      "306c56e208d958c3f7c907519ab4d1b5e4638297696c00a4913b45dde9052515": {
+        "title": "腾讯云的AI阳谋：绕开价格战，押注SaaS与生态“确定性”",
+        "link": "https://www.tmtpost.com/7855249.html",
+        "published_date": "Mon, 26 Jan 2026 15:38:00 GMT",
+        "first_seen": "2026-01-26T08:37:40.566892"
+      },
+      "c09d4299d46b4e4a4bad041edb5aa2096505efd57fc397524be4be24a289d47a": {
+        "title": "年入10亿、全球第二，“中国版Kindle”的故事过气了吗？",
+        "link": "https://www.tmtpost.com/7855171.html",
+        "published_date": "Mon, 26 Jan 2026 15:36:00 GMT",
+        "first_seen": "2026-01-26T08:37:40.566893"
+      },
+      "73e40d8d2753a77f9b09019607fba75bda1e9919a99077842f6286d07997758c": {
+        "title": "国产AI芯企上市浪潮的核心逻辑",
+        "link": "https://www.tmtpost.com/7855237.html",
+        "published_date": "Mon, 26 Jan 2026 14:56:00 GMT",
+        "first_seen": "2026-01-26T08:37:40.566895"
+      },
+      "e9a32ce46bd01bd1733829537e0cc08fc616067ed98031aefab7ed9af3ee8b0a": {
+        "title": "王传福、魏建军、李斌、李想们，将在2026年进入“超级智力”竞赛周期",
+        "link": "https://www.tmtpost.com/7855270.html",
+        "published_date": "Mon, 26 Jan 2026 14:25:00 GMT",
+        "first_seen": "2026-01-26T08:37:40.566896"
+      },
+      "f4ff95fccbe49ce5d4a45a582465afe42dff07a6afbb3cfcc39f56ff872483ed": {
+        "title": "500亿美元估值AI明星初创内讧，创始团队分裂，上演“回归OpenAI”大戏",
+        "link": "https://www.tmtpost.com/7855435.html",
+        "published_date": "Mon, 26 Jan 2026 14:11:00 GMT",
+        "first_seen": "2026-01-26T08:37:40.566898"
+      },
+      "d24ea59036ee9cd289834c06d5e0b34f20856f01e3c488689ee45d1d7a9a50db": {
+        "title": "Sharpa幕后股东曝光，具身智能将迎来“ChatGPT时刻”",
+        "link": "https://www.tmtpost.com/7855077.html",
+        "published_date": "Mon, 26 Jan 2026 13:45:00 GMT",
+        "first_seen": "2026-01-26T08:37:40.566899"
+      },
+      "0f7ab504ea90bdfb6b861fcc86dfba88b54ca42b7b3803d904b35b0dd354f37a": {
+        "title": "Kindle Paperwhite 3 杂谈：为什么它是我高中生涯最值的电子产品？",
+        "link": "https://sspai.com/post/105685",
+        "published_date": "Mon, 26 Jan 2026 15:24:00 GMT",
+        "first_seen": "2026-01-26T08:37:40.566901"
+      },
+      "b6a69ed6959e7a86740992c905c6ed23689a7118dd11f8ab47999d8597ecfe87": {
+        "title": "永辉巨亏21亿，胖东来外人真的学不会？",
+        "link": "http://www.huxiu.com/article/4829516.html?f=wangzhan",
+        "published_date": "Mon, 26 Jan 2026 14:51:00 GMT",
+        "first_seen": "2026-01-26T08:37:40.566902"
+      },
+      "2eed0f167a0ad62add77d8e2ec3d0ea267a8484876b97c583afd33665876ab3d": {
+        "title": "千亿级请求下，飞猪如何将广告外投系统超时率爆降至0.01%",
+        "link": "https://www.infoq.cn/article/wbygEP7MOJfR7btgiWvo?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 26 Jan 2026 13:26:00 GMT",
+        "first_seen": "2026-01-26T08:37:40.566904"
+      },
+      "ada3542c2457c070cacc5a1b40811a0fc211699d31eea8b714fd0c0a4118f559": {
+        "title": "刚刚，旷视联创印奇出任阶跃星辰董事长",
+        "link": "https://www.infoq.cn/article/laeUNsjRu4ShtikGMNvf?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 26 Jan 2026 10:20:00 GMT",
+        "first_seen": "2026-01-26T08:37:40.566905"
       }
     },
     "Finance": {
-      "3716e2eb14d15275def723afdb3723d6d49f3429f5cba0dfdec9680b34f5014b": {
-        "title": "Saudi strikes UAE-backed faction in Yemen as Gulf rift deepens",
-        "link": "https://www.ft.com/content/9c3051a5-7f08-4555-b437-75527ad51d77",
-        "published_date": "Sat, 27 Dec 2025 08:02:00 GMT",
-        "first_seen": "2025-12-27T08:30:35.140376"
-      },
       "a58a428cc51eb6a670e4ef9de297e3ef89ec9996a36e00ec43c3b0dcdaed485e": {
         "title": "‘Is this really what college bowl games have become?’: Critics say goofy Pop-Tarts and Duke’s Mayo sponsorships are overshadowing the football",
         "link": "https://www.marketwatch.com/story/is-this-really-what-college-bowl-games-have-become-critics-say-games-sponsored-by-pop-tarts-and-mayonnaise-take-attention-away-from-football-8bccaa12?mod=mw_rss_topstories",
@@ -13587,6 +13587,12 @@
         "link": "https://www.marketwatch.com/story/gold-now-costs-more-than-5-000-an-ounce-heres-how-it-got-to-this-milestone-price-e34fc376?mod=mw_rss_topstories",
         "published_date": "Mon, 26 Jan 2026 03:38:00 GMT",
         "first_seen": "2026-01-26T05:35:08.679971"
+      },
+      "295839a073d9cf41bb9c47d4100dc14658cfc7e0b1be508f3dbd2cc78a91e0f2": {
+        "title": "Michael Burry flags risks from Japan yen to U.S. stocks as ‘rate check’ stirs debate",
+        "link": "https://www.marketwatch.com/story/michael-burry-flags-risks-from-japan-yen-to-u-s-stocks-as-rate-check-stirs-debate-01c2c4f4?mod=mw_rss_topstories",
+        "published_date": "Mon, 26 Jan 2026 08:33:00 GMT",
+        "first_seen": "2026-01-26T08:37:40.339658"
       }
     },
     "Ai": {
@@ -16025,13 +16031,43 @@
         "link": "https://www.qbitai.com/2026/01/372540.html",
         "published_date": "Mon, 26 Jan 2026 03:12:00 GMT",
         "first_seen": "2026-01-26T05:35:08.810919"
+      },
+      "2c22281896d94a41e33867c6c9c4122f340eaaddf82cc25712ad8c9bf8dc2e77": {
+        "title": "钛动科技牵手硅谷科技先锋DeepLumen开抢智能商业万亿市场",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-26-10",
+        "published_date": "Mon, 26 Jan 2026 15:47:00 GMT",
+        "first_seen": "2026-01-26T08:37:40.458933"
+      },
+      "1d928cda76759af2e9a7f9ad74b050f2a5cafd07b28849cf6e3efb250ec3b507": {
+        "title": "复旦中山医院联合阿里达摩院用AI检测淋巴结转移，助力喉癌、下咽癌精准诊疗",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-26-9",
+        "published_date": "Mon, 26 Jan 2026 15:23:00 GMT",
+        "first_seen": "2026-01-26T08:37:40.458942"
+      },
+      "c47a36dac26adc2fde5272ca17e485becf29dba15a7ae535d641ffc1cc51050d": {
+        "title": "将AI作为航空的助推，欧洲FLPP计划中制作火箭的智能助手与NASA利用AI实行对外探索",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-26-8",
+        "published_date": "Mon, 26 Jan 2026 13:45:00 GMT",
+        "first_seen": "2026-01-26T08:37:40.458944"
+      },
+      "1cbf556af2f66d9a2f6715cea813f17b853faec6d27629e2b29bf14bbd1fbe7a": {
+        "title": "“开源版贾维斯”一夜席卷硅谷！Mac mini因它卖爆",
+        "link": "https://www.qbitai.com/2026/01/372592.html",
+        "published_date": "Mon, 26 Jan 2026 06:36:00 GMT",
+        "first_seen": "2026-01-26T08:37:40.458946"
+      },
+      "7d26bfad6a2e8ca8c5773c757e97bcc793b986b0a9ad137e4f19c98bee156df1": {
+        "title": "具身智能迎来“统考卷”：上海交通大学发布大规模开源测评集GM-100，致力推动行业标准化",
+        "link": "https://www.qbitai.com/2026/01/372589.html",
+        "published_date": "Mon, 26 Jan 2026 06:29:00 GMT",
+        "first_seen": "2026-01-26T08:37:40.458947"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-01-26T05:35:08.934974",
-    "Finance": "2026-01-26T05:35:08.679973",
-    "Ai": "2026-01-26T05:35:08.810921"
+    "Technology": "2026-01-26T08:37:40.566906",
+    "Finance": "2026-01-26T08:37:40.339668",
+    "Ai": "2026-01-26T08:37:40.458949"
   }
 }
