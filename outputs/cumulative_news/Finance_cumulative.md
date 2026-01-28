@@ -1,7 +1,26 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-28 05:31
+**最后更新时间**: 2026-01-28 08:41
+
+---
+
+## 🆕 最新更新 (2026-01-28 08:41)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘I don’t own a house’: I’m 50 with $2 million and I’m scared about losing my job. Can I retire early?](https://www.marketwatch.com/story/i-dont-own-a-house-im-50-with-2-million-and-im-scared-about-losing-my-job-can-i-retire-early-bff8a8c3?mod=mw_rss_topstories)
+**发布时间**: 2026-01-28 07:15
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Starmer blasts ‘toxic’ politics of Reform UK’s by-election candidate](https://www.ft.com/content/db830ac8-5a04-4beb-b5bc-c1db584c45b6)
+**发布时间**: 2026-01-28 07:00
+
+#### [How private equity’s pioneer in tapping retail money lost its edge](https://www.ft.com/content/7b9e7575-f35b-4bd8-a901-f3af3525d753)
+**发布时间**: 2026-01-28 05:00
+
+#### [SpaceX weighs June IPO timed to planetary alignment and Musk’s birthday](https://www.ft.com/content/0ee356cb-5c77-4686-9392-260520369122)
+**发布时间**: 2026-01-28 05:00
 
 ---
 
