@@ -1,7 +1,24 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-29 05:47
+**最后更新时间**: 2026-01-29 08:48
+
+---
+
+## 🆕 最新更新 (2026-01-29 08:48)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Tesla scraps models in pivot to AI as annual revenue falls for first time](https://www.ft.com/content/78d53ce6-a731-496c-8d8b-e53bc35f49a8)
+**发布时间**: 2026-01-29 08:01
+
+#### [Top chipmakers to boost capital spending amid AI-driven supply squeeze](https://www.ft.com/content/e56dd467-7a4d-437d-b7f8-f0ef2320b1ee)
+**发布时间**: 2026-01-29 07:03
+
+#### [‘I wouldn’t dare take these drugs’: how China supplies untested peptides to the west](https://www.ft.com/content/b15407bd-7b86-45c3-9780-0c92117ccbfb)
+**发布时间**: 2026-01-29 05:00
+
+#### [OpenAI in talks to raise $40bn in investments from Nvidia, Amazon and Microsoft](https://www.ft.com/content/17046de4-80e4-451d-b1ba-176d89d5cdbe)
+**发布时间**: 2026-01-29 04:14
 
 ---
 
