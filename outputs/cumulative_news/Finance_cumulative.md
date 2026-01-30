@@ -1,7 +1,68 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-29 23:29
+**最后更新时间**: 2026-01-30 05:50
+
+---
+
+## 🆕 最新更新 (2026-01-30 05:50)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Trump preparing to nominate Kevin Warsh for Fed chair](https://www.ft.com/content/e227d99a-3144-465a-8108-209fb7d433cb)
+**发布时间**: 2026-01-30 05:18
+
+#### [The music industry’s cautious embrace of AI](https://www.ft.com/content/a6b657ef-1034-4748-92fd-e24b37fb726e)
+**发布时间**: 2026-01-30 05:00
+
+#### [Europe needs to put its money where its mouth is](https://www.ft.com/content/1ad4c559-ef18-4a11-8cd0-8e880f25a29f)
+**发布时间**: 2026-01-30 05:00
+
+#### [The meaning of Xi’s military purge](https://www.ft.com/content/1e722210-d6c6-4972-a60c-92d460059fa8)
+**发布时间**: 2026-01-30 05:00
+
+#### [Emerging markets make roaring start to 2026 as dollar slides](https://www.ft.com/content/bba310b2-af62-4460-83ed-63cfcc110f1f)
+**发布时间**: 2026-01-30 05:00
+
+#### [Hedge funds’ correlation with stocks sparks fears over lack of crash protection](https://www.ft.com/content/8c1d9cfe-1d8f-45d5-9ab1-57fb203a170c)
+**发布时间**: 2026-01-30 05:00
+
+#### [Panama court kicks Hong Kong’s CK Hutchison out of canal ports](https://www.ft.com/content/4922a630-ed8a-4b1d-bbee-56b18cd08587)
+**发布时间**: 2026-01-30 04:24
+
+#### [Trump warns Starmer against closer China business ties](https://www.ft.com/content/1f6504be-9ee3-4a71-ab46-1e9fb139e2f1)
+**发布时间**: 2026-01-30 03:48
+
+#### [Apple’s blockbuster iPhone sales power record $144bn quarter](https://www.ft.com/content/53f1033e-a479-4365-a13c-2e4ec2631402)
+**发布时间**: 2026-01-30 00:57
+
+#### [US shutdown avoided despite stand-off over immigration enforcement](https://www.ft.com/content/4b9a6a44-a1f4-43c8-8ef2-05acb64fb3a9)
+**发布时间**: 2026-01-30 00:44
+
+#### [HSBC targets Hong Kong IPOs after missing out on listings boom](https://www.ft.com/content/77686338-b041-4fd1-8612-7d1d097b8cb9)
+**发布时间**: 2026-01-30 00:01
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Trump sues IRS, Treasury for $10 billion over leak of his tax returns](https://www.marketwatch.com/story/trump-sues-irs-treasury-for-10-billion-over-leak-of-his-tax-returns-761f27db?mod=mw_rss_topstories)
+**发布时间**: 2026-01-30 02:34
+
+#### [Trump says he’ll announce his Fed pick Friday morning. Here’s who’s in the lead, according to prediction markets.](https://www.marketwatch.com/story/trump-says-hell-announce-his-fed-pick-next-week-heres-whos-in-the-lead-according-to-prediction-markets-ba80c732?mod=mw_rss_topstories)
+**发布时间**: 2026-01-30 02:03
+
+#### [‘I’m worried about cash flow’: I’m 71 with a $2.7 million IRA and $470K in stocks. Why can’t I relax?](https://www.marketwatch.com/story/im-worried-about-cash-flow-im-71-with-a-2-7-million-ira-and-470k-in-stocks-why-cant-i-relax-9caaec66?mod=mw_rss_topstories)
+**发布时间**: 2026-01-30 01:58
+
+#### [Trump throws down new tariff threats toward Canada and Mexico](https://www.marketwatch.com/story/trump-throws-down-new-tariff-threats-toward-canada-and-mexico-e7200ceb?mod=mw_rss_topstories)
+**发布时间**: 2026-01-30 01:17
+
+#### [OpenAI reportedly eyeing an IPO by year’s end, ahead of Anthropic](https://www.marketwatch.com/story/openai-reportedly-eyeing-an-ipo-by-years-end-ahead-of-anthropic-7feb3766?mod=mw_rss_topstories)
+**发布时间**: 2026-01-30 00:30
+
+#### [Apple’s stock rises as Tim Cook gives just enough detail on Wall Street’s most burning question](https://www.marketwatch.com/story/apples-stock-rises-as-tim-cook-gives-just-enough-detail-on-wall-streets-most-burning-question-21e386af?mod=mw_rss_topstories)
+**发布时间**: 2026-01-30 00:12
+
+#### [As SpaceX prepares for its IPO, Elon Musk’s empire could get even more intertwined](https://www.marketwatch.com/story/as-spacex-prepares-for-its-ipo-elon-musks-empire-could-get-even-more-intertwined-84a75ed1?mod=mw_rss_topstories)
+**发布时间**: 2026-01-29 23:33
 
 ---
 
