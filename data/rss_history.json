@@ -2,144 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "57a1c1dee40a918d9262c62f08d74ddf270fd31b5f6bde91bf58c8b0b40aa2a2": {
-        "title": "把“全身力控”塞进背包、关节比鸡蛋还小？稚晖君推出启元Q1，这次真要终结“玩具机器人”了？",
-        "link": "https://www.infoq.cn/article/Fs4TXvxqACzxI7EjFxyf?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 31 Dec 2025 16:18:00 GMT",
-        "first_seen": "2025-12-31T08:34:42.545620"
-      },
-      "ea5adb7e2a0a4f2e77e382ac4aed9032a4f54297adf36b27aa532a027d8b03c7": {
-        "title": "通过对话式 AI Agent 运用 Snowflake Intelligence，从成本、安全和性能三个维度全面提升您整体系统的表现 ｜ 技术实践",
-        "link": "https://www.infoq.cn/article/0IdH9lQNHQt5hxNO89ub?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 31 Dec 2025 16:07:00 GMT",
-        "first_seen": "2025-12-31T08:34:42.545627"
-      },
-      "718812d1c8d6f492e801814682ddb74e84deef77130073a9ed225ba0b0cb440e": {
-        "title": "字节跳动芯片团队传重大突破：自研处理器性能对标特供版H20且价更低，明年还砸千亿囤英伟达AI芯片?",
-        "link": "https://www.infoq.cn/article/Wtj1KOUc33M8VXdWdqFe?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 31 Dec 2025 15:49:00 GMT",
-        "first_seen": "2025-12-31T08:34:42.545629"
-      },
-      "5a78ab0a6a214d33a525d666ffdd81a0bf719dafb955024f196aca12cd7816a5": {
-        "title": "Authress如何设计以增强弹性并成功应对亚马逊云科技的重大宕机事件",
-        "link": "https://www.infoq.cn/article/F86YjSTGYMCppgulxOVd?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 31 Dec 2025 15:18:00 GMT",
-        "first_seen": "2025-12-31T08:34:42.545631"
-      },
-      "5e2879496658314508c6f3db57da687de8c475ec996f8c481324ce1c00f65162": {
-        "title": "解决 AI “不会配合” 的难题！蚂蚁数科 20 + 论文入选顶会，攻克大规模智能协作关键技术",
-        "link": "https://www.infoq.cn/article/bjfd6q2ziWN18szfobCA?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 31 Dec 2025 15:14:00 GMT",
-        "first_seen": "2025-12-31T08:34:42.545633"
-      },
-      "364383ba45c7502efd4f9c50704320979d4ff2d301be0c3986a464e7c78dfa79": {
-        "title": "AI Coding 生死局：Spec 正在蚕食人类编码，Agent 造轮子拖垮效率，Token成本失控后上下文工程成胜负手",
-        "link": "https://www.infoq.cn/article/5lxt9ibO77f3HKbITN5s?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 31 Dec 2025 14:56:00 GMT",
-        "first_seen": "2025-12-31T08:34:42.545634"
-      },
-      "985a6e2b02b947e95bd6e971095fd5c01fb875a04d3bedb8a9f6cda6cb4b6c6e": {
-        "title": "从 4 个 9 到 6 个 9，为什么云平台的高可用才是业务生死线?",
-        "link": "https://www.infoq.cn/article/sEiFj4QVzURjFUWb4RGb?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 31 Dec 2025 14:44:00 GMT",
-        "first_seen": "2025-12-31T08:34:42.545636"
-      },
-      "983d7345fb9874e85e3f1732a6edf9413de1dc92162a6a2368498b16912ae800": {
-        "title": "从查询到行动：AI 智能体如何重塑企业决策方式 ｜ 技术实践",
-        "link": "https://www.infoq.cn/article/A9VRy586lAlH0rf0Ap7t?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 31 Dec 2025 14:26:00 GMT",
-        "first_seen": "2025-12-31T08:34:42.545637"
-      },
-      "de46157be88c85b32dee2fa4ea9257378600caba12ccb257661b40057467654d": {
-        "title": "别再猜测了，开始改进吧：使用DORA度量标准和过程行为图",
-        "link": "https://www.infoq.cn/article/CaxtxQieN9I2F7dI4akg?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 31 Dec 2025 14:04:00 GMT",
-        "first_seen": "2025-12-31T08:34:42.545639"
-      },
-      "3a2c9aa2b053675d732634bf21addd695a537dba404460d74c500f658dc96ba9": {
-        "title": "不做披着Agent外衣的聊天机器人，1688 “遨虾” 正在用AI打通跨境全链路",
-        "link": "https://www.infoq.cn/article/xLUE7sWGby4MF5GKpgas?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 31 Dec 2025 13:36:00 GMT",
-        "first_seen": "2025-12-31T08:34:42.545640"
-      },
-      "1bf27422f5fb76bdc8cf4dd6ee2c323d7bb99f44543a9d86adc5a7f7d00a0ba5": {
-        "title": "实控人前妻分得4.46亿元股权，时创能源现“天价离婚”",
-        "link": "https://www.tmtpost.com/7827976.html",
-        "published_date": "Wed, 31 Dec 2025 15:54:00 GMT",
-        "first_seen": "2025-12-31T08:34:42.545641"
-      },
-      "4ef4cfd4d8e90ce5d3631983191899924fad3e6423f19f17585af49ac6a2b013": {
-        "title": "承载货物，更托举尊严：一场关于物流、平台与人的价值革命",
-        "link": "https://www.tmtpost.com/7827899.html",
-        "published_date": "Wed, 31 Dec 2025 15:52:00 GMT",
-        "first_seen": "2025-12-31T08:34:42.545643"
-      },
-      "1816f232e2fa7eca202c04aff629ff090281b54c09a46e082ac3e28ae30fd4c7": {
-        "title": "China’s Top DRAM Maker CXMT Seeks $4.2 Billion in Shanghai IPO to Fund Tech Upgrades",
-        "link": "https://www.tmtpost.com/7828006.html",
-        "published_date": "Wed, 31 Dec 2025 15:31:00 GMT",
-        "first_seen": "2025-12-31T08:34:42.545644"
-      },
-      "66b26abeee97acddf7eed025e40baa2ffaef9f3bb9376bc61ebb5365ed077aac": {
-        "title": "三次闯关，“中国版Palantir”挂牌港股",
-        "link": "https://www.tmtpost.com/7827779.html",
-        "published_date": "Wed, 31 Dec 2025 15:17:00 GMT",
-        "first_seen": "2025-12-31T08:34:42.545645"
-      },
-      "6f3265d2fd3ce017c277829b05cc359cb58817ad3bf86ee4ec26d1cb98ac74de": {
-        "title": "把牙刷当手机造，徕芬“疯”了？",
-        "link": "https://www.tmtpost.com/7827938.html",
-        "published_date": "Wed, 31 Dec 2025 15:02:00 GMT",
-        "first_seen": "2025-12-31T08:34:42.545647"
-      },
-      "44f2f9d81bcbc59329cb6d7c07907ef836fdf443d15f71b2e838bfb482dcd5a7": {
-        "title": "拼多多“重仓中国供应链”，我的一点理解",
-        "link": "https://www.tmtpost.com/7827054.html",
-        "published_date": "Wed, 31 Dec 2025 14:43:00 GMT",
-        "first_seen": "2025-12-31T08:34:42.545648"
-      },
-      "12e74b06b10720323e2af9cf1dfaf40c722904636ea27a43d35cd1e36976c927": {
-        "title": "阔别七年回归，罗永浩年度演讲上了10个热搜",
-        "link": "https://www.tmtpost.com/7827065.html",
-        "published_date": "Wed, 31 Dec 2025 14:43:00 GMT",
-        "first_seen": "2025-12-31T08:34:42.545649"
-      },
-      "7c8bbec9ea14d6e76ed7a5389d5eaba9a3f003b8d63c35c425002c0b2cd2440f": {
-        "title": "60亿！中国长安加码长安汽车",
-        "link": "https://www.tmtpost.com/7826917.html",
-        "published_date": "Wed, 31 Dec 2025 14:35:00 GMT",
-        "first_seen": "2025-12-31T08:34:42.545651"
-      },
-      "6163f9fabc4802815a364b6a8d8803e79437a71a75ee47b8da167c8a9ac9e1b5": {
-        "title": "2025年十大生物医药IPO，告诉我们什么？",
-        "link": "https://www.tmtpost.com/7827038.html",
-        "published_date": "Wed, 31 Dec 2025 14:35:00 GMT",
-        "first_seen": "2025-12-31T08:34:42.545653"
-      },
-      "394b4d49eb0d32d2a5e3de2ce97526b91e7ce9f6755e7ad878f6a0c1798c4a48": {
-        "title": "马上消费连续5年荣登中国互联网企业百强榜",
-        "link": "https://www.tmtpost.com/7827857.html",
-        "published_date": "Wed, 31 Dec 2025 14:26:00 GMT",
-        "first_seen": "2025-12-31T08:34:42.545654"
-      },
-      "244a3809ee4ebb52c3d278eded68942e7ee50ccce2f44c73c831289815268540": {
-        "title": "2025，车企跨界造“人”",
-        "link": "https://www.tmtpost.com/7825691.html",
-        "published_date": "Wed, 31 Dec 2025 14:11:00 GMT",
-        "first_seen": "2025-12-31T08:34:42.545655"
-      },
-      "73c0a06c81d203e0cbd3c2567fb23ba8e47e2175df916364ee61ed8131b39987": {
-        "title": "新广益高开大涨285%！“卡脖子”技术破壁者，驶入国产替代深水区",
-        "link": "https://www.tmtpost.com/7827815.html",
-        "published_date": "Wed, 31 Dec 2025 13:42:00 GMT",
-        "first_seen": "2025-12-31T08:34:42.545657"
-      },
-      "9479b1c3343fe41081e50b3f07b8b8b50bf7935f4283a974761a531b1d25ac5e": {
-        "title": "珍藏 2025 光影记忆，为你的「年度之作」颁个奖",
-        "link": "https://sspai.com/post/104830",
-        "published_date": "Wed, 31 Dec 2025 15:00:00 GMT",
-        "first_seen": "2025-12-31T08:34:42.545658"
-      },
       "458a1eee2e706f2dea75ed45a8b4b6d0ac18aa6bd2501203b03e4062f40fefd4": {
         "title": "2026: When Growth Gets Harder, What Should We Do?",
         "link": "https://www.tmtpost.com/7828567.html",
@@ -9811,6 +9673,138 @@
         "link": "http://www.huxiu.com/article/4830702.html?f=wangzhan",
         "published_date": "Fri, 30 Jan 2026 11:06:00 GMT",
         "first_seen": "2026-01-30T05:50:08.750032"
+      },
+      "a25776f3e62139b74228d0864225e09618b5b52bc5b57ca8f8a39ace2406ab45": {
+        "title": "OCR竞争加剧！百度开源新一代SOTA OCR模型，性能超越DeepSeek-OCR2？",
+        "link": "https://www.infoq.cn/article/US8DFAjTKWuEUkRBEFSj?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 30 Jan 2026 16:34:00 GMT",
+        "first_seen": "2026-01-30T08:43:34.377285"
+      },
+      "a701a87481317b51b555a2c2a315255d0d64285d4a86bc92ffb9eee7999a3cda": {
+        "title": "商汤开源SenseNova-MARS，突破多模态搜索推理天花板",
+        "link": "https://www.infoq.cn/article/3x5oE24DW1X5eFYeMGTE?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 30 Jan 2026 16:08:00 GMT",
+        "first_seen": "2026-01-30T08:43:34.377293"
+      },
+      "805fb25ef9861fb9828db6813b98b6f4a92ffbe9c0755d752cef305cf136bfd7": {
+        "title": "苹果 Siri 压力大了？Google 甩出 FunctionGemma 杀手锏，手机本地也能流畅调 API",
+        "link": "https://www.infoq.cn/article/QRiKGWvWxwUh7wAwODjK?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 30 Jan 2026 16:00:00 GMT",
+        "first_seen": "2026-01-30T08:43:34.377295"
+      },
+      "faf5c57ce92a2a1088296a7bebb1bc9e35e36eb91b2b2f31f7a86df62e9546dd": {
+        "title": "凌晨三点写代码、10个 Agent 同时跑！ClawdBot 创始人自曝 AI 上瘾史：Claude Code 入坑，Codex 成主力",
+        "link": "https://www.infoq.cn/article/XW07axk5vWGgzz4bFqol?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 30 Jan 2026 15:30:00 GMT",
+        "first_seen": "2026-01-30T08:43:34.377297"
+      },
+      "78890b7984fccdaa00e8476f9bea7ad1d96ea535f4cb0b47525ddfb9a38a9b1d": {
+        "title": "就差两个字符！亚马逊云科技自家 GitHub 仓库险被攻破，供应链安全亮红灯",
+        "link": "https://www.infoq.cn/article/Uo24zvaQqEsDyK752BYQ?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 30 Jan 2026 14:00:00 GMT",
+        "first_seen": "2026-01-30T08:43:34.377298"
+      },
+      "8be6982ea5090b3c8ea77a87b1490775d34c51da6e199b3744e13fe56c285711": {
+        "title": "马斯克的下一场革命，不用开颅的脑机接口来了？",
+        "link": "https://www.tmtpost.com/7861487.html",
+        "published_date": "Fri, 30 Jan 2026 16:27:00 GMT",
+        "first_seen": "2026-01-30T08:43:34.377300"
+      },
+      "8bba4a5b3b10824cee5fc67fff572356b6d47f0917725bbd7ec159459138328e": {
+        "title": "AI这块蛋糕，英伟达只吃奶油",
+        "link": "https://www.tmtpost.com/7861708.html",
+        "published_date": "Fri, 30 Jan 2026 16:24:00 GMT",
+        "first_seen": "2026-01-30T08:43:34.377301"
+      },
+      "e912ac0f608e282e50c8a860aabcb8f5f733848ff240322031bd11ef26c83c24": {
+        "title": "从“玩梗”到“共创”：听劝营销重塑品牌与用户沟通新路",
+        "link": "https://www.tmtpost.com/7861740.html",
+        "published_date": "Fri, 30 Jan 2026 16:20:00 GMT",
+        "first_seen": "2026-01-30T08:43:34.377302"
+      },
+      "6ebaa0c4135cbfbbf2bcf4fc8e0a27bfc11f0f9ece33c907736a9bc089154804": {
+        "title": "特斯拉的销量已经不重要了",
+        "link": "https://www.tmtpost.com/7861761.html",
+        "published_date": "Fri, 30 Jan 2026 16:20:00 GMT",
+        "first_seen": "2026-01-30T08:43:34.377304"
+      },
+      "709372b89f75602d6829e303b6068629bc0fa43b47bd0c95eb95f325c30abb04": {
+        "title": "又一95后科学家加盟腾讯，担任混元“首席科学家”",
+        "link": "https://www.tmtpost.com/7861703.html",
+        "published_date": "Fri, 30 Jan 2026 15:33:00 GMT",
+        "first_seen": "2026-01-30T08:43:34.377305"
+      },
+      "e0dbb84880b6a8923539d5af0271a19110caf68f08b6ad5974e4ba0384c65e22": {
+        "title": "ByteDance CEO Says the Company's Primary Focus is Doubao/Dola AI",
+        "link": "https://www.tmtpost.com/7861725.html",
+        "published_date": "Fri, 30 Jan 2026 15:29:00 GMT",
+        "first_seen": "2026-01-30T08:43:34.377307"
+      },
+      "affd542c88ff1a134243169474a6cf332e03ad50c736a2f767b15eae1effc5e7": {
+        "title": "营收利润双高，苹果的未来却有点悬？",
+        "link": "https://www.tmtpost.com/7861576.html",
+        "published_date": "Fri, 30 Jan 2026 14:56:00 GMT",
+        "first_seen": "2026-01-30T08:43:34.377308"
+      },
+      "b3e6a323d9c3c0b676182dd62020a4aa2e27e39a1b9d4b1fef1a689b6726334b": {
+        "title": "超盒算NB的野心藏不住了",
+        "link": "https://www.tmtpost.com/7861569.html",
+        "published_date": "Fri, 30 Jan 2026 14:52:00 GMT",
+        "first_seen": "2026-01-30T08:43:34.377309"
+      },
+      "fb251727e3bd5f7c6002a265cd4204c3ead4c13074d98fb98a895ad0311541b0": {
+        "title": "韩束2025年GMV国货第一，但上美的第二增长曲线仍在摸索",
+        "link": "https://www.tmtpost.com/7861634.html",
+        "published_date": "Fri, 30 Jan 2026 14:24:00 GMT",
+        "first_seen": "2026-01-30T08:43:34.377310"
+      },
+      "edcd20c0b5cfb0f20f79818dc2f5e6d5542b0c2d54915a98e848a2e3c3b05ed0": {
+        "title": "宣伟公司股价下跌，财报显示客户消费状况堪忧",
+        "link": "https://www.tmtpost.com/7861593.html",
+        "published_date": "Fri, 30 Jan 2026 13:53:00 GMT",
+        "first_seen": "2026-01-30T08:43:34.377312"
+      },
+      "f2ec4cb88adb1f80b8485165612d6fc01e67eb7ff153a64a51b4d7369db573bd": {
+        "title": "受价格下限担忧影响，MP和稀土股票下跌，这或许是一个买入机会",
+        "link": "https://www.tmtpost.com/7861591.html",
+        "published_date": "Fri, 30 Jan 2026 13:48:00 GMT",
+        "first_seen": "2026-01-30T08:43:34.377313"
+      },
+      "1bd84a8ad9af8d7aa3345b052cbf24402c90c02da9e65956d8ebe5cf0b56e654": {
+        "title": "这位表现优异的基金经理看好强生、劳氏和公用事业类股票",
+        "link": "https://www.tmtpost.com/7861589.html",
+        "published_date": "Fri, 30 Jan 2026 13:48:00 GMT",
+        "first_seen": "2026-01-30T08:43:34.377314"
+      },
+      "1bc79e440a3f4e3aff47d478dd6e8752dbf646a4ac4f08f474836a13988c7799": {
+        "title": "Innodata股价因与Palantir达成合作而大涨，建议继续看好",
+        "link": "https://www.tmtpost.com/7861584.html",
+        "published_date": "Fri, 30 Jan 2026 13:45:00 GMT",
+        "first_seen": "2026-01-30T08:43:34.377316"
+      },
+      "6bac04d56a93e0700fbfc90641cec0615e46f233ebbaf8776ad2c6d025f9c804": {
+        "title": "金融股出现裂痕引发担忧，这三张图表说明了一切",
+        "link": "https://www.tmtpost.com/7861580.html",
+        "published_date": "Fri, 30 Jan 2026 13:41:00 GMT",
+        "first_seen": "2026-01-30T08:43:34.377317"
+      },
+      "9e7b372acc0be4b407b9bd709d50d055c91fe526c0b20f37d3f2106e929e4d3c": {
+        "title": "停更但好用的 DriveDroid：把 Android 手机变成 USB 启动盘",
+        "link": "https://sspai.com/post/104564",
+        "published_date": "Fri, 30 Jan 2026 15:00:00 GMT",
+        "first_seen": "2026-01-30T08:43:34.377319"
+      },
+      "5c053cae8699af90b36e4d6ba756805320bd99bcbfc82bd4412abf0e08514c04": {
+        "title": "内存缺货，PC涨价：AI需求引发的消费电子涨价潮已至",
+        "link": "http://www.huxiu.com/article/4830765.html?f=wangzhan",
+        "published_date": "Fri, 30 Jan 2026 14:00:00 GMT",
+        "first_seen": "2026-01-30T08:43:34.377321"
+      },
+      "baf341fe764364bbcfda9b456360b0866aeb13d4d1c0b03df812945e02f187c0": {
+        "title": "沃尔玛也学甄嬛了？",
+        "link": "http://www.huxiu.com/article/4830904.html?f=wangzhan",
+        "published_date": "Fri, 30 Jan 2026 13:00:00 GMT",
+        "first_seen": "2026-01-30T08:43:34.377322"
       }
     },
     "Finance": {
@@ -14544,30 +14538,6 @@
       }
     },
     "Ai": {
-      "1977ff5b9c89e6d899da689d4944f51278bc62603b99b34e0122e43502fbb41a": {
-        "title": "7B扩散语言模型单样例1000+ tokens/s！上交大联合华为推出LoPA",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-31-7",
-        "published_date": "Wed, 31 Dec 2025 16:31:00 GMT",
-        "first_seen": "2025-12-31T08:34:42.411356"
-      },
-      "b846456468134890447b36cd0ffc5af21aeeee0aef8cb648e9570fc4f5810226": {
-        "title": "卓驭打造科技平权，端到端辅助驾驶延伸至重卡高速、无人物流",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-31-6",
-        "published_date": "Wed, 31 Dec 2025 16:18:00 GMT",
-        "first_seen": "2025-12-31T08:34:42.411366"
-      },
-      "799b48cc213afa613a57652c6265a4de07a19c176d88c3b350f5dbcb50be20df": {
-        "title": "从“手工艺”到“AI工程化”：解码AI智能渗透的未来之战",
-        "link": "https://www.qbitai.com/2025/12/366280.html",
-        "published_date": "Wed, 31 Dec 2025 07:42:00 GMT",
-        "first_seen": "2025-12-31T08:34:42.411368"
-      },
-      "9d940cc42d21ab3a0a1c934b191f7b2bc26ecd0eeff849b393f5bca6fb0b080b": {
-        "title": "MiniMax作价461亿港元募资46亿，1月9日敲钟代码00100",
-        "link": "https://www.qbitai.com/2025/12/366302.html",
-        "published_date": "Wed, 31 Dec 2025 06:31:00 GMT",
-        "first_seen": "2025-12-31T08:34:42.411370"
-      },
       "b03df72d742967d33e789805227cf415779fd3e6ed421e2167583182b5fc6b67": {
         "title": "超DeepEP两倍！无问芯穹FUSCO以「空中变阵」突破MoE通信瓶颈，专为Agent爆发设计",
         "link": "https://www.jiqizhixin.com/articles/2025-12-31-10",
@@ -17165,13 +17135,37 @@
         "link": "https://www.qbitai.com/2026/01/374398.html",
         "published_date": "Fri, 30 Jan 2026 02:28:00 GMT",
         "first_seen": "2026-01-30T05:50:08.646274"
+      },
+      "b640965325cfd86e86273a058a0cff71d74e1c5f6e4057f3b96d859fc3de1253": {
+        "title": "LeCun离职后不止创一份业！押注与大模型不同的路线，加入硅谷初创董事会",
+        "link": "https://www.qbitai.com/2026/01/374471.html",
+        "published_date": "Fri, 30 Jan 2026 07:44:00 GMT",
+        "first_seen": "2026-01-30T08:43:34.277680"
+      },
+      "19661b4c30315453ae1fa4a7238d14f61b6a9b19199da6c8ca065a02485b22c7": {
+        "title": "腾讯混元再引强将，庞天宇即将入职多模态模型团队负责强化学习前沿算法探索",
+        "link": "https://www.qbitai.com/2026/01/374467.html",
+        "published_date": "Fri, 30 Jan 2026 06:33:00 GMT",
+        "first_seen": "2026-01-30T08:43:34.277690"
+      },
+      "0c0251171b75ee56c0b24f9689f210346d5869463fe91bb9de7025139b3f5533": {
+        "title": "让世界模型直接控制机器人动作，蚂蚁灵波开源具身世界模型LingBot-VA",
+        "link": "https://www.qbitai.com/2026/01/374459.html",
+        "published_date": "Fri, 30 Jan 2026 06:24:00 GMT",
+        "first_seen": "2026-01-30T08:43:34.277692"
+      },
+      "ffac5fc007b2f4e646ce4631eb2795ef5bc40e95eb832ac5dcef4bfc19b03b76": {
+        "title": "性能超越DeepSeek-OCR2，百度发布并开源新一代SOTA OCR模型",
+        "link": "https://www.qbitai.com/2026/01/374455.html",
+        "published_date": "Fri, 30 Jan 2026 06:10:00 GMT",
+        "first_seen": "2026-01-30T08:43:34.277694"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-01-30T05:50:08.750034",
+    "Technology": "2026-01-30T08:43:34.377324",
     "Finance": "2026-01-30T05:50:08.486496",
-    "Ai": "2026-01-30T05:50:08.646276"
+    "Ai": "2026-01-30T08:43:34.277697"
   }
 }
