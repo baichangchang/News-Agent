@@ -1,7 +1,26 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-30 23:29
+**最后更新时间**: 2026-01-31 05:41
+
+---
+
+## 🆕 最新更新 (2026-01-31 05:41)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [The IRS is trying to make the best of a government shutdown. Here’s how to protect your refund.](https://www.marketwatch.com/story/the-irs-is-trying-to-make-the-best-of-a-government-shutdown-heres-how-to-protect-your-refund-156c1294?mod=mw_rss_topstories)
+**发布时间**: 2026-01-31 04:35
+
+#### [Most of us make assumptions about growth and value stocks. Here’s what we get wrong.](https://www.marketwatch.com/story/most-of-us-make-assumptions-about-growth-and-value-stocks-heres-what-we-get-wrong-19da9b31?mod=mw_rss_topstories)
+**发布时间**: 2026-01-30 23:39
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Former Prince Andrew offered to aid pay-off to member of Epstein’s staff, DoJ emails show](https://www.ft.com/content/d9c81261-a7ac-40ae-956c-a8a9b6e57ab8)
+**发布时间**: 2026-01-31 00:37
+
+#### [Trump nominates economist Brett Matsumoto to head statistics agency](https://www.ft.com/content/3acdf81d-c94a-4438-a35f-23cfa75ca3b4)
+**发布时间**: 2026-01-30 23:21
 
 ---
 

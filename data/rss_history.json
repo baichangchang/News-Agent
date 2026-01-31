@@ -2,60 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "25ec918d1f6627419a6f2894cef5f56e14f5d8ffd8c6d7dfa74e82f1d98c179a": {
-        "title": "争议中登顶，《燕云十六声》周年庆的冰与火",
-        "link": "https://www.tmtpost.com/7828618.html",
-        "published_date": "Thu, 01 Jan 2026 12:02:00 GMT",
-        "first_seen": "2026-01-01T05:31:38.917246"
-      },
-      "cd9efeee3dddedb665d4d37e81572939f43fb850b9a5f0beca2140dd9757f325": {
-        "title": "罗永浩“老矣”，“科技春晚”会成为绝唱吗？",
-        "link": "https://www.tmtpost.com/7828583.html",
-        "published_date": "Thu, 01 Jan 2026 10:31:00 GMT",
-        "first_seen": "2026-01-01T05:31:38.917253"
-      },
-      "5807c5b93f09d872c59936a4abd71c415ea7ec50909a277b16e32d9305163ecf": {
-        "title": "AI创业公司的2025：一半是海水，一半是火焰",
-        "link": "https://www.tmtpost.com/7828472.html",
-        "published_date": "Thu, 01 Jan 2026 10:00:00 GMT",
-        "first_seen": "2026-01-01T05:31:38.917255"
-      },
-      "50c44675588bc2c4a741cd169e257bdd9a3c9a32ade97a744a55a32a01504116": {
-        "title": "赵何娟：2026，增长变得更难，我们怎么办？｜钛媒体新年献词",
-        "link": "https://www.tmtpost.com/7828591.html",
-        "published_date": "Thu, 01 Jan 2026 09:49:00 GMT",
-        "first_seen": "2026-01-01T05:31:38.917257"
-      },
-      "edab7d380986649c8e0a340bfb2d89365e2e6555d8d90ce62de485b70732a6bf": {
-        "title": "长视频与短视频的2025",
-        "link": "https://www.tmtpost.com/7828453.html",
-        "published_date": "Thu, 01 Jan 2026 09:31:00 GMT",
-        "first_seen": "2026-01-01T05:31:38.917258"
-      },
-      "7a7c09f84c510ff6feb2cdd1bbe8285c79dec138e612cb49c501e8f116d26ef3": {
-        "title": "90后AI创业者，拿到Meta数十亿美元“聘礼”",
-        "link": "https://www.tmtpost.com/7828576.html",
-        "published_date": "Thu, 01 Jan 2026 09:00:00 GMT",
-        "first_seen": "2026-01-01T05:31:38.917260"
-      },
-      "5076f98d492bbb547a5582efb944b00dde740c874f147cb1e72f3a7ec2330e60": {
-        "title": "车圈2025：价格战没赢家，但淘汰赛已有出局者",
-        "link": "https://www.tmtpost.com/7828479.html",
-        "published_date": "Thu, 01 Jan 2026 08:31:00 GMT",
-        "first_seen": "2026-01-01T05:31:38.917261"
-      },
-      "7a1ce956591b30ae3515c7cc7da719fc9f1a34880dd3ba2a548674e6d881538a": {
-        "title": "MinIO GitHub存储库的维护模式：开源对象存储的下一步是什么？",
-        "link": "https://www.infoq.cn/article/qLhD8ri5LGP3myGbz8dW?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 01 Jan 2026 10:00:00 GMT",
-        "first_seen": "2026-01-01T05:31:38.917263"
-      },
-      "b801dbac94aca2e820011cfbb8ef6ede30675f057c522e7bf4e561b613df792d": {
-        "title": "CNCF 推出 Kubernetes AI 一致性认证计划，旨在标准化工作负载",
-        "link": "https://www.infoq.cn/article/DH2lkgylfWlybKZ7RUD5?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 01 Jan 2026 10:00:00 GMT",
-        "first_seen": "2026-01-01T05:31:38.917264"
-      },
       "1c61f351e97fe5cc0ba27450e84ef15285cf701afb9328308b722a415d48cfc3": {
         "title": "米其林以务实路线迈向AIOps，并无宏大愿景",
         "link": "https://www.infoq.cn/article/ZaNCAZsLZJKe6OaTTqAx?utm_source=rss&utm_medium=article",
@@ -9871,21 +9817,135 @@
         "link": "https://sspai.com/post/105907",
         "published_date": "Fri, 30 Jan 2026 18:04:00 GMT",
         "first_seen": "2026-01-30T23:29:14.028770"
+      },
+      "52b1b89b0eee56cd56eb6428db3e1eea47af8930a6eb1089ff111f16e1a783db": {
+        "title": "买遍银河系，安踏为什么还需要一个彪马",
+        "link": "https://www.tmtpost.com/7862294.html",
+        "published_date": "Sat, 31 Jan 2026 13:14:00 GMT",
+        "first_seen": "2026-01-31T05:41:21.253991"
+      },
+      "904412f4884df5c9857b9ac533e1a85bab38d7fdc2ee66f5c9980e41a79eeb70": {
+        "title": "蚂蚁开源LingBot-World，谷歌开放Genie 3体验：世界模型“开放窗口”被打开",
+        "link": "https://www.tmtpost.com/7862300.html",
+        "published_date": "Sat, 31 Jan 2026 13:14:00 GMT",
+        "first_seen": "2026-01-31T05:41:21.254002"
+      },
+      "cd1ad2f5a4c1413e609cf8c0e7555e8fd39646c69d22c6284956f8c9389efb85": {
+        "title": "一身腱子肉的通云哥，出来混江湖了",
+        "link": "https://www.tmtpost.com/7862323.html",
+        "published_date": "Sat, 31 Jan 2026 13:14:00 GMT",
+        "first_seen": "2026-01-31T05:41:21.254004"
+      },
+      "a67a28bdba9d0464d6e8de7df5887f9875dbf1256619b22faf1245b94f2bcd62": {
+        "title": "扎进产业毛细血管，这家大模型企业，股价一度暴涨100%",
+        "link": "https://www.tmtpost.com/7862334.html",
+        "published_date": "Sat, 31 Jan 2026 13:14:00 GMT",
+        "first_seen": "2026-01-31T05:41:21.254006"
+      },
+      "1c6b0c4a26a65955a55aa35c500af0f49c22dbc1761ae325c75d990ee806a64d": {
+        "title": "腾讯AI的两条路",
+        "link": "https://www.tmtpost.com/7862340.html",
+        "published_date": "Sat, 31 Jan 2026 13:13:00 GMT",
+        "first_seen": "2026-01-31T05:41:21.254007"
+      },
+      "32865e06b5655f0ee91de57e1051c7987d31fd89a18f963339ee22d11879568c": {
+        "title": "马云“腊八之约”畅谈AI，阿里狂甩“连炸”",
+        "link": "https://www.tmtpost.com/7862342.html",
+        "published_date": "Sat, 31 Jan 2026 13:13:00 GMT",
+        "first_seen": "2026-01-31T05:41:21.254009"
+      },
+      "12f2f5d4093db640f82598ad6779f8abb967c9633df4bdc503b46126eb722850": {
+        "title": "锂矿双雄大跌：业绩扭亏难抵败诉冲击？",
+        "link": "https://www.tmtpost.com/7862359.html",
+        "published_date": "Sat, 31 Jan 2026 13:13:00 GMT",
+        "first_seen": "2026-01-31T05:41:21.254010"
+      },
+      "ea2b4fe1dcc93868d3fb045ebda81f935ade68f039ce2968151ddb1d72caf7c3": {
+        "title": "理想AI，步入深水区",
+        "link": "https://www.tmtpost.com/7862385.html",
+        "published_date": "Sat, 31 Jan 2026 13:13:00 GMT",
+        "first_seen": "2026-01-31T05:41:21.254012"
+      },
+      "06a28b34469b172ff36c18e6d3194cc0de003f576b84c9939492bf7e22943e8e": {
+        "title": "排队等上市，商业航天“六小龙”实力几何？",
+        "link": "https://www.tmtpost.com/7862694.html",
+        "published_date": "Sat, 31 Jan 2026 13:07:00 GMT",
+        "first_seen": "2026-01-31T05:41:21.254013"
+      },
+      "17b2dcfdb313997fbd2817bc1e3d3d2ea81af5796dc4ce9a5ae6fcded81215b1": {
+        "title": "价值判断：跌停板的投资机会和风险提示（1月30日）｜证券市场观察",
+        "link": "https://www.tmtpost.com/7862687.html",
+        "published_date": "Sat, 31 Jan 2026 11:38:00 GMT",
+        "first_seen": "2026-01-31T05:41:21.254015"
+      },
+      "090ae0d21fb802f7dca0488545a32cceaa28eba7feec72d2cc30072f02040583": {
+        "title": "连续两家工厂被卖掉，日本车企开启“工厂大撤离”",
+        "link": "https://www.tmtpost.com/7859450.html",
+        "published_date": "Sat, 31 Jan 2026 10:58:00 GMT",
+        "first_seen": "2026-01-31T05:41:21.254016"
+      },
+      "905456f2c89535f952b363989965c250d631884704b8876d2141de850a73c492": {
+        "title": "蔚小理齐迎“本命年”：逆风、过河与AI稻草",
+        "link": "https://www.tmtpost.com/7862222.html",
+        "published_date": "Sat, 31 Jan 2026 10:47:00 GMT",
+        "first_seen": "2026-01-31T05:41:21.254018"
+      },
+      "e5199df89892ec8e36a597fa06c2fcc647536144ad1272062d9ea33b27520822": {
+        "title": "21亿减值离场，分众掀开了网贷行业的底牌",
+        "link": "https://www.tmtpost.com/7862576.html",
+        "published_date": "Sat, 31 Jan 2026 09:20:00 GMT",
+        "first_seen": "2026-01-31T05:41:21.254019"
+      },
+      "4b0e71e049304aec2732b93ccca862ffa7f7b5e908298b8f9c44ddd27875e6d7": {
+        "title": "从几内亚到大众工厂，全球铝业正上演“权力的游戏”",
+        "link": "https://www.tmtpost.com/7862229.html",
+        "published_date": "Sat, 31 Jan 2026 08:04:00 GMT",
+        "first_seen": "2026-01-31T05:41:21.254021"
+      },
+      "3e46301777766da6b89959c01a77de1ddb2fa12d46166d47d1afb508387c8661": {
+        "title": "4.9万辆电车名额放出，加拿大消费者在热议什么?",
+        "link": "https://www.tmtpost.com/7862242.html",
+        "published_date": "Sat, 31 Jan 2026 08:04:00 GMT",
+        "first_seen": "2026-01-31T05:41:21.254022"
+      },
+      "230afb719c267585585ee501f0040e78bfc42e8c440469a3a4034ef5a6d0b6bb": {
+        "title": "硬杠 Meta NLLB！Google 发布 TranslateGemma，机器翻译的“性价比”被卷到了极致",
+        "link": "https://www.infoq.cn/article/h2pqxbjh27gCsekUWKFT?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 31 Jan 2026 12:00:00 GMT",
+        "first_seen": "2026-01-31T05:41:21.254023"
+      },
+      "dec1b8f3f1550d78938cc69ff045ea7e086106053eabe8815bf9ce9cac9040a5": {
+        "title": "BigQuery 新功能：SQL 直调 17 万 + AI 模型，3800 万行数据处理成本仅 2 美元",
+        "link": "https://www.infoq.cn/article/V52Rsbxl71Ampa74ottq?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 31 Jan 2026 11:00:00 GMT",
+        "first_seen": "2026-01-31T05:41:21.254025"
+      },
+      "3c1e97a6784a32f5371d088bcc2d6b810b6243f754ec45a398dd2da6a70b55f7": {
+        "title": "为什么你的系统一出事就“查不清”？Railway 给出可观测性的标准答案",
+        "link": "https://www.infoq.cn/article/9QaYwTAYLedFhScRPsOp?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 31 Jan 2026 10:00:00 GMT",
+        "first_seen": "2026-01-31T05:41:21.254026"
+      },
+      "e05e845f1cb9eee451de487a880cd7e93e5d18ea9c4f45808d81794af75a68a2": {
+        "title": "Swift跨平台框架Skip现已完全开源",
+        "link": "https://www.infoq.cn/article/TflNBc7EvNHoKCyDEdj3?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 31 Jan 2026 09:00:00 GMT",
+        "first_seen": "2026-01-31T05:41:21.254028"
+      },
+      "c83b2eda7381fe2807d6702b6ba4e64f02cb415151c09aecb484f6c4d7052661": {
+        "title": "摩擦解决之道：改变关键要素",
+        "link": "https://www.infoq.cn/article/ah0Xq4eGpFGrOEJOdfNX?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 31 Jan 2026 08:00:00 GMT",
+        "first_seen": "2026-01-31T05:41:21.254029"
+      },
+      "c0acf27cf83a8d06e619e1772956f8488e59226252d563e3d93b56a0fed00c6c": {
+        "title": "限牌十年，为何最终限了个寂寞？",
+        "link": "http://www.huxiu.com/article/4830403.html?f=wangzhan",
+        "published_date": "Sat, 31 Jan 2026 11:00:00 GMT",
+        "first_seen": "2026-01-31T05:41:21.254031"
       }
     },
     "Finance": {
-      "332992a5edd76975063bd26830af8e38991a4d1b8b5ff9448abd8e4b46065943": {
-        "title": "Is the Times Square New Year’s Eve ball drop on your bucket list? Here’s why life goals like that aren’t worth the time or money.",
-        "link": "https://www.marketwatch.com/story/is-the-times-square-new-years-eve-ball-drop-on-your-bucket-list-heres-why-life-goals-like-that-arent-worth-the-time-or-money-c4b20b87?mod=mw_rss_topstories",
-        "published_date": "Thu, 01 Jan 2026 03:27:00 GMT",
-        "first_seen": "2026-01-01T05:31:38.703222"
-      },
-      "29ddcf9fc6f09b1563d7afa037140c7b24e511631abd0b46d86de8a6bd2051ff": {
-        "title": "Chip shortages threaten 20% rise in consumer electronics prices",
-        "link": "https://www.ft.com/content/1f471189-2277-4d5d-822b-78eba6060755",
-        "published_date": "Thu, 01 Jan 2026 01:54:00 GMT",
-        "first_seen": "2026-01-01T05:31:38.703231"
-      },
       "756b418070bd44377c538ed94c8aea7cc226ee5e55ce22e31e92bc3239de9b4c": {
         "title": "‘Several’ people killed in Swiss ski resort fire",
         "link": "https://www.ft.com/content/b2cd91db-1b7b-422f-9d8c-5908a5a1a44b",
@@ -14637,27 +14697,27 @@
         "link": "https://www.marketwatch.com/story/silver-heads-for-biggest-drop-in-14-years-with-every-man-and-his-dog-rushing-for-the-exit-081baf5c?mod=mw_rss_topstories",
         "published_date": "Fri, 30 Jan 2026 20:07:00 GMT",
         "first_seen": "2026-01-30T23:29:13.708764"
+      },
+      "0d50bf3bdfdb61ecdb3d831d89831eab8d791db777b0d3561370d0524366f4e2": {
+        "title": "The IRS is trying to make the best of a government shutdown. Here’s how to protect your refund.",
+        "link": "https://www.marketwatch.com/story/the-irs-is-trying-to-make-the-best-of-a-government-shutdown-heres-how-to-protect-your-refund-156c1294?mod=mw_rss_topstories",
+        "published_date": "Sat, 31 Jan 2026 04:35:00 GMT",
+        "first_seen": "2026-01-31T05:41:21.012634"
+      },
+      "137ad1e61c1b623248302ce0337345e780c9d02c9f74ba1843d72d3d536d1b7a": {
+        "title": "Most of us make assumptions about growth and value stocks. Here’s what we get wrong.",
+        "link": "https://www.marketwatch.com/story/most-of-us-make-assumptions-about-growth-and-value-stocks-heres-what-we-get-wrong-19da9b31?mod=mw_rss_topstories",
+        "published_date": "Fri, 30 Jan 2026 23:39:00 GMT",
+        "first_seen": "2026-01-31T05:41:21.012643"
+      },
+      "5bd461618576f8411d14346344fd24ecf5ab2f62d9a1d3ff202635fb9518a6e0": {
+        "title": "Former Prince Andrew offered to aid pay-off to member of Epstein’s staff, DoJ emails show",
+        "link": "https://www.ft.com/content/d9c81261-a7ac-40ae-956c-a8a9b6e57ab8",
+        "published_date": "Sat, 31 Jan 2026 00:37:00 GMT",
+        "first_seen": "2026-01-31T05:41:21.012645"
       }
     },
     "Ai": {
-      "d266e8bbd6032bbf53b4ef1059ca71edef148dadf845cb996cceadea4adf8eb2": {
-        "title": "最新英伟达经济学：每美元性能是AMD的15倍，“买越多省越多”是真的",
-        "link": "https://www.qbitai.com/2026/01/366378.html",
-        "published_date": "Thu, 01 Jan 2026 04:49:00 GMT",
-        "first_seen": "2026-01-01T05:31:38.828989"
-      },
-      "60e187ebb112b3fd567bf5575ec519f5ba54916a0897b2f4bd2e2ef40f4cfd14": {
-        "title": "Hinton加入Scaling Law论战，他不站学生Ilya",
-        "link": "https://www.qbitai.com/2026/01/366363.html",
-        "published_date": "Thu, 01 Jan 2026 04:44:00 GMT",
-        "first_seen": "2026-01-01T05:31:38.828996"
-      },
-      "d360c9003d31ba2ff2a0461bb0c0e8656baacf62c9604d35ff60077804472db9": {
-        "title": "豆包一声声“OK”把罗永浩搞破防，不就是大型现场直播版图灵测试",
-        "link": "https://www.qbitai.com/2026/01/366364.html",
-        "published_date": "Thu, 01 Jan 2026 02:27:00 GMT",
-        "first_seen": "2026-01-01T05:31:38.828999"
-      },
       "2f8a44593be960939151663dcd6257dc5c46da0e86b132cc3b4da9debcd78c77": {
         "title": "能文能武！智元首个机器人艺人天团亮相湖南卫视跨年演唱会",
         "link": "https://www.qbitai.com/2026/01/366397.html",
@@ -17326,8 +17386,8 @@
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-01-30T23:29:14.028772",
-    "Finance": "2026-01-30T23:29:13.708767",
+    "Technology": "2026-01-31T05:41:21.254033",
+    "Finance": "2026-01-31T05:41:21.012647",
     "Ai": "2026-01-30T23:29:13.910838"
   }
 }
