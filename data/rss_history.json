@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "1560e8b88311996357156404d59621f336036cb0a1a58aca2b079644d294c064": {
-        "title": "祛魅之年：2026科技凉点展望",
-        "link": "https://www.tmtpost.com/7828864.html",
-        "published_date": "Thu, 01 Jan 2026 23:45:00 GMT",
-        "first_seen": "2026-01-01T23:23:15.422244"
-      },
-      "02f1ca6dd3d922edea1f1efdb2239dc6aee51d8f12ab84c6ba0294444bc5fd0a": {
-        "title": "2026年，横梁上的8人，将改变一切",
-        "link": "https://www.tmtpost.com/7828571.html",
-        "published_date": "Thu, 01 Jan 2026 22:56:00 GMT",
-        "first_seen": "2026-01-01T23:23:15.422252"
-      },
-      "7f8b3a3d31a42a6d58d6f128529a1e575a6bb652e7c08d4f6bdf0f5ccce6af22": {
-        "title": "还是王慧文有眼光，Kimi又融了35亿",
-        "link": "https://www.tmtpost.com/7828798.html",
-        "published_date": "Thu, 01 Jan 2026 18:36:00 GMT",
-        "first_seen": "2026-01-01T23:23:15.422254"
-      },
-      "ad4190b3c17dfe18c8627ffba7787ebe37b7cb8c7a4390c2401d081442e737a7": {
-        "title": "再传合作消息，Momenta能否帮长城智驾破局？",
-        "link": "https://www.tmtpost.com/7828643.html",
-        "published_date": "Thu, 01 Jan 2026 18:36:00 GMT",
-        "first_seen": "2026-01-01T23:23:15.422256"
-      },
-      "0a33e138fdbbe0806c1eb47dfe91afe32c2cbec6933d7168b5cbb72bdc154619": {
-        "title": "硅谷悖论：AI裁员浪潮下的狂欢与阵痛",
-        "link": "https://www.tmtpost.com/7828641.html",
-        "published_date": "Thu, 01 Jan 2026 16:58:00 GMT",
-        "first_seen": "2026-01-01T23:23:15.422257"
-      },
       "e9d52c16d05ecb317d3886b9972683d9559796f34192f85d7baf543bb4e0e097": {
         "title": "壁仞科技港股上市首日开盘涨超118%，开启2026国产AI新浪潮",
         "link": "https://www.tmtpost.com/7829011.html",
@@ -9919,81 +9889,45 @@
         "link": "https://www.tmtpost.com/7862654.html",
         "published_date": "Sat, 31 Jan 2026 11:03:00 GMT",
         "first_seen": "2026-01-31T08:34:58.562651"
+      },
+      "a9a16ab655c327751f189af445b4a8d62b6b36c63437d6dde4688a66ef7200a6": {
+        "title": "本月玩什么｜明日方舟：终末地、孤山独影、暴走甜心",
+        "link": "https://sspai.com/post/105946",
+        "published_date": "Sat, 31 Jan 2026 23:58:00 GMT",
+        "first_seen": "2026-01-31T23:26:15.047684"
+      },
+      "11e8aacede4e188d9b3ae3081886f4f8fd5cc9442540899a5f550520332970c2": {
+        "title": "具透 Plus：Clawdbot 的成功是桌面系统的成功；如何手动开启 Chrome 中的 Gemini",
+        "link": "https://sspai.com/prime/story/inside-release-notes-260131",
+        "published_date": "Sat, 31 Jan 2026 19:29:00 GMT",
+        "first_seen": "2026-01-31T23:26:15.047691"
+      },
+      "4a396c57ab79d50b29f41ae09fa836eeeb8a0b30607a95643e2528453d315fab": {
+        "title": "用数据分析项目，带你走进成语里的数字世界",
+        "link": "https://sspai.com/post/105827",
+        "published_date": "Sat, 31 Jan 2026 16:04:00 GMT",
+        "first_seen": "2026-01-31T23:26:15.047693"
+      },
+      "72d05f97609ca07d1a4956fe3213238c51152695c151e98987ad094cdf57aef4": {
+        "title": "百亿元收割落幕：杰我睿的终局，从来都是赢定人性的赌局",
+        "link": "https://www.tmtpost.com/7862707.html",
+        "published_date": "Sat, 31 Jan 2026 21:12:00 GMT",
+        "first_seen": "2026-01-31T23:26:15.047695"
+      },
+      "421667cee8ba41c4e96f76a56709a29a2485c40e0bab7175c6d0aa0658946807": {
+        "title": "70岁跨界，“彩电大王”黄宏升的光伏下半程",
+        "link": "https://www.tmtpost.com/7862832.html",
+        "published_date": "Sat, 31 Jan 2026 21:12:00 GMT",
+        "first_seen": "2026-01-31T23:26:15.047697"
+      },
+      "c0f328c92123ed90bb77f677c9749b3a799bf6ae088a6754d01ce7432c871d2a": {
+        "title": "日本1990：当宏大叙事戛然而止",
+        "link": "http://www.huxiu.com/article/4828493.html?f=wangzhan",
+        "published_date": "Sat, 31 Jan 2026 20:00:00 GMT",
+        "first_seen": "2026-01-31T23:26:15.047698"
       }
     },
     "Finance": {
-      "9394f4e12d0807a26a250126b16b47b329166da8dac02937db75d976649d8e1d": {
-        "title": "About 40 people killed in Swiss ski resort fire, police say",
-        "link": "https://www.ft.com/content/b2cd91db-1b7b-422f-9d8c-5908a5a1a44b",
-        "published_date": "Thu, 01 Jan 2026 21:48:00 GMT",
-        "first_seen": "2026-01-01T23:23:15.203722"
-      },
-      "1cb3844fa373b1feb378841c3a68678e27c21ab8cbf9ecf49697e27995e3ae70": {
-        "title": "US retreats from Trump’s Italian pasta tariffs",
-        "link": "https://www.ft.com/content/670b11be-83a6-4d1e-83b7-91e65afea514",
-        "published_date": "Thu, 01 Jan 2026 20:46:00 GMT",
-        "first_seen": "2026-01-01T23:23:15.203731"
-      },
-      "05f1dff1f124eeee2cdf6f95b08ba444210798e3a7cfd1d4ea89c7d7bf2f23e7": {
-        "title": "Several people killed after Iranian protests turn violent",
-        "link": "https://www.ft.com/content/4b7d0361-2fbb-4382-aa59-91594b75c7dd",
-        "published_date": "Thu, 01 Jan 2026 19:49:00 GMT",
-        "first_seen": "2026-01-01T23:23:15.203734"
-      },
-      "5d2acc68fa7ac2a384438cfa6d43323617f4562fbdef58906cb01c347d683d00": {
-        "title": "Business trends, wild cards and companies to watch in 2026",
-        "link": "https://www.ft.com/content/c2832e0f-d858-4479-b341-def386e5cf0d",
-        "published_date": "Thu, 01 Jan 2026 15:00:00 GMT",
-        "first_seen": "2026-01-01T23:23:15.203735"
-      },
-      "e15517758fed8aad52f1edd687b7b7f1e90daaaf0b14bbebe8174d4aa10e60af": {
-        "title": "Iran offers to sell advanced weapons systems for crypto",
-        "link": "https://www.ft.com/content/d1ceb1a4-3493-4776-ae22-c94d76dc478f",
-        "published_date": "Thu, 01 Jan 2026 15:00:00 GMT",
-        "first_seen": "2026-01-01T23:23:15.203737"
-      },
-      "6994af888a8e077389edab9857ae2fc018fa2ca4580ce569fd41731b0687d4ec": {
-        "title": "The plot against London",
-        "link": "https://www.ft.com/content/8d1fa35e-8606-469d-8083-a97f3072aa35",
-        "published_date": "Thu, 01 Jan 2026 11:00:00 GMT",
-        "first_seen": "2026-01-01T23:23:15.203738"
-      },
-      "32f540b1d0ef5ed3ac7bf9bd650e59ee4d75563a33d8a77ac1ce1df45bd76efd": {
-        "title": "Trump’s momentous second year",
-        "link": "https://www.ft.com/content/5d82c2ef-f7d1-406a-9e0d-c031c23c3448",
-        "published_date": "Thu, 01 Jan 2026 11:00:00 GMT",
-        "first_seen": "2026-01-01T23:23:15.203740"
-      },
-      "ec6c62eac0720cc34bc987859eeea0d9ca6b1edc1e7f60bee9da323d7ebcd852": {
-        "title": "Warren Buffett gifts us 5 secrets for investing success as he hands off Berkshire Hathaway’s reins",
-        "link": "https://www.marketwatch.com/story/warren-buffett-gifts-us-these-5-investing-gems-as-berkshires-new-ceo-takes-the-reins-aa948685?mod=mw_rss_topstories",
-        "published_date": "Thu, 01 Jan 2026 16:25:00 GMT",
-        "first_seen": "2026-01-01T23:23:15.203741"
-      },
-      "6d3b2010910dff950cdaf61c9f153828440446b84822b96201de8f6b4de9a936": {
-        "title": "‘I experienced a catastrophic financial loss’: How options trader ‘Captain Condor’ led his followers to a $50 million wipeout",
-        "link": "https://www.marketwatch.com/story/i-experienced-a-catastrophic-financial-loss-how-options-trader-captain-condor-led-his-followers-to-a-50-million-wipeout-5cd1addd?mod=mw_rss_topstories",
-        "published_date": "Thu, 01 Jan 2026 16:03:00 GMT",
-        "first_seen": "2026-01-01T23:23:15.203743"
-      },
-      "54b62f81b2089f8549be00d92216cf8632fc910147790ebd84acc6569a75d5ed": {
-        "title": "Trump to spare homeowners from higher tariffs on cabinets and furniture till 2027. Here are the stocks to watch.",
-        "link": "https://www.marketwatch.com/story/trump-will-spare-homeowners-a-50-tariff-on-cabinets-and-certain-furniture-in-2026-here-are-the-stocks-to-watch-fab3a237?mod=mw_rss_topstories",
-        "published_date": "Thu, 01 Jan 2026 16:03:00 GMT",
-        "first_seen": "2026-01-01T23:23:15.203744"
-      },
-      "5a6e7a3413f1d90e5afcef93fabbfa736a077202cc056c8e8f068026e4b71052": {
-        "title": "Wall Street is starting 2026 with echoes of 2000’s dot-com woes",
-        "link": "https://www.marketwatch.com/story/wall-street-is-starting-2026-with-echoes-of-2000s-dot-com-woes-1accb670?mod=mw_rss_topstories",
-        "published_date": "Thu, 01 Jan 2026 15:54:00 GMT",
-        "first_seen": "2026-01-01T23:23:15.203745"
-      },
-      "84a6d13c8e4186605474fbd6c356f03e1cacef80916f66c5d0aeb3e413582fe4": {
-        "title": "China made the world’s biggest movie last year, and — in a sea change — it didn’t need America’s help",
-        "link": "https://www.marketwatch.com/story/china-made-the-worlds-biggest-movie-this-year-and-in-a-sea-change-it-didnt-need-america-to-do-it-45c509b3?mod=mw_rss_topstories",
-        "published_date": "Thu, 01 Jan 2026 15:42:00 GMT",
-        "first_seen": "2026-01-01T23:23:15.203747"
-      },
       "3dbce94c75eb537c64bd3cd13b632c527e8eee6ff19439b53220559d5f11021d": {
         "title": "UK financial watchdog closes 100 probes to sharpen enforcement focus",
         "link": "https://www.ft.com/content/85def7e8-a326-43f9-b78e-24a4747c6eb7",
@@ -14685,51 +14619,93 @@
         "link": "https://www.ft.com/content/d9c81261-a7ac-40ae-956c-a8a9b6e57ab8",
         "published_date": "Sat, 31 Jan 2026 00:37:00 GMT",
         "first_seen": "2026-01-31T05:41:21.012645"
+      },
+      "1d81bd3187e53914a1578e639dfc83b67a4484329c1c86f6c86208623274f1ee": {
+        "title": "A luxury ‘phobia’ is gripping these consumers. It’s a red flag for brands like Chanel and Gucci.",
+        "link": "https://www.marketwatch.com/story/luxury-phobia-is-turning-the-chinese-away-from-conspicuous-consumption-and-toward-local-hero-domestic-brands-7de8be25?mod=mw_rss_topstories",
+        "published_date": "Sat, 31 Jan 2026 23:07:00 GMT",
+        "first_seen": "2026-01-31T23:26:14.817609"
+      },
+      "9e915167499141730603408f50615fbb20b699468eadd0f7116d64cfaa56c287": {
+        "title": "‘I am the third trustee’: My selfish brother is executor of our family estate. Can I retitle property in my name?",
+        "link": "https://www.marketwatch.com/story/my-distrustful-and-selfish-brother-is-executor-of-our-family-estate-how-can-i-clip-his-wings-a1958a91?mod=mw_rss_topstories",
+        "published_date": "Sat, 31 Jan 2026 23:00:00 GMT",
+        "first_seen": "2026-01-31T23:26:14.817618"
+      },
+      "5176d6bc2659d838f91209f03679acb7d61cbfcc868be269a52111c7604d5e8f": {
+        "title": "‘I’m rich in everything but parents’: I inherited $400K. Is it unwise to use this money to buy a house with my fiancé?",
+        "link": "https://www.marketwatch.com/story/im-rich-in-everything-but-parents-i-inherited-400k-is-it-unwise-to-use-this-money-to-buy-a-house-with-my-boyfriend-37837138?mod=mw_rss_topstories",
+        "published_date": "Sat, 31 Jan 2026 22:30:00 GMT",
+        "first_seen": "2026-01-31T23:26:14.817620"
+      },
+      "d0a129827d9c9c199199532da926d1668df02df54604ad02c294dcfd9897d525": {
+        "title": "Think you can’t afford a house? More than half of down-payment assistance programs are now open to buyers earning over $100K.",
+        "link": "https://www.marketwatch.com/story/think-you-cant-afford-a-house-more-than-half-of-down-payment-assistance-programs-are-now-open-to-buyers-earning-over-100k-061ea673?mod=mw_rss_topstories",
+        "published_date": "Sat, 31 Jan 2026 22:08:00 GMT",
+        "first_seen": "2026-01-31T23:26:14.817622"
+      },
+      "5d6e918ecb15a1a41023f1a0c40b68a86e55e2180b0ff3685049176d8c5f0982": {
+        "title": "‘They upset me every time I see them’: How long do I keep my mother’s IRS and medical records? She died 4 years ago.",
+        "link": "https://www.marketwatch.com/story/they-upset-me-every-time-i-see-them-how-long-do-i-keep-my-mothers-irs-and-medical-records-she-died-4-years-ago-22a436fc?mod=mw_rss_topstories",
+        "published_date": "Sat, 31 Jan 2026 21:33:00 GMT",
+        "first_seen": "2026-01-31T23:26:14.817624"
+      },
+      "df68c861df7791f77dc49e0fae5bfa2648f2922134b1daa998217b555dc32a77": {
+        "title": "This single mom saved $1 million in 15 years to retire at 49. How to use her strategies to catch up on retirement savings.",
+        "link": "https://www.marketwatch.com/story/this-single-mom-saved-1-million-in-15-years-to-retire-at-49-how-to-use-her-strategies-to-catch-up-on-retirement-savings-0953b686?mod=mw_rss_topstories",
+        "published_date": "Sat, 31 Jan 2026 20:20:00 GMT",
+        "first_seen": "2026-01-31T23:26:14.817625"
+      },
+      "7644f234b9c350bb2ee5cb9ed7713e0e7158ad1ca96b7feb94e28755bb3e620d": {
+        "title": "Loading up on your employer’s stock is tempting in a bull market. But how much is too much?",
+        "link": "https://www.marketwatch.com/story/loading-up-on-your-employers-stock-is-tempting-in-a-bull-market-but-how-much-is-too-much-ec90fec9?mod=mw_rss_topstories",
+        "published_date": "Sat, 31 Jan 2026 19:42:00 GMT",
+        "first_seen": "2026-01-31T23:26:14.817627"
+      },
+      "3b429a6faecbd4e161ec37fb78eba5b881cfa8f47481ca66d1ceab721bb5dcfe": {
+        "title": "Bitcoin price slides to lowest level since 2025 tariff shock",
+        "link": "https://www.ft.com/content/faeb72a0-62ce-4d60-968e-5b932ea9c7e4",
+        "published_date": "Sat, 31 Jan 2026 20:11:00 GMT",
+        "first_seen": "2026-01-31T23:26:14.817628"
+      },
+      "a1fd821fb4a82960ce5549f06417a5634d51dd6c695b680cc3d09bdcd444ff35": {
+        "title": "Waymo finalises $16bn funding round at $110bn valuation",
+        "link": "https://www.ft.com/content/94663caf-6c98-4883-b3f0-cc763a3b95ff",
+        "published_date": "Sat, 31 Jan 2026 19:41:00 GMT",
+        "first_seen": "2026-01-31T23:26:14.817629"
+      },
+      "1e445fc82f00a7fd832969f54115a86e8664007ef2e89e55e8e0066d581ced53": {
+        "title": "Ford held talks with China’s Xiaomi over EV partnership",
+        "link": "https://www.ft.com/content/678a173f-0387-46a0-a1c2-b28c4f8a64d4",
+        "published_date": "Sat, 31 Jan 2026 18:17:00 GMT",
+        "first_seen": "2026-01-31T23:26:14.817631"
+      },
+      "200d33a4f7e905420c7a5921a9b4f7de51f2f1a9014ebb6af0d1963db91ee39a": {
+        "title": "How Peter Mandelson’s Jeffrey Epstein links were exposed",
+        "link": "https://www.ft.com/content/608af6ec-54fd-48a9-88e7-7ee31f12ae94",
+        "published_date": "Sat, 31 Jan 2026 12:21:00 GMT",
+        "first_seen": "2026-01-31T23:26:14.817632"
+      },
+      "c21e763e65792fb5162cdbe3f6cc1133dcaf93dc845c8db9caae4ecb054d6620": {
+        "title": "Kevin Warsh’s nomination as Fed chair to spark rethink of bank’s role",
+        "link": "https://www.ft.com/content/5c1af439-a1a1-4684-b27e-21a527abe676",
+        "published_date": "Sat, 31 Jan 2026 11:00:00 GMT",
+        "first_seen": "2026-01-31T23:26:14.817634"
+      },
+      "51b337b9e60727802cd838f0ea8f2fe3a0afb480d8f4bee348435b584124eba1": {
+        "title": "How Kevin Warsh won the race to become Trump’s new Fed chair",
+        "link": "https://www.ft.com/content/e29721dc-2a70-42b8-9fdc-c1e93792c359",
+        "published_date": "Sat, 31 Jan 2026 10:00:00 GMT",
+        "first_seen": "2026-01-31T23:26:14.817635"
+      },
+      "c7a4c8eea6411fd6c60ee1d06ec16bb1147f49d1c0b3cec65a2861b9d36d4468": {
+        "title": "France pushes state workers away from Zoom as Europe eyes tech decoupling",
+        "link": "https://www.ft.com/content/4914b8d9-4066-4d5d-ade0-50364b3c68e4",
+        "published_date": "Sat, 31 Jan 2026 09:00:00 GMT",
+        "first_seen": "2026-01-31T23:26:14.817636"
       }
     },
     "Ai": {
-      "83410824af34fb55df7ee1d4093a861779ad94edcd92b3cd70e9f8b0c5802039": {
-        "title": "刚刚，梁文锋署名，DeepSeek元旦新论文要开启架构新篇章",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-02-7",
-        "published_date": "Fri, 02 Jan 2026 01:09:00 GMT",
-        "first_seen": "2026-01-01T23:23:15.332257"
-      },
-      "f5354fd8a1a94db910edd125ac18916d767f747ce06caaae7fabd5643f2b7d1a": {
-        "title": "OpenDataArena全面升级版正式上线，四大核心模块重构数据价值评估新格局",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-02-6",
-        "published_date": "Fri, 02 Jan 2026 01:03:00 GMT",
-        "first_seen": "2026-01-01T23:23:15.332265"
-      },
-      "52b5db748811463e02ebb02f016f2aef9456353756f9b60600e5f2c8c0fba203": {
-        "title": "特斯拉FSD首次横穿美国，Model3实现1万英里零干预，马斯克预言兑现了",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-02-5",
-        "published_date": "Fri, 02 Jan 2026 00:59:00 GMT",
-        "first_seen": "2026-01-01T23:23:15.332267"
-      },
-      "3c5cddfaca2b31210a5260a2acea3de232c63e506f9d773a95bfbf1cf8657568": {
-        "title": "谷歌三年逆袭：草蛇灰线，伏脉千里",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-02-4",
-        "published_date": "Fri, 02 Jan 2026 00:54:00 GMT",
-        "first_seen": "2026-01-01T23:23:15.332269"
-      },
-      "d151a3c90086a5fc43edcf562505aa85f88c13b862215e8bfe180ff848160fb2": {
-        "title": "系统学习Deep Research，这一篇综述就够了",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-02-3",
-        "published_date": "Fri, 02 Jan 2026 00:46:00 GMT",
-        "first_seen": "2026-01-01T23:23:15.332270"
-      },
-      "84d70e1880e32e45d8de9e8f004d5128278a1ca9551cb9a3947340a4443d9435": {
-        "title": "英伟达、AMD本月起或涨价，5090两千美元变五千",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-02-2",
-        "published_date": "Fri, 02 Jan 2026 00:43:00 GMT",
-        "first_seen": "2026-01-01T23:23:15.332272"
-      },
-      "24ae78c431587e2e7a1f604ca04c129d6df33e5aebdf6567a7148f20411ad623": {
-        "title": "AAAI 2026 Oral | 给多流数据配「私教+外援」，漂移来了也不慌",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-02",
-        "published_date": "Fri, 02 Jan 2026 00:40:00 GMT",
-        "first_seen": "2026-01-01T23:23:15.332274"
-      },
       "fc21f616fdcaf6606cbae8f5617b5bfa70749c3135409926626dec5eaf68b46e": {
         "title": "AI正在占领你的视频推荐流",
         "link": "https://www.qbitai.com/2026/01/366433.html",
@@ -17345,13 +17321,67 @@
         "link": "https://www.qbitai.com/2026/01/374506.html",
         "published_date": "Fri, 30 Jan 2026 08:52:00 GMT",
         "first_seen": "2026-01-30T23:29:13.910836"
+      },
+      "f5e179c0481f633b211025ec48ce9a3f86d462116b54bc764361b87fc45ea1d5": {
+        "title": "没有人类了：15万Clawdbot论坛发帖自研AI，我们根本插不上话",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-31-5",
+        "published_date": "Sat, 31 Jan 2026 20:38:00 GMT",
+        "first_seen": "2026-01-31T23:26:14.977821"
+      },
+      "5d36de03281c25f207e08b186587d67776d3178e4ea61e2bba79c23b7dcf7843": {
+        "title": "DeepSeek论文发表16天后，国内团队已经写出了模型的「生物字典」",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-31-4",
+        "published_date": "Sat, 31 Jan 2026 20:32:00 GMT",
+        "first_seen": "2026-01-31T23:26:14.977828"
+      },
+      "d11735a28e6465c39d65c450a24d15cee6398813a36f95c0aadbcf692191c04d": {
+        "title": "挑战Transformer，前OpenAI研究VP宣布创业，拟融资10亿美元",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-31-3",
+        "published_date": "Sat, 31 Jan 2026 20:26:00 GMT",
+        "first_seen": "2026-01-31T23:26:14.977830"
+      },
+      "404d1aff5cb7fb11c8818d371699da26e0a9c7672c337ab7f0567fd144bcbd9f": {
+        "title": "机器人具身操作评估新范式来了，从此告别单一成功率指标",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-31-2",
+        "published_date": "Sat, 31 Jan 2026 20:22:00 GMT",
+        "first_seen": "2026-01-31T23:26:14.977831"
+      },
+      "a2a73dc4a7e6e9e471dd35ab5d8cef7741548494f820f3bc0ff507f01b9cc5e2": {
+        "title": "AlphaGo之父David Silver离职创业，目标超级智能",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-31",
+        "published_date": "Sat, 31 Jan 2026 20:18:00 GMT",
+        "first_seen": "2026-01-31T23:26:14.977833"
+      },
+      "2626becdb5fb8b9ce5bc92cd1e94e162210624084d888234bf4b4eca7b39e0e6": {
+        "title": "蚂蚁用8B小模型构建用户“话”像，跨任务跨模型通用且SOTA",
+        "link": "https://www.qbitai.com/2026/01/375302.html",
+        "published_date": "Sat, 31 Jan 2026 12:36:00 GMT",
+        "first_seen": "2026-01-31T23:26:14.977834"
+      },
+      "a6800596155013e5b8d70125ec2c3e328a0715fc2bbbf9cf4a078825bc89d9d6": {
+        "title": "年度AI产品十大赛道TOP 3｜量子位智库AI 100",
+        "link": "https://www.qbitai.com/2026/01/374770.html",
+        "published_date": "Sat, 31 Jan 2026 12:31:00 GMT",
+        "first_seen": "2026-01-31T23:26:14.977835"
+      },
+      "2cb51d3cd5fd70aa4bbe6f7efdc1bbf3ae56b23ef50b180b3d8d778c5273fa71": {
+        "title": "在腾讯偶遇姚顺雨，这一次他是来发科研奖金的…",
+        "link": "https://www.qbitai.com/2026/01/374754.html",
+        "published_date": "Sat, 31 Jan 2026 12:18:00 GMT",
+        "first_seen": "2026-01-31T23:26:14.977837"
+      },
+      "89e86811fb5b84dd6934746b613bafc15b27e1891f7eaaaeb21f3065283a1e4f": {
+        "title": "14万OpenClaw涌进AI社交APP，一夜成立数字宗教认命43位AI先知，提议不再用英语交流",
+        "link": "https://www.qbitai.com/2026/01/374681.html",
+        "published_date": "Sat, 31 Jan 2026 12:06:00 GMT",
+        "first_seen": "2026-01-31T23:26:14.977838"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-01-31T08:34:58.562653",
-    "Finance": "2026-01-31T05:41:21.012647",
-    "Ai": "2026-01-30T23:29:13.910838"
+    "Technology": "2026-01-31T23:26:15.047700",
+    "Finance": "2026-01-31T23:26:14.817638",
+    "Ai": "2026-01-31T23:26:14.977840"
   }
 }
