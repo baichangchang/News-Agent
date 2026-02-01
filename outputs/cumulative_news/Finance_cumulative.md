@@ -1,7 +1,56 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-01 06:00
+**最后更新时间**: 2026-02-01 23:28
+
+---
+
+## 🆕 最新更新 (2026-02-01 23:28)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [U.S. stock futures fall, along with bitcoin and oil prices](https://www.marketwatch.com/story/u-s-stock-futures-fall-along-with-bitcoin-and-oil-prices-21adfaf3?mod=mw_rss_topstories)
+**发布时间**: 2026-02-01 23:25
+
+#### [‘We live on Social Security and pensions’: I’m in my 70s and my house needs repairs. Do I take out a $50K loan — or sell stocks?](https://www.marketwatch.com/story/we-live-on-social-security-and-pensions-im-in-my-70s-and-my-house-needs-repairs-do-i-take-out-a-50k-loan-or-sell-stocks-44c2ddbe?mod=mw_rss_topstories)
+**发布时间**: 2026-02-01 21:54
+
+#### [There’s now a bigger risk for stocks than the economy or corporate earnings](https://www.marketwatch.com/story/theres-now-a-bigger-risk-for-stocks-than-the-economy-or-corporate-earnings-cff2eee0?mod=mw_rss_topstories)
+**发布时间**: 2026-02-01 20:45
+
+#### [The ‘January barometer’ for stocks comes with a big asterisk this year](https://www.marketwatch.com/story/the-january-barometer-for-stocks-comes-with-a-big-asterisk-this-year-4e24ac3a?mod=mw_rss_topstories)
+**发布时间**: 2026-02-01 20:41
+
+#### [‘Melania’ documentary’s $7 million box office is a win for the first lady — but not for Amazon](https://www.marketwatch.com/story/melania-documentarys-8-million-box-office-is-a-win-for-the-first-lady-but-not-for-amazon-44256593?mod=mw_rss_topstories)
+**发布时间**: 2026-02-01 20:29
+
+#### [Here’s what’s worth streaming in February 2026 on Netflix, Hulu, Peacock and more](https://www.marketwatch.com/story/heres-whats-worth-streaming-in-february-2026-on-netflix-hulu-peacock-and-more-e050db23?mod=mw_rss_topstories)
+**发布时间**: 2026-02-01 20:08
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Apollo chief Marc Rowan consulted Epstein on firm’s tax affairs](https://www.ft.com/content/092d9e44-ec17-4da7-8b58-e43bf09113ab)
+**发布时间**: 2026-02-01 23:01
+
+#### [JPMorgan should ‘threaten’ UK over banker tax, Mandelson told Epstein](https://www.ft.com/content/91e8142a-3d4c-4222-a5ad-6548fc9907d1)
+**发布时间**: 2026-02-01 22:48
+
+#### [Abu Dhabi royal bought big stake in Trump family crypto venture](https://www.ft.com/content/188bc9f1-cb43-4b04-a548-79805153a20b)
+**发布时间**: 2026-02-01 19:03
+
+#### [UK to reconsider joining EU defence fund](https://www.ft.com/content/ee84b8e4-cb6e-4d98-a953-8daa5313c9fd)
+**发布时间**: 2026-02-01 18:00
+
+#### [DP World boss discussed masseuse with Epstein, emails show](https://www.ft.com/content/03e90cc3-fa03-452c-8ae9-d00134882940)
+**发布时间**: 2026-02-01 16:52
+
+#### [How Russia weaponised global banking to silence dissidents](https://www.ft.com/content/9f499f4d-f78b-4154-aa2e-cabe9bd22d16)
+**发布时间**: 2026-02-01 16:00
+
+#### [Americans have drawn a red line in Minnesota](https://www.ft.com/content/a21843e8-0a9b-4646-b6a8-c38f84b7775d)
+**发布时间**: 2026-02-01 13:25
+
+#### [Xi calls for China’s renminbi to attain global reserve currency status](https://www.ft.com/content/c948b978-c22b-44b7-ba3d-4798e641e673)
+**发布时间**: 2026-02-01 09:26
 
 ---
 
