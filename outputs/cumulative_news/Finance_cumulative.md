@@ -1,7 +1,21 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-02 06:05
+**最后更新时间**: 2026-02-02 08:54
+
+---
+
+## 🆕 最新更新 (2026-02-02 08:54)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Gold and silver slump deepens and rattles equities](https://www.ft.com/content/e830a2cd-604f-4207-8ab8-fefafc6b5d70)
+**发布时间**: 2026-02-02 07:17
+
+#### [Kevin Warsh: you have to make a bet](https://www.ft.com/content/057a215b-763c-450d-931c-4a92f9cc4ec1)
+**发布时间**: 2026-02-02 06:30
+
+#### [A world without nuclear arms control begins on Thursday](https://www.ft.com/content/fd1d2e57-dce7-489d-956a-22b839cfadd8)
+**发布时间**: 2026-02-02 05:00
 
 ---
 
