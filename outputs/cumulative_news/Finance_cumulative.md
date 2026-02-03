@@ -1,7 +1,18 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-03 05:53
+**最后更新时间**: 2026-02-03 08:41
+
+---
+
+## 🆕 最新更新 (2026-02-03 08:41)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Demand for UK rental properties drops as buying becomes more affordable](https://www.ft.com/content/1372a542-50a4-459b-9698-2eca86a99b8f)
+**发布时间**: 2026-02-03 05:00
+
+#### [Boss of private equity group Permira quits UK for Switzerland](https://www.ft.com/content/c395f651-c86b-4c1b-b925-896c9eb77b0d)
+**发布时间**: 2026-02-03 05:00
 
 ---
 
