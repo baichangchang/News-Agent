@@ -1,7 +1,99 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-03 23:31
+**最后更新时间**: 2026-02-04 05:57
+
+---
+
+## 🆕 最新更新 (2026-02-04 05:57)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [一场活动，80名高管，14万亿市值，寻找一个关于超级公司的答案](https://www.tmtpost.com/7865514.html)
+**发布时间**: 2026-02-04 12:59
+
+#### [国运的杠杆](https://www.tmtpost.com/7866049.html)
+**发布时间**: 2026-02-04 12:08
+
+#### [为什么我们会忍不住偷看DeepSeek的“思考过程”？](https://www.tmtpost.com/7866064.html)
+**发布时间**: 2026-02-04 12:08
+
+#### [1.25万亿美元超级独角兽！马斯克的未来在外太空](https://www.tmtpost.com/7866103.html)
+**发布时间**: 2026-02-04 12:08
+
+#### [摩根士丹利认为这只股票是“最佳金融科技标的”](https://www.tmtpost.com/7866322.html)
+**发布时间**: 2026-02-04 11:59
+
+#### [Galaxy Digital股价因业绩未达预期而大跌，其业务呈现冰火两重天的格局](https://www.tmtpost.com/7866320.html)
+**发布时间**: 2026-02-04 11:59
+
+#### [8只值得买入的软件股：业绩盈利且估值低廉](https://www.tmtpost.com/7866317.html)
+**发布时间**: 2026-02-04 11:58
+
+#### [沃尔玛市值突破1万亿美元，为何部分分析师选择获利了结](https://www.tmtpost.com/7866314.html)
+**发布时间**: 2026-02-04 11:56
+
+#### [Chipotle发布业绩报告，投资者关注消费者回流信号](https://www.tmtpost.com/7866312.html)
+**发布时间**: 2026-02-04 11:55
+
+#### [房地产行业表现惨淡，颓势或很快有所缓解](https://www.tmtpost.com/7866310.html)
+**发布时间**: 2026-02-04 11:54
+
+#### [Palantir成美股市场最贵股，投资者正逐渐明白背后缘由](https://www.tmtpost.com/7866308.html)
+**发布时间**: 2026-02-04 11:54
+
+#### [人们还需要宜家，只是不需要宜家门店了](https://www.tmtpost.com/7865844.html)
+**发布时间**: 2026-02-04 11:19
+
+#### [石药185亿美元BD刷屏，但为何资本选择了“冷静观察”？](https://www.tmtpost.com/7865803.html)
+**发布时间**: 2026-02-04 11:19
+
+#### [马斯克的杠杆游戏](https://www.tmtpost.com/7865886.html)
+**发布时间**: 2026-02-04 11:19
+
+#### [痤疮疗法获突破，Sagimet股价应声上涨](https://www.tmtpost.com/7866239.html)
+**发布时间**: 2026-02-04 10:51
+
+#### [黑石股价、另类资产管理公司和BDC齐跌，软件行业困境蔓延至私募信贷](https://www.tmtpost.com/7866237.html)
+**发布时间**: 2026-02-04 10:47
+
+#### [分化加速、AI冲击，潮水回落后2026跨境电商何去何从？｜ 出海参考年度展望](https://www.tmtpost.com/7865627.html)
+**发布时间**: 2026-02-04 10:39
+
+#### [富国银行建议：趁分析师日来临，即刻买入联邦快递股票](https://www.tmtpost.com/7866216.html)
+**发布时间**: 2026-02-04 10:31
+
+#### [千问“请客”，是要打一场不对称的AI大战](https://www.tmtpost.com/7865419.html)
+**发布时间**: 2026-02-04 10:26
+
+#### [SpaceX收购xAI：马斯克的商业棋局与太空梦想](https://www.tmtpost.com/7865789.html)
+**发布时间**: 2026-02-04 10:26
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [见不惯 B 站 up 主的带货广告？教你利用 AI 快速跳过](https://sspai.com/post/105951)
+**发布时间**: 2026-02-04 11:05
+
+#### [派早报：Firefox 上线 AI 功能开关、OpenAI 推出 Codex 桌面应用等](https://sspai.com/post/106033)
+**发布时间**: 2026-02-04 07:00
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [“吃人吞粪”？一条视频看懂爱泼斯坦案背后的肮脏](http://www.huxiu.com/article/4832114.html?f=wangzhan)
+**发布时间**: 2026-02-04 11:00
+
+#### [从抛弃电视到抛弃投影仪，年轻人不再待见大屏幕了？](http://www.huxiu.com/article/4832062.html?f=wangzhan)
+**发布时间**: 2026-02-04 10:00
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [喊话特朗普重视AI风险，Anthropic CEO写万字长文对策，这方案也是Claude辅助完成的](https://www.infoq.cn/article/3J9vSaAiaQUC5J1RhXew?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-04 10:53
+
+#### [14 个月打通 220 个市场：Airbnb 为了“像本地人一样付款”，重构了一整套支付架构](https://www.infoq.cn/article/0ZAc73wQJJwS4WOT3vBx?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-04 08:00
+
+#### [C位面对面丨AI时代的分野与合流：算力选型的“版本答案”是什么？](https://www.infoq.cn/video/503rHwTuG0Esmegc8Fhk?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-03 21:03
 
 ---
 
