@@ -1,7 +1,18 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-04 05:57
+**最后更新时间**: 2026-02-04 08:48
+
+---
+
+## 🆕 最新更新 (2026-02-04 08:48)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Novo Nordisk shares tumble 18% after sales warning](https://www.ft.com/content/d148ce25-fa76-468b-b9ac-95c62a994a55)
+**发布时间**: 2026-02-04 08:20
+
+#### [Nvidia AI chip sales to China stalled by US security review](https://www.ft.com/content/d963c6c9-3618-4d83-8efe-eccf74cd637f)
+**发布时间**: 2026-02-04 03:14
 
 ---
 
