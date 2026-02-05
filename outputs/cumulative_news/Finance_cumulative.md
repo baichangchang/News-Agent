@@ -1,7 +1,15 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-05 05:57
+**最后更新时间**: 2026-02-05 08:50
+
+---
+
+## 🆕 最新更新 (2026-02-05 08:50)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [The truth about the ‘blue-collar boom’](https://www.ft.com/content/ac09f174-a8dc-4eda-a0ef-aa895625288d)
+**发布时间**: 2026-02-05 05:00
 
 ---
 
