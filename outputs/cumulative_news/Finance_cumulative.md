@@ -1,7 +1,15 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-06 05:55
+**最后更新时间**: 2026-02-06 08:47
+
+---
+
+## 🆕 最新更新 (2026-02-06 08:47)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [US and Iran to start nuclear talks in Oman](https://www.ft.com/content/5edc63d6-8870-426e-9397-0d64d288aca4)
+**发布时间**: 2026-02-06 08:30
 
 ---
 
