@@ -1,7 +1,27 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-07 05:45
+**最后更新时间**: 2026-02-07 08:36
+
+---
+
+## 🆕 最新更新 (2026-02-07 08:36)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [‘Hermès orange’ iPhone sparks Apple comeback in China](https://www.ft.com/content/e2d78d04-7368-4b0c-abd5-591c03774c46)
+**发布时间**: 2026-02-07 07:00
+
+#### [Starmer faces questions over visit to Palantir office alongside Mandelson](https://www.ft.com/content/5bba355e-b8e3-4bc3-b440-750a23f8d48c)
+**发布时间**: 2026-02-07 05:00
+
+#### [Putin isn’t really winning. Europe needs to make that clear](https://www.ft.com/content/36b57cc3-9488-41fd-aba8-a1cf50e0336e)
+**发布时间**: 2026-02-07 05:00
+
+#### [Mandelson and the two elites](https://www.ft.com/content/ce83b6de-811f-4985-b40b-fe4f558ad26a)
+**发布时间**: 2026-02-07 05:00
+
+#### [Tech wreck signals a market reset](https://www.ft.com/content/df69f37b-0929-45d0-b357-5db7ed5c2678)
+**发布时间**: 2026-02-07 05:00
 
 ---
 

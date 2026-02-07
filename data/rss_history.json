@@ -2,96 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "c4d9b240e1a6ad5765faa32884ccab30ea77a3170734dacdc601c47635ad725a": {
-        "title": "天数智芯敲钟：29亿亏损与400亿市值，国产GPU的狂热时代",
-        "link": "https://www.tmtpost.com/7835526.html",
-        "published_date": "Thu, 08 Jan 2026 16:27:00 GMT",
-        "first_seen": "2026-01-08T08:35:02.941855"
-      },
-      "83850a747c51a5f50bb1d0d687ebca152f939be828ad23d7542689657b24c697": {
-        "title": "从租住安居下手，南京开始抢人了",
-        "link": "https://www.tmtpost.com/7835130.html",
-        "published_date": "Thu, 08 Jan 2026 16:27:00 GMT",
-        "first_seen": "2026-01-08T08:35:02.941863"
-      },
-      "25ac1de0d78e1624afd44192b11792b52203979bedd26b653c5b1db203c89f9d": {
-        "title": "董事长坐不了高铁？赛拉弗的“限高”窘境与光伏狂飙后遗症",
-        "link": "https://www.tmtpost.com/7835485.html",
-        "published_date": "Thu, 08 Jan 2026 16:27:00 GMT",
-        "first_seen": "2026-01-08T08:35:02.941865"
-      },
-      "aa7a65b057d53b41007f4872762b555507daa1a3d92b5d8f98accb2217db56d9": {
-        "title": "从“爱你老己”到CBI500品牌榜：怎样才能让消费者下单新品？",
-        "link": "https://www.tmtpost.com/7835470.html",
-        "published_date": "Thu, 08 Jan 2026 16:21:00 GMT",
-        "first_seen": "2026-01-08T08:35:02.941866"
-      },
-      "f67b72b6e9c8e0cf17ca8b339861e623262ee052c91c04e0f2640eb2930ebdb6": {
-        "title": "智谱IPO首日，唐杰发内部信：GLM-5将至，成立X-lab，做颠覆式创新",
-        "link": "https://www.tmtpost.com/7835366.html",
-        "published_date": "Thu, 08 Jan 2026 16:13:00 GMT",
-        "first_seen": "2026-01-08T08:35:02.941868"
-      },
-      "a9d118457b5e37da451628fb37c6b11afb4cabd8ac5830d6153913b0ef315f84": {
-        "title": "从合规到进化，我们到底该如何理解新国标？",
-        "link": "https://www.tmtpost.com/7835321.html",
-        "published_date": "Thu, 08 Jan 2026 14:55:00 GMT",
-        "first_seen": "2026-01-08T08:35:02.941869"
-      },
-      "2837a1c30673e704f59a74b57388fa1423253d15eb6a5fa37bbdaaee2bc34ad5": {
-        "title": "首个「AI六小虎」上市，海淀收获「全球大模型第一股」",
-        "link": "https://www.tmtpost.com/7835384.html",
-        "published_date": "Thu, 08 Jan 2026 14:51:00 GMT",
-        "first_seen": "2026-01-08T08:35:02.941870"
-      },
-      "b76ccfc448bfb8a13b9349d6257946bcdbb981b9faf9c17b575d08f98ed0d78e": {
-        "title": "Industrial AI Is the True Value Driver of the AI Revolution, Says Siemens Exec",
-        "link": "https://www.tmtpost.com/7835351.html",
-        "published_date": "Thu, 08 Jan 2026 13:59:00 GMT",
-        "first_seen": "2026-01-08T08:35:02.941872"
-      },
-      "c1d530f5ab8a92e158aecbaf822ba8f7a065091c625c9689ac14a7a797d9f601": {
-        "title": "开勒股份战略投资深蕾科技，深度布局半导体赛道｜融资动态",
-        "link": "https://www.tmtpost.com/7835316.html",
-        "published_date": "Thu, 08 Jan 2026 13:36:00 GMT",
-        "first_seen": "2026-01-08T08:35:02.941873"
-      },
-      "296a28e8cfa277050dc18579cf986f7af5a65fbd2ef06ed93761dc4f12f9e58e": {
-        "title": "First Solar股价因评级下调而下跌，投资者应降低预期",
-        "link": "https://www.tmtpost.com/7835315.html",
-        "published_date": "Thu, 08 Jan 2026 13:27:00 GMT",
-        "first_seen": "2026-01-08T08:35:02.941875"
-      },
-      "f14e45bf3ab1682aecfe841378d60d7c07bb315a3647622c22898e4a349ffee1": {
-        "title": "Claude Code 的创始人揭秘工作流程：开5个智能体“玩编程游戏”，不看的程序员就落后了？",
-        "link": "https://www.infoq.cn/article/EApkAGSJSaiyJbi4JfSO?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 08 Jan 2026 15:19:00 GMT",
-        "first_seen": "2026-01-08T08:35:02.941876"
-      },
-      "f38f1a513273c155103e1f987486e24d8070b12982f327f9c3506ea215e33682": {
-        "title": "Slack增强Chef基础设施，提升安全性并降低部署影响范围",
-        "link": "https://www.infoq.cn/article/9DINHIzbyiQYT4mj7vPA?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 08 Jan 2026 15:00:00 GMT",
-        "first_seen": "2026-01-08T08:35:02.941878"
-      },
-      "42ce90c9eb641ffb037b062c6e60523192ff6dfeca948100504589b795c00805": {
-        "title": "“真德绒”杀回来了，商标追回背后，一场持续数年的市场闹剧终于收场？",
-        "link": "http://www.huxiu.com/article/4824383.html?f=wangzhan",
-        "published_date": "Thu, 08 Jan 2026 15:00:00 GMT",
-        "first_seen": "2026-01-08T08:35:02.941880"
-      },
-      "67719522fec6adf6f3e36513637d536c434f7b181ff8e5ff50217a9ce4404635": {
-        "title": "日本懵了，连续两重击：断军事粮草，反芯片材料倾销",
-        "link": "http://www.huxiu.com/article/4824488.html?f=wangzhan",
-        "published_date": "Thu, 08 Jan 2026 14:00:00 GMT",
-        "first_seen": "2026-01-08T08:35:02.941881"
-      },
-      "d35b82180f5330430fd848f14e273e49f56275a2d69ef51967e3d47390e960b0": {
-        "title": "浏览器扩展合集：派友近期推荐的 7 款浏览器扩展",
-        "link": "https://sspai.com/post/105249",
-        "published_date": "Thu, 08 Jan 2026 15:00:00 GMT",
-        "first_seen": "2026-01-08T08:35:02.941882"
-      },
       "a0f3d08cb8ee8defb86229f243382e9c519190e86cef71ef337e649a64fb8996": {
         "title": "【钛晨报】广州迎利好！加速培育AI、半导体、航空航天等5个战略先导产业；雀巢因原料问题召回奶粉，蒙牛、君乐宝等紧急回应；中国石化与中国航油官宣重组",
         "link": "https://www.tmtpost.com/7836246.html",
@@ -10219,27 +10129,57 @@
         "link": "https://www.infoq.cn/article/SaRHSmwKTghurtuafWHy?utm_source=rss&utm_medium=article",
         "published_date": "Sat, 07 Feb 2026 08:00:00 GMT",
         "first_seen": "2026-02-07T05:45:15.763863"
+      },
+      "5a199a87005f4b08f2c2244927ad56fbb7e6eb2fbbda1ee8672d998098a5d855": {
+        "title": "在国外抢下三个第一， 光储一体机火爆海外后，思格新能源在国内遇冷了吗？",
+        "link": "https://www.tmtpost.com/7870762.html",
+        "published_date": "Sat, 07 Feb 2026 16:06:00 GMT",
+        "first_seen": "2026-02-07T08:36:01.561936"
+      },
+      "de92d7484f0529c8611f1a7c802ae6de7493a5fea01ef1f5aae2b4ffc41bd31c": {
+        "title": "深扒Rentahuman，AI雇佣人类是假，币圈“割韭菜”才是真？",
+        "link": "https://www.tmtpost.com/7870599.html",
+        "published_date": "Sat, 07 Feb 2026 16:05:00 GMT",
+        "first_seen": "2026-02-07T08:36:01.561943"
+      },
+      "118da6ceae7edd7c0468eb0e22e5c7d218b2c974b0ae8b3c0bbd9aaee75de443": {
+        "title": "中国能建江苏电建一公司、宝钢工程等因安全违规被处罚，电力安全“救命钱”去哪了？",
+        "link": "https://www.tmtpost.com/7870759.html",
+        "published_date": "Sat, 07 Feb 2026 16:02:00 GMT",
+        "first_seen": "2026-02-07T08:36:01.561945"
+      },
+      "36b263ffeda0a621f39d6012e8439a7efb20aaf3afe83934df4f1b5113e65fe1": {
+        "title": "冰火两重天，国轩鹏辉盈利翻倍，永杉锂业深陷亏损，储能行业洗牌加速",
+        "link": "https://www.tmtpost.com/7870765.html",
+        "published_date": "Sat, 07 Feb 2026 15:58:00 GMT",
+        "first_seen": "2026-02-07T08:36:01.561946"
+      },
+      "eeec0efa189dacea11d34740b7f37ea6b1e86e449214e0f37b5847aa91d023e1": {
+        "title": "音乐圈的第一批AI受害者出现了",
+        "link": "https://www.tmtpost.com/7870010.html",
+        "published_date": "Sat, 07 Feb 2026 10:04:00 GMT",
+        "first_seen": "2026-02-07T08:36:01.561948"
+      },
+      "d53aa47604681ad692e59023d1c7c4494f7fe9d3463686d14cfb4867f5edcc74": {
+        "title": "AI点外卖就是个伪需求",
+        "link": "https://www.tmtpost.com/7870022.html",
+        "published_date": "Sat, 07 Feb 2026 09:16:00 GMT",
+        "first_seen": "2026-02-07T08:36:01.561949"
+      },
+      "6e1472706e4140d1c51c6bd4c98509867f7cee11a365ff25d2d72e08b89d490a": {
+        "title": "四川制造突围：“不沿边、不靠海”如何破局？",
+        "link": "https://www.tmtpost.com/7869833.html",
+        "published_date": "Sat, 07 Feb 2026 09:11:00 GMT",
+        "first_seen": "2026-02-07T08:36:01.561950"
+      },
+      "be590abf66dbfeeed0be16772bb9fd359683d54648ab8078303b17126e849721": {
+        "title": "最顶以太坊杀手？拆解Solana崛起的底层逻辑",
+        "link": "http://www.huxiu.com/article/4833122.html?f=wangzhan",
+        "published_date": "Sat, 07 Feb 2026 15:00:00 GMT",
+        "first_seen": "2026-02-07T08:36:01.561952"
       }
     },
     "Finance": {
-      "14ea0ee5c501eb71db19790abc120f1668272b0a508756723e7fe2f801317a53": {
-        "title": "Primark owner ABF shares slide after profit warning",
-        "link": "https://www.ft.com/content/c3754da0-b04a-48b8-ba59-e2b2735917f9",
-        "published_date": "Thu, 08 Jan 2026 08:20:00 GMT",
-        "first_seen": "2026-01-08T08:35:02.699629"
-      },
-      "f665f6d8dfa73e39f1e1a1575bf4265c7e7febf42b696ab0ef137fb8bfcc4b23": {
-        "title": "Greenland’s future must be decided by island and Denmark, Starmer warns Trump",
-        "link": "https://www.ft.com/content/745aa7d9-31eb-4cbc-bfca-08acfd8d4440",
-        "published_date": "Thu, 08 Jan 2026 07:47:00 GMT",
-        "first_seen": "2026-01-08T08:35:02.699637"
-      },
-      "c770db0cee991e02ef2741536be5f9f02f674b27f3c529965bb885f0deab70ae": {
-        "title": "Tesco and M&S ring up strong Christmas food sales as Asda struggles",
-        "link": "https://www.ft.com/content/d7cc6031-bf9f-4b86-908c-7c350c8fed0e",
-        "published_date": "Thu, 08 Jan 2026 07:31:00 GMT",
-        "first_seen": "2026-01-08T08:35:02.699640"
-      },
       "6e9a31174d748193ae6ae1e6b99853371c39cc59849d9e26a341bb0b6aac2b5f": {
         "title": "Iran suffers ‘internet blackout’ as it struggles to contain protests",
         "link": "https://www.ft.com/content/0e1762e0-8aa6-44b5-977c-0865ecdcbb7d",
@@ -15159,15 +15099,15 @@
         "link": "https://www.marketwatch.com/story/this-years-super-bowl-ads-tell-you-the-ai-bubble-is-about-to-burst-1357e5ae?mod=mw_rss_topstories",
         "published_date": "Fri, 06 Feb 2026 23:40:00 GMT",
         "first_seen": "2026-02-07T05:45:15.520159"
+      },
+      "45fb93df862a79c023ca757868447f284abec4866d399cf98e18d2a45f24d531": {
+        "title": "‘Hermès orange’ iPhone sparks Apple comeback in China",
+        "link": "https://www.ft.com/content/e2d78d04-7368-4b0c-abd5-591c03774c46",
+        "published_date": "Sat, 07 Feb 2026 07:00:00 GMT",
+        "first_seen": "2026-02-07T08:36:01.339170"
       }
     },
     "Ai": {
-      "533fae7cb14def33a30ff28be722de83dc301aa892536a69acc1caae438150c1": {
-        "title": "黄仁勋CES回应全场！内存卡GPU脖子，游戏玩家可能只能用旧显卡了",
-        "link": "https://www.qbitai.com/2026/01/367397.html",
-        "published_date": "Thu, 08 Jan 2026 05:50:00 GMT",
-        "first_seen": "2026-01-08T08:35:02.824708"
-      },
       "873728bfc1651b627514fa42466372a68b8646a8a09b4e0124449315cb6e876f": {
         "title": "明天上市，MiniMax上市额度已经被抢疯了",
         "link": "https://www.jiqizhixin.com/articles/2026-01-08-9",
@@ -17969,13 +17909,31 @@
         "link": "https://www.qbitai.com/2026/02/377518.html",
         "published_date": "Fri, 06 Feb 2026 08:49:00 GMT",
         "first_seen": "2026-02-06T23:31:35.940853"
+      },
+      "a368da793df6871f00f02e6088053501b0a56d9a9ed4946b601c60cf1b866328": {
+        "title": "王慧文杀入OpenClaw赛道，再发英雄帖：「需要融资的欢迎联系我」",
+        "link": "https://www.qbitai.com/2026/02/377564.html",
+        "published_date": "Sat, 07 Feb 2026 07:35:00 GMT",
+        "first_seen": "2026-02-07T08:36:01.493669"
+      },
+      "4d1e96372c18dd77250733cee2205725a6fbe100616a27f0341c168d78500328": {
+        "title": "Nature认定的论文综述神器来了",
+        "link": "https://www.qbitai.com/2026/02/377543.html",
+        "published_date": "Sat, 07 Feb 2026 05:12:00 GMT",
+        "first_seen": "2026-02-07T08:36:01.493677"
+      },
+      "2a4543c6ef34d1fd59fa1e5b54c4dce06cac68248fd8e0127673c23b6f62804a": {
+        "title": "有的AI在算命，有的AI在救命",
+        "link": "https://www.qbitai.com/2026/02/377529.html",
+        "published_date": "Sat, 07 Feb 2026 05:06:00 GMT",
+        "first_seen": "2026-02-07T08:36:01.493679"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-02-07T05:45:15.763865",
-    "Finance": "2026-02-07T05:45:15.520161",
-    "Ai": "2026-02-06T23:31:35.940856"
+    "Technology": "2026-02-07T08:36:01.561953",
+    "Finance": "2026-02-07T08:36:01.339178",
+    "Ai": "2026-02-07T08:36:01.493682"
   }
 }
