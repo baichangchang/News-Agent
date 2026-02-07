@@ -1,7 +1,26 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-06 23:31
+**最后更新时间**: 2026-02-07 05:45
+
+---
+
+## 🆕 最新更新 (2026-02-07 05:45)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Dow 50,000 came as the market looked set to crack. What the milestone says about what’s ahead for risk and volatility.](https://www.marketwatch.com/story/dow-closes-above-50-000-for-first-time-after-rough-week-for-u-s-stock-market-c47282f7?mod=mw_rss_topstories)
+**发布时间**: 2026-02-07 02:05
+
+#### [I settled my father’s estate, but found a will deeding a mobile home to his stepson. Am I ethically and legally obliged to fix this?](https://www.marketwatch.com/story/i-settled-my-fathers-estate-but-found-a-will-deeding-a-mobile-home-to-his-stepson-am-i-ethically-and-legally-obliged-to-fix-this-4c105c0d?mod=mw_rss_topstories)
+**发布时间**: 2026-02-07 00:50
+
+#### [This year’s Super Bowl ads tell you the AI bubble is about to burst](https://www.marketwatch.com/story/this-years-super-bowl-ads-tell-you-the-ai-bubble-is-about-to-burst-1357e5ae?mod=mw_rss_topstories)
+**发布时间**: 2026-02-06 23:40
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [US launches antitrust review of $83bn Netflix deal for Warner Bros](https://www.ft.com/content/fc91a7db-f99f-4f26-81ca-3be78bfa4ce4)
+**发布时间**: 2026-02-06 23:06
 
 ---
 
