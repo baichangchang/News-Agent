@@ -2,90 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "294b0b24d8c0c1c45eef6383625fb29313abe910aaf58f6671a4efc3031f78d5": {
-        "title": "马杜罗的“百年孤独”",
-        "link": "https://www.tmtpost.com/7836892.html",
-        "published_date": "Fri, 09 Jan 2026 16:12:00 GMT",
-        "first_seen": "2026-01-09T08:35:24.293380"
-      },
-      "4620b594d8b9957f2a8fa132887f794db4dbf4ffdd54bb25e59ea3aeba49803f": {
-        "title": "新年第一举来了，又是险资举牌银行H股",
-        "link": "https://www.tmtpost.com/7837148.html",
-        "published_date": "Fri, 09 Jan 2026 15:59:00 GMT",
-        "first_seen": "2026-01-09T08:35:24.293387"
-      },
-      "85be6bd84799d226d6fd086a58edab318821fe9d10ed2aee33b603174f264218": {
-        "title": "西贝不服输",
-        "link": "https://www.tmtpost.com/7834407.html",
-        "published_date": "Fri, 09 Jan 2026 15:51:00 GMT",
-        "first_seen": "2026-01-09T08:35:24.293389"
-      },
-      "b5d43afe3a7823654109df82500e0fe3103c22111b41e0aae8f4036829fad68e": {
-        "title": "CES 2026：在全球市场谈智能化，长城汽车选择了哪些取舍",
-        "link": "https://www.tmtpost.com/7837114.html",
-        "published_date": "Fri, 09 Jan 2026 15:34:00 GMT",
-        "first_seen": "2026-01-09T08:35:24.293391"
-      },
-      "af41b1decebe8990da72f5381c854d43053dcfe42faa808f83f9a623fd101fb4": {
-        "title": "9亿美元！英特尔旗下Mobileye收购人形机器人公司，加码物理AI",
-        "link": "https://www.tmtpost.com/6424013.html",
-        "published_date": "Fri, 09 Jan 2026 15:02:00 GMT",
-        "first_seen": "2026-01-09T08:35:24.293393"
-      },
-      "8fd623c981c09ac77dda475b00e0af2b9fa659a0c408b9c19ea99327f3c034db": {
-        "title": "卫蓝新能源，抢滩“资本盛宴”",
-        "link": "https://www.tmtpost.com/7836622.html",
-        "published_date": "Fri, 09 Jan 2026 15:00:00 GMT",
-        "first_seen": "2026-01-09T08:35:24.293395"
-      },
-      "638f2e67612ea6046e5d79a8eb010f64e9e710742a033758684a7242067100e6": {
-        "title": "CES 2026观察：AI眼镜并没有迎来iPhone时刻",
-        "link": "https://www.tmtpost.com/7836799.html",
-        "published_date": "Fri, 09 Jan 2026 14:17:00 GMT",
-        "first_seen": "2026-01-09T08:35:24.293396"
-      },
-      "3d5b8374b14e09a8631a57c9e93a6e61a5cca65a7b2a4a9331eeebdae6e61c12": {
-        "title": "史上最大规模Tech World，联想开启“混合式AI新纪元”",
-        "link": "https://www.tmtpost.com/7836883.html",
-        "published_date": "Fri, 09 Jan 2026 13:54:00 GMT",
-        "first_seen": "2026-01-09T08:35:24.293398"
-      },
-      "113b18a200328d2eb39883d1ad11f07868b7c31d5a16c0dfec117115d172390f": {
-        "title": "高特电子：盈利质量堪忧+产品竞争力下滑，神秘股东巨额收益引热议｜IPO观察",
-        "link": "https://www.tmtpost.com/7836767.html",
-        "published_date": "Fri, 09 Jan 2026 13:41:00 GMT",
-        "first_seen": "2026-01-09T08:35:24.293399"
-      },
-      "63cdc47ef2726c70fa0ce55f01f962547ae5c86f36c3655b43e7efce1fb5c1b5": {
-        "title": "MiniMax盘中一度涨超80%，历史上IPO规模最大的AI大模型公司诞生，引爆港股市场",
-        "link": "https://www.tmtpost.com/7836947.html",
-        "published_date": "Fri, 09 Jan 2026 13:38:00 GMT",
-        "first_seen": "2026-01-09T08:35:24.293401"
-      },
-      "6fee87cabbd7f88b80a112b9e6a944ce70bf721b22bf38dc45048bbe3113f14c": {
-        "title": "恒瑞医药上岸，但TGF-还没有",
-        "link": "https://www.tmtpost.com/7836754.html",
-        "published_date": "Fri, 09 Jan 2026 13:27:00 GMT",
-        "first_seen": "2026-01-09T08:35:24.293402"
-      },
-      "e1165d7f40f40944233c693f7d36a67e5e7cdde4d8d1d015c188e937befb22b2": {
-        "title": "Facebook调查显示：越来越多的人开始采用带类型的Python，以提升代码质量和灵活性",
-        "link": "https://www.infoq.cn/article/t6i8lghRAdi9I4weD2mR?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 09 Jan 2026 15:21:00 GMT",
-        "first_seen": "2026-01-09T08:35:24.293404"
-      },
-      "a24e8daa3ae1d8b7efdfb002ec2a6c4a89d4b536331c8679522f60ee6496a09c": {
-        "title": "Manus高溢价收购背后，是Agent开发落地困境",
-        "link": "https://www.infoq.cn/article/SxeNI9gVzcKr36xlwuCQ?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 09 Jan 2026 14:47:00 GMT",
-        "first_seen": "2026-01-09T08:35:24.293405"
-      },
-      "5bcae54c5d13f9d30801150d84dccc0b827b202d7cf713c15dbbafae7cd788c8": {
-        "title": "动态磁贴消亡史",
-        "link": "https://sspai.com/post/105188",
-        "published_date": "Fri, 09 Jan 2026 15:11:00 GMT",
-        "first_seen": "2026-01-09T08:35:24.293407"
-      },
       "2499eaa6f8d0a8aea0c5921360bfce92f5d8a1e09f8916eda6245a3792cb7ced": {
         "title": "58亿市值拟40亿押注AI，杰创智能豪购引疑",
         "link": "https://www.tmtpost.com/7837550.html",
@@ -9991,21 +9907,15 @@
         "link": "https://www.infoq.cn/article/bibe64DvY3it15efBbta?utm_source=rss&utm_medium=article",
         "published_date": "Sun, 08 Feb 2026 08:00:00 GMT",
         "first_seen": "2026-02-08T06:01:15.214812"
+      },
+      "edf7d6b9911fafc15297d638b9100e9c6a80994e26ccc1d9c1c5301881c7b239": {
+        "title": "价值判断：涨停板的投资机会和风险提示（2月6日）｜证券市场观察",
+        "link": "https://www.tmtpost.com/7871256.html",
+        "published_date": "Sun, 08 Feb 2026 10:02:00 GMT",
+        "first_seen": "2026-02-08T08:37:33.927766"
       }
     },
     "Finance": {
-      "62593412f282ee2921af855b2c982870359e9252671777d46e01244c191d906f": {
-        "title": "The world’s biggest miner may be created with copper prices near highs",
-        "link": "https://www.marketwatch.com/story/the-worlds-biggest-miner-may-be-created-with-copper-prices-near-highs-0292fc50?mod=mw_rss_topstories",
-        "published_date": "Fri, 09 Jan 2026 08:18:00 GMT",
-        "first_seen": "2026-01-09T08:35:24.050931"
-      },
-      "0e66df35ccaf259b5af244f60b80b84de62e46194d021f43fffdc51ac40a8091": {
-        "title": "Iran hit by ‘internet blackout’ as regime struggles to contain protests",
-        "link": "https://www.ft.com/content/0e1762e0-8aa6-44b5-977c-0865ecdcbb7d",
-        "published_date": "Fri, 09 Jan 2026 07:07:00 GMT",
-        "first_seen": "2026-01-09T08:35:24.050940"
-      },
       "e9ecf988751e2157786f0628d9c37b2aef020f03f9bf7c0109b71d525c74fef3": {
         "title": "My wife, 74, collects survivor benefits on her first husband. Can she now claim on her own Social Security record?",
         "link": "https://www.marketwatch.com/story/my-wife-74-collects-survivor-benefits-on-her-first-husband-can-she-now-claim-on-her-own-social-security-record-66bc65c2?mod=mw_rss_topstories",
@@ -14880,60 +14790,6 @@
       }
     },
     "Ai": {
-      "7119a5bca841158e72bf3c947392d57b6fbad7c7a587b329e42b6728e069f5a0": {
-        "title": "让两个大模型「在线吵架」，他们跑通了全网95%科研代码｜深势发布Deploy-Master",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-09-9",
-        "published_date": "Fri, 09 Jan 2026 14:29:00 GMT",
-        "first_seen": "2026-01-09T08:35:24.179184"
-      },
-      "2ed334853b28b64f4c696b5e8c6306fe15eebb5c90b0f30751e8f789a8d6c430": {
-        "title": "OpenAI for Healthcare——面向医疗保健的AI产品",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-09-8",
-        "published_date": "Fri, 09 Jan 2026 14:28:00 GMT",
-        "first_seen": "2026-01-09T08:35:24.179192"
-      },
-      "d785391c614190dbf13ccf91b749ba281f1237e1e65466d04864879afb5b7f2e": {
-        "title": "深势科技发布Deploy-Master：一天部署5万个科学计算工具，这可能是Agentic Science真正的起点",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-09-7",
-        "published_date": "Fri, 09 Jan 2026 14:27:00 GMT",
-        "first_seen": "2026-01-09T08:35:24.179194"
-      },
-      "59664ca0b6dd1eee0e59441bdf149fc57e232238629a1489bdb4bd87e03e8ba3": {
-        "title": "一年后，DeepSeek-R1的每token成本降到了原来的1/32",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-09-6",
-        "published_date": "Fri, 09 Jan 2026 14:24:00 GMT",
-        "first_seen": "2026-01-09T08:35:24.179196"
-      },
-      "95a1c97d2ceb1200445d58fb2a81bc227a2a9be6b483afd78cbf9f3148bd09a3": {
-        "title": "Agent 2.0时代来了，首批「工业级智能体」正在核心位置上岗",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-09-5",
-        "published_date": "Fri, 09 Jan 2026 13:36:00 GMT",
-        "first_seen": "2026-01-09T08:35:24.179197"
-      },
-      "a8249f1fc6a74c2815b804279afc7d1902244e7e3dc2471b78cf20818f8de536": {
-        "title": "谁家更新日志那么长啊？Claude Code版本更新引围观，1096次提交一口气上线",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-09-4",
-        "published_date": "Fri, 09 Jan 2026 13:30:00 GMT",
-        "first_seen": "2026-01-09T08:35:24.179199"
-      },
-      "696e1c96301ca7f90dd5a6dafd1e6823014299a5f80acbc04d7e09c66fdf65cf": {
-        "title": "华为小米蔚来抢爆新年新车申报！都很豪华",
-        "link": "https://www.qbitai.com/2026/01/368439.html",
-        "published_date": "Fri, 09 Jan 2026 08:16:00 GMT",
-        "first_seen": "2026-01-09T08:35:24.179200"
-      },
-      "800e9eed3f03c720564623a9618231992a2053136656eaad8dd4039140af2d74": {
-        "title": "清华AI找药登Science！一天筛选10万亿次，解决AlphaFold遗留难题",
-        "link": "https://www.qbitai.com/2026/01/368407.html",
-        "published_date": "Fri, 09 Jan 2026 08:04:00 GMT",
-        "first_seen": "2026-01-09T08:35:24.179201"
-      },
-      "1983902f420e95bf69862a8ad868b319d669c22992c62bf334fc306cf42f4c74": {
-        "title": "一口气集齐老黄苏妈英特尔，还得是AI，还得是联想",
-        "link": "https://www.qbitai.com/2026/01/367831.html",
-        "published_date": "Fri, 09 Jan 2026 06:29:00 GMT",
-        "first_seen": "2026-01-09T08:35:24.179203"
-      },
       "45d402c94baf810c5d372a7a3c94a9c5660b7fa6bd24161c229f44114f9b8566": {
         "title": "AAAI 2026在新加坡滨海湾畔共饮一杯：蚂蚁InTech之夜邀您共话AI未来",
         "link": "https://www.jiqizhixin.com/articles/2026-01-09-10",
@@ -17681,13 +17537,19 @@
         "link": "https://www.jiqizhixin.com/articles/2026-02-08",
         "published_date": "Sun, 08 Feb 2026 11:28:00 GMT",
         "first_seen": "2026-02-08T06:01:15.128125"
+      },
+      "3877aaea05bfad46b78fbf7f6b02f655cc351dd6e2af5aacb3f213d8c0cba120": {
+        "title": "AI看图一本正经胡说八道？「一拉一推」让模型看得全又准｜微软x清华",
+        "link": "https://www.qbitai.com/2026/02/377959.html",
+        "published_date": "Sun, 08 Feb 2026 06:08:00 GMT",
+        "first_seen": "2026-02-08T08:37:33.860106"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-02-08T06:01:15.214813",
+    "Technology": "2026-02-08T08:37:33.927774",
     "Finance": "2026-02-08T06:01:14.978999",
-    "Ai": "2026-02-08T06:01:15.128127"
+    "Ai": "2026-02-08T08:37:33.860115"
   }
 }

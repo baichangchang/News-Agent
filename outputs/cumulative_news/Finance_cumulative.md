@@ -1,7 +1,15 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-08 06:01
+**最后更新时间**: 2026-02-08 08:37
+
+---
+
+## 🆕 最新更新 (2026-02-08 08:37)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [World’s priciest hotels charge record prices in defiance of luxury slowdown](https://www.ft.com/content/94dfcbb3-6f61-4ee5-808a-dfa10d5d2f55)
+**发布时间**: 2026-02-08 05:00
 
 ---
 
