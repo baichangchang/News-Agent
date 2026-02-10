@@ -2,24 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "7611ae46989c12b0a5aa41ee5277a76862f3e714b1bc002819a659d882adce57": {
-        "title": "2026，AI的价值不在参数里",
-        "link": "https://www.tmtpost.com/7838391.html",
-        "published_date": "Sun, 11 Jan 2026 14:22:00 GMT",
-        "first_seen": "2026-01-11T08:30:54.582562"
-      },
-      "37755efc2ab8674ee01db9c97f472e35f7067db2a7389032b89e492edbf92d39": {
-        "title": "卓驭创始人沈劭劼：2026，智驾要从“端到端” 到“端到所有地方”",
-        "link": "https://www.tmtpost.com/7836257.html",
-        "published_date": "Sun, 11 Jan 2026 13:33:00 GMT",
-        "first_seen": "2026-01-11T08:30:54.582571"
-      },
-      "42db0fb15c869a67adabb8fd39442acb4d87190610f95f292a397bee4401ddaf": {
-        "title": "AI+硬件的\"最后一公里\"：从技术到场景，如何破局？| CES 2026",
-        "link": "https://www.tmtpost.com/7837988.html",
-        "published_date": "Sun, 11 Jan 2026 13:31:00 GMT",
-        "first_seen": "2026-01-11T08:30:54.582574"
-      },
       "faf938825be60461b717562b3558d5b0eaa17a0cf8b6887a59fc7cfc2ce0f649": {
         "title": "CES 2026 盘点：你可能错过的新奇花活",
         "link": "https://sspai.com/post/105364",
@@ -9973,6 +9955,96 @@
         "link": "https://www.infoq.cn/article/5dsQgAfhRJSyvZNtZWCh?utm_source=rss&utm_medium=article",
         "published_date": "Tue, 10 Feb 2026 08:51:00 GMT",
         "first_seen": "2026-02-10T06:12:59.351062"
+      },
+      "eaf4ea895805b58ea25dc3ad456fe578792600ae3f9ffb1d147ad8b331db33d6": {
+        "title": "Drone Pilot: the New Lucrative Job in China?",
+        "link": "https://www.tmtpost.com/7874229.html",
+        "published_date": "Tue, 10 Feb 2026 16:58:00 GMT",
+        "first_seen": "2026-02-10T09:00:08.411543"
+      },
+      "34f3b29dcfc96f8b5044ff3118bd8972643833ee866eb99423d1e11686c051f4": {
+        "title": "大厂在春节档赶考",
+        "link": "https://www.tmtpost.com/7873874.html",
+        "published_date": "Tue, 10 Feb 2026 16:39:00 GMT",
+        "first_seen": "2026-02-10T09:00:08.411550"
+      },
+      "d4d81c0969a921da2a0e7ed3934fdb572861c9e32de9c8ffcea794a6c338ffb7": {
+        "title": "龙鑫智能闯关北交所：周期困局、回款风险与并购疑云交织 | IPO观察",
+        "link": "https://www.tmtpost.com/7874240.html",
+        "published_date": "Tue, 10 Feb 2026 16:32:00 GMT",
+        "first_seen": "2026-02-10T09:00:08.411553"
+      },
+      "40e8b3856b629c51b5163221269537d21a4eabecdffa944d8bac7fcc1f3dc94a": {
+        "title": "OpenClaw 爆了，然后呢？",
+        "link": "https://www.tmtpost.com/7873957.html",
+        "published_date": "Tue, 10 Feb 2026 16:10:00 GMT",
+        "first_seen": "2026-02-10T09:00:08.411555"
+      },
+      "476253c17e7a91270550cc3dbb46d255c7a29659701a0311e9d5246638b61826": {
+        "title": "年会停了，但没人怀念它",
+        "link": "https://www.tmtpost.com/7873856.html",
+        "published_date": "Tue, 10 Feb 2026 15:52:00 GMT",
+        "first_seen": "2026-02-10T09:00:08.411557"
+      },
+      "5f218492937613097f0f57792f488c3460f7ec4b62307b33fa0b38df09ffa39e": {
+        "title": "9.9元咖啡，正在悄悄消失？",
+        "link": "https://www.tmtpost.com/7873913.html",
+        "published_date": "Tue, 10 Feb 2026 15:28:00 GMT",
+        "first_seen": "2026-02-10T09:00:08.411558"
+      },
+      "88a3e8eadbcf211dcb03eac0fcbc0b27c71622a4d3f303260f207f837e6c2639": {
+        "title": "“押注日本”单日浮盈20亿，巴菲特还是巴菲特",
+        "link": "https://www.tmtpost.com/7874165.html",
+        "published_date": "Tue, 10 Feb 2026 15:19:00 GMT",
+        "first_seen": "2026-02-10T09:00:08.411560"
+      },
+      "9d5b05b201339610842fa16f45ae7b05ebd99e17c6b4238f9959b32d00153296": {
+        "title": "神仙打架！阿里字节同日发布AI生图新品：Seedream 5.0 vs Qwen-Image-2.0",
+        "link": "https://www.tmtpost.com/7874094.html",
+        "published_date": "Tue, 10 Feb 2026 14:59:00 GMT",
+        "first_seen": "2026-02-10T09:00:08.411561"
+      },
+      "3d544e83b9019087f2a9fe4bd0db69c5096521d0aa0d141725dbd95621068355": {
+        "title": "深度拆解Clawdbot，为何它能成为2026年第一个现象级产品？",
+        "link": "https://www.tmtpost.com/7873896.html",
+        "published_date": "Tue, 10 Feb 2026 14:45:00 GMT",
+        "first_seen": "2026-02-10T09:00:08.411562"
+      },
+      "aee1edad096a2d9624e41064f5e99e1f5404c861e7d2d2b0a4cc033c7981184a": {
+        "title": "机构预测越南2026年引领东盟+3地区经济增长；京东欧洲电商平台Joybuy将于3月正式上线；加拿大电动汽车新战略将与中国合作｜一周出海参考",
+        "link": "https://www.tmtpost.com/7872939.html",
+        "published_date": "Tue, 10 Feb 2026 14:13:00 GMT",
+        "first_seen": "2026-02-10T09:00:08.411564"
+      },
+      "79f67a9273c3598025bb6975db12d13b432396bd60e01617c652fac257a4a42a": {
+        "title": "越南批准一项连接中国的智慧口岸项目；沙特正式启动国家私有化战略；TikTok Shop东南亚跨境电商启动「春节不打烊」活动｜一周出海参考",
+        "link": "https://www.tmtpost.com/7872899.html",
+        "published_date": "Tue, 10 Feb 2026 14:12:00 GMT",
+        "first_seen": "2026-02-10T09:00:08.411565"
+      },
+      "20748c50dcdba27522821a1f6c391c94d43c26dae204c63a2f036b63d5c4d81c": {
+        "title": "巴西将对中国公民免签；TikTok Shop美区取消自发货；越南加强数字消费用户保护处罚TikTok｜一周出海参考",
+        "link": "https://www.tmtpost.com/7872886.html",
+        "published_date": "Tue, 10 Feb 2026 14:09:00 GMT",
+        "first_seen": "2026-02-10T09:00:08.411566"
+      },
+      "4bc7335f52c3fff59a6df19e56a2bc08e2c4234d490e85fd134792da3ef9c71e": {
+        "title": "外卖大战2026，从“涨佣”开始",
+        "link": "https://www.tmtpost.com/7873634.html",
+        "published_date": "Tue, 10 Feb 2026 14:05:00 GMT",
+        "first_seen": "2026-02-10T09:00:08.411568"
+      },
+      "c413628a9e28acc52db6b0be501f53f0684023e665b0193b638abe77e0e51668": {
+        "title": "投出爱芯、壁仞的耀途资本：中国AI芯片的胜算",
+        "link": "https://www.tmtpost.com/7873989.html",
+        "published_date": "Tue, 10 Feb 2026 13:02:00 GMT",
+        "first_seen": "2026-02-10T09:00:08.411569"
+      },
+      "367e69f6fbfd73a5f2d873104fa6251047864e5eb5a6d5d6f8375695e2bd4686": {
+        "title": "一条视频看懂高市早苗的布局，她接下来要做什么？",
+        "link": "http://www.huxiu.com/article/4833798.html?f=wangzhan",
+        "published_date": "Tue, 10 Feb 2026 15:01:00 GMT",
+        "first_seen": "2026-02-10T09:00:08.411571"
       }
     },
     "Finance": {
@@ -14979,6 +15051,24 @@
         "link": "https://www.marketwatch.com/story/targets-new-ceo-wants-to-make-stores-more-welcoming-his-latest-move-is-to-cut-jobs-ff1774fd?mod=mw_rss_topstories",
         "published_date": "Mon, 09 Feb 2026 23:51:00 GMT",
         "first_seen": "2026-02-10T06:12:59.089571"
+      },
+      "f508a505021961845301600ebe1b20c75d5e3ff846f706925cb95663856b9e02": {
+        "title": "BP suspends share buyback plan",
+        "link": "https://www.ft.com/content/b16c72a5-a7df-45ac-a30e-f6f26bd4c469",
+        "published_date": "Tue, 10 Feb 2026 08:29:00 GMT",
+        "first_seen": "2026-02-10T09:00:08.157530"
+      },
+      "4e9ec1350de07af76afd226c261c4e2a6fe8b408466e1d5b5124958463fead52": {
+        "title": "BP to halt stock buybacks as profit slumps",
+        "link": "https://www.marketwatch.com/story/bp-to-halt-stock-buybacks-as-profit-slumps-0457cb71?mod=mw_rss_topstories",
+        "published_date": "Tue, 10 Feb 2026 08:05:00 GMT",
+        "first_seen": "2026-02-10T09:00:08.157540"
+      },
+      "bb8c8d925c172f7dc13c674859d32949cc23e1ed9b328a282063bc301d8057b4": {
+        "title": "AstraZeneca profit climbs on cancer and heart drug demand",
+        "link": "https://www.marketwatch.com/story/astrazeneca-profit-climbs-on-cancer-and-heart-drug-demand-b673c908?mod=mw_rss_topstories",
+        "published_date": "Tue, 10 Feb 2026 07:24:00 GMT",
+        "first_seen": "2026-02-10T09:00:08.157542"
       }
     },
     "Ai": {
@@ -17777,13 +17867,43 @@
         "link": "https://www.qbitai.com/2026/02/378205.html",
         "published_date": "Tue, 10 Feb 2026 03:12:00 GMT",
         "first_seen": "2026-02-10T06:12:59.248482"
+      },
+      "d6025ebe2278d07d71eebf32a8598e274224097d557c71a503a338104cf23998": {
+        "title": "Vidu Q3 全球屠榜， 击败马斯克xAI Grok、 OpenAI Sora、Google Veo 3，登顶 Artificial Analysis 榜首",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-10-7",
+        "published_date": "Tue, 10 Feb 2026 15:06:00 GMT",
+        "first_seen": "2026-02-10T09:00:08.316065"
+      },
+      "10ab586748008ed7f56f7a0eb96e0b50c72501e28f943c9023756727aff6c622": {
+        "title": "用千万级 MPRA 数据训练深度模型，首次系统性解码人类启动子的调控语法",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-10-6",
+        "published_date": "Tue, 10 Feb 2026 14:19:00 GMT",
+        "first_seen": "2026-02-10T09:00:08.316073"
+      },
+      "ba0957ac753c267bbdc64d464b2b3403c307922c2aac9ec52766fe39f52e470a": {
+        "title": "GLM-5架构曝光，智谱两日涨近60%：采用DeepSeek同款稀疏注意力",
+        "link": "https://www.qbitai.com/2026/02/378315.html",
+        "published_date": "Tue, 10 Feb 2026 07:59:00 GMT",
+        "first_seen": "2026-02-10T09:00:08.316075"
+      },
+      "3572f1be75cf1e9abed239d0112c644392592d315a9ad87c1ee2dc6f44843ad3": {
+        "title": "蚂蚁投了一家上海具身智能公司",
+        "link": "https://www.qbitai.com/2026/02/378305.html",
+        "published_date": "Tue, 10 Feb 2026 07:27:00 GMT",
+        "first_seen": "2026-02-10T09:00:08.316077"
+      },
+      "d631eb059989d14a8f34c913529192b66eac1adc9bba81bec77722b87603ac82": {
+        "title": "华为发布业界首个扩散语言模型Agent，部分场景提速8倍！",
+        "link": "https://www.qbitai.com/2026/02/378286.html",
+        "published_date": "Tue, 10 Feb 2026 07:18:00 GMT",
+        "first_seen": "2026-02-10T09:00:08.316078"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-02-10T06:12:59.351064",
-    "Finance": "2026-02-10T06:12:59.089572",
-    "Ai": "2026-02-10T06:12:59.248484"
+    "Technology": "2026-02-10T09:00:08.411572",
+    "Finance": "2026-02-10T09:00:08.157544",
+    "Ai": "2026-02-10T09:00:08.316080"
   }
 }
