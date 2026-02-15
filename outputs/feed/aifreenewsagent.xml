@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 14 Feb 2026 23:28:00 GMT</pubDate>
-    <lastBuildDate>Sat, 14 Feb 2026 23:28:27 GMT</lastBuildDate>
+    <pubDate>Sun, 15 Feb 2026 08:37:00 GMT</pubDate>
+    <lastBuildDate>Sun, 15 Feb 2026 08:37:50 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,51 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>字节跳动发布豆包大模型2.0，主打真实世界复杂任务执行力</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-14-9</link>
-      <description>&lt;![CDATA[字节跳动发布豆包大模型2.0，主打真实世界复杂任务执行力]]&gt;</description>
-      <pubDate>Sat, 14 Feb 2026 16:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-14-9</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>Agent、图像、视频全是大版本升级：春晚还没开，豆包AI就火了</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-14-8</link>
-      <description>&lt;![CDATA[Agent、图像、视频全是大版本升级：春晚还没开，豆包AI就火了]]&gt;</description>
-      <pubDate>Sat, 14 Feb 2026 16:51:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-14-8</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>这个情人节，AI深吻Math！国产RL系统多维突破300年亲吻数难题</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-14-7</link>
-      <description>&lt;![CDATA[这个情人节，AI深吻Math！国产RL系统多维突破300年亲吻数难题]]&gt;</description>
-      <pubDate>Sat, 14 Feb 2026 16:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-14-7</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>多模态Deep Research，终于有了「可核验」的评测标准</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-14-6</link>
-      <description>&lt;![CDATA[多模态Deep Research，终于有了「可核验」的评测标准]]&gt;</description>
-      <pubDate>Sat, 14 Feb 2026 16:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-14-6</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>全国首批！商汤大装置SenseCore获软件供应链安全能力评估证书</title>
-      <link>https://www.qbitai.com/2026/02/380375.html</link>
-      <description>&lt;![CDATA[全国首批！商汤大装置SenseCore获软件供应链安全能力评估证书]]&gt;</description>
-      <pubDate>Sat, 14 Feb 2026 08:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/02/380375.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>「斯坦福AI小镇」创业即获投1亿美元！李飞飞卡帕西都投了</title>
-      <link>https://www.qbitai.com/2026/02/380347.html</link>
-      <description>&lt;![CDATA[「斯坦福AI小镇」创业即获投1亿美元！李飞飞卡帕西都投了]]&gt;</description>
-      <pubDate>Sat, 14 Feb 2026 08:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/02/380347.html</guid>
+      <title>捅破具身智能天花板！极佳视界新VLA大模型登场，复杂长时程任务近100%成功率</title>
+      <link>https://www.qbitai.com/2026/02/380388.html</link>
+      <description>&lt;![CDATA[捅破具身智能天花板！极佳视界新VLA大模型登场，复杂长时程任务近100%成功率]]&gt;</description>
+      <pubDate>Sun, 15 Feb 2026 05:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/02/380388.html</guid>
       <category>Ai</category>
     </item>
   </channel>
