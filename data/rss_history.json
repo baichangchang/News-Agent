@@ -2,108 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "293ee30e4643b75ff1a8261705b8e22c2409e8d08fcc90d69cb4eaed9c05e24c": {
-        "title": "WAIC首次“南下”：沪港握手2026“WAIC UP!全球年终盛会”，共揭AI对话新篇",
-        "link": "https://www.tmtpost.com/7848881.html",
-        "published_date": "Tue, 20 Jan 2026 16:28:00 GMT",
-        "first_seen": "2026-01-20T08:41:46.614032"
-      },
-      "91a73cbc9600569c8306324d6b07c139711ca65ebcc88b3340f2deeb8dec6fec": {
-        "title": "第28届高交会3E亚洲消费电子展招展工作今日正式启动",
-        "link": "https://www.tmtpost.com/7849163.html",
-        "published_date": "Tue, 20 Jan 2026 16:27:00 GMT",
-        "first_seen": "2026-01-20T08:41:46.614039"
-      },
-      "552ca086eb3f97c85b822775eaadb7d548a63cea2e70d63f2b5ffb0f532fd631": {
-        "title": "是别针还是耳机？OpenAI首款AI硬件形态成谜",
-        "link": "https://www.tmtpost.com/7849159.html",
-        "published_date": "Tue, 20 Jan 2026 16:24:00 GMT",
-        "first_seen": "2026-01-20T08:41:46.614042"
-      },
-      "68a10d68d8643d53cc8afdb1c6619d6ecc9c410cdf72d726747727a662dc7a1d": {
-        "title": "河北“煤改气”困局：与其骑虎难下，不如灵活掉头",
-        "link": "https://www.tmtpost.com/7848712.html",
-        "published_date": "Tue, 20 Jan 2026 15:53:00 GMT",
-        "first_seen": "2026-01-20T08:41:46.614043"
-      },
-      "3113d4d1752b271a69db7fa3cda1bb610fcdfdaa6e2e2f48b43f8684361a0a2d": {
-        "title": "2026，物理AI的六大趋势：新物种大爆发，淘汰赛开启",
-        "link": "https://www.tmtpost.com/7844541.html",
-        "published_date": "Tue, 20 Jan 2026 15:27:00 GMT",
-        "first_seen": "2026-01-20T08:41:46.614045"
-      },
-      "9d926d2d64f4496c6e0de7cc96cb6c446db28d0570589c3b19b019d3d20d0570": {
-        "title": "百瑞吉：产品单一，经销渠道高度动荡，实控人债务隐忧凸显｜IPO观察",
-        "link": "https://www.tmtpost.com/7847668.html",
-        "published_date": "Tue, 20 Jan 2026 15:05:00 GMT",
-        "first_seen": "2026-01-20T08:41:46.614047"
-      },
-      "d0ebaa267fe4df435427752d482a72bd48ac3bc3e91dd447a440eceb400c4bd2": {
-        "title": "KRAS战事刚起步",
-        "link": "https://www.tmtpost.com/7848800.html",
-        "published_date": "Tue, 20 Jan 2026 14:44:00 GMT",
-        "first_seen": "2026-01-20T08:41:46.614048"
-      },
-      "1447250e7cf21afb29f0bfd19c1d949c734bbf60299c2c96a95a2b160b73aa36": {
-        "title": "多国拟出台未成年人社交媒体禁令，Meta、Snap股价或受冲击",
-        "link": "https://www.tmtpost.com/7849004.html",
-        "published_date": "Tue, 20 Jan 2026 13:39:00 GMT",
-        "first_seen": "2026-01-20T08:41:46.614049"
-      },
-      "a43908cdefc7cb725a6b7e0938c82c8c9b8ff8bbfa10fb52a69ca9b7d6d98299": {
-        "title": "2026股市猜想",
-        "link": "https://www.tmtpost.com/7848783.html",
-        "published_date": "Tue, 20 Jan 2026 13:38:00 GMT",
-        "first_seen": "2026-01-20T08:41:46.614051"
-      },
-      "162fab856fd2e6bcda066b1e346b5126531e8e9734bef6ce23965ea342a04577": {
-        "title": "股市暴跌，美元走弱，特朗普的格陵兰岛关税威胁如何冲击市场？",
-        "link": "https://www.tmtpost.com/7848865.html",
-        "published_date": "Tue, 20 Jan 2026 10:57:00 GMT",
-        "first_seen": "2026-01-20T08:41:46.614052"
-      },
-      "8b9ba198fc4b260458f1678ce9906cbca0023915b6add7432ac9eada9afa3594": {
-        "title": "ASML股价受贸易战担忧拖累下跌，多家芯片企业亦受波及",
-        "link": "https://www.tmtpost.com/7848861.html",
-        "published_date": "Tue, 20 Jan 2026 10:57:00 GMT",
-        "first_seen": "2026-01-20T08:41:46.614053"
-      },
-      "f67392208130e748b046d3cf286111f2e62eea50851c9dcc766e4814bba23096": {
-        "title": "微软为MCP服务器发布了Azure函数支持",
-        "link": "https://www.infoq.cn/article/HY40dxuIKS2uTIJmUb96?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 20 Jan 2026 16:24:00 GMT",
-        "first_seen": "2026-01-20T08:41:46.614055"
-      },
-      "182232b23befdd48abcd67a86f0f14ab44dcb77daa7362336470e5603abc68bf": {
-        "title": "大模型低价趋势延续！智象未来姚霆：B端、C端界限模糊，API不够、逼出 “按结果付费”",
-        "link": "https://www.infoq.cn/article/fijwq6waNUKJhmbUGMqc?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 20 Jan 2026 15:18:00 GMT",
-        "first_seen": "2026-01-20T08:41:46.614056"
-      },
-      "b4740f3ba16e0648147b75ea0278a3b1c344fbd72fc265c77bf458cdc08b0cdd": {
-        "title": "产业级 Agent 如何破局？百度吴健民：通用模型难“通吃”，垂直场景才是出路",
-        "link": "https://www.infoq.cn/article/RFVtzWIOoQhubp6cz0yK?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 20 Jan 2026 15:10:00 GMT",
-        "first_seen": "2026-01-20T08:41:46.614057"
-      },
-      "a97612d234c0c5d79b95801fb93ebe2ae874c78528cab0a9b0ddff248a0edf38": {
-        "title": "Mistral发布OCR 3，提升了手写及结构化文档识别的准确率",
-        "link": "https://www.infoq.cn/article/DX8LLPkyH06INOoAjxxa?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 20 Jan 2026 15:06:00 GMT",
-        "first_seen": "2026-01-20T08:41:46.614059"
-      },
-      "a5e3f6db725c849894399885bdfe36b6490c8b13497f1d642e3828732bac1217": {
-        "title": "2026 年预测：智能体将推动集中化战略，带来新的工作方式 ｜ 技术趋势",
-        "link": "https://www.infoq.cn/article/cTKd3cN0LK4Fx90mPArR?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 20 Jan 2026 14:48:00 GMT",
-        "first_seen": "2026-01-20T08:41:46.614060"
-      },
-      "245814a3303d35f13f1cd5f8bebde462e6b9e4faaa599ce391087f48d83e568f": {
-        "title": "从雪地陷车到撞围栏：境外租车自驾复盘与避坑攻略",
-        "link": "https://sspai.com/post/105575",
-        "published_date": "Tue, 20 Jan 2026 14:58:00 GMT",
-        "first_seen": "2026-01-20T08:41:46.614061"
-      },
       "822027d2ac45345faa8f749af697b168adac5efa27e1447f23bd7d9058549870": {
         "title": "解绑宁王，天赐底气何在？",
         "link": "http://www.huxiu.com/article/4817712.html?f=wangzhan",
@@ -9355,33 +9253,39 @@
         "link": "https://www.infoq.cn/article/CxEVz8hseoW4fpSmNaqZ?utm_source=rss&utm_medium=article",
         "published_date": "Thu, 19 Feb 2026 08:00:00 GMT",
         "first_seen": "2026-02-19T06:06:21.490264"
+      },
+      "5ed827ebbb5ed0a24aee199b61e31bcce2a7bd3eab512f4a4ca9b5acf6ebfabf": {
+        "title": "机器人集体“卷”上春晚，IPO前的“亿级”路演",
+        "link": "https://www.tmtpost.com/7884737.html",
+        "published_date": "Thu, 19 Feb 2026 15:27:00 GMT",
+        "first_seen": "2026-02-19T08:51:06.850822"
+      },
+      "79ced87d2db518bf9daf40cc834783665a91508611560866ebddbe9cd3b34696": {
+        "title": "新能源汽车出海2.0：从“卖车”到“建生态”",
+        "link": "https://www.tmtpost.com/7884620.html",
+        "published_date": "Thu, 19 Feb 2026 15:27:00 GMT",
+        "first_seen": "2026-02-19T08:51:06.850831"
+      },
+      "4ff81cb947a1e7e59f4294b50e82d434ff1a579a7683894445dd416ea18dd099": {
+        "title": "“软黄金”火了！年轻人狂囤，有商家爆卖近4000万",
+        "link": "https://www.tmtpost.com/7884646.html",
+        "published_date": "Thu, 19 Feb 2026 15:27:00 GMT",
+        "first_seen": "2026-02-19T08:51:06.850833"
+      },
+      "551428ee7e4483943ac04b1aa22c563b599bf77b141060283fc33e571fd1cc68": {
+        "title": "洗地机站上春晚C位，为什么是追觅？",
+        "link": "https://www.tmtpost.com/7881004.html",
+        "published_date": "Thu, 19 Feb 2026 14:23:00 GMT",
+        "first_seen": "2026-02-19T08:51:06.850835"
+      },
+      "64758347df81541d569158c94ffade29dffd793c94e36b3e0c391210c5dc335e": {
+        "title": "新玩意 236｜少数派的编辑们最近买了啥？",
+        "link": "https://sspai.com/post/106451",
+        "published_date": "Thu, 19 Feb 2026 13:33:00 GMT",
+        "first_seen": "2026-02-19T08:51:06.850837"
       }
     },
     "Finance": {
-      "b8d1f295e4f742e8d001cc1c43a6d8237b1678df8944f00bee75021d55d6c462": {
-        "title": "ChatGPT is now doing what Sam Altman called a ‘last resort’ only two years ago",
-        "link": "https://www.marketwatch.com/story/as-competition-heats-up-openai-changes-course-and-introduces-ads-on-chatgpt-acc5f367?mod=mw_rss_topstories",
-        "published_date": "Tue, 20 Jan 2026 08:17:00 GMT",
-        "first_seen": "2026-01-20T08:41:46.364748"
-      },
-      "e2c77c592f46f44004dd955ce9d3e28a042cdba2d0c9b21366d9c274b267bff2": {
-        "title": "UK private sector wage growth cools to 3.6% as employers cut headcount",
-        "link": "https://www.ft.com/content/9bb2c50c-3c96-4275-b6c0-8c954edc3922",
-        "published_date": "Tue, 20 Jan 2026 07:54:00 GMT",
-        "first_seen": "2026-01-20T08:41:46.364757"
-      },
-      "8529627aac5319848f8e35c24116cb227e9f88075dc563b194ecf6ee9ad698e1": {
-        "title": "Trump criticises ‘stupidity’ of UK’s Chagos Islands deal",
-        "link": "https://www.ft.com/content/fc4eda20-0129-4a02-878f-0fcc49a5defe",
-        "published_date": "Tue, 20 Jan 2026 07:08:00 GMT",
-        "first_seen": "2026-01-20T08:41:46.364759"
-      },
-      "f010cac83dbb045d06b2d08dfdc9c36ae1d53d32efc1379f1131f4ba7e934ce2": {
-        "title": "Trump to hold Greenland meeting at Davos after ‘very good’ call with Rutte",
-        "link": "https://www.ft.com/content/500d9508-72a2-4b04-a225-33adbbf8af78",
-        "published_date": "Tue, 20 Jan 2026 06:38:00 GMT",
-        "first_seen": "2026-01-20T08:41:46.364761"
-      },
       "cddb4b7662c769bbb73233aa8e1c92926ecd2e9f8c08c99ee5f97857ce1f735d": {
         "title": "Netflix just boosted its case to win Warner Bros. Here’s why.",
         "link": "https://www.marketwatch.com/story/netflix-just-boosted-its-case-to-win-warner-bros-heres-why-8a6a44cd?mod=mw_rss_topstories",
@@ -14457,27 +14361,15 @@
         "link": "https://www.marketwatch.com/story/palo-alto-networks-stock-falls-after-earnings-these-analysts-see-a-good-chance-to-buy-8094364d?mod=mw_rss_topstories",
         "published_date": "Wed, 18 Feb 2026 23:52:00 GMT",
         "first_seen": "2026-02-19T06:06:21.567646"
+      },
+      "577d5a2a3f84d3b68ae98bdcaa797eb2fa3d0ad9611890155e03e1519248467e": {
+        "title": "South Korea’s ex-president escapes death sentence in martial law trial",
+        "link": "https://www.ft.com/content/ef281426-e417-4675-9f5c-6d8bdaabb987",
+        "published_date": "Thu, 19 Feb 2026 08:38:00 GMT",
+        "first_seen": "2026-02-19T08:51:06.887897"
       }
     },
     "Ai": {
-      "5b36992ea7acfe98fa48e58e71ae73d5eddf9fbad56f4fa56773e5cc4c4ef808": {
-        "title": "具身基座模型的曙光初现？35000小时训练数据，打造全球最强跨本体VLA",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-20-9",
-        "published_date": "Tue, 20 Jan 2026 16:06:00 GMT",
-        "first_seen": "2026-01-20T08:41:46.492167"
-      },
-      "60abf2ce6f81de0cd3679b5a8fbe537c5717fe4cd8c30b52843b9492e9609e85": {
-        "title": "EmbodiChain开源，用100%生成式数据自动训练具身智能模型",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-20-8",
-        "published_date": "Tue, 20 Jan 2026 15:27:00 GMT",
-        "first_seen": "2026-01-20T08:41:46.492175"
-      },
-      "57649c06cbc3211715c999d73b44cabe989c7eea3651fb33d190fb584ceb888f": {
-        "title": "一周对战2500万局，这些「AI假人」让人类游戏玩家破防了",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-20-7",
-        "published_date": "Tue, 20 Jan 2026 13:32:00 GMT",
-        "first_seen": "2026-01-20T08:41:46.492177"
-      },
       "805ab10e9dea66acebdcafe1d4016ced51b483a06158228bcfda28229e901af7": {
         "title": "刚刚，MiniMax来承包你的桌面了",
         "link": "https://www.jiqizhixin.com/articles/2026-01-20-14",
@@ -17207,13 +17099,37 @@
         "link": "https://www.qbitai.com/2026/02/381037.html",
         "published_date": "Wed, 18 Feb 2026 08:10:00 GMT",
         "first_seen": "2026-02-18T23:33:58.124367"
+      },
+      "6a687e52220ec5546bf45d5fc5e915dc85080c374782ab4c648b07a0cfad8139": {
+        "title": "太初元碁：40+大模型即发即适配，上线即可用，国产算力高效落地",
+        "link": "https://www.qbitai.com/2026/02/381415.html",
+        "published_date": "Thu, 19 Feb 2026 06:11:00 GMT",
+        "first_seen": "2026-02-19T08:51:07.001699"
+      },
+      "e6346a30fc2f89a7b47d08eca7e59793797a3ad3b10415608c7e60ba26e74b6c": {
+        "title": "AMD英伟达都投了！李飞飞创业公司官宣10亿新融资",
+        "link": "https://www.qbitai.com/2026/02/381378.html",
+        "published_date": "Thu, 19 Feb 2026 04:49:00 GMT",
+        "first_seen": "2026-02-19T08:51:07.001706"
+      },
+      "92882060ad6aa18c64d0a89335fdccb4d7a21e9a65df3a721ebb158ae769a54d": {
+        "title": "懂人性更懂执行，蚂蚁这个万亿开源模型把情商和Agent战斗力都给拉满了",
+        "link": "https://www.qbitai.com/2026/02/381300.html",
+        "published_date": "Thu, 19 Feb 2026 04:47:00 GMT",
+        "first_seen": "2026-02-19T08:51:07.001708"
+      },
+      "2d82d055b9361a352a9b65a8b12aef089a40d7bcc7d14fd130687c073e82aac4": {
+        "title": "春晚之后，AI和机器人为啥都去了一个地方？",
+        "link": "https://www.qbitai.com/2026/02/381301.html",
+        "published_date": "Thu, 19 Feb 2026 04:44:00 GMT",
+        "first_seen": "2026-02-19T08:51:07.001709"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-02-19T06:06:21.490267",
-    "Finance": "2026-02-19T06:06:21.567649",
-    "Ai": "2026-02-18T23:33:58.124369"
+    "Technology": "2026-02-19T08:51:06.850839",
+    "Finance": "2026-02-19T08:51:06.887905",
+    "Ai": "2026-02-19T08:51:07.001712"
   }
 }
