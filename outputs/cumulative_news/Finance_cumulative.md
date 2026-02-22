@@ -1,7 +1,18 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-22 05:53
+**最后更新时间**: 2026-02-22 08:36
+
+---
+
+## 🆕 最新更新 (2026-02-22 08:36)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Trump’s envoy prepares to fight culture wars in South Africa](https://www.ft.com/content/68755c36-c23a-4c5b-a9eb-ec4098e23590)
+**发布时间**: 2026-02-22 05:00
+
+#### [US security group looks to recruit hundreds of personnel as it targets Gaza role](https://www.ft.com/content/22a24f4c-7ee0-4824-8338-cb9d563a9c2e)
+**发布时间**: 2026-02-22 05:00
 
 ---
 
