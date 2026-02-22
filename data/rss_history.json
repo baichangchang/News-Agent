@@ -2,150 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "9122f8b92ca6906656455f9afffadf4c834514ae0da7aa637a85eac7291e9b3d": {
-        "title": "Bengio 15年前论文再夺AAAI奖！AI正告别单纯炫技，走向真实世界",
-        "link": "https://www.infoq.cn/article/KXaviFJ5cNI4qylQg39x?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 24 Jan 2026 00:07:00 GMT",
-        "first_seen": "2026-01-23T23:25:02.770049"
-      },
-      "a4e66d3bf071491cf8de1027caa4f5d5e2a511c46540c575892ede40767bf73c": {
-        "title": "学界大佬吵架金句不断，智谱和MiniMax太优秀被点名，Agent竟然能写GPU内核了？！",
-        "link": "https://www.infoq.cn/article/69sjXelB4jbxSoqOIosH?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 23 Jan 2026 20:03:00 GMT",
-        "first_seen": "2026-01-23T23:25:02.770056"
-      },
-      "bda242b35edc0a5941b59826b5d613835fceb3ac17c82ffeffc3d1a09ef64af0": {
-        "title": "亚太 CDN 大会直击：火山引擎提出应用加速的演进，AI 大模型成关键驱动力",
-        "link": "https://www.infoq.cn/article/Cd5OmDZ7fa2S0bwSL8oX?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 23 Jan 2026 16:33:00 GMT",
-        "first_seen": "2026-01-23T23:25:02.770058"
-      },
-      "531269bf51d38830ff6b6a8e0f40fb527d22a666d58c4a831109588d635f4840": {
-        "title": "亚信安全亏逾3.8亿背后：大比例裁员，技术“大牛”接连离职｜看财报",
-        "link": "https://www.tmtpost.com/7853840.html",
-        "published_date": "Fri, 23 Jan 2026 21:03:00 GMT",
-        "first_seen": "2026-01-23T23:25:02.770060"
-      },
-      "d07de8d12cd93aa59580d8247e98961e217ddd651a8f84344d29ee9d028e7f97": {
-        "title": "充电桩投资篇：万亿蓝海，还是红海血拼？",
-        "link": "https://www.tmtpost.com/7853412.html",
-        "published_date": "Fri, 23 Jan 2026 20:25:00 GMT",
-        "first_seen": "2026-01-23T23:25:02.770061"
-      },
-      "eeb95f88667caea505f4454e65f738cc38c8c1ab3b59c03bf8c46fa088701ad5": {
-        "title": "贝克汉姆的“完美家庭”，都是生意",
-        "link": "https://www.tmtpost.com/7853702.html",
-        "published_date": "Fri, 23 Jan 2026 19:53:00 GMT",
-        "first_seen": "2026-01-23T23:25:02.770063"
-      },
-      "54e59ffe26f0060c8b0829886cb911d5dbeec8062a28c0e059a423b89bc53bec": {
-        "title": "先声药业分拆核心肿瘤板块先声再明赴港，背负对赌、早已计划剥离",
-        "link": "https://www.tmtpost.com/7852612.html",
-        "published_date": "Fri, 23 Jan 2026 19:53:00 GMT",
-        "first_seen": "2026-01-23T23:25:02.770064"
-      },
-      "c1994ffcc080aa9a9c72aac97184eaee055673a57937cd676e26f6e048f68b9e": {
-        "title": "王成接棒李东生：扛起海外再造五个TCL重任",
-        "link": "https://www.tmtpost.com/7852575.html",
-        "published_date": "Fri, 23 Jan 2026 19:53:00 GMT",
-        "first_seen": "2026-01-23T23:25:02.770065"
-      },
-      "55fab6cc5456e116f185e15dad8c36a373f6d65b51d38ad74436b11b66a41fc4": {
-        "title": "字节短剧再出海，能复制红果逆袭奇迹吗？",
-        "link": "https://www.tmtpost.com/7853526.html",
-        "published_date": "Fri, 23 Jan 2026 19:51:00 GMT",
-        "first_seen": "2026-01-23T23:25:02.770067"
-      },
-      "25c5c1c07c150f53c7c5c453fd7daf8894719b2a336a7908b671fa7004e41f53": {
-        "title": "Norrøna北京首店于SKP启幕；喜茶盘点2025 “差异化小事”；星聚会举办2026新娱乐生态发布会；lululemon发布新春主题短片｜消研所周报",
-        "link": "https://www.tmtpost.com/7853414.html",
-        "published_date": "Fri, 23 Jan 2026 19:34:00 GMT",
-        "first_seen": "2026-01-23T23:25:02.770068"
-      },
-      "9b06bb7bbfeaff86b52dfdd5f79fbde0c9ad1e7aca6dd7dd8ff17e776d1d21e4": {
-        "title": "看着像弱智，干活像战神，这个黄胖子横扫AI编程",
-        "link": "https://www.tmtpost.com/7853438.html",
-        "published_date": "Fri, 23 Jan 2026 19:34:00 GMT",
-        "first_seen": "2026-01-23T23:25:02.770069"
-      },
-      "aca2f6b207e528d67c1b64f7d3be5ad3f57f338a16b0bc521578c73db3d106ad": {
-        "title": "MiniMax是赛博多巴胺，还是数字良药？",
-        "link": "https://www.tmtpost.com/7853665.html",
-        "published_date": "Fri, 23 Jan 2026 19:34:00 GMT",
-        "first_seen": "2026-01-23T23:25:02.770071"
-      },
-      "a45244af7587817417a14c280677f10a0fe24c8f5115877f632bdf0671d3090c": {
-        "title": "配料表升级，是否能成为奶粉增长新机遇？",
-        "link": "https://www.tmtpost.com/7853758.html",
-        "published_date": "Fri, 23 Jan 2026 19:29:00 GMT",
-        "first_seen": "2026-01-23T23:25:02.770072"
-      },
-      "ccc3633a4df331bb67ce31d1d9f21d4770fb4ee981725753644adf2960eb2b48": {
-        "title": "从 “农村包围城市” 到本土化共赢，解密出海2.0的实战打法 | CES 2026",
-        "link": "https://www.tmtpost.com/7853378.html",
-        "published_date": "Fri, 23 Jan 2026 19:27:00 GMT",
-        "first_seen": "2026-01-23T23:25:02.770074"
-      },
-      "be27318e9569f64d578e5921a780b7b3ee45c2d76e74376b25587aa5c2dd922d": {
-        "title": "明阳智能复牌涨停，490亿风电巨头收购关联标的跨界“太空光伏”丨并购一线",
-        "link": "https://www.tmtpost.com/7853707.html",
-        "published_date": "Fri, 23 Jan 2026 19:17:00 GMT",
-        "first_seen": "2026-01-23T23:25:02.770075"
-      },
-      "5eb2167d94ce806d487e7d05631ab298a6e5d661de4b3f7515ca3d243ba9928f": {
-        "title": "农药概念三年新高：退税调整挤泡沫，行业自愈破内卷丨行业风向标",
-        "link": "https://www.tmtpost.com/7853654.html",
-        "published_date": "Fri, 23 Jan 2026 19:00:00 GMT",
-        "first_seen": "2026-01-23T23:25:02.770076"
-      },
-      "07ffc5945e8439898264d687e91d4e42db7d67dab043db959ee3c2264d00a9d5": {
-        "title": "智能硬件出海靠什么闯过“生死关”？| CES 2026",
-        "link": "https://www.tmtpost.com/7853366.html",
-        "published_date": "Fri, 23 Jan 2026 18:40:00 GMT",
-        "first_seen": "2026-01-23T23:25:02.770077"
-      },
-      "6f5e04c6e7a9507451ea603e663c62c473358f3c486fabae7f9cbfc4d6853904": {
-        "title": "张斌：癌症放疗的技术演进及最新趋势 | 钛资本前沿科技组",
-        "link": "https://www.tmtpost.com/7853539.html",
-        "published_date": "Fri, 23 Jan 2026 18:31:00 GMT",
-        "first_seen": "2026-01-23T23:25:02.770079"
-      },
-      "dfd9e7c093182ace4b7a909db0b0b5f5cfc6620411401d2afe14514451f21489": {
-        "title": "2026年，头部茶咖品牌还要继续比拼开店？",
-        "link": "https://www.tmtpost.com/7853314.html",
-        "published_date": "Fri, 23 Jan 2026 18:31:00 GMT",
-        "first_seen": "2026-01-23T23:25:02.770080"
-      },
-      "52453dc818d6a976f02ce5d0000b7d02ea345c0cef8afd339c6936e2d07aed0e": {
-        "title": "雷鸟、Rokid、阿里集体出击：中国AI眼镜天团决战放量前夜",
-        "link": "https://www.tmtpost.com/7853415.html",
-        "published_date": "Fri, 23 Jan 2026 18:31:00 GMT",
-        "first_seen": "2026-01-23T23:25:02.770081"
-      },
-      "4494cab9ac6c338125d14e010008cd6e44df2c718f2c233c735137f50b6f6e9c": {
-        "title": "从录音卡到录音豆，AI办公硬件值不值得做？",
-        "link": "https://www.tmtpost.com/7852971.html",
-        "published_date": "Fri, 23 Jan 2026 18:31:00 GMT",
-        "first_seen": "2026-01-23T23:25:02.770083"
-      },
-      "3c3ed873b45d5c93a1faf67ddcbb73cea29d9447529bd8eb7b35f7c237e4c269": {
-        "title": "安倍案审判结束，山上彻也一个人扛下了所有",
-        "link": "http://www.huxiu.com/article/4828556.html?f=wangzhan",
-        "published_date": "Fri, 23 Jan 2026 18:30:00 GMT",
-        "first_seen": "2026-01-23T23:25:02.770084"
-      },
-      "4c38cd966ad9d24b5a94fce42c8af72860e4abdec2af39c795a188404bb0787d": {
-        "title": "纸媒的没落，车马费的兴衰，以及明里暗里的黑公关......",
-        "link": "http://www.huxiu.com/article/4828420.html?f=wangzhan",
-        "published_date": "Fri, 23 Jan 2026 17:00:00 GMT",
-        "first_seen": "2026-01-23T23:25:02.770085"
-      },
-      "215c0d7732eb0410a181a3d004c2fed2f42263644f27a739663d22234738f7ab": {
-        "title": "本周看什么 | 最近值得一看的 11 部作品",
-        "link": "https://sspai.com/post/105709",
-        "published_date": "Fri, 23 Jan 2026 17:50:00 GMT",
-        "first_seen": "2026-01-23T23:25:02.770087"
-      },
       "533d3c5faf62a06d09bdb1fd0dd0994365bac2f66294750a5290fac546ca32a6": {
         "title": "这种存款加了黄金“外挂”，最高年化收益可达4.5%",
         "link": "https://www.tmtpost.com/7854253.html",
@@ -8563,135 +8419,27 @@
         "link": "https://www.tmtpost.com/7886667.html",
         "published_date": "Sun, 22 Feb 2026 15:02:00 GMT",
         "first_seen": "2026-02-22T08:36:43.189892"
+      },
+      "f7f48dcbc7ef12080cd73af4c5c2ccc32df4e3dcd25deee52b87cf1cce5863e1": {
+        "title": "别再学做App了：Karpathy预言Agent将淘汰App Store，软件进入“用完即丢”时代",
+        "link": "https://www.infoq.cn/article/4LPuZzDH4CXh5G5h5N4G?utm_source=rss&utm_medium=article",
+        "published_date": "Sun, 22 Feb 2026 20:37:00 GMT",
+        "first_seen": "2026-02-22T23:29:47.017561"
+      },
+      "e01f751d1fff1c107d0ec825bc7b6d7c7b0637ca00c2c1d761ac922dab046604": {
+        "title": "骂预制菜的人，自己吃了顿预制菜年夜饭",
+        "link": "https://www.tmtpost.com/7886855.html",
+        "published_date": "Sun, 22 Feb 2026 20:24:00 GMT",
+        "first_seen": "2026-02-22T23:29:47.017567"
+      },
+      "300c4ac3981aaa28d2e558a4bf9ef9c53e038181398b57b62280af76b2f68116": {
+        "title": "日本：红枫季的关东与关西（关东篇）",
+        "link": "https://sspai.com/post/104473",
+        "published_date": "Sun, 22 Feb 2026 15:42:00 GMT",
+        "first_seen": "2026-02-22T23:29:47.017569"
       }
     },
     "Finance": {
-      "68f7d66dbc26d5c01a5fb72ac3068fda3189280afeffb55b450ec78364f26108": {
-        "title": "Nearly 6,000 U.S. flights have been canceled ahead of winter storm — and the number is growing",
-        "link": "https://www.marketwatch.com/story/nearly-2-000-u-s-flights-have-already-been-canceled-ahead-of-winter-storm-b2f46de3?mod=mw_rss_topstories",
-        "published_date": "Fri, 23 Jan 2026 23:10:00 GMT",
-        "first_seen": "2026-01-23T23:25:02.516777"
-      },
-      "8356e721ac8105df68ff01a24982c9a541e274e7f02db9cc07d459bfc64012f6": {
-        "title": "I need to spend $15K on my roof. Should I take it from my Roth IRA, 401(k), IRA or money-market account?",
-        "link": "https://www.marketwatch.com/story/i-need-to-spend-15k-on-my-roof-do-i-take-it-from-my-roth-ira-401-k-ira-or-money-market-account-170e36a9?mod=mw_rss_topstories",
-        "published_date": "Fri, 23 Jan 2026 23:05:00 GMT",
-        "first_seen": "2026-01-23T23:25:02.516786"
-      },
-      "fabdb5594f9aba45c50bd0edb7b16f741dcf7905a16296970fd9d0c06d2a1a3a": {
-        "title": "I’m inheriting $250K. Will paying off my student loans and credit-card debt hurt my credit score?",
-        "link": "https://www.marketwatch.com/story/im-inheriting-250k-will-paying-off-my-student-loans-and-credit-card-debt-hurt-my-credit-score-4679d9ab?mod=mw_rss_topstories",
-        "published_date": "Fri, 23 Jan 2026 23:00:00 GMT",
-        "first_seen": "2026-01-23T23:25:02.516788"
-      },
-      "6b17e61fff055da48097e0f6988b45ebf3c1d4c12935395a9fe19a60b06a2ea5": {
-        "title": "Stock investors should be wary of buying the dip if the S&P 500 falls to this level",
-        "link": "https://www.marketwatch.com/story/the-s-p-500-is-on-fire-but-a-retreat-to-this-level-would-unleash-the-bears-9739a9d8?mod=mw_rss_topstories",
-        "published_date": "Fri, 23 Jan 2026 22:27:00 GMT",
-        "first_seen": "2026-01-23T23:25:02.516790"
-      },
-      "a0acf83fd08056200a85d4705e5730af8278ab2b2e842628338a2a8602b7124c": {
-        "title": "Why the dollar just had its worst week in 8 months despite Trump’s pivot on tariffs",
-        "link": "https://www.marketwatch.com/story/why-the-dollar-just-had-its-worst-week-in-8-months-despite-trumps-pivot-on-tariffs-d3b3d2a7?mod=mw_rss_topstories",
-        "published_date": "Fri, 23 Jan 2026 21:51:00 GMT",
-        "first_seen": "2026-01-23T23:25:02.516791"
-      },
-      "1d336eacaf7bee37bf4de604be75881de24f80a5fddc7caecc9b278e8ae1c1df": {
-        "title": "Natural-gas prices see ‘historic’ surge as U.S. braces for winter storm. What that means for heating bills.",
-        "link": "https://www.marketwatch.com/story/natural-gas-prices-see-historic-surge-as-u-s-braces-for-winter-storm-what-that-means-for-heating-bills-7e1b9fa2?mod=mw_rss_topstories",
-        "published_date": "Fri, 23 Jan 2026 21:29:00 GMT",
-        "first_seen": "2026-01-23T23:25:02.516793"
-      },
-      "afa144b2d830a48a538441e5a963cab5177c05eeb622b5a96af6c9b0b716ea88": {
-        "title": "Why AMD’s stock is charging higher as Intel’s sinks",
-        "link": "https://www.marketwatch.com/story/why-amds-stock-is-charging-higher-as-intels-sinks-70394ffd?mod=mw_rss_topstories",
-        "published_date": "Fri, 23 Jan 2026 21:15:00 GMT",
-        "first_seen": "2026-01-23T23:25:02.516794"
-      },
-      "ad9a501b284cc9b17e354fb60b469d80c321541f21cbcecfadf01f4cbc61c8bf": {
-        "title": "Kevin O’Leary — aka ‘Mr. Wonderful’ from ‘Shark Tank’ — explains why he calls altcoins ‘poo-poo coins’",
-        "link": "https://www.marketwatch.com/story/kevin-oleary-aka-mr-wonderful-from-shark-tank-explains-why-he-calls-altcoins-poo-poo-coins-966a217c?mod=mw_rss_topstories",
-        "published_date": "Fri, 23 Jan 2026 20:54:00 GMT",
-        "first_seen": "2026-01-23T23:25:02.516795"
-      },
-      "b7bd97514bd057415fdb5e0ba96c4c7c3d2f49f3fc669a9c3431b5b2947a3ff1": {
-        "title": "Inflation is an ‘economic thief.’ Can the Fed finally arrest the frustrating rise in prices?",
-        "link": "https://www.marketwatch.com/story/inflation-is-an-economic-thief-can-the-fed-finally-arrest-the-frustrating-rise-in-prices-edae4b5c?mod=mw_rss_topstories",
-        "published_date": "Fri, 23 Jan 2026 20:36:00 GMT",
-        "first_seen": "2026-01-23T23:25:02.516797"
-      },
-      "00cb3cf3e48dd16d6e888f82a922eaa0a6f7b62fed645560df1ce73158259ca2": {
-        "title": "Silver finally hits $100 an ounce — and some experts say that’s just the beginning",
-        "link": "https://www.marketwatch.com/story/silver-finally-hits-100-an-ounce-and-some-experts-say-thats-just-the-beginning-a21b4c1f?mod=mw_rss_topstories",
-        "published_date": "Fri, 23 Jan 2026 20:28:00 GMT",
-        "first_seen": "2026-01-23T23:25:02.516798"
-      },
-      "d13fd850022ea01a757d1306e299a60d6ffaf65422121b40ef62e10211346331": {
-        "title": "Tory peers force UK to pause passage of Chagos Islands bill after US criticism",
-        "link": "https://www.ft.com/content/d226cb01-3af5-41ea-9ede-1a6678ba1b48",
-        "published_date": "Fri, 23 Jan 2026 22:43:00 GMT",
-        "first_seen": "2026-01-23T23:25:02.516799"
-      },
-      "36b57e398613591916abc4610dd55384a4a571ae75a947458266f96a26ff4c27": {
-        "title": "BlackRock’s Rick Rieder surges ahead in race to chair Federal Reserve",
-        "link": "https://www.ft.com/content/a9bad7cb-ff5f-41ca-abcd-be93e7e20cd1",
-        "published_date": "Fri, 23 Jan 2026 21:52:00 GMT",
-        "first_seen": "2026-01-23T23:25:02.516801"
-      },
-      "81dab116d075d4090421730dd047d6298d6524d230ceb2b869ba6fe84073d84a": {
-        "title": "Rothschilds join the ranks of the super-rich buying up British pubs",
-        "link": "https://www.ft.com/content/ede1382e-4844-425e-b34e-97d805e717aa",
-        "published_date": "Fri, 23 Jan 2026 21:00:00 GMT",
-        "first_seen": "2026-01-23T23:25:02.516802"
-      },
-      "9c1f7974794545bb61604d30fb989c8e953034a7bce446325f291943d05878b4": {
-        "title": "Goldman paid CEO David Solomon $47mn in 2025 as its stock soared",
-        "link": "https://www.ft.com/content/dc1b4c6c-8274-405c-8e61-f089cb211907",
-        "published_date": "Fri, 23 Jan 2026 20:44:00 GMT",
-        "first_seen": "2026-01-23T23:25:02.516803"
-      },
-      "e7f36ec3f61882d4202cff4a7ca938f39e378a189a945dc9e7c1aa4f4741ef93": {
-        "title": "‘There’s no free lunch’: How Wall St learned to live with Trump’s barbs",
-        "link": "https://www.ft.com/content/0b06b987-66c6-45d7-983f-9b60368042e5",
-        "published_date": "Fri, 23 Jan 2026 20:29:00 GMT",
-        "first_seen": "2026-01-23T23:25:02.516805"
-      },
-      "98ff34d10d4a1db9edb4478fbcd054c60e05a66f3821d751baab4cc785f8f78b": {
-        "title": "Decoupling from Trump’s America",
-        "link": "https://www.ft.com/content/ed081984-836a-443c-ab0b-69462848e686",
-        "published_date": "Fri, 23 Jan 2026 19:17:00 GMT",
-        "first_seen": "2026-01-23T23:25:02.516806"
-      },
-      "c1e91af0452eaff2b33b9b7e93dd97613964d0892159d106872fe78595d76366": {
-        "title": "Nigel Farage attended Davos as adviser to Iranian billionaire",
-        "link": "https://www.ft.com/content/7b405c28-f5b9-4bbd-b309-57243bc19ddf",
-        "published_date": "Fri, 23 Jan 2026 19:01:00 GMT",
-        "first_seen": "2026-01-23T23:25:02.516807"
-      },
-      "3d8403ea55d9782aa16edc7f6d076a94a474dfacb238d27567f10fe068fd7a7c": {
-        "title": "The Taco trade has eaten itself",
-        "link": "https://www.ft.com/content/5c1a2e77-6f41-4241-ad3e-66139f6dfac8",
-        "published_date": "Fri, 23 Jan 2026 18:00:00 GMT",
-        "first_seen": "2026-01-23T23:25:02.516809"
-      },
-      "85de37180c9d81db535804abad9d0c3c43d69c9026306fe94e35024c96abbb6d": {
-        "title": "Gold heads for best week since 2008 as Greenland crisis rattles dollar",
-        "link": "https://www.ft.com/content/6d7ab91c-fc2a-4766-8ebd-3108c5446946",
-        "published_date": "Fri, 23 Jan 2026 17:55:00 GMT",
-        "first_seen": "2026-01-23T23:25:02.516810"
-      },
-      "2af3bdc37e726455a195232521afa5af1c0bffd7e16a6a1fb54a8a7d1747d6cc": {
-        "title": "Starmer condemns Trump’s ‘appalling’ claim that Nato avoided Afghan frontline",
-        "link": "https://www.ft.com/content/5e93ead5-5fa7-4cce-9c62-802c976fe4c3",
-        "published_date": "Fri, 23 Jan 2026 17:35:00 GMT",
-        "first_seen": "2026-01-23T23:25:02.516811"
-      },
-      "0b6410dda6c6b6c4a02f4d7ad630a1a52d2fa524a02112828cfa27645f1eefa2": {
-        "title": "Mark Rutte, Europe’s Trump whisperer-in-chief",
-        "link": "https://www.ft.com/content/fe1aad9e-3bd0-48e0-98fa-33fab2fb91dd",
-        "published_date": "Fri, 23 Jan 2026 12:56:00 GMT",
-        "first_seen": "2026-01-23T23:25:02.516813"
-      },
       "3ce093f939f4b83ab7cf5cf98332abfbe33183004f22d93759878ab65c08c580": {
         "title": "US unveils national defence strategy to counter China in Indo-Pacific",
         "link": "https://www.ft.com/content/a0153971-1e92-4ff8-b603-e393e7b6c93f",
@@ -13509,57 +13257,81 @@
         "link": "https://www.marketwatch.com/story/adding-these-stocks-to-your-401-k-could-protect-against-crises-like-war-with-iran-b802dd88?mod=mw_rss_topstories",
         "published_date": "Sat, 21 Feb 2026 23:51:00 GMT",
         "first_seen": "2026-02-22T05:54:00.618460"
+      },
+      "24f75ab3dc13b14518eed360731d90d0386ca85ddcfdfeddffecd766dbab1134": {
+        "title": "Mexico kills top drug cartel leader ‘El Mencho’",
+        "link": "https://www.ft.com/content/55fa278a-6902-43e8-9021-dfd3cb7d26a7",
+        "published_date": "Sun, 22 Feb 2026 23:24:00 GMT",
+        "first_seen": "2026-02-22T23:29:46.791998"
+      },
+      "75dd850552e6e002b55fe88b5f4d219765fa46a371123d2830dfeaedc824bb67": {
+        "title": "Jet linked to Epstein landed at RAF base in 2013, documents show",
+        "link": "https://www.ft.com/content/1d0b0747-dac2-4a2a-9238-fa0d79e5ca74",
+        "published_date": "Sun, 22 Feb 2026 21:03:00 GMT",
+        "first_seen": "2026-02-22T23:29:46.792006"
+      },
+      "9def875c5b81ab346a60e7de671a70865b909702d9fae17a9e81b77ca458ad99": {
+        "title": "Man killed by Secret Service after entering Mar-a-Lago grounds with gun",
+        "link": "https://www.ft.com/content/bb1808b5-032b-493c-b7bb-6d3057acb1e5",
+        "published_date": "Sun, 22 Feb 2026 20:37:00 GMT",
+        "first_seen": "2026-02-22T23:29:46.792009"
+      },
+      "e96854efdccdf0167dd17a0c2eb53fb84f1509b784f819d63a4df973dd48c47a": {
+        "title": "Satellite images reveal surge in US fighter jets in Middle East",
+        "link": "https://www.ft.com/content/c743e6de-202c-4135-ae52-0f0e34213182",
+        "published_date": "Sun, 22 Feb 2026 19:22:00 GMT",
+        "first_seen": "2026-02-22T23:29:46.792011"
+      },
+      "a3acb09cd598bcf26c019e0e71e6ca329187ac50e8300f720342b57b39e5a660": {
+        "title": "Europe needs to learn the art of the trade deal",
+        "link": "https://www.ft.com/content/572683fb-e4b4-4451-8b7b-056c24dae153",
+        "published_date": "Sun, 22 Feb 2026 18:15:00 GMT",
+        "first_seen": "2026-02-22T23:29:46.792012"
+      },
+      "74d772cc98f4315eef3240eef461427f46f464a11d88677b6e721fddb676ffcb": {
+        "title": "Iran agreed secret shoulder-fired missile deal with Russia",
+        "link": "https://www.ft.com/content/d034cc1a-f5fb-494e-a3c1-466e8e80ed82",
+        "published_date": "Sun, 22 Feb 2026 16:00:00 GMT",
+        "first_seen": "2026-02-22T23:29:46.792014"
+      },
+      "149fb3c9f7a51995dd09fa8a2efb790dad0eda67ef25c04fa0b57ffd3b7ddb5f": {
+        "title": "Trump’s new flat-rate tariff is a boost for China and Brazil",
+        "link": "https://www.ft.com/content/a12657e5-e160-444d-9b4e-87e89480e625",
+        "published_date": "Sun, 22 Feb 2026 15:59:00 GMT",
+        "first_seen": "2026-02-22T23:29:46.792015"
+      },
+      "43dacb0dab32fbe86ed03aff0e5d7714d34edef2500777208cd0d6ab5bacd456": {
+        "title": "America is becoming a petrostate",
+        "link": "https://www.ft.com/content/4d2559d2-04e7-4254-a44a-40d7c7b344f6",
+        "published_date": "Sun, 22 Feb 2026 12:00:00 GMT",
+        "first_seen": "2026-02-22T23:29:46.792016"
+      },
+      "81fbde152d75b2bc8656de37c32d4bd20a58b70990d10926080f648bb03fcb38": {
+        "title": "U.S. stock futures flat as investors await clarity on Trump’s latest tariff plans",
+        "link": "https://www.marketwatch.com/story/u-s-stock-futures-flat-as-investors-await-clarity-on-trumps-latest-tariff-plans-ae774ba0?mod=mw_rss_topstories",
+        "published_date": "Sun, 22 Feb 2026 23:21:00 GMT",
+        "first_seen": "2026-02-22T23:29:46.792018"
+      },
+      "3124ea94024e06022ef246bcc1b6957fc5027c21983c399818f3a892175fee00": {
+        "title": "Tariffs costs and refunds take the spotlight as Home Depot, TJX and other retailers report earnings this week",
+        "link": "https://www.marketwatch.com/story/tariffs-costs-and-refunds-take-the-spotlight-as-home-depot-tjx-and-other-retailers-report-earnings-this-week-7f2a144a?mod=mw_rss_topstories",
+        "published_date": "Sun, 22 Feb 2026 20:38:00 GMT",
+        "first_seen": "2026-02-22T23:29:46.792019"
+      },
+      "113deaa5ed78c43eecee9da74317f6418c3231599612ec0c49b5d085bd746c21": {
+        "title": "Last week’s slump in asset-manager stocks was driven by private-credit fears. Here’s what’s worrying investors.",
+        "link": "https://www.marketwatch.com/story/this-weeks-slump-in-asset-manager-stocks-was-driven-by-private-credit-fears-heres-whats-worrying-investors-0c47e043?mod=mw_rss_topstories",
+        "published_date": "Sun, 22 Feb 2026 20:33:00 GMT",
+        "first_seen": "2026-02-22T23:29:46.792020"
+      },
+      "61faf2a2557d2c17909e79f814681d09f628f1ce23912648809be20d79862a12": {
+        "title": "Gold sheds its safe-haven status. Is it just another momentum play now?",
+        "link": "https://www.marketwatch.com/story/gold-sheds-its-safe-haven-status-is-it-just-another-momentum-play-now-c60af908?mod=mw_rss_topstories",
+        "published_date": "Sun, 22 Feb 2026 17:00:00 GMT",
+        "first_seen": "2026-02-22T23:29:46.792022"
       }
     },
     "Ai": {
-      "c6e195e4ff060e191d112c247f7d822a75b9a1641861fbf8ae3bd55b0227a0e1": {
-        "title": "Introducing GIST: The next stage in smart sampling",
-        "link": "https://research.google/blog/introducing-gist-the-next-stage-in-smart-sampling/",
-        "published_date": "Fri, 23 Jan 2026 17:46:00 GMT",
-        "first_seen": "2026-01-23T23:25:02.646907"
-      },
-      "96a182d280c442bb67128e79ea6ed699132161e0dcc7e97e7f3246dddbb5bad0": {
-        "title": "OpenAI：以后大家用AI赚的钱，我可能要抽成",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-23-10",
-        "published_date": "Fri, 23 Jan 2026 16:46:00 GMT",
-        "first_seen": "2026-01-23T23:25:02.646914"
-      },
-      "95fa932c04e7ee10b1e3cea5a66b01b95a1bb1ce2396e506350d42c2dc11a897": {
-        "title": "陈天奇、贾扬清点赞：Vibe Coding版PyTorch，连论文都是AI写的",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-23-9",
-        "published_date": "Fri, 23 Jan 2026 16:42:00 GMT",
-        "first_seen": "2026-01-23T23:25:02.646917"
-      },
-      "599859e6a163898e2aade1ae11cfc9f95c294470f9a45d2e50971d37a492a33c": {
-        "title": "思维链太长拖慢推理？把它「画」进隐空间！新框架RoT探索大模型隐空间推理新范式",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-23-8",
-        "published_date": "Fri, 23 Jan 2026 16:37:00 GMT",
-        "first_seen": "2026-01-23T23:25:02.646918"
-      },
-      "d24162ec811fd9c313318cb65859f2e8808c73debe3adb2746a3133838fc04fb": {
-        "title": "2.4万亿参数“最强文科生”，文心5.0正式版，你挺懂山东人啊？",
-        "link": "https://www.qbitai.com/2026/01/372108.html",
-        "published_date": "Fri, 23 Jan 2026 13:43:00 GMT",
-        "first_seen": "2026-01-23T23:25:02.646920"
-      },
-      "4de32dd95a94327e715bad97cf4d222b286fc90d498334e9df8938fecd686570": {
-        "title": "把医疗AI禁锢在严肃区间：百川M3 Plus首创“证据锚定”，幻觉率2.6%刷新全球纪录",
-        "link": "https://www.qbitai.com/2026/01/372099.html",
-        "published_date": "Fri, 23 Jan 2026 12:25:00 GMT",
-        "first_seen": "2026-01-23T23:25:02.646921"
-      },
-      "1facc1628392fb09ae201a119a1febca415fb0aaf53327b69732b174fa56c094": {
-        "title": "轻舟智航重回高端局： L2+量产超百万，城市NOA量产下放10万级",
-        "link": "https://www.qbitai.com/2026/01/372001.html",
-        "published_date": "Fri, 23 Jan 2026 12:03:00 GMT",
-        "first_seen": "2026-01-23T23:25:02.646923"
-      },
-      "f75f36c2ef3d5f0b4f8eed20624bc9093c5a62d99160151d1a5f0da306a8745a": {
-        "title": "九骏踏浪，海淀这片“创新深海”做了啥？",
-        "link": "https://www.qbitai.com/2026/01/371980.html",
-        "published_date": "Fri, 23 Jan 2026 10:59:00 GMT",
-        "first_seen": "2026-01-23T23:25:02.646924"
-      },
       "2b4086df2f265744cf5226e754024b88c159a6a840867427d4d919c7d2a51fa5": {
         "title": "微软发布医疗时序基座模型：4540亿数据预训练，解决不规则采样",
         "link": "https://www.qbitai.com/2026/01/372307.html",
@@ -16067,13 +15839,49 @@
         "link": "https://www.qbitai.com/2026/02/381583.html",
         "published_date": "Sun, 22 Feb 2026 02:43:00 GMT",
         "first_seen": "2026-02-22T05:54:00.777442"
+      },
+      "a77fcab631479857bbcdf15602df41057e21e4d3ff84b0603a0379ea2ef13415": {
+        "title": "后训练大牛Lambert：AI招聘市场正经历「乱纪元」",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-22-5",
+        "published_date": "Sun, 22 Feb 2026 21:07:00 GMT",
+        "first_seen": "2026-02-22T23:29:46.951257"
+      },
+      "d74c356a9d4f8dba9bae42adae8100e338e35d207b9214bf64b9173114100659": {
+        "title": "ICLR 2026｜把LLM Embedding Model算力瓶颈，从Query侧彻底移走，LightRetriever来了",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-22-4",
+        "published_date": "Sun, 22 Feb 2026 21:04:00 GMT",
+        "first_seen": "2026-02-22T23:29:46.951263"
+      },
+      "1cb20e952e37d445f1797ab1abe42aa8437df7bd86b8d399a9092282573f8f59": {
+        "title": "谷歌高管放话：这两类AI初创公司，别轻易涉足了",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-22-3",
+        "published_date": "Sun, 22 Feb 2026 20:58:00 GMT",
+        "first_seen": "2026-02-22T23:29:46.951265"
+      },
+      "78d45795e0be76e925d502272fcf6608bb128c3d3e2707d8740af13a22cbc395": {
+        "title": "TMLR 2026 | 首篇多模态长上下文Token压缩综述：浙大、西湖大学等全面解析MLLM效率瓶颈",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-22-2",
+        "published_date": "Sun, 22 Feb 2026 20:56:00 GMT",
+        "first_seen": "2026-02-22T23:29:46.951267"
+      },
+      "2cd74e607eb54890648cdd94d9fe652c852c2294e95b7ab8b176cc7caf585835": {
+        "title": "不整虚的！中美AI同步加速：47天30次更新，中国AI的最强主场究竟在哪？",
+        "link": "https://www.qbitai.com/2026/02/381644.html",
+        "published_date": "Sun, 22 Feb 2026 10:33:00 GMT",
+        "first_seen": "2026-02-22T23:29:46.951268"
+      },
+      "eca2b4439dbac94ec098e7c99b5c536b1c63bf774165b2d7307eb2a7b460db91": {
+        "title": "学术插图新神器！万字材料秒出SVG，西湖大学出品 | ICLR’26",
+        "link": "https://www.qbitai.com/2026/02/381588.html",
+        "published_date": "Sun, 22 Feb 2026 10:17:00 GMT",
+        "first_seen": "2026-02-22T23:29:46.951269"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-02-22T08:36:43.189894",
-    "Finance": "2026-02-22T05:54:00.618463",
-    "Ai": "2026-02-22T05:54:00.777445"
+    "Technology": "2026-02-22T23:29:47.017572",
+    "Finance": "2026-02-22T23:29:46.792023",
+    "Ai": "2026-02-22T23:29:46.951272"
   }
 }
