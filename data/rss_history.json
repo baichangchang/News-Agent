@@ -2,30 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "b8fe0657d682ae412eafb83ed1e43a97e0e1f716ad10b7fe61b5353bff151478": {
-        "title": "地产人勇闯科技圈：在少数派造物的 180 天",
-        "link": "https://sspai.com/post/105679",
-        "published_date": "Sat, 24 Jan 2026 15:00:00 GMT",
-        "first_seen": "2026-01-24T08:31:19.275152"
-      },
-      "76ec7d1cac6bb31df6f409e7529272a27a4e43cb598ef2f4e959b418c61e85bb": {
-        "title": "CFO汪骏走了，妨碍爱奇艺2026“来财”吗？",
-        "link": "https://www.tmtpost.com/7853981.html",
-        "published_date": "Sat, 24 Jan 2026 09:19:00 GMT",
-        "first_seen": "2026-01-24T08:31:19.275158"
-      },
-      "2e9346d188bc02a8a97440e7958a8ba755ef1c837caead3eb9e29d9be105b920": {
-        "title": "索尼“断臂求生”简史",
-        "link": "https://www.tmtpost.com/7853874.html",
-        "published_date": "Sat, 24 Jan 2026 09:18:00 GMT",
-        "first_seen": "2026-01-24T08:31:19.275160"
-      },
-      "4f52a2a2f24a949a92c7ac5453af21a640b9eea4b3f7f7ca413395a47011cb81": {
-        "title": "又一家“GPU四小龙”来了，估值200亿，燧原科技冲刺科创板",
-        "link": "https://www.tmtpost.com/7854015.html",
-        "published_date": "Sat, 24 Jan 2026 09:16:00 GMT",
-        "first_seen": "2026-01-24T08:31:19.275162"
-      },
       "c06753169156d4d24c845a123bfa462e58164aad01c30ae2eeaddb66267b456c": {
         "title": "变脸比翻书还快？前脚刚派人过去“军演”，后脚就把格陵兰卖了",
         "link": "http://www.huxiu.com/article/4828918.html?f=wangzhan",
@@ -8359,6 +8335,18 @@
         "link": "http://www.huxiu.com/article/4834710.html?f=wangzhan",
         "published_date": "Mon, 23 Feb 2026 08:00:00 GMT",
         "first_seen": "2026-02-23T06:07:06.443360"
+      },
+      "5419f1f0d121fa98ab596ded6521ac8e461aef6962aecb8878ec4377bd3a800a": {
+        "title": "DeepMind 运作模式曝光！暗示根本没输 OpenAI：员工20% 时间重启创新，保守巨头直接变 “实验狂”",
+        "link": "https://www.infoq.cn/article/IIY8A1V05cpP614yjFRD?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 23 Feb 2026 15:36:00 GMT",
+        "first_seen": "2026-02-23T08:55:04.638450"
+      },
+      "a462572de57160e3977e8a0c9d12bc93e5f999a413e80442bebe535f28c540ef": {
+        "title": "为什么别人用AI 是企业增长的印钞机，而你只当高级搜索用？",
+        "link": "https://www.tmtpost.com/7887138.html",
+        "published_date": "Mon, 23 Feb 2026 15:04:00 GMT",
+        "first_seen": "2026-02-23T08:55:04.638459"
       }
     },
     "Finance": {
@@ -13275,21 +13263,15 @@
         "link": "https://www.marketwatch.com/story/tariffs-costs-and-refunds-take-the-spotlight-as-home-depot-tjx-and-other-retailers-report-earnings-this-week-7f2a144a?mod=mw_rss_topstories",
         "published_date": "Mon, 23 Feb 2026 01:57:00 GMT",
         "first_seen": "2026-02-23T06:07:06.210289"
+      },
+      "78e058a223343ebfbd0ee3d3377f10c5e5fb4e6e0865cb77f2a4ed3257fe4de5": {
+        "title": "Gold jumps and dollar slides as global trade faces new Trump tariff threat",
+        "link": "https://www.ft.com/content/46199805-8572-4cc2-84c2-8db7f6621769",
+        "published_date": "Mon, 23 Feb 2026 08:07:00 GMT",
+        "first_seen": "2026-02-23T08:55:04.414920"
       }
     },
     "Ai": {
-      "2b4086df2f265744cf5226e754024b88c159a6a840867427d4d919c7d2a51fa5": {
-        "title": "微软发布医疗时序基座模型：4540亿数据预训练，解决不规则采样",
-        "link": "https://www.qbitai.com/2026/01/372307.html",
-        "published_date": "Sat, 24 Jan 2026 05:18:00 GMT",
-        "first_seen": "2026-01-24T08:31:19.184149"
-      },
-      "9157bd18f9c423da41bbb632249d725970a762567fb75c25651a24695e9242af": {
-        "title": "Meta开年猛投算力，小扎亲征筹建数十GW",
-        "link": "https://www.qbitai.com/2026/01/372282.html",
-        "published_date": "Sat, 24 Jan 2026 05:11:00 GMT",
-        "first_seen": "2026-01-24T08:31:19.184160"
-      },
       "b002f1db17782b801bb0ea2dccbbbe325124bccbe1d44f0ac0949e17600099cf": {
         "title": "估值35亿美元，LeCun创业公司官宣核心方向，掀起对Next-token范式的「叛变」",
         "link": "https://www.jiqizhixin.com/articles/2026-01-24-6",
@@ -15838,8 +15820,8 @@
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-02-23T06:07:06.443362",
-    "Finance": "2026-02-23T06:07:06.210291",
+    "Technology": "2026-02-23T08:55:04.638461",
+    "Finance": "2026-02-23T08:55:04.414933",
     "Ai": "2026-02-23T06:07:06.374978"
   }
 }
