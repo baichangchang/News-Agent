@@ -2,72 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "d9bf6ab3baceda30b0a0b7c86c9c82aca6c7525b0de6ed96aa9561fc484ff5df": {
-        "title": "AI全自主产出剧本，会革了短剧编剧的“命”吗？",
-        "link": "https://www.tmtpost.com/7855165.html",
-        "published_date": "Mon, 26 Jan 2026 16:12:00 GMT",
-        "first_seen": "2026-01-26T08:37:40.566883"
-      },
-      "306c56e208d958c3f7c907519ab4d1b5e4638297696c00a4913b45dde9052515": {
-        "title": "腾讯云的AI阳谋：绕开价格战，押注SaaS与生态“确定性”",
-        "link": "https://www.tmtpost.com/7855249.html",
-        "published_date": "Mon, 26 Jan 2026 15:38:00 GMT",
-        "first_seen": "2026-01-26T08:37:40.566892"
-      },
-      "c09d4299d46b4e4a4bad041edb5aa2096505efd57fc397524be4be24a289d47a": {
-        "title": "年入10亿、全球第二，“中国版Kindle”的故事过气了吗？",
-        "link": "https://www.tmtpost.com/7855171.html",
-        "published_date": "Mon, 26 Jan 2026 15:36:00 GMT",
-        "first_seen": "2026-01-26T08:37:40.566893"
-      },
-      "73e40d8d2753a77f9b09019607fba75bda1e9919a99077842f6286d07997758c": {
-        "title": "国产AI芯企上市浪潮的核心逻辑",
-        "link": "https://www.tmtpost.com/7855237.html",
-        "published_date": "Mon, 26 Jan 2026 14:56:00 GMT",
-        "first_seen": "2026-01-26T08:37:40.566895"
-      },
-      "e9a32ce46bd01bd1733829537e0cc08fc616067ed98031aefab7ed9af3ee8b0a": {
-        "title": "王传福、魏建军、李斌、李想们，将在2026年进入“超级智力”竞赛周期",
-        "link": "https://www.tmtpost.com/7855270.html",
-        "published_date": "Mon, 26 Jan 2026 14:25:00 GMT",
-        "first_seen": "2026-01-26T08:37:40.566896"
-      },
-      "f4ff95fccbe49ce5d4a45a582465afe42dff07a6afbb3cfcc39f56ff872483ed": {
-        "title": "500亿美元估值AI明星初创内讧，创始团队分裂，上演“回归OpenAI”大戏",
-        "link": "https://www.tmtpost.com/7855435.html",
-        "published_date": "Mon, 26 Jan 2026 14:11:00 GMT",
-        "first_seen": "2026-01-26T08:37:40.566898"
-      },
-      "d24ea59036ee9cd289834c06d5e0b34f20856f01e3c488689ee45d1d7a9a50db": {
-        "title": "Sharpa幕后股东曝光，具身智能将迎来“ChatGPT时刻”",
-        "link": "https://www.tmtpost.com/7855077.html",
-        "published_date": "Mon, 26 Jan 2026 13:45:00 GMT",
-        "first_seen": "2026-01-26T08:37:40.566899"
-      },
-      "0f7ab504ea90bdfb6b861fcc86dfba88b54ca42b7b3803d904b35b0dd354f37a": {
-        "title": "Kindle Paperwhite 3 杂谈：为什么它是我高中生涯最值的电子产品？",
-        "link": "https://sspai.com/post/105685",
-        "published_date": "Mon, 26 Jan 2026 15:24:00 GMT",
-        "first_seen": "2026-01-26T08:37:40.566901"
-      },
-      "b6a69ed6959e7a86740992c905c6ed23689a7118dd11f8ab47999d8597ecfe87": {
-        "title": "永辉巨亏21亿，胖东来外人真的学不会？",
-        "link": "http://www.huxiu.com/article/4829516.html?f=wangzhan",
-        "published_date": "Mon, 26 Jan 2026 14:51:00 GMT",
-        "first_seen": "2026-01-26T08:37:40.566902"
-      },
-      "2eed0f167a0ad62add77d8e2ec3d0ea267a8484876b97c583afd33665876ab3d": {
-        "title": "千亿级请求下，飞猪如何将广告外投系统超时率爆降至0.01%",
-        "link": "https://www.infoq.cn/article/wbygEP7MOJfR7btgiWvo?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 26 Jan 2026 13:26:00 GMT",
-        "first_seen": "2026-01-26T08:37:40.566904"
-      },
-      "ada3542c2457c070cacc5a1b40811a0fc211699d31eea8b714fd0c0a4118f559": {
-        "title": "刚刚，旷视联创印奇出任阶跃星辰董事长",
-        "link": "https://www.infoq.cn/article/laeUNsjRu4ShtikGMNvf?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 26 Jan 2026 10:20:00 GMT",
-        "first_seen": "2026-01-26T08:37:40.566905"
-      },
       "1c1ae6d833bf0e865886e5b78e03705f491f8761f1f87d94551910e4807e21b6": {
         "title": "思科股价因评级上调而上涨，分析师称其为大盘股中的价值洼地",
         "link": "https://www.tmtpost.com/7856279.html",
@@ -8671,15 +8605,135 @@
         "link": "http://www.huxiu.com/article/4834736.html?f=wangzhan",
         "published_date": "Wed, 25 Feb 2026 08:30:00 GMT",
         "first_seen": "2026-02-25T06:03:48.707045"
+      },
+      "67bfdd70e73013490908e16a2a4842ea4125256b6b44954ccfcf4c771b2f33bc": {
+        "title": "Meta、OpenAI 争抢收购 OpenClaw前夜，创始人曝艰难抉择：月入不到2万刀赔钱养项目，Offer拿到手软，对几十亿融资没兴趣",
+        "link": "https://www.infoq.cn/article/lzj8OxKCV6be53mt8SJB?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 25 Feb 2026 16:42:00 GMT",
+        "first_seen": "2026-02-25T08:54:55.646006"
+      },
+      "6cb33cb63477a0ecb315198c3e52da9359be3a1cc4548df97754f84f1d34f53e": {
+        "title": "印度一大学买宇树机器狗冒充自研，被扒后坦白；智谱致歉并宣布补偿，《镖人》用 Seedance 2.0 做片尾彩蛋；OpenAI 算力狂想退烧｜AI周报",
+        "link": "https://www.infoq.cn/article/cLoHrUKOT9cl0Kpb5v9e?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 25 Feb 2026 16:33:00 GMT",
+        "first_seen": "2026-02-25T08:54:55.646014"
+      },
+      "a63600c0c305ea190e42bbbf21caadb3ab22846cfcafaa491833838c6553b9c8": {
+        "title": "亚马逊云科技终止视频编解码专利保护，开发者需“自担风险”",
+        "link": "https://www.infoq.cn/article/9PhfRAXmHLAd5CrarY8q?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 25 Feb 2026 16:20:00 GMT",
+        "first_seen": "2026-02-25T08:54:55.646016"
+      },
+      "98cb3d858b67df36d6794f62998c92a51d87a4633831005526e29bcbd7af32fe": {
+        "title": "AGI凉了？吴恩达、斯坦福、谷歌云罕见同频：AI测评逻辑正被Agent颠覆",
+        "link": "https://www.infoq.cn/article/IvPvQ40zBcdWhxiI81WZ?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 25 Feb 2026 16:13:00 GMT",
+        "first_seen": "2026-02-25T08:54:55.646017"
+      },
+      "004a32d615cd1f81ccc521bb0a37d66dfe37fbb67ec17ad830cfb13483ff6217": {
+        "title": "遭谷歌封禁，OpenClaw 创始人首次在 OpenAI 受访吐槽：Gemini 自信“100%能跑”，结果一试就崩",
+        "link": "https://www.infoq.cn/article/YTywvAOvAxu7kXeKP2y1?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 25 Feb 2026 15:44:00 GMT",
+        "first_seen": "2026-02-25T08:54:55.646019"
+      },
+      "0a6d6749f8cede65c52c7540dcf26d5f47cac1ef57cd72f90ead17852a27b5ab": {
+        "title": "规范驱动开发——企业规模化落地实践",
+        "link": "https://www.infoq.cn/article/OOwOxKFZQbShKx1timMP?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 25 Feb 2026 15:05:00 GMT",
+        "first_seen": "2026-02-25T08:54:55.646021"
+      },
+      "cd63389d8a6c19babc44d4bf066c7d3d0a75fad0cebb3f2c8eb1e3a9f8646720": {
+        "title": "Dropbox 如何构建可扩展的企业知识搜索上下文引擎",
+        "link": "https://www.infoq.cn/article/5xt9zMRkVhLVXMuVvPVL?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 25 Feb 2026 14:58:00 GMT",
+        "first_seen": "2026-02-25T08:54:55.646022"
+      },
+      "072823945719fc9f4768c8bf9cb196d95ae3eebaf949622978c25f2f3606736e": {
+        "title": "GitHub Copilot SDK使开发人员可以将Copilot CLI的引擎集成到应用中",
+        "link": "https://www.infoq.cn/article/p1NpJVZoOElHwXRIKvaE?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 25 Feb 2026 14:53:00 GMT",
+        "first_seen": "2026-02-25T08:54:55.646023"
+      },
+      "4be2788ecbf6b0f9dcfd92e05792ad0604fa9e5dcc876c5aac30b9803d0d560c": {
+        "title": "Java近期资讯：GlassFish 8.0、OmniHai 1.0、LangChain4j、Infinispan、Hibernate、JobRunr",
+        "link": "https://www.infoq.cn/article/8MpFC4hH8ycB8LjbyCQT?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 25 Feb 2026 14:51:00 GMT",
+        "first_seen": "2026-02-25T08:54:55.646025"
+      },
+      "6953c98517960a7ef775806d74bee978cb4c0fda04692536d924907e245defc5": {
+        "title": "Cloudflare推出基于路径的边缘路由垂直微前端模板",
+        "link": "https://www.infoq.cn/article/yWGFSIQs1Uh3LEmLIpgi?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 25 Feb 2026 14:41:00 GMT",
+        "first_seen": "2026-02-25T08:54:55.646026"
+      },
+      "bf43cce32db3b1e1f89b1a830b452afe342621bcbcb193a660cd7f27ee6c67ff": {
+        "title": "春节AI风暴：AI走出幼年期",
+        "link": "https://www.tmtpost.com/7889427.html",
+        "published_date": "Wed, 25 Feb 2026 16:21:00 GMT",
+        "first_seen": "2026-02-25T08:54:55.646027"
+      },
+      "ed0a11a068a96be051f97828c3e0a0d460b9217aed787c9595915737403c0bfc": {
+        "title": "云鲸JX的越级答案，十年长虹的爆款哲学",
+        "link": "https://www.tmtpost.com/7876155.html",
+        "published_date": "Wed, 25 Feb 2026 16:05:00 GMT",
+        "first_seen": "2026-02-25T08:54:55.646029"
+      },
+      "ec88fe987662e40d658e62b8980595c9fa8f8c06c2de2fcf6e78080d721df38d": {
+        "title": "China's E-commerce Tycoon Richard Liu Cruises into Yacht Industry",
+        "link": "https://www.tmtpost.com/7889592.html",
+        "published_date": "Wed, 25 Feb 2026 15:57:00 GMT",
+        "first_seen": "2026-02-25T08:54:55.646030"
+      },
+      "cb1831e731feac26d08309f3f1e0ad48085a032f74b8a1916fddf40ff5abccc0": {
+        "title": "AI 助手狂飙骤停，越权、失控与巨头的达摩克利斯之剑",
+        "link": "https://www.tmtpost.com/7888586.html",
+        "published_date": "Wed, 25 Feb 2026 15:09:00 GMT",
+        "first_seen": "2026-02-25T08:54:55.646032"
+      },
+      "bf63f87f08aaec2d2b40c4246b12c4637e2c6a594c73d545fd3587b8008bfa39": {
+        "title": "人工智能大模型资本泡沫汹涌",
+        "link": "https://www.tmtpost.com/7889465.html",
+        "published_date": "Wed, 25 Feb 2026 14:56:00 GMT",
+        "first_seen": "2026-02-25T08:54:55.646033"
+      },
+      "0bb0bcf5663d2ee942a19d645e03c23d9082aa449eea5b0f898cbb0ee2d4125b": {
+        "title": "谷歌连夜封禁，全行业集体堵截，OpenClaw 到底动了谁的蛋糕？",
+        "link": "https://www.tmtpost.com/7889312.html",
+        "published_date": "Wed, 25 Feb 2026 14:55:00 GMT",
+        "first_seen": "2026-02-25T08:54:55.646034"
+      },
+      "d740e371fea878852d04d0c05bae069bdca30d9f7c25b7f9ff3cedfe7f1bfe36": {
+        "title": "刘强东“下海”   中国游艇的黄金时代来了么",
+        "link": "https://www.tmtpost.com/7889323.html",
+        "published_date": "Wed, 25 Feb 2026 14:55:00 GMT",
+        "first_seen": "2026-02-25T08:54:55.646036"
+      },
+      "a7dec47163fa7cc2a48cf0a8934334b87b61a28b47431d81d9758b0720915e04": {
+        "title": "刘强东另起炉灶？个人投资50亿，要造10万级“平民游艇”",
+        "link": "https://www.tmtpost.com/7889337.html",
+        "published_date": "Wed, 25 Feb 2026 14:55:00 GMT",
+        "first_seen": "2026-02-25T08:54:55.646037"
+      },
+      "21afa8ca0908618a798fb650d90ff7abd114c94c65dfa7c8e8114bbe20dff031": {
+        "title": "春节，正在被年轻人「私有化」",
+        "link": "https://www.tmtpost.com/7889329.html",
+        "published_date": "Wed, 25 Feb 2026 14:55:00 GMT",
+        "first_seen": "2026-02-25T08:54:55.646038"
+      },
+      "f72aaf87f39fc7d76b5d35155ed6b5101b9d94a7399a3bed259833581bf7e5da": {
+        "title": "在 AI 的帮助下，给自己建了个数字人生档案馆",
+        "link": "https://sspai.com/post/106401",
+        "published_date": "Wed, 25 Feb 2026 15:00:00 GMT",
+        "first_seen": "2026-02-25T08:54:55.646040"
+      },
+      "ef0ad1c8bd5c5302cfb78ac182b3d723cc67e4036dac8d3fd33d9ccee97fb80a": {
+        "title": "荣耀（华为）系CEO，能补齐智界心智短板吗？",
+        "link": "http://www.huxiu.com/article/4836774.html?f=wangzhan",
+        "published_date": "Wed, 25 Feb 2026 14:56:00 GMT",
+        "first_seen": "2026-02-25T08:54:55.646041"
       }
     },
     "Finance": {
-      "295839a073d9cf41bb9c47d4100dc14658cfc7e0b1be508f3dbd2cc78a91e0f2": {
-        "title": "Michael Burry flags risks from Japan yen to U.S. stocks as ‘rate check’ stirs debate",
-        "link": "https://www.marketwatch.com/story/michael-burry-flags-risks-from-japan-yen-to-u-s-stocks-as-rate-check-stirs-debate-01c2c4f4?mod=mw_rss_topstories",
-        "published_date": "Mon, 26 Jan 2026 08:33:00 GMT",
-        "first_seen": "2026-01-26T08:37:40.339658"
-      },
       "dd69e325a9c0699c49630743e9985d4a79d4f2574b579f2a86d6542f5b0126bb": {
         "title": "CoreWeave’s stock soars. Why Nvidia’s fresh bet on the company is so significant.",
         "link": "https://www.marketwatch.com/story/coreweaves-stock-soars-as-nvidia-makes-a-fresh-bet-on-the-company-b5cabc4b?mod=mw_rss_topstories",
@@ -13755,39 +13809,21 @@
         "link": "https://www.marketwatch.com/story/could-stripe-salvage-paypal-what-wall-street-has-to-say-about-the-latest-takeover-talk-815c4e9a?mod=mw_rss_topstories",
         "published_date": "Wed, 25 Feb 2026 00:13:00 GMT",
         "first_seen": "2026-02-25T06:03:48.425383"
+      },
+      "3d010354858bc042b3ad6f6818bef13633bf877a6b6b17879d69a69938709a87": {
+        "title": "American tequila sales are collapsing. Diageo is cutting its dividend in half.",
+        "link": "https://www.marketwatch.com/story/american-tequila-sales-are-collapsing-diageo-is-cutting-its-dividend-in-half-3fc34adb?mod=mw_rss_topstories",
+        "published_date": "Wed, 25 Feb 2026 08:47:00 GMT",
+        "first_seen": "2026-02-25T08:54:55.380365"
+      },
+      "909d747216ed5e050ccbc32f542e116ff128f663a685824ef6cc7582abfea5e6": {
+        "title": "New Diageo boss cuts dividend as Guinness maker’s sales slide",
+        "link": "https://www.ft.com/content/039e7b2a-8b5d-4a23-8c99-dc28a01f9be5",
+        "published_date": "Wed, 25 Feb 2026 07:20:00 GMT",
+        "first_seen": "2026-02-25T08:54:55.380374"
       }
     },
     "Ai": {
-      "2c22281896d94a41e33867c6c9c4122f340eaaddf82cc25712ad8c9bf8dc2e77": {
-        "title": "钛动科技牵手硅谷科技先锋DeepLumen开抢智能商业万亿市场",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-26-10",
-        "published_date": "Mon, 26 Jan 2026 15:47:00 GMT",
-        "first_seen": "2026-01-26T08:37:40.458933"
-      },
-      "1d928cda76759af2e9a7f9ad74b050f2a5cafd07b28849cf6e3efb250ec3b507": {
-        "title": "复旦中山医院联合阿里达摩院用AI检测淋巴结转移，助力喉癌、下咽癌精准诊疗",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-26-9",
-        "published_date": "Mon, 26 Jan 2026 15:23:00 GMT",
-        "first_seen": "2026-01-26T08:37:40.458942"
-      },
-      "c47a36dac26adc2fde5272ca17e485becf29dba15a7ae535d641ffc1cc51050d": {
-        "title": "将AI作为航空的助推，欧洲FLPP计划中制作火箭的智能助手与NASA利用AI实行对外探索",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-26-8",
-        "published_date": "Mon, 26 Jan 2026 13:45:00 GMT",
-        "first_seen": "2026-01-26T08:37:40.458944"
-      },
-      "1cbf556af2f66d9a2f6715cea813f17b853faec6d27629e2b29bf14bbd1fbe7a": {
-        "title": "“开源版贾维斯”一夜席卷硅谷！Mac mini因它卖爆",
-        "link": "https://www.qbitai.com/2026/01/372592.html",
-        "published_date": "Mon, 26 Jan 2026 06:36:00 GMT",
-        "first_seen": "2026-01-26T08:37:40.458946"
-      },
-      "7d26bfad6a2e8ca8c5773c757e97bcc793b986b0a9ad137e4f19c98bee156df1": {
-        "title": "具身智能迎来“统考卷”：上海交通大学发布大规模开源测评集GM-100，致力推动行业标准化",
-        "link": "https://www.qbitai.com/2026/01/372589.html",
-        "published_date": "Mon, 26 Jan 2026 06:29:00 GMT",
-        "first_seen": "2026-01-26T08:37:40.458947"
-      },
       "f4bf890321579a4059caaf7369f696ff66d1957ca32dedeba840d17ac77ccb6f": {
         "title": "GPT-5大战DeepSeek？国内首个科创板AI Agent实盘竞技场来了！",
         "link": "https://www.jiqizhixin.com/articles/2026-01-26-12",
@@ -16301,13 +16337,43 @@
         "link": "https://www.qbitai.com/2026/02/382015.html",
         "published_date": "Wed, 25 Feb 2026 05:01:00 GMT",
         "first_seen": "2026-02-25T06:03:48.600031"
+      },
+      "e7f91444e03016861d30d1fb0834b5f8f726b896c37f3f2950a285faad662388": {
+        "title": "只要1100美元tokens，一周重写 Next.js！",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-25-8",
+        "published_date": "Wed, 25 Feb 2026 16:48:00 GMT",
+        "first_seen": "2026-02-25T08:54:55.544936"
+      },
+      "fc24f5bca66ff385ea8049575c410ed4acc3e394f475efa4ef6816c585520458": {
+        "title": "消费级显卡可跑！刚刚，阿里Qwen3.5又开源3款新模型",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-25-7",
+        "published_date": "Wed, 25 Feb 2026 16:43:00 GMT",
+        "first_seen": "2026-02-25T08:54:55.544944"
+      },
+      "0db05a7359b0bf74ed4a0b4d9ed7bc4b4158fbb5fd0dfb19568fe4e1a04e1fcd": {
+        "title": "大语言模型真的会「推理」吗？一项系统性研究梳理 LLM 的结构性推理失败",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-25-6",
+        "published_date": "Wed, 25 Feb 2026 16:40:00 GMT",
+        "first_seen": "2026-02-25T08:54:55.544946"
+      },
+      "9011e35b256aca52352cd0f0f79edd8d5a853dcb149e3d7387a8795f566b3598": {
+        "title": "融资34亿！谷歌前TPU员工创业新型芯片，卡帕西也投了",
+        "link": "https://www.qbitai.com/2026/02/382058.html",
+        "published_date": "Wed, 25 Feb 2026 07:08:00 GMT",
+        "first_seen": "2026-02-25T08:54:55.544948"
+      },
+      "51d4f811876ea80670f952681a45ee38fa58d266ccc15e5d1886d2d16137ae0f": {
+        "title": "阿里发布三款中型千问3.5新模型，每百万Token低至0.2元",
+        "link": "https://www.qbitai.com/2026/02/382054.html",
+        "published_date": "Wed, 25 Feb 2026 06:48:00 GMT",
+        "first_seen": "2026-02-25T08:54:55.544949"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-02-25T06:03:48.707047",
-    "Finance": "2026-02-25T06:03:48.425385",
-    "Ai": "2026-02-25T06:03:48.600033"
+    "Technology": "2026-02-25T08:54:55.646043",
+    "Finance": "2026-02-25T08:54:55.380377",
+    "Ai": "2026-02-25T08:54:55.544952"
   }
 }
