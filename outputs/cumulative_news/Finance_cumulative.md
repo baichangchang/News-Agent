@@ -1,7 +1,74 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-26 23:33
+**最后更新时间**: 2026-02-27 12:05
+
+---
+
+## 🆕 最新更新 (2026-02-27 12:05)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Howard Marks of Oaktree makes 180-degree turn on AI after Claude tutorial. Here’s how he suggests investors approach it.](https://www.marketwatch.com/story/howard-marks-makes-180-degree-turn-on-ai-after-claude-tutorial-heres-how-he-suggests-investors-approach-it-c8658e7d?mod=mw_rss_topstories)
+**发布时间**: 2026-02-27 11:52
+
+#### [Nine out of 10 bets this fund manager made outperformed over the past year. Here’s his next two plays.](https://www.marketwatch.com/story/nine-out-of-10-bets-this-fund-manager-made-outperformed-over-the-past-year-heres-his-next-two-plays-79f4b71e?mod=mw_rss_topstories)
+**发布时间**: 2026-02-27 11:46
+
+#### [After 46 years working, I’m not retiring — instead, I take a vacation every month. Is that a good life in your 70s?](https://www.marketwatch.com/story/after-46-years-working-im-not-retiring-instead-i-take-a-vacation-every-month-is-that-a-good-life-in-your-70s-447f7c75?mod=mw_rss_topstories)
+**发布时间**: 2026-02-27 11:15
+
+#### [Will the bank get suspicious if I deposit $150,000 in cash into my checking account?](https://www.marketwatch.com/story/i-live-in-a-state-with-no-inheritance-tax-is-it-legal-to-deposit-150k-cash-into-my-bank-account-d7987cfe?mod=mw_rss_topstories)
+**发布时间**: 2026-02-27 10:45
+
+#### [‘My sister and I are his only family’: My brother is paranoid and forgot he sold his house. What can I do?](https://www.marketwatch.com/story/my-sister-and-i-are-his-only-family-my-brother-is-paranoid-and-forgot-he-sold-his-house-what-can-i-do-006a8d3a?mod=mw_rss_topstories)
+**发布时间**: 2026-02-27 10:15
+
+#### [KISS rocker Gene Simmons lowers price of Beverly Hills home to $12.5 million after months on the market](https://www.marketwatch.com/story/kiss-rocker-gene-simmons-lowers-price-of-beverly-hills-home-to-12-5-million-after-months-on-the-market-68bed304?mod=mw_rss_topstories)
+**发布时间**: 2026-02-27 10:04
+
+#### [Trump allies David and Larry Ellison win battle for Warner Bros. Discovery after Netflix bows out](https://www.marketwatch.com/story/warner-bros-discovery-deems-paramounts-bid-superior-putting-netflix-in-the-hot-seat-a1fcea7c?mod=mw_rss_topstories)
+**发布时间**: 2026-02-27 04:08
+
+#### [Block plans to lay off nearly half its staff in ‘deliberate and bold’ embrace of AI](https://www.marketwatch.com/story/block-plans-to-lay-off-nearly-half-its-staff-in-deliberate-and-bold-embrace-of-ai-81e99247?mod=mw_rss_topstories)
+**发布时间**: 2026-02-27 04:07
+
+#### [Yes, consumers in China are consuming again. It’s just not their No. 1 priority these days.](https://www.marketwatch.com/story/yes-consumers-in-china-are-consuming-again-its-just-not-their-no-1-priority-these-days-598c2c02?mod=mw_rss_topstories)
+**发布时间**: 2026-02-27 02:00
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [An election that shakes up British politics](https://www.ft.com/content/09899540-766e-4a35-a132-ac038e4010aa)
+**发布时间**: 2026-02-27 11:36
+
+#### [Starmer hits out at ‘extremes’ of left and right after Green by-election victory](https://www.ft.com/content/aa7abe87-3407-4f14-aa72-48fbfc132c0e)
+**发布时间**: 2026-02-27 11:28
+
+#### [Environment takes a back seat as Greens target disaffected Labour voters](https://www.ft.com/content/de7ebc9f-b7b5-4872-8713-c67190d5e8f4)
+**发布时间**: 2026-02-27 10:32
+
+#### [Paramount clinches Warner Bros deal after Netflix walks away](https://www.ft.com/content/fdb3478b-a124-403e-ab39-0d0b33493294)
+**发布时间**: 2026-02-27 09:38
+
+#### [What you said about my new ChatGPT investment adviser](https://www.ft.com/content/f76fac89-89e9-4399-ace1-bf7349a8d495)
+**发布时间**: 2026-02-27 08:32
+
+#### [‘The worst outcome’: Green triumph creates new peril for Labour](https://www.ft.com/content/a1b744aa-db7c-47a4-b0aa-da23872a20e9)
+**发布时间**: 2026-02-27 07:49
+
+#### [Economic nationalism is just getting started](https://www.ft.com/content/19863a82-7979-49db-a644-78a5d1830044)
+**发布时间**: 2026-02-27 05:00
+
+#### [Pentagon moves to build AI tools for China cyber operations](https://www.ft.com/content/a56d70b5-669c-4bcc-8541-a4961fc99802)
+**发布时间**: 2026-02-27 05:00
+
+#### [US warns it will axe all Anthropic agreements without Pentagon deal](https://www.ft.com/content/11d27612-d6c5-4cf7-94dd-f65603549b7f)
+**发布时间**: 2026-02-27 01:26
+
+#### [UK consumer confidence survey gives up gains of past 2 months](https://www.ft.com/content/55c696ed-dd31-4717-b5ad-73eb74c56337)
+**发布时间**: 2026-02-27 00:01
+
+#### [HMRC collects extra £16bn from big business with more ‘hands-on’ approach](https://www.ft.com/content/c96dd870-8329-49ee-b863-faa21a0eaffe)
+**发布时间**: 2026-02-27 00:01
 
 ---
 
