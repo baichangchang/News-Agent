@@ -2,30 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "f31a3c91f4820f4f8683d98837ebdb66e8f773bc68182a609d79de8eef7983b1": {
-        "title": "【钛晨报】习近平：发挥比较优势，坚持稳中求进，推动我国未来产业发展不断取得新突破；车企首月新能源成绩单出炉；四家公募基金集体公告，提示旗下石油基金溢价风险",
-        "link": "https://www.tmtpost.com/7863421.html",
-        "published_date": "Mon, 02 Feb 2026 07:20:00 GMT",
-        "first_seen": "2026-02-01T23:28:50.554892"
-      },
-      "16d7c430ad9f890300bb23018a41ba083e9f325db701e94301b24bc298647926": {
-        "title": "中国的人工智能蓬勃发展，正在幕后迎来回报",
-        "link": "https://www.tmtpost.com/7863462.html",
-        "published_date": "Sun, 01 Feb 2026 20:35:00 GMT",
-        "first_seen": "2026-02-01T23:28:50.554899"
-      },
-      "c36e38a6f26cce0ce68a60e584c3c92b2f3705b09a23ad029936d91e83cb0727": {
-        "title": "CoreWeave首席执行官解析：这家科技公司为何与众不同",
-        "link": "https://www.tmtpost.com/7863229.html",
-        "published_date": "Sun, 01 Feb 2026 11:48:00 GMT",
-        "first_seen": "2026-02-01T23:28:50.554901"
-      },
-      "d822aafbab6234ea0c79a33c30fb756027be6264407f7a2b0ca9851a78e14517": {
-        "title": "彩讯股份携手稳准智能发布垂直行业数据大模型“数擎”大模型",
-        "link": "https://www.infoq.cn/article/gbW5LmM3U3dXoQhTXY31?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 01 Feb 2026 17:19:00 GMT",
-        "first_seen": "2026-02-01T23:28:50.554903"
-      },
       "f8372a8d6277a2c5310d6b82d09e0c4dca77b55e937e7477007056daa32785ff": {
         "title": "阿里的AI战略，“通云哥”既是谜面，也是谜底",
         "link": "https://www.tmtpost.com/7863208.html",
@@ -8359,93 +8335,153 @@
         "link": "https://sspai.com/post/106372",
         "published_date": "Tue, 03 Mar 2026 15:00:00 GMT",
         "first_seen": "2026-03-03T08:46:50.974580"
+      },
+      "2b49b105375e6bad87f68c5872f97616ad7a0dd9300599afa13f84cfbda8bf27": {
+        "title": "有人担心美国在伊朗可能会把导弹用光，美国正转而求助的就是这些承包商",
+        "link": "https://www.tmtpost.com/7898772.html",
+        "published_date": "Tue, 03 Mar 2026 23:08:00 GMT",
+        "first_seen": "2026-03-03T23:30:39.894871"
+      },
+      "7ab673ed96eecc639898e003c23e9c5b0aa7288207a0ac8151d71b7a4a5dbae1": {
+        "title": "亚马逊数据中心遭无人机袭击：科技行业如何暴露在战争之中",
+        "link": "https://www.tmtpost.com/7898770.html",
+        "published_date": "Tue, 03 Mar 2026 23:07:00 GMT",
+        "first_seen": "2026-03-03T23:30:39.894887"
+      },
+      "787d49b21015686f8c5109ce4c951bb7e41704dd79e7cbe20700bb60affb05ff": {
+        "title": "7.27亿元落槌！动保龙头拟收购中核铀业旗下两公司股权；全球偏光片龙头易主在即，已提交重整计划草案；【并购一线】",
+        "link": "https://www.tmtpost.com/7898746.html",
+        "published_date": "Tue, 03 Mar 2026 22:38:00 GMT",
+        "first_seen": "2026-03-03T23:30:39.894890"
+      },
+      "98b92fe8b6cba4dc934487193b0eaa5217842d4ffd45cf0b0fa9c41e0d1c0f5b": {
+        "title": "五连亏、补税2000万、高负债夹击：艾迪药业12.77亿的破局豪赌",
+        "link": "https://www.tmtpost.com/7891224.html",
+        "published_date": "Tue, 03 Mar 2026 22:08:00 GMT",
+        "first_seen": "2026-03-03T23:30:39.894893"
+      },
+      "06b12a15ccf318b319deeee522b45f5229096520c54f5dc11309c1c4131b2ef5": {
+        "title": "平价易主+宽松对赌+借壳幻灭，法兰泰克复牌跌5.6% ｜并购一线",
+        "link": "https://www.tmtpost.com/7898483.html",
+        "published_date": "Tue, 03 Mar 2026 19:23:00 GMT",
+        "first_seen": "2026-03-03T23:30:39.894895"
+      },
+      "912d6a5743bee541b53a64216a0d24ff09778ec25f26cef5d6e0a4cd8b607b86": {
+        "title": "中东光伏项目短期内交付受阻；欧盟将废除小额包裹免税政策；Lazada子公司在新加坡推出前置仓即时零售 ｜一周出海参考",
+        "link": "https://www.tmtpost.com/7897523.html",
+        "published_date": "Tue, 03 Mar 2026 19:17:00 GMT",
+        "first_seen": "2026-03-03T23:30:39.894897"
+      },
+      "811eb5b63337713b132a0058a9c75a745f0a35b0ae8283f995174ace4179d317": {
+        "title": "五和博澳冲刺港股：40亿估值，买的是管线还是确定性？",
+        "link": "https://www.tmtpost.com/7898487.html",
+        "published_date": "Tue, 03 Mar 2026 19:14:00 GMT",
+        "first_seen": "2026-03-03T23:30:39.894898"
+      },
+      "51d224ab618058f1cad51938775df33c76990cace2021f67f9a8de9c5ec1fd79": {
+        "title": "字节领航、Kimi 爆发：红包大战落幕，AI行业变天",
+        "link": "https://www.tmtpost.com/7898418.html",
+        "published_date": "Tue, 03 Mar 2026 19:14:00 GMT",
+        "first_seen": "2026-03-03T23:30:39.894900"
+      },
+      "44e4b79349a226eb639eac9c7df09378e040f2669d82c8aecc1a973f9939ba74": {
+        "title": "从夸克到千问：阿里AI“重修族谱”",
+        "link": "https://www.tmtpost.com/7898028.html",
+        "published_date": "Tue, 03 Mar 2026 19:14:00 GMT",
+        "first_seen": "2026-03-03T23:30:39.894902"
+      },
+      "e8c0d7b7d0687c5b562a110f53cd9b7361180cff8c294a332c56488da3308388": {
+        "title": "Bigger than bigger，汽车公司开启SUV之战",
+        "link": "https://www.tmtpost.com/7898344.html",
+        "published_date": "Tue, 03 Mar 2026 18:45:00 GMT",
+        "first_seen": "2026-03-03T23:30:39.894904"
+      },
+      "2fc1cbe45d0912c7920a62104af9d226dc43f8bfc2ab333d78c5988e39149290": {
+        "title": "姜哲源喊出“刚跑了十米”后，宁德时代投了10个亿，但C端故事可能还是个陷阱",
+        "link": "https://www.tmtpost.com/7898398.html",
+        "published_date": "Tue, 03 Mar 2026 18:45:00 GMT",
+        "first_seen": "2026-03-03T23:30:39.894905"
+      },
+      "228f8872bac207fdcba36e61d2a1bd8a900f30e36e6fba79173d365d0a0213de": {
+        "title": "AI手机路上，荣耀“背叛”豆包",
+        "link": "https://www.tmtpost.com/7898350.html",
+        "published_date": "Tue, 03 Mar 2026 18:45:00 GMT",
+        "first_seen": "2026-03-03T23:30:39.894906"
+      },
+      "31cc0f4c7eed7cb2c6134a11b0731da95acc8036abfce3ceb05755596b5f9b65": {
+        "title": "OpenClaw爆火60天：中国产业AI落地的“又一次集体进化”",
+        "link": "https://www.tmtpost.com/7898346.html",
+        "published_date": "Tue, 03 Mar 2026 18:45:00 GMT",
+        "first_seen": "2026-03-03T23:30:39.894909"
+      },
+      "1b3fae8ac36fe26aaa589210cd467bfb717ebcc34f0df1d14f11d2177e16ea34": {
+        "title": "OpenClaw 越红火，MiniMax 们越开心",
+        "link": "https://www.tmtpost.com/7898277.html",
+        "published_date": "Tue, 03 Mar 2026 18:45:00 GMT",
+        "first_seen": "2026-03-03T23:30:39.894911"
+      },
+      "2a3c59080930afc34147eb2dd878e0fdc392d8aa63c4e92e4ee4692c18dfb948": {
+        "title": "春晚之后，机器人忙着“走穴”接活",
+        "link": "https://www.tmtpost.com/7898263.html",
+        "published_date": "Tue, 03 Mar 2026 18:45:00 GMT",
+        "first_seen": "2026-03-03T23:30:39.894912"
+      },
+      "084408b8c186c03f99e2b9322f5167b66fcf00213fd10ab40bddcdad19ccb65c": {
+        "title": "大模型开始偏爱引用YouTube了？",
+        "link": "https://www.tmtpost.com/7896355.html",
+        "published_date": "Tue, 03 Mar 2026 18:42:00 GMT",
+        "first_seen": "2026-03-03T23:30:39.894913"
+      },
+      "1b7c1af0813fc9fb071bc30d73ab8ca9a37a01f91bb9e91ba11d42a97dba7508": {
+        "title": "China's Dumpling Chain Restaurant Goes for IPO in Hong Kong, the First Dumpling Stock",
+        "link": "https://www.tmtpost.com/7898278.html",
+        "published_date": "Tue, 03 Mar 2026 17:56:00 GMT",
+        "first_seen": "2026-03-03T23:30:39.894915"
+      },
+      "b1d6deb60615ffa29b08c1b37b5f1006e0b1ecc415cd0ea2df1eb9320e927d54": {
+        "title": "成为主角的百度 AI，能支棱起来吗？",
+        "link": "https://www.tmtpost.com/7898191.html",
+        "published_date": "Tue, 03 Mar 2026 17:35:00 GMT",
+        "first_seen": "2026-03-03T23:30:39.894917"
+      },
+      "00f8eacffb469f73a46b4cb032ef8e52363acd11920e022e8ea5a5a0cb9cf201": {
+        "title": "模力工场 033 周 AI 应用榜：从评论区互动到游戏陪玩，AI 已悄悄加载完成",
+        "link": "https://www.infoq.cn/article/3AV33wXig2vBy4s5hkIP?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 03 Mar 2026 20:00:00 GMT",
+        "first_seen": "2026-03-03T23:30:39.894918"
+      },
+      "7041e3bb90186ad9eb05d3180339b1d867cc3928f65bc0be2fdb3cb7e6565762": {
+        "title": "史上最忙AI春节档：海量新品，如何才能不焦虑？",
+        "link": "http://www.huxiu.com/article/4837484.html?f=wangzhan",
+        "published_date": "Tue, 03 Mar 2026 18:30:00 GMT",
+        "first_seen": "2026-03-03T23:30:39.894920"
+      },
+      "e1406fbcaa875d536b98bab0f1951e5d613c645638087937a645ef076b978584": {
+        "title": "全网狂吹，永久投资组合，能持续赚吗?",
+        "link": "http://www.huxiu.com/article/4837439.html?f=wangzhan",
+        "published_date": "Tue, 03 Mar 2026 18:00:00 GMT",
+        "first_seen": "2026-03-03T23:30:39.894922"
+      },
+      "8817b5439993cc99617c39ff6ee8832233e4e39ede4db8a516470ddf4ca94986": {
+        "title": "让财务官当CEO，利润全球第一的丰田也缺钱了？",
+        "link": "http://www.huxiu.com/article/4838597.html?f=wangzhan",
+        "published_date": "Tue, 03 Mar 2026 17:15:00 GMT",
+        "first_seen": "2026-03-03T23:30:39.894923"
+      },
+      "53dd139be0c47bc1fc5708263ab1c3c174432f07c28b05f23a9a42b1e6a753fa": {
+        "title": "一年千亿，短剧生意比电影都大了？",
+        "link": "http://www.huxiu.com/article/4838156.html?f=wangzhan",
+        "published_date": "Tue, 03 Mar 2026 17:00:00 GMT",
+        "first_seen": "2026-03-03T23:30:39.894925"
+      },
+      "09ef26d81b109c14fdfc8b553a85621ba263f8e07594cddc22eeae2ee256842b": {
+        "title": "社区速递 131 | 派友们的一月好物大赏、给桌面风扇装上「机械臂」",
+        "link": "https://sspai.com/post/106782",
+        "published_date": "Tue, 03 Mar 2026 16:51:00 GMT",
+        "first_seen": "2026-03-03T23:30:39.894926"
       }
     },
     "Finance": {
-      "c68922bd1e4ad2cf7161cc947a89658c391299873687ab26b12396ca6578ca9b": {
-        "title": "U.S. stock futures fall, along with bitcoin and oil prices",
-        "link": "https://www.marketwatch.com/story/u-s-stock-futures-fall-along-with-bitcoin-and-oil-prices-21adfaf3?mod=mw_rss_topstories",
-        "published_date": "Sun, 01 Feb 2026 23:25:00 GMT",
-        "first_seen": "2026-02-01T23:28:50.344703"
-      },
-      "83d5f3f22cbc532c4600f6c0065f3554a21754679d7dbd40cd07446ee92fcc1b": {
-        "title": "‘We live on Social Security and pensions’: I’m in my 70s and my house needs repairs. Do I take out a $50K loan — or sell stocks?",
-        "link": "https://www.marketwatch.com/story/we-live-on-social-security-and-pensions-im-in-my-70s-and-my-house-needs-repairs-do-i-take-out-a-50k-loan-or-sell-stocks-44c2ddbe?mod=mw_rss_topstories",
-        "published_date": "Sun, 01 Feb 2026 21:54:00 GMT",
-        "first_seen": "2026-02-01T23:28:50.344716"
-      },
-      "16e64d8df7c0c0e9b771fdbca13d3c0f9add1af7bc22f50600ec22e8fe7a04dd": {
-        "title": "There’s now a bigger risk for stocks than the economy or corporate earnings",
-        "link": "https://www.marketwatch.com/story/theres-now-a-bigger-risk-for-stocks-than-the-economy-or-corporate-earnings-cff2eee0?mod=mw_rss_topstories",
-        "published_date": "Sun, 01 Feb 2026 20:45:00 GMT",
-        "first_seen": "2026-02-01T23:28:50.344719"
-      },
-      "ca883a837345114005bd336a98fe8ff87960ed0ab6a4632b0b985b1d8589488e": {
-        "title": "The ‘January barometer’ for stocks comes with a big asterisk this year",
-        "link": "https://www.marketwatch.com/story/the-january-barometer-for-stocks-comes-with-a-big-asterisk-this-year-4e24ac3a?mod=mw_rss_topstories",
-        "published_date": "Sun, 01 Feb 2026 20:41:00 GMT",
-        "first_seen": "2026-02-01T23:28:50.344721"
-      },
-      "3f889e12db45616ce981bf2c82ff655f5b769ff8695d5613730e7613761fb566": {
-        "title": "‘Melania’ documentary’s $7 million box office is a win for the first lady — but not for Amazon",
-        "link": "https://www.marketwatch.com/story/melania-documentarys-8-million-box-office-is-a-win-for-the-first-lady-but-not-for-amazon-44256593?mod=mw_rss_topstories",
-        "published_date": "Sun, 01 Feb 2026 20:29:00 GMT",
-        "first_seen": "2026-02-01T23:28:50.344723"
-      },
-      "8c03d71922d051b21bf87375f4431b5881fb7d2bee8f005cd82db3bacca75268": {
-        "title": "Here’s what’s worth streaming in February 2026 on Netflix, Hulu, Peacock and more",
-        "link": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-february-2026-on-netflix-hulu-peacock-and-more-e050db23?mod=mw_rss_topstories",
-        "published_date": "Sun, 01 Feb 2026 20:08:00 GMT",
-        "first_seen": "2026-02-01T23:28:50.344725"
-      },
-      "ba929ccd9322e99742d40705d40fac8123aa9f355d0ad7b3e9904e5a6d426d4a": {
-        "title": "Apollo chief Marc Rowan consulted Epstein on firm’s tax affairs",
-        "link": "https://www.ft.com/content/092d9e44-ec17-4da7-8b58-e43bf09113ab",
-        "published_date": "Sun, 01 Feb 2026 23:01:00 GMT",
-        "first_seen": "2026-02-01T23:28:50.344726"
-      },
-      "69b167d06e0d97b7c220bb281d84e8802dbe00e5fc23894f3619a5fea5b3b484": {
-        "title": "JPMorgan should ‘threaten’ UK over banker tax, Mandelson told Epstein",
-        "link": "https://www.ft.com/content/91e8142a-3d4c-4222-a5ad-6548fc9907d1",
-        "published_date": "Sun, 01 Feb 2026 22:48:00 GMT",
-        "first_seen": "2026-02-01T23:28:50.344728"
-      },
-      "4d3bde98d176505f9c19ee7032e485171d2bd037ad82211a3015f6e89a4ea882": {
-        "title": "Abu Dhabi royal bought big stake in Trump family crypto venture",
-        "link": "https://www.ft.com/content/188bc9f1-cb43-4b04-a548-79805153a20b",
-        "published_date": "Sun, 01 Feb 2026 19:03:00 GMT",
-        "first_seen": "2026-02-01T23:28:50.344730"
-      },
-      "56841b475ae17ec2346d09c47b0869429f27b1da923bfdeb549c5ff73a4e1b1b": {
-        "title": "UK to reconsider joining EU defence fund",
-        "link": "https://www.ft.com/content/ee84b8e4-cb6e-4d98-a953-8daa5313c9fd",
-        "published_date": "Sun, 01 Feb 2026 18:00:00 GMT",
-        "first_seen": "2026-02-01T23:28:50.344732"
-      },
-      "283482bf0bdc23c08de1a8afe62fa1c8004f33bf93841c888859d025f83ee4b1": {
-        "title": "DP World boss discussed masseuse with Epstein, emails show",
-        "link": "https://www.ft.com/content/03e90cc3-fa03-452c-8ae9-d00134882940",
-        "published_date": "Sun, 01 Feb 2026 16:52:00 GMT",
-        "first_seen": "2026-02-01T23:28:50.344733"
-      },
-      "c3650df6f5618ff24f87a015924fc60fd0b7f26e23fbb9a42982b5f2c45dadd7": {
-        "title": "How Russia weaponised global banking to silence dissidents",
-        "link": "https://www.ft.com/content/9f499f4d-f78b-4154-aa2e-cabe9bd22d16",
-        "published_date": "Sun, 01 Feb 2026 16:00:00 GMT",
-        "first_seen": "2026-02-01T23:28:50.344735"
-      },
-      "67220f4ee358d3f0344f816f180471ec46febdb8d354c53738aa31994a5bb4fa": {
-        "title": "Americans have drawn a red line in Minnesota",
-        "link": "https://www.ft.com/content/a21843e8-0a9b-4646-b6a8-c38f84b7775d",
-        "published_date": "Sun, 01 Feb 2026 13:25:00 GMT",
-        "first_seen": "2026-02-01T23:28:50.344737"
-      },
-      "ec7c76d8a600a8a1c2d731f94f19cb45c0b2e789fb7ebfa1a39d9cf191599569": {
-        "title": "Xi calls for China’s renminbi to attain global reserve currency status",
-        "link": "https://www.ft.com/content/c948b978-c22b-44b7-ba3d-4798e641e673",
-        "published_date": "Sun, 01 Feb 2026 09:26:00 GMT",
-        "first_seen": "2026-02-01T23:28:50.344739"
-      },
       "aeb961ffc8935d18b83a0c4edcbb69ac351932b18765611eab7ef72c7a289b26": {
         "title": "Gold and silver slide deepens as rally loses steam",
         "link": "https://www.ft.com/content/e830a2cd-604f-4207-8ab8-fefafc6b5d70",
@@ -13389,27 +13425,147 @@
         "link": "https://www.marketwatch.com/story/opendoor-ceo-says-his-firm-is-offering-mortgages-at-4-99-some-are-puzzled-how-b5d75613?mod=mw_rss_topstories",
         "published_date": "Tue, 03 Mar 2026 08:42:00 GMT",
         "first_seen": "2026-03-03T08:46:51.015537"
+      },
+      "4f07ebda342e0074f47f38c9bf4cdee849af6d5e5aa95b27695e3fdf82c8c6ed": {
+        "title": "Here are the U.S. airlines most vulnerable to rising fuel prices",
+        "link": "https://www.marketwatch.com/story/here-are-the-u-s-airlines-most-vulnerable-to-rising-fuel-prices-b3ed82b3?mod=mw_rss_topstories",
+        "published_date": "Tue, 03 Mar 2026 23:17:00 GMT",
+        "first_seen": "2026-03-03T23:30:40.016275"
+      },
+      "be27d2d6450cd1a5819890cd377c1c9bfa69306db9f8a85845ecb740e005ee3b": {
+        "title": "How Nvidia turned a steal of a deal into its secret weapon",
+        "link": "https://www.marketwatch.com/story/how-nvidia-turned-a-steal-of-a-deal-into-its-secret-weapon-17c2027a?mod=mw_rss_topstories",
+        "published_date": "Tue, 03 Mar 2026 23:07:00 GMT",
+        "first_seen": "2026-03-03T23:30:40.016300"
+      },
+      "11128e3466c80d19764c84a212ea8deccc1b9deaedeb81053434d2c5d00d35af": {
+        "title": "The stock market’s wild swings are sending a message about the escalating Iran conflict",
+        "link": "https://www.marketwatch.com/story/the-stock-markets-wild-swings-are-sending-a-message-about-the-escalating-iran-conflict-9dc81cac?mod=mw_rss_topstories",
+        "published_date": "Tue, 03 Mar 2026 23:02:00 GMT",
+        "first_seen": "2026-03-03T23:30:40.016303"
+      },
+      "10f5927d01ee778a996c93ca0e9200ec32d0f41a73e966fbdfa7f633e36f093e": {
+        "title": "Should you buy or sell a home now? What the Iran conflict means for the spring home-buying season.",
+        "link": "https://www.marketwatch.com/story/should-you-buy-or-sell-a-home-now-what-the-iran-conflict-means-for-the-spring-home-buying-season-a933f4d3?mod=mw_rss_topstories",
+        "published_date": "Tue, 03 Mar 2026 22:56:00 GMT",
+        "first_seen": "2026-03-03T23:30:40.016305"
+      },
+      "cc98cb2bf9e8bcee89b47064296804e9ea36d3cdcf9106e79b1fee5d3c4ac0ea": {
+        "title": "‘When he doesn’t get money, he becomes angry’: My brother has led a life of chaos and financial ruin. What is my moral obligation?",
+        "link": "https://www.marketwatch.com/story/when-he-doesnt-get-money-he-becomes-angry-my-brother-has-led-a-life-of-chaos-and-financial-ruin-what-is-my-moral-obligation-ac5efa9d?mod=mw_rss_topstories",
+        "published_date": "Tue, 03 Mar 2026 22:45:00 GMT",
+        "first_seen": "2026-03-03T23:30:40.016306"
+      },
+      "b661f0597dcbefcda6f0c3cb7e420f40aaf17a08f649f586242d10e4701db5f9": {
+        "title": "Blue Owl’s private-credit stumble revives fears of another Bear Stearns moment",
+        "link": "https://www.marketwatch.com/story/why-blue-owls-private-credit-shocker-has-investors-seeing-shadows-of-bear-stearns-45506299?mod=mw_rss_topstories",
+        "published_date": "Tue, 03 Mar 2026 22:34:00 GMT",
+        "first_seen": "2026-03-03T23:30:40.016308"
+      },
+      "469c87a71986eae0a4ba1b88e464fa656be6cc1890f4b9019cd63e114be46ef3": {
+        "title": "Moderna’s stock rallies more than 10% as deal over a patent dispute clears vaccine pipeline",
+        "link": "https://www.marketwatch.com/story/modernas-stock-rallies-more-than-10-as-deal-over-a-patent-dispute-clears-vaccine-pipeline-d34e6793?mod=mw_rss_topstories",
+        "published_date": "Tue, 03 Mar 2026 22:30:00 GMT",
+        "first_seen": "2026-03-03T23:30:40.016310"
+      },
+      "d15ea682ec9098bafacb9177724a32a399ece12d2991d2a253b0e28ecc64d754": {
+        "title": "Trump started the Iran conflict, but still has options to keep oil and gas prices in check",
+        "link": "https://www.marketwatch.com/story/trump-started-the-iran-conflict-but-still-has-options-to-keep-oil-and-gas-prices-in-check-c8166f44?mod=mw_rss_topstories",
+        "published_date": "Tue, 03 Mar 2026 22:28:00 GMT",
+        "first_seen": "2026-03-03T23:30:40.016311"
+      },
+      "6dbb9e06cfb04c4255a4db12db26a1080583c5a06d59837b5ce97d150d83a964": {
+        "title": "Trump’s upbeat oil comments fail to erase inflation fears and losses in the U.S. stock market",
+        "link": "https://www.marketwatch.com/story/trumps-upbeat-oil-comments-fail-to-erase-inflation-fears-and-losses-in-the-u-s-stock-market-57dbe5f7?mod=mw_rss_topstories",
+        "published_date": "Tue, 03 Mar 2026 22:25:00 GMT",
+        "first_seen": "2026-03-03T23:30:40.016313"
+      },
+      "35e636950f13ac224012cd68496d838611880a6229607befff538a420ec7cc16": {
+        "title": "How the Iran conflict could ultimately unlock a Middle East ‘peace dividend’ for investors",
+        "link": "https://www.marketwatch.com/story/forget-the-oil-spike-the-iran-conflict-could-unlock-a-generational-middle-east-peace-dividend-16fe67e4?mod=mw_rss_topstories",
+        "published_date": "Tue, 03 Mar 2026 22:18:00 GMT",
+        "first_seen": "2026-03-03T23:30:40.016315"
+      },
+      "fa0a55d0dfed00fb000d86a4fbbebcfb8298cbe0f1e096e5358ac09afa65a5d0": {
+        "title": "Stocks and bonds stabilise as Middle East war widens",
+        "link": "https://www.ft.com/content/48a11039-eca6-4af4-89bd-c79b4203aee8",
+        "published_date": "Tue, 03 Mar 2026 21:45:00 GMT",
+        "first_seen": "2026-03-03T23:30:40.016316"
+      },
+      "7542b579afd91ececa4b7bfc4a090df6cb3d66c2a03b8017cbccde84b9ca2ad6": {
+        "title": "Pakistan urges Iran not to attack Saudi Arabia",
+        "link": "https://www.ft.com/content/3f67fdd9-8d85-485a-980a-addab8f1a540",
+        "published_date": "Tue, 03 Mar 2026 20:55:00 GMT",
+        "first_seen": "2026-03-03T23:30:40.016318"
+      },
+      "88a080da1cc249fe0ad03af0cbaab4b6ec924c9c4ec9969fcb96f47977a5102d": {
+        "title": "UK to deploy a warship and counter-drone helicopters to Cyprus",
+        "link": "https://www.ft.com/content/62d6373c-6870-4b9b-a6de-7ce704394e8b",
+        "published_date": "Tue, 03 Mar 2026 20:16:00 GMT",
+        "first_seen": "2026-03-03T23:30:40.016319"
+      },
+      "e2406bdb7b0f9d42a6ef8a244995bc171ae3789b9a441e8cc764aab77aa209c6": {
+        "title": "UAE projects normal life as missiles shake haven reputation",
+        "link": "https://www.ft.com/content/5615f5bf-a60a-4532-ae2c-5a86e131930c",
+        "published_date": "Tue, 03 Mar 2026 19:16:00 GMT",
+        "first_seen": "2026-03-03T23:30:40.016321"
+      },
+      "ef5db46239115a2c35631bf1c73fdffd96f6b77f39771bbbba4fbe772e17cad9": {
+        "title": "Trump threatens to cut trade with Spain and calls Starmer ‘no Churchill’",
+        "link": "https://www.ft.com/content/50c54c51-7ea2-44af-a242-475c66057f07",
+        "published_date": "Tue, 03 Mar 2026 18:28:00 GMT",
+        "first_seen": "2026-03-03T23:30:40.016322"
+      },
+      "213afef3c2994c4aef591841dd7cf2042e622442d60fdfc6979bc01ff172a432": {
+        "title": "A dull UK fiscal statement comes with a fragile outlook",
+        "link": "https://www.ft.com/content/68ebef34-5c2d-4716-9a7c-c6300ac289e8",
+        "published_date": "Tue, 03 Mar 2026 18:25:00 GMT",
+        "first_seen": "2026-03-03T23:30:40.016323"
+      },
+      "aa6843579d63951ddae51bf33defc77d76d3abbfc14d7d72410b3d4ab7a0ffc8": {
+        "title": "How AI fakes are turning satellite images into war misinformation",
+        "link": "https://www.ft.com/content/0badb6c5-bce2-4948-9d3b-164bdb55ecf4",
+        "published_date": "Tue, 03 Mar 2026 17:34:00 GMT",
+        "first_seen": "2026-03-03T23:30:40.016325"
+      },
+      "0b95ba2040954f924646e995684e7f1acfb0e92d04c7f5fb7d0992c4d52d9345": {
+        "title": "Sweeping assault on Iranian state leaves residents reeling",
+        "link": "https://www.ft.com/content/fa0c23e4-adae-4080-84c4-594f63019d21",
+        "published_date": "Tue, 03 Mar 2026 17:33:00 GMT",
+        "first_seen": "2026-03-03T23:30:40.016326"
+      },
+      "d0dde4e9fbce304ccd9bb589f9d353e2506cbf22ecdd79d6e344666777579771": {
+        "title": "US petrol prices surge as Trump’s Iran war triggers inflation worries",
+        "link": "https://www.ft.com/content/43fe2f44-d3ea-45c9-a641-e6f0e68949af",
+        "published_date": "Tue, 03 Mar 2026 17:17:00 GMT",
+        "first_seen": "2026-03-03T23:30:40.016328"
+      },
+      "05c82392aaeb5cb13a4c49dee655e07d0b5eb2a43068df49934b8e95aea6c3a6": {
+        "title": "OBR warns UK economy could face ‘very significant’ hit from Iran war",
+        "link": "https://www.ft.com/content/70d2be4d-8e0f-4784-b072-1d19d700bf19",
+        "published_date": "Tue, 03 Mar 2026 17:11:00 GMT",
+        "first_seen": "2026-03-03T23:30:40.016330"
+      },
+      "6cc170ad45b16954db24e2c1aa231990f1acd1ba5bf113e9c69d330626a673bb": {
+        "title": "Trump says US Navy prepared to escort oil tankers in Gulf",
+        "link": "https://www.ft.com/content/459a0b0a-4f8c-44ff-bcd2-473701313353",
+        "published_date": "Tue, 03 Mar 2026 17:10:00 GMT",
+        "first_seen": "2026-03-03T23:30:40.016331"
+      },
+      "aba95556486f5f2024f965c62af9c2e14fdee42b252b07a65d41fc39ce35738c": {
+        "title": "Why has oil not hit $100 a barrel?",
+        "link": "https://www.ft.com/content/1ca535f4-d4a6-480b-b2da-f5b05ad8dd5d",
+        "published_date": "Tue, 03 Mar 2026 15:33:00 GMT",
+        "first_seen": "2026-03-03T23:30:40.016333"
+      },
+      "6512f6a94b0445526dcfd4a7c006af77bbd6431081c09067f7bae4806cc1f35f": {
+        "title": "Donald Trump’s dangerous ‘war of whim’",
+        "link": "https://www.ft.com/content/611e8f6f-18c7-4886-a733-9e8aac2fceda",
+        "published_date": "Tue, 03 Mar 2026 11:59:00 GMT",
+        "first_seen": "2026-03-03T23:30:40.016335"
       }
     },
     "Ai": {
-      "8ab61538ed1b91991c7569b4a8ab4dbff97b6800ffdbe46340b9399e25165ad2": {
-        "title": "moltbook爆火背后：人类操控？伪造截图？Karpathy发风险提醒",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-01-4",
-        "published_date": "Sun, 01 Feb 2026 18:06:00 GMT",
-        "first_seen": "2026-02-01T23:28:50.493141"
-      },
-      "e11c099bd8d57d433aaed3bb4a789dfaa69a8787072b2c69ff6a903dcdf84a87": {
-        "title": "马斯克脑机接口，靠意念玩游戏只是基操，下一代设备性能翻三倍",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-01-3",
-        "published_date": "Sun, 01 Feb 2026 18:02:00 GMT",
-        "first_seen": "2026-02-01T23:28:50.493148"
-      },
-      "9447601370458dbe038deac7c6fe7c76d91e2341b9f656ee7de921e35d4016f0": {
-        "title": "o1之后下一个范式？隐式CoT大突破，让推理不再「碎碎念」",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-01-2",
-        "published_date": "Sun, 01 Feb 2026 17:56:00 GMT",
-        "first_seen": "2026-02-01T23:28:50.493150"
-      },
       "78e6642fee906427f38d301877b7f4fbd6794fc60c7311fa4575d25129468dd0": {
         "title": "让AI自己发现Scaling Law！北大斯坦福联手打造「AI科学家」，预测精度超越人类专家",
         "link": "https://www.jiqizhixin.com/articles/2026-02-02",
@@ -15497,13 +15653,49 @@
         "link": "https://www.qbitai.com/2026/03/383329.html",
         "published_date": "Tue, 03 Mar 2026 06:37:00 GMT",
         "first_seen": "2026-03-03T08:46:51.175064"
+      },
+      "cb4087fddea7a4a3778ddc9a14c4265fdb6975c4c9dff4cd5eeb2a6afe5e7624": {
+        "title": "@所有人，2026真的需要自己上手用AI了丨年度AI盛会",
+        "link": "https://www.qbitai.com/2026/03/383796.html",
+        "published_date": "Tue, 03 Mar 2026 11:16:00 GMT",
+        "first_seen": "2026-03-03T23:30:40.180518"
+      },
+      "0021bc68082ee583be01b5caddb5680d993d41e4c7146807f9e019612fc4a7ea": {
+        "title": "大模型越聪明，学习机越抢手：科大讯飞T90 Pro定义「真」个性化",
+        "link": "https://www.qbitai.com/2026/03/383629.html",
+        "published_date": "Tue, 03 Mar 2026 11:13:00 GMT",
+        "first_seen": "2026-03-03T23:30:40.180526"
+      },
+      "f05b50f69cb8269bcf3f8b7b8aee091cb8f0c324fa16d1934a596ba89faee310": {
+        "title": "龙虾再进化！强化飞书表格技能，25.2万星登顶超越React/Linux",
+        "link": "https://www.qbitai.com/2026/03/383367.html",
+        "published_date": "Tue, 03 Mar 2026 10:57:00 GMT",
+        "first_seen": "2026-03-03T23:30:40.180529"
+      },
+      "27358350690e60a154412b940ad8c877ff83e633bac1f45e078c150f2aeea411": {
+        "title": "GPT-5.4意外泄露！OpenAI最新模型瞄准这2大能力突围",
+        "link": "https://www.qbitai.com/2026/03/383592.html",
+        "published_date": "Tue, 03 Mar 2026 10:55:00 GMT",
+        "first_seen": "2026-03-03T23:30:40.180530"
+      },
+      "7b4637b67106099424520c3bb776685540842ee21ef95f52f783e4589b8385c2": {
+        "title": "今年最值得关注的AI榜单来啦！申报即日启动",
+        "link": "https://www.qbitai.com/2026/03/383565.html",
+        "published_date": "Tue, 03 Mar 2026 10:42:00 GMT",
+        "first_seen": "2026-03-03T23:30:40.180532"
+      },
+      "29f4f7089e940b41b1fe387e1c920cfa84e96f4d07d8fe9f1cbe536829397096": {
+        "title": "AI Agent搞定世纪首次菲尔兹奖成果形式化！一周时间独立完成，20万行代码已公开",
+        "link": "https://www.qbitai.com/2026/03/383368.html",
+        "published_date": "Tue, 03 Mar 2026 10:28:00 GMT",
+        "first_seen": "2026-03-03T23:30:40.180533"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-03-03T08:46:50.974583",
-    "Finance": "2026-03-03T08:46:51.015545",
-    "Ai": "2026-03-03T08:46:51.175066"
+    "Technology": "2026-03-03T23:30:39.894929",
+    "Finance": "2026-03-03T23:30:40.016338",
+    "Ai": "2026-03-03T23:30:40.180535"
   }
 }
