@@ -1,7 +1,74 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-03 23:30
+**最后更新时间**: 2026-03-04 11:53
+
+---
+
+## 🆕 最新更新 (2026-03-04 11:53)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [My rude, ungrateful relative gave her lawyer power of attorney — and has lived to regret it. Should I get involved?](https://www.marketwatch.com/story/my-rude-ungrateful-relative-gave-her-lawyer-power-of-attorney-and-has-lived-to-regret-it-should-i-get-involved-5db8088d?mod=mw_rss_topstories)
+**发布时间**: 2026-03-04 11:45
+
+#### [‘He has been emotionally abusive’: My father, 75, is on oxygen and destitute. What do I owe him?](https://www.marketwatch.com/story/he-has-been-emotionally-abusive-my-father-75-is-on-oxygen-and-destitute-what-do-i-owe-him-eb21e873?mod=mw_rss_topstories)
+**发布时间**: 2026-03-04 11:43
+
+#### [Oil-production shutdowns loom as some Middle Eastern countries could run out of storage](https://www.marketwatch.com/story/oil-production-shutdowns-loom-as-some-middle-eastern-countries-could-run-out-of-storage-90b82157?mod=mw_rss_topstories)
+**发布时间**: 2026-03-04 11:41
+
+#### [Moderna’s stock rallies as settlement of a patent dispute clears vaccine pipeline](https://www.marketwatch.com/story/modernas-stock-rallies-more-than-10-as-deal-over-a-patent-dispute-clears-vaccine-pipeline-d34e6793?mod=mw_rss_topstories)
+**发布时间**: 2026-03-04 11:37
+
+#### [Ross Stores touts ‘very strong start’ for spring shopping, boosting case for a retail rebound](https://www.marketwatch.com/story/ross-stores-touts-very-strong-start-for-spring-shopping-boosting-case-for-a-retail-rebound-4d8f168b?mod=mw_rss_topstories)
+**发布时间**: 2026-03-04 11:32
+
+#### [My mother will live in her second husband’s house if he dies before her. Will his kids be hopping mad?](https://www.marketwatch.com/story/his-children-might-resent-her-my-widowed-mother-has-a-life-estate-does-that-override-a-prenup-and-will-0e217484?mod=mw_rss_topstories)
+**发布时间**: 2026-03-04 11:31
+
+#### [Tax refunds aren’t quite as gigantic as hoped. What it means for investors.](https://www.marketwatch.com/story/tax-refunds-arent-quite-as-gigantic-as-hoped-what-it-means-for-investors-d9178af1?mod=mw_rss_topstories)
+**发布时间**: 2026-03-04 11:20
+
+#### [Bitcoin bounces back, topping $70,000, as safe havens waver](https://www.marketwatch.com/story/bitcoin-bounces-back-topping-70-000-as-safe-havens-waver-8e8f4740?mod=mw_rss_topstories)
+**发布时间**: 2026-03-04 11:10
+
+#### [Selloff descends into a rout in South Korea with biggest one-day drop since 2008](https://www.marketwatch.com/story/selloff-descends-into-a-rout-in-south-korea-with-biggest-one-day-drop-since-2008-911de87c?mod=mw_rss_topstories)
+**发布时间**: 2026-03-04 10:29
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Be glad of Starmer’s caution over Iran](https://www.ft.com/content/eaeea2e4-7ddf-487d-9dc5-b17747ed6262)
+**发布时间**: 2026-03-04 11:40
+
+#### [The influencers leaping to Dubai’s defence](https://www.ft.com/content/a7bffadc-0787-48a6-a3d6-0a87ce1f3fdf)
+**发布时间**: 2026-03-04 11:30
+
+#### [Ali Khamenei’s son Mojtaba emerges as a leading candidate for supreme leader of Iran](https://www.ft.com/content/b71ef4e2-d008-49fd-99f8-3c89fdab0d9f)
+**发布时间**: 2026-03-04 10:51
+
+#### [Sánchez calls US-Israeli war in Iran a ‘disaster’ amid spat with Trump](https://www.ft.com/content/69e598d5-793d-413b-ae44-c2f4c1dbfb2f)
+**发布时间**: 2026-03-04 09:51
+
+#### [Rising Democrat star James Talarico wins Texas primary for US Senate](https://www.ft.com/content/5bd7c3b2-e565-4b1b-8124-5c9f6fdcff09)
+**发布时间**: 2026-03-04 09:33
+
+#### [Dubai evacuation costs rise as high as $250,000 as more families flee](https://www.ft.com/content/23e04747-a1fc-4137-8ea2-235981e013d8)
+**发布时间**: 2026-03-04 09:28
+
+#### [Military briefing: how Iran could wage a new ‘tanker war’](https://www.ft.com/content/e0066ca6-81ac-443f-93c0-f3bc3a2cf4f1)
+**发布时间**: 2026-03-04 05:00
+
+#### [Is this Hizbollah’s last stand?](https://www.ft.com/content/a65dbdf6-98c1-4cbf-8e87-8e98d918a707)
+**发布时间**: 2026-03-04 05:00
+
+#### [Vance takes low profile on Iran after resisting foreign wars](https://www.ft.com/content/d0b9dadc-8532-48b5-9f9c-024c7e511c85)
+**发布时间**: 2026-03-04 02:22
+
+#### [Israel vows to kill next Iranian leader](https://www.ft.com/content/9a9b0127-1014-4186-99e3-893603011cef)
+**发布时间**: 2026-03-04 00:38
+
+#### [UK to invoke ‘emergency brake’ to ban student visa applications from four countries](https://www.ft.com/content/8fd879ac-4817-4a52-bdf7-1519b1c70cc4)
+**发布时间**: 2026-03-04 00:13
 
 ---
 

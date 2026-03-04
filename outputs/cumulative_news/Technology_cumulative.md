@@ -1,7 +1,138 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-03 23:30
+**最后更新时间**: 2026-03-04 11:53
+
+---
+
+## 🆕 最新更新 (2026-03-04 11:53)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [后Seedance 2.0时代：电影圈哪些岗位会消失，哪些人会留下？| 深度观察](https://www.tmtpost.com/7899659.html)
+**发布时间**: 2026-03-04 19:19
+
+#### [通义巨震：周靖人收权，林俊旸放手？](https://www.tmtpost.com/7899657.html)
+**发布时间**: 2026-03-04 19:17
+
+#### [黄仁勋说，要有光](https://www.tmtpost.com/7899668.html)
+**发布时间**: 2026-03-04 19:17
+
+#### [千问的开源信仰，败给商业 KPI ？](https://www.tmtpost.com/7899671.html)
+**发布时间**: 2026-03-04 19:17
+
+#### [AI攻占MWC](https://www.tmtpost.com/7899768.html)
+**发布时间**: 2026-03-04 19:17
+
+#### [战事持续，芯片公司逃离以色列](https://www.tmtpost.com/7899738.html)
+**发布时间**: 2026-03-04 19:17
+
+#### [叫板雅培、硬刚强生！这家人工心脏企业市占率狂飙至全国第一](https://www.tmtpost.com/7899265.html)
+**发布时间**: 2026-03-04 17:06
+
+#### [马云的Callback](https://www.tmtpost.com/7899434.html)
+**发布时间**: 2026-03-04 17:06
+
+#### [德硕科技：资产负债率超同行均值28个点，关联交易遭监管问询｜IPO观察](https://www.tmtpost.com/7897911.html)
+**发布时间**: 2026-03-04 16:47
+
+#### [乔路铭：业绩靠吉利、比亚迪撑起，低研发却存高毛利，募资补流合理性遭疑｜IPO观察](https://www.tmtpost.com/7897928.html)
+**发布时间**: 2026-03-04 16:45
+
+#### [浙江医药6亿输血“吞金兽”：子公司6年亏10多亿，靠ADC管线赌港股IPO](https://www.tmtpost.com/7891225.html)
+**发布时间**: 2026-03-04 16:43
+
+#### [金蝶的翻身仗被看空](https://www.tmtpost.com/7899288.html)
+**发布时间**: 2026-03-04 16:37
+
+#### [激进的4A广告巨头：用AI杀死自己](https://www.tmtpost.com/7899276.html)
+**发布时间**: 2026-03-04 16:37
+
+#### [美国万人大厂裁员40%，其实是一场表演](https://www.tmtpost.com/7899269.html)
+**发布时间**: 2026-03-04 16:37
+
+#### [林俊旸深夜宣布离开千问，上一条还是感谢马斯克表扬](https://www.tmtpost.com/7899268.html)
+**发布时间**: 2026-03-04 16:37
+
+#### [石油运不出来，中国新能源出口迎来新转机？](https://www.tmtpost.com/7899431.html)
+**发布时间**: 2026-03-04 16:37
+
+#### [阿里32 岁技术大牛出走   AI时代“顶层设计”与“底层代码”的冲突](https://www.tmtpost.com/7899324.html)
+**发布时间**: 2026-03-04 16:07
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [GPT-5核心推手闪电跳槽，Anthropic CEO高调炫耀员工留存碾压OpenAI，“AI第一公司”光环崩塌？](https://www.infoq.cn/article/C05yD2MauyGHZfhBNGQj?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-04 19:05
+
+#### [谷歌将其开发者文档带入AI智能体时代](https://www.infoq.cn/article/ydyggRjpZUGwEZAAdtTF?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-04 17:00
+
+#### [美团 AI 浏览器遭开发者公开维权！目前双方已和解，相关代码已完成开源处理](https://www.infoq.cn/article/QpgxweT242UrUwxgNu0y?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-04 16:55
+
+#### [Warper：由 Rust 驱动的 React 虚拟化库](https://www.infoq.cn/article/1O55AEl0sWVY34y70FpJ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-04 16:15
+
+#### [超22万OpenClaw部署实例暴露公网，Agent在大规模“裸奔”](https://www.infoq.cn/article/Z2FAr6DW70sq4tU9q6hv?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-04 16:14
+
+#### [Quesma 发布 OTelBench，用于评估 OpenTelemetry 基础设施与 AI 性能](https://www.infoq.cn/article/GMXyKiUa5vTrYyFyQIx4?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-04 16:00
+
+#### [阶跃星辰彻底开源 Step 3.5 Flash：预训练+训练框架全放出，OpenClaw 调用量飙升至 Top 2](https://www.infoq.cn/article/9aQU1VWec3hqaW9V0J5r?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-04 15:20
+
+#### [文化、代码与平台：打造高绩效团队](https://www.infoq.cn/article/TgdAMDxAiG0A4NWMZjyI?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-04 15:00
+
+#### [10小时连崩4次、Claude疯狂宕机！刚把ChatGPT干到295%卸载量，就没顶住二次“爆红”？](https://www.infoq.cn/article/ahajHtW6IWVZ2gp7bBHA?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-04 14:52
+
+#### [马云现身谈AI：未来一天不用工作八小时，但很多熟悉工种会消失](https://www.infoq.cn/article/blMfufW3klIctS0CXD8D?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-04 14:46
+
+#### [大模型记忆系统 MemOS 2.0：StarDust 技术演进与关键挑战｜QCon北京](https://www.infoq.cn/article/qAd3vVp3IdXx7dNw3vvH?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-04 11:07
+
+#### [平台工程实验室扩展了formae的多云支持](https://www.infoq.cn/article/RcBF9xRZMeX3uLhwT5sj?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-04 11:05
+
+#### [OpenClaw能“边用边训”了：智能体强化学习训练框架AReaL v1.0稳定版发布](https://www.infoq.cn/article/NDDJfG3lJCHjSI43k1I4?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-04 10:52
+
+#### [覆盖 35 万开发者的应用风险数据库发布，聚焦儿童隐私与广告链路数据暴露](https://www.infoq.cn/article/fuqDscvvQ8CoeeG4Xbf0?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-04 10:35
+
+#### [Java近期资讯：JDK26-RC2、Payara平台、Hibernate、Quarkus、Apache Camel、Jakarta EE 12](https://www.infoq.cn/article/WatXh6eUqiCCPFHYscqF?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-04 10:26
+
+#### [AI“氛围编程”威胁开源，维护者面临危机](https://www.infoq.cn/article/m8YV2acr2KKMSpskuSPj?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-04 10:10
+
+#### [股东变对手？OpenAI被爆砸钱研发GitHub替代方案，硬刚微软](https://www.infoq.cn/article/23s4CDCMmMiFvR7CcRXK?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-04 09:39
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [年度征文｜至亲离世的 2025，我像是玩了一局成长游戏并做了一份攻略](https://sspai.com/post/106497)
+**发布时间**: 2026-03-04 17:30
+
+#### [从采集到回顾，我用 AI 搭建了一套个人信息处理系统](https://sspai.com/post/106477)
+**发布时间**: 2026-03-04 15:00
+
+#### [一日一技｜将 Obsidian 剪藏文章自动添加至当天日记](https://sspai.com/post/106660)
+**发布时间**: 2026-03-04 11:31
+
+#### [派早报：Apple 发布 M5 系列芯片及 Studio Display、MacBook 系列新品](https://sspai.com/post/106811)
+**发布时间**: 2026-03-04 07:57
+
+#### [给 Lumia 1020 用户的 Windows Phone 8.1 漫游指南（2026）](https://sspai.com/post/106467)
+**发布时间**: 2026-03-02 15:15
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [小鹏的2026，没有Plan B](http://www.huxiu.com/article/4838881.html?f=wangzhan)
+**发布时间**: 2026-03-04 14:17
 
 ---
 
