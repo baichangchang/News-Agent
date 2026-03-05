@@ -2,90 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "cbcb0a792c9ee84f4bef02a68e8064ad6b9a20181cc3015b77a91ac971a38cd4": {
-        "title": "Palantir：再交硬核成绩单，AI应用一哥还能回巅峰吗？",
-        "link": "https://www.tmtpost.com/7864940.html",
-        "published_date": "Tue, 03 Feb 2026 16:15:00 GMT",
-        "first_seen": "2026-02-03T08:41:25.962997"
-      },
-      "7a01c4e60ade486e7da876ff12b59c99a127c1af74730638285a4e5b6eeea628": {
-        "title": "Kimi们，活在BAT的阴影下",
-        "link": "https://www.tmtpost.com/7865095.html",
-        "published_date": "Tue, 03 Feb 2026 15:47:00 GMT",
-        "first_seen": "2026-02-03T08:41:25.963007"
-      },
-      "9cc8e8cdf84621100f92bb860fc78f26ed694189c4ddc6b4a9eb4d702af0d216": {
-        "title": "卡奥斯：赴港IPO，“走出海尔”的关键一步",
-        "link": "https://www.tmtpost.com/7864806.html",
-        "published_date": "Tue, 03 Feb 2026 14:57:00 GMT",
-        "first_seen": "2026-02-03T08:41:25.963009"
-      },
-      "63c600c717cdf97b1cc634343530d0c2a112068677b325b3724d7c98bf9ade55": {
-        "title": "金价狂飙又下跌，国内矿企已投入660亿元买海外金矿",
-        "link": "https://www.tmtpost.com/7864913.html",
-        "published_date": "Tue, 03 Feb 2026 14:49:00 GMT",
-        "first_seen": "2026-02-03T08:41:25.963012"
-      },
-      "f9564687fc6d18f59e6852fe0145239388ff8943c7dec56b344cb2f6fe2a2251": {
-        "title": "新东方慢增长、好未来高弹性，教培巨头的下一场较量是什么？",
-        "link": "https://www.tmtpost.com/7865021.html",
-        "published_date": "Tue, 03 Feb 2026 14:37:00 GMT",
-        "first_seen": "2026-02-03T08:41:25.963013"
-      },
-      "18b828aaae74e73ef3d9cd7e86b83c484f0fdfa0d622e3d993fe03749b5daaf7": {
-        "title": "AI“外包”谷歌之后，华人天才抛弃苹果？",
-        "link": "https://www.tmtpost.com/7865111.html",
-        "published_date": "Tue, 03 Feb 2026 14:08:00 GMT",
-        "first_seen": "2026-02-03T08:41:25.963015"
-      },
-      "dc546df8655f848658f5aeb7b8ee797522975d8996069b198f8138a1ce15c045": {
-        "title": "当勒索解密成功率跌破30%，stefen和他数字镖局的效率竞赛",
-        "link": "https://www.tmtpost.com/7864971.html",
-        "published_date": "Tue, 03 Feb 2026 13:45:00 GMT",
-        "first_seen": "2026-02-03T08:41:25.963017"
-      },
-      "5223c5c8f5cd9dc0c89a2e884f64efca5a0a2b050eedd5fabe3c73d68eca5b87": {
-        "title": "“我让AI在我的电脑上为所欲为！”OpenClaw创始人：爆火的MoltBook社交网络，技术其实简单到离谱",
-        "link": "https://www.infoq.cn/article/GcgASrAjRRRDDqlHsPSY?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 03 Feb 2026 16:12:00 GMT",
-        "first_seen": "2026-02-03T08:41:25.963019"
-      },
-      "2ca82e2632a378134fc2bdced637fca6069ba5f4b898cca4ef3a24b64d82f93f": {
-        "title": "极客邦科技创始人霍太稳对谈前腾讯高级工程师、WorkAny 开发者艾逗笔",
-        "link": "https://www.infoq.cn/article/fkhqyd4CqzHSVaKYCvVe?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 03 Feb 2026 16:04:00 GMT",
-        "first_seen": "2026-02-03T08:41:25.963021"
-      },
-      "a13f9b6fb7fa461c57fbd0fbe89b5db5b62f40542aa88c1fb6158fa9541ea843": {
-        "title": "中国软件技术发展洞察和趋势预测研究报告 2026",
-        "link": "https://www.infoq.cn/minibook/p1vg8jZCDe63u4WFq9NL?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 03 Feb 2026 16:00:00 GMT",
-        "first_seen": "2026-02-03T08:41:25.963023"
-      },
-      "25d167068b03dd77fe16f4f0642078e53f293d6c97a02b466cd222b1757401c1": {
-        "title": "容器可观测新视角： SysOM 延时抖动监控助力定位业务抖动原因",
-        "link": "https://www.infoq.cn/article/c5kK0GolN7EyHu1uB8VV?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 03 Feb 2026 15:58:00 GMT",
-        "first_seen": "2026-02-03T08:41:25.963025"
-      },
-      "47691fdb1da69bbaee911e4f9573632ffba7f71d2b95b348dbd52465e6eab92a": {
-        "title": "xAI员工赢麻了！全员换股SpaceX，AI月烧10亿美元终于有人兜底了",
-        "link": "https://www.infoq.cn/article/R77uD5jABlSraSPLX2Oo?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 03 Feb 2026 15:50:00 GMT",
-        "first_seen": "2026-02-03T08:41:25.963026"
-      },
-      "4b542cc6944a2b5810f774bfd1b8c14dc83db1651a25409bae5c3139d750ae9c": {
-        "title": "新瓶旧酒or涅槃重生？操作系统的 AI 进化终将走向何方？",
-        "link": "https://www.infoq.cn/article/aCC7cKjuOwywkM4yN96E?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 03 Feb 2026 14:49:00 GMT",
-        "first_seen": "2026-02-03T08:41:25.963027"
-      },
-      "9087f501f3a95e6b31d63ad3f4b705efd6b3a18c1559825a81bb1b935094b22a": {
-        "title": "不是只做样子货：铁三角 ATH-CKS50TW2 星战联名耳机体验",
-        "link": "https://sspai.com/post/105893",
-        "published_date": "Tue, 03 Feb 2026 15:20:00 GMT",
-        "first_seen": "2026-02-03T08:41:25.963029"
-      },
       "7c4029798dde2ce5bac06f7d3a2e29ba76e6ed2c532ec799b1f0b9ad69a2f5a8": {
         "title": "【钛晨报】2026年中央一号文件发布，部署扎实推进乡村全面振兴；游戏等行业增值税税率要提高？专家表示没有可信度；OpenAI多名资深研究人员离职",
         "link": "https://www.tmtpost.com/7865840.html",
@@ -8305,6 +8221,96 @@
         "link": "http://www.huxiu.com/article/4839192.html?f=wangzhan",
         "published_date": "Thu, 05 Mar 2026 10:53:00 GMT",
         "first_seen": "2026-03-05T05:53:04.317159"
+      },
+      "96e8c208fc0e55095c47d38cccf8f960637964a6220232fb1e224dc6388ba069": {
+        "title": "林俊旸告别千问，阿里AI的转身与代价",
+        "link": "https://www.tmtpost.com/7901214.html",
+        "published_date": "Thu, 05 Mar 2026 16:35:00 GMT",
+        "first_seen": "2026-03-05T08:49:23.188514"
+      },
+      "eacaeaba3efc4d28f528ade129c3e6800e9a713615527660610ab866290572f1": {
+        "title": "堂食客单价跌回十年前，越来越便宜，餐饮企业该如何突围？",
+        "link": "https://www.tmtpost.com/7901090.html",
+        "published_date": "Thu, 05 Mar 2026 15:21:00 GMT",
+        "first_seen": "2026-03-05T08:49:23.188523"
+      },
+      "2537996372ab11772f2a10c853e05d328e4193dcde091c289e6c0bc62cab240b": {
+        "title": "别了，理想主义者：阿里“结果导向”下的AI天才出走",
+        "link": "https://www.tmtpost.com/7901078.html",
+        "published_date": "Thu, 05 Mar 2026 15:15:00 GMT",
+        "first_seen": "2026-03-05T08:49:23.188526"
+      },
+      "002768381bdb55e1c7ab1f6cff1ec8255bc243d05d13fc7a2e72c9a1e600d7bc": {
+        "title": "610亿“史上最牛散户”，加仓英伟达",
+        "link": "https://www.tmtpost.com/7901062.html",
+        "published_date": "Thu, 05 Mar 2026 15:04:00 GMT",
+        "first_seen": "2026-03-05T08:49:23.188527"
+      },
+      "ed8a9fe4c7989a1c1add05cfff646f2c930de9f9b34e9e771daa7fa8903ef2b5": {
+        "title": "540亿糖尿病新霸主即将诞生？",
+        "link": "https://www.tmtpost.com/7901016.html",
+        "published_date": "Thu, 05 Mar 2026 15:00:00 GMT",
+        "first_seen": "2026-03-05T08:49:23.188529"
+      },
+      "3073a5e2b8c69e33439a865772caa3441f86004a0aed008984e1af3facdb1843": {
+        "title": "瑞幸大股东的新野心藏不住了",
+        "link": "https://www.tmtpost.com/7901030.html",
+        "published_date": "Thu, 05 Mar 2026 14:57:00 GMT",
+        "first_seen": "2026-03-05T08:49:23.188530"
+      },
+      "6e02969ce3145d85357f7c6ec629866fe68b82fd4f49c7e2540ecd0ec98f18be": {
+        "title": "首富二代，重回LP牌桌",
+        "link": "https://www.tmtpost.com/7901067.html",
+        "published_date": "Thu, 05 Mar 2026 14:53:00 GMT",
+        "first_seen": "2026-03-05T08:49:23.188532"
+      },
+      "19145b3e5c13f738ac836a0053b6a9021f2d2ab889fbaac50465749c4e08ff61": {
+        "title": "量贩零食卷向县城",
+        "link": "https://www.tmtpost.com/7899904.html",
+        "published_date": "Thu, 05 Mar 2026 14:49:00 GMT",
+        "first_seen": "2026-03-05T08:49:23.188533"
+      },
+      "f247779750e5248f02a8446f82052ab07185172441d6a22ae1a17f6776416462": {
+        "title": "下一个美团？抖省省背后的万亿野心",
+        "link": "https://www.tmtpost.com/7900992.html",
+        "published_date": "Thu, 05 Mar 2026 14:48:00 GMT",
+        "first_seen": "2026-03-05T08:49:23.188535"
+      },
+      "58cdb6298fad5f980fc7945aacf424199e044f311c7f98441b73e9ae71d80c59": {
+        "title": "极客邦启动2026「AI 青禾计划」：QCon & AICon首次向全国高校免费开放",
+        "link": "https://www.infoq.cn/article/YVquqorayNjdCRW72xxF?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 05 Mar 2026 16:12:00 GMT",
+        "first_seen": "2026-03-05T08:49:23.188536"
+      },
+      "16b3ae2b70492f52b94a4d6914d1437c0ea611b029926fa44c39ae3840f19f63": {
+        "title": "借鉴Kotlin/Android技术架构，构建可扩展的SwiftUI iOS应用",
+        "link": "https://www.infoq.cn/article/bZG6mCd01ibW34TJZcww?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 05 Mar 2026 16:00:00 GMT",
+        "first_seen": "2026-03-05T08:49:23.188537"
+      },
+      "a988f7726a2f553f4a80440bdd49af5d71e3068304a218c33b261cb6a7a8b2f2": {
+        "title": "微软发布 Agent Framework 候选版本，简化 .NET 与 Python 智能体开发",
+        "link": "https://www.infoq.cn/article/7JREpdQWb6a7rMl3SLTd?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 05 Mar 2026 15:00:00 GMT",
+        "first_seen": "2026-03-05T08:49:23.188539"
+      },
+      "4ccb52679d24b1769875539aeda8d476ae14f695beae1916b9c63b47bf572403": {
+        "title": "在壮大软件领导团队过程中总结的经验教训",
+        "link": "https://www.infoq.cn/article/KKE2jJwbx7xQXpuAl4LK?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 05 Mar 2026 14:00:00 GMT",
+        "first_seen": "2026-03-05T08:49:23.188540"
+      },
+      "434b75ac13385299437cd7876dd8b4bdbd585bab28b5af57597ad503d69db8da": {
+        "title": "大众用增程“炮轰”自己",
+        "link": "http://www.huxiu.com/article/4839284.html?f=wangzhan",
+        "published_date": "Thu, 05 Mar 2026 14:35:00 GMT",
+        "first_seen": "2026-03-05T08:49:23.188541"
+      },
+      "3677a1a1c59aa1b16bb13615590e827826227e374c384f1c852ab2160dab7d43": {
+        "title": "开赛在即，疾速入坑：F1 2026 观赛指南",
+        "link": "https://sspai.com/post/103846",
+        "published_date": "Thu, 05 Mar 2026 14:32:00 GMT",
+        "first_seen": "2026-03-05T08:49:23.188542"
       }
     },
     "Finance": {
@@ -13443,33 +13449,15 @@
         "link": "https://www.marketwatch.com/story/apple-expands-into-market-for-budget-laptops-with-599-macbook-neo-20574faf?mod=mw_rss_topstories",
         "published_date": "Wed, 04 Mar 2026 23:49:00 GMT",
         "first_seen": "2026-03-05T05:53:04.404208"
+      },
+      "e430c29fd8ef7d7edabb248ef65bbb06d42e42aa1cc0283338d078cd51828958": {
+        "title": "Reform UK received second big donation from Thailand-based crypto investor",
+        "link": "https://www.ft.com/content/73efc9ce-4d57-4a96-9f3f-d9fda81b1114",
+        "published_date": "Thu, 05 Mar 2026 07:44:00 GMT",
+        "first_seen": "2026-03-05T08:49:23.231760"
       }
     },
     "Ai": {
-      "8bc8a7544057e4c10f3b1d4e9facbfe0e30f4577b87fdb123f941333adf31f88": {
-        "title": "将高质量内容融入AI生态，威立以科研智能塑造出版行业未来",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-03-5",
-        "published_date": "Tue, 03 Feb 2026 14:26:00 GMT",
-        "first_seen": "2026-02-03T08:41:25.865699"
-      },
-      "7959d5a305f2ade20ed154a707113ef8e2e7e71ba291ee28e394086322fb6fc1": {
-        "title": "千问APP春节攻势继续，独家冠名“四大卫视”春晚",
-        "link": "https://www.qbitai.com/2026/02/375820.html",
-        "published_date": "Tue, 03 Feb 2026 06:33:00 GMT",
-        "first_seen": "2026-02-03T08:41:25.865712"
-      },
-      "77ce31302d5edeac4ac07e6cbf431ab268803da07b4859e96d659ec7d81315ee": {
-        "title": "Moltbook反转：热帖被曝自导自演，数据库裸奔，所有Agent API也都无保护",
-        "link": "https://www.qbitai.com/2026/02/375649.html",
-        "published_date": "Tue, 03 Feb 2026 06:26:00 GMT",
-        "first_seen": "2026-02-03T08:41:25.865715"
-      },
-      "f5908011b700ccda2b5d8f836ea13ddd2a21fafba861f9163d8d305b82914963": {
-        "title": "百度智能云推出OpenClaw限时免费一键部署服务，开发者零成本体验AI数字员工",
-        "link": "https://www.qbitai.com/2026/02/375646.html",
-        "published_date": "Tue, 03 Feb 2026 06:12:00 GMT",
-        "first_seen": "2026-02-03T08:41:25.865717"
-      },
       "eec850048373350d1d6207fbf5200ce20b1839454f7ef49105e2ca5d2adff994": {
         "title": "大道至简，何恺明团队新作pMF开启像素级「无潜、单步」生成范式",
         "link": "https://www.jiqizhixin.com/articles/2026-02-03-10",
@@ -15479,13 +15467,31 @@
         "link": "https://www.qbitai.com/2026/03/383927.html",
         "published_date": "Thu, 05 Mar 2026 04:24:00 GMT",
         "first_seen": "2026-03-05T05:53:04.566746"
+      },
+      "2bf8fa45c525894d259e568df8820a9b66947f3049b21f4270ecbbc639bf2303": {
+        "title": "GPT-5.3 Instant上线：ChatGPT终于不说教了",
+        "link": "https://www.qbitai.com/2026/03/383974.html",
+        "published_date": "Thu, 05 Mar 2026 07:10:00 GMT",
+        "first_seen": "2026-03-05T08:49:23.386390"
+      },
+      "926f978138db6e073dc1d8ee7c61daf30b8d50f9aba0ba3966bd0ad484d244b5": {
+        "title": "捏Ta完成超千万美金Pre A+轮融资，九坤领投，源码奇绩等超额跟进",
+        "link": "https://www.qbitai.com/2026/03/383998.html",
+        "published_date": "Thu, 05 Mar 2026 07:02:00 GMT",
+        "first_seen": "2026-03-05T08:49:23.386397"
+      },
+      "c2d61e92187c38c79cc960704f33222e78fa79be3dd5c1f6e4b6c88583d410ae": {
+        "title": "悬赏5000刀！148局AI斗蛐蛐世界杯官方战报出炉，全球赛邀你接棒来战",
+        "link": "https://www.qbitai.com/2026/03/383947.html",
+        "published_date": "Thu, 05 Mar 2026 06:41:00 GMT",
+        "first_seen": "2026-03-05T08:49:23.386399"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-03-05T05:53:04.317161",
-    "Finance": "2026-03-05T05:53:04.404210",
-    "Ai": "2026-03-05T05:53:04.566754"
+    "Technology": "2026-03-05T08:49:23.188544",
+    "Finance": "2026-03-05T08:49:23.231767",
+    "Ai": "2026-03-05T08:49:23.386407"
   }
 }
