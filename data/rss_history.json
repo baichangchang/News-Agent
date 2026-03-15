@@ -8509,6 +8509,18 @@
         "link": "http://www.huxiu.com/article/4841654.html?f=wangzhan",
         "published_date": "Sun, 15 Mar 2026 10:00:00 GMT",
         "first_seen": "2026-03-15T06:06:33.602741"
+      },
+      "f487f346c2c66cdd69d719a40ed54eec8d2769a8cf87e801c12678302a52f2e5": {
+        "title": "龙虾风暴下的国产大模型厂商：搭上火箭的Kimi与港股双雄的盛宴",
+        "link": "https://www.tmtpost.com/7914749.html",
+        "published_date": "Sun, 15 Mar 2026 15:54:00 GMT",
+        "first_seen": "2026-03-15T08:41:15.802599"
+      },
+      "e471359a28dcba668451fe58ac34c6bf68cd5509da91cb187589cd6ef918986b": {
+        "title": "价值判断：涨停板的投资机会和风险提示（3月13日）｜证券市场观察",
+        "link": "https://www.tmtpost.com/7914792.html",
+        "published_date": "Sun, 15 Mar 2026 13:45:00 GMT",
+        "first_seen": "2026-03-15T08:41:15.802607"
       }
     },
     "Finance": {
@@ -14903,13 +14915,19 @@
         "link": "https://www.qbitai.com/2026/03/387843.html",
         "published_date": "Sat, 14 Mar 2026 08:56:00 GMT",
         "first_seen": "2026-03-14T23:31:53.655058"
+      },
+      "e0b048d63bae53631690ac37a3cf6a72c398cd4f1fee069ec3ef5da3404935e2": {
+        "title": "科技CEO用ChatGPT+基因数据定制癌症疫苗！肿瘤缩小50%",
+        "link": "https://www.qbitai.com/2026/03/387935.html",
+        "published_date": "Sun, 15 Mar 2026 06:06:00 GMT",
+        "first_seen": "2026-03-15T08:41:15.984376"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-03-15T06:06:33.602744",
+    "Technology": "2026-03-15T08:41:15.802610",
     "Finance": "2026-03-15T06:06:33.652833",
-    "Ai": "2026-03-14T23:31:53.655059"
+    "Ai": "2026-03-15T08:41:15.984384"
   }
 }
