@@ -1,7 +1,18 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-03-24 08:57
+**最后更新时间**: 2026-03-24 23:41
+
+---
+
+## 🆕 最新更新 (2026-03-24 23:41)
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [TurboQuant: Redefining AI efficiency with extreme compression](https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/)
+**发布时间**: 2026-03-24 19:54
+
+#### [Mapping the modern world: How S2Vec learns the language of our cities](https://research.google/blog/mapping-the-modern-world-how-s2vec-learns-the-language-of-our-cities/)
+**发布时间**: 2026-03-24 17:42
 
 ---
 
