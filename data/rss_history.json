@@ -10675,6 +10675,24 @@
         "link": "https://www.infoq.cn/article/pcPNtvFz4qWfdDdMwEpe?utm_source=rss&utm_medium=article",
         "published_date": "Sun, 29 Mar 2026 10:00:00 GMT",
         "first_seen": "2026-03-29T06:14:44.958429"
+      },
+      "9b4cda0a15fc1560038296c10a5834f85c390e05898f96f9c230fb4131c5d011": {
+        "title": "Vercel 发布生成式 UI 框架 JSON-Render",
+        "link": "https://www.infoq.cn/article/oUFPIuuKIsT8UFEYVkTG?utm_source=rss&utm_medium=article",
+        "published_date": "Sun, 29 Mar 2026 15:00:00 GMT",
+        "first_seen": "2026-03-29T08:48:41.437691"
+      },
+      "bdd0126041469124254bf0cf3f67c4f04c97d3b7d8073058a28be65e2aa50121": {
+        "title": "从霍尔木兹到格陵兰：“极限拉扯”背后的美式新丛林法则与资产重估",
+        "link": "https://www.tmtpost.com/7933541.html",
+        "published_date": "Sun, 29 Mar 2026 14:08:00 GMT",
+        "first_seen": "2026-03-29T08:48:41.437703"
+      },
+      "da62c858aa4c70ae5043259d8b759f4c106efc2b0e9708edd6e5cb306fd10177": {
+        "title": "让“龙虾”等真正可控的必经之路",
+        "link": "https://www.tmtpost.com/7933564.html",
+        "published_date": "Sun, 29 Mar 2026 14:08:00 GMT",
+        "first_seen": "2026-03-29T08:48:41.437706"
       }
     },
     "Finance": {
@@ -17152,7 +17170,7 @@
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-03-29T06:14:44.958432",
+    "Technology": "2026-03-29T08:48:41.437708",
     "Finance": "2026-03-29T06:14:45.010364",
     "Ai": "2026-03-29T06:14:45.184087"
   }
