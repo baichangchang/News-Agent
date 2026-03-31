@@ -1,7 +1,47 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-03-30 23:38
+**最后更新时间**: 2026-03-31 12:22
+
+---
+
+## 🆕 最新更新 (2026-03-31 12:22)
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [刚刚，TRAE SOLO上线独立端：已经不满足写代码，还要跨界干活！](https://www.qbitai.com/2026/03/394014.html)
+**发布时间**: 2026-03-31 10:18
+
+#### [ClawTip来了！ 京东科技首发推出AI智能体的“专属自主零钱包”](https://www.qbitai.com/2026/03/394011.html)
+**发布时间**: 2026-03-31 09:12
+
+#### [智能体收入暴增68%！这家港股AI公司靠「关系」驯服企业龙虾](https://www.qbitai.com/2026/03/393984.html)
+**发布时间**: 2026-03-31 08:33
+
+#### [实测拿215项SOTA的Qwen3.5-Omni：摄像头一开，AI给我现场讲论文、撸代码](https://www.qbitai.com/2026/03/393941.html)
+**发布时间**: 2026-03-31 08:22
+
+#### [机器人线下真机对线打PK！这届黑客松可太会玩了](https://www.qbitai.com/2026/03/393887.html)
+**发布时间**: 2026-03-31 06:41
+
+#### [瑞声科技公开人形机器人感知解决方案，释放机器人业务加速落地信号](https://www.qbitai.com/2026/03/393883.html)
+**发布时间**: 2026-03-31 06:06
+
+#### [2700GB高质量数据，训出空间智能SOTA，背后秘诀全栈开源](https://www.qbitai.com/2026/03/393864.html)
+**发布时间**: 2026-03-31 05:53
+
+#### [玻色量子完成10亿元B轮融资，“十五五”规划专用量子计算机赛道唯一代表！](https://www.qbitai.com/2026/03/393856.html)
+**发布时间**: 2026-03-31 05:05
+
+#### [Meta华人实习生搞出超级智能体！自己写代码实现自我进化](https://www.qbitai.com/2026/03/393645.html)
+**发布时间**: 2026-03-31 04:32
+
+#### [2026科创合伙人大会成功举办！构建科创合伙人生态，激活高质量发展新动能](https://www.qbitai.com/2026/03/393631.html)
+**发布时间**: 2026-03-31 04:28
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Safeguarding cryptocurrency by disclosing quantum vulnerabilities responsibly](https://research.google/blog/safeguarding-cryptocurrency-by-disclosing-quantum-vulnerabilities-responsibly/)
+**发布时间**: 2026-03-31 02:03
 
 ---
 

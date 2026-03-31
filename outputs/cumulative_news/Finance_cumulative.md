@@ -1,7 +1,80 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-30 23:40
+**最后更新时间**: 2026-03-31 12:24
+
+---
+
+## 🆕 最新更新 (2026-03-31 12:24)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Biogen will acquire a drug company for $5.6 billion to expand work in kidney diseases](https://www.marketwatch.com/story/biogen-will-acquire-a-drug-company-for-5-6-billion-to-expand-work-in-kidney-diseases-f9672a8f?mod=mw_rss_topstories)
+**发布时间**: 2026-03-31 12:07
+
+#### [McCormick looks to merge with Unilever’s food business, but there’s no mention in earnings report](https://www.marketwatch.com/story/mccormick-looks-to-merge-with-unilevers-food-business-but-theres-no-mention-in-earnings-report-88e98464?mod=mw_rss_topstories)
+**发布时间**: 2026-03-31 11:52
+
+#### [Low transparency in the private-credit market may be concealing big problems](https://www.marketwatch.com/story/low-transparency-in-the-private-credit-market-may-be-concealing-big-problems-fc283c0a?mod=mw_rss_topstories)
+**发布时间**: 2026-03-31 11:40
+
+#### [It’s time to get defensive, say Morgan Stanley strategists. Hold more cash and make these moves.](https://www.marketwatch.com/story/its-time-to-get-defensive-say-morgan-stanley-strategists-increase-cash-and-make-these-moves-00cd9e15?mod=mw_rss_topstories)
+**发布时间**: 2026-03-31 11:01
+
+#### [My wife and I buy promotional CDs with our tax-refund check. Is now a bad time to switch to Treasurys?](https://www.marketwatch.com/story/my-wife-and-i-buy-promotional-cds-with-our-tax-refund-check-is-now-a-bad-time-to-switch-to-treasurys-e19841aa?mod=mw_rss_topstories)
+**发布时间**: 2026-03-31 10:55
+
+#### [Gas prices reach $4 per gallon for the first time in nearly four years](https://www.marketwatch.com/story/gas-prices-reach-4-per-gallon-for-the-first-time-in-nearly-four-years-4c08dcbc?mod=mw_rss_topstories)
+**发布时间**: 2026-03-31 10:34
+
+#### [Gold’s bull run could be nearing its finish line, says UBS strategist](https://www.marketwatch.com/story/golds-bull-run-could-be-nearing-its-finish-line-says-ubs-strategist-0f2d94f8?mod=mw_rss_topstories)
+**发布时间**: 2026-03-31 10:19
+
+#### [My husband is giving me 75% of his trust — and allocating 25% to his sister. Is that fair?](https://www.marketwatch.com/story/my-husband-is-giving-me-75-of-his-trust-and-allocating-25-to-his-sister-is-that-fair-3b0fec2a?mod=mw_rss_topstories)
+**发布时间**: 2026-03-31 10:05
+
+#### [‘She has taken my inheritance’: My mom bullied my grandmother to change her will and physically abused her. What can we do?](https://www.marketwatch.com/story/she-has-taken-my-inheritance-my-mom-bullied-my-grandmother-to-change-her-will-and-physically-abused-her-what-can-we-do-2c4ee13f?mod=mw_rss_topstories)
+**发布时间**: 2026-03-31 09:27
+
+#### [Hegseth’s reported interest in buying a defense fund highlights just how poorly contractors have traded since the war began](https://www.marketwatch.com/story/hegseths-reported-interest-in-buying-a-defense-fund-highlights-just-how-poorly-contractors-have-traded-since-the-war-began-e86c5117?mod=mw_rss_topstories)
+**发布时间**: 2026-03-31 09:09
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [King Charles to visit US in April despite Trump’s attacks](https://www.ft.com/content/442f2f40-c254-4c8c-b838-b68ef268b9f6)
+**发布时间**: 2026-03-31 12:01
+
+#### [Brent crude on course for largest monthly price rise on record](https://www.ft.com/content/5a5b3220-d260-4355-baa5-1986ac1523fb)
+**发布时间**: 2026-03-31 11:43
+
+#### [Trump tells allies including UK to ‘go get your own oil’](https://www.ft.com/content/b2c83041-9291-41ac-9377-257d8b1b53ad)
+**发布时间**: 2026-03-31 11:29
+
+#### [Trump is not just sinking in the Gulf](https://www.ft.com/content/1a36ccb1-0100-44eb-97ac-d1f50c6d23f4)
+**发布时间**: 2026-03-31 11:23
+
+#### [Billionaire Rokos donates record £190mn to Cambridge university](https://www.ft.com/content/dad9e967-47fb-4843-a763-09ea06eb7049)
+**发布时间**: 2026-03-31 11:00
+
+#### [Sports law firm behind Chelsea sale sells stake to private equity group](https://www.ft.com/content/ab272d57-636a-4419-8107-54b8a4309252)
+**发布时间**: 2026-03-31 09:00
+
+#### [Iran’s hackers go to war](https://www.ft.com/content/f2562e46-2b23-4553-9488-6c7549207539)
+**发布时间**: 2026-03-31 04:00
+
+#### [The City law firm that found wealth in private capital](https://www.ft.com/content/f0d130f5-23ba-4263-b026-fa887ac89045)
+**发布时间**: 2026-03-31 04:00
+
+#### [BlackRock looks at HSBC’s Canary Wharf tower for new London HQ](https://www.ft.com/content/95fe2fb7-d369-4416-9dda-9cf619172ff4)
+**发布时间**: 2026-03-31 04:00
+
+#### [BlackRock to boost investment in NHS property](https://www.ft.com/content/1cdcf217-2fb3-4ccb-aacf-08295403f6c4)
+**发布时间**: 2026-03-31 04:00
+
+#### [Cracks appear in US-UK security co-operation after Trump-Starmer tensions](https://www.ft.com/content/7b964e41-4f79-4607-af25-1ee637ba6f12)
+**发布时间**: 2026-03-31 04:00
+
+#### [Fallen hedge fund Pelham Capital plots back-to-basics comeback](https://www.ft.com/content/5d5badd0-3a5f-48e8-867c-8b6659bf410a)
+**发布时间**: 2026-03-31 04:00
 
 ---
 
