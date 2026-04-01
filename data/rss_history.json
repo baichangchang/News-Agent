@@ -2,60 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "2d3ac8f7ee2a936f56d74ff5a1a817e11ee4dcee5c9089c9052334d8ed0f574b": {
-        "title": "小米舞超跑，意在“欧公子”？",
-        "link": "http://www.huxiu.com/article/4838234.html?f=wangzhan",
-        "published_date": "Mon, 02 Mar 2026 15:29:00 GMT",
-        "first_seen": "2026-03-02T08:51:40.278845"
-      },
-      "e80f8cb4c669008848764ae146514d704a1f1ba24890cbea30cfe60c36e2013c": {
-        "title": "给 Lumia 1020 用户的 Windows 8.1 漫游指南（2026）",
-        "link": "https://sspai.com/post/106467",
-        "published_date": "Mon, 02 Mar 2026 15:15:00 GMT",
-        "first_seen": "2026-03-02T08:51:40.278854"
-      },
-      "8d30df2d1a2049986c56b7ea8945e2ffa09d1368f318dfc64fede96df6c731fc": {
-        "title": "蚂蚁阿福：从 0 到生产的医疗 Agent 工程化落地｜QCon北京",
-        "link": "https://www.infoq.cn/article/UbyRYdBINl5BJxElkJGj?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 02 Mar 2026 15:12:00 GMT",
-        "first_seen": "2026-03-02T08:51:40.278857"
-      },
-      "799d74fb532c790bed36aa6904c1731d9e284777301b871bc75849ea48ca4f3e": {
-        "title": "使用MCP、OPA和临时运行时为基础设施自动化构建一个最小权限AI智能体网关",
-        "link": "https://www.infoq.cn/article/Lh3AppcUclgbul3phl2U?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 02 Mar 2026 15:00:00 GMT",
-        "first_seen": "2026-03-02T08:51:40.278859"
-      },
-      "da51ec22a5bff7e85b7de998cd8f920aadb894310a4c81ce5d1a21ab20e5f5fd": {
-        "title": "Hugging Face推出Community Evals功能，促进模型测试透明化",
-        "link": "https://www.infoq.cn/article/cglzA4vAI8D0HO6UGYlW?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 02 Mar 2026 14:00:00 GMT",
-        "first_seen": "2026-03-02T08:51:40.278861"
-      },
-      "ea614b71a2d053003ff1c6d1bdff2d8b70e6c6c023a4292bb5afc7bad6f2d519": {
-        "title": "Anthropic 研究：AI 编程辅助使开发者技能掌握度下降 17%",
-        "link": "https://www.infoq.cn/article/ohmt2y4R8NHXPL6DSvHR?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 02 Mar 2026 14:00:00 GMT",
-        "first_seen": "2026-03-02T08:51:40.278863"
-      },
-      "204a466122625b4275ab6300df43a6d6cc10cdfe7621f5c3c30540aacf814695": {
-        "title": "这个春天，机器人投资人都挤在东北养老院",
-        "link": "https://www.tmtpost.com/7895663.html",
-        "published_date": "Mon, 02 Mar 2026 15:04:00 GMT",
-        "first_seen": "2026-03-02T08:51:40.278864"
-      },
-      "b6d612c6a475f0858344f6419a157ecf6e40feea84fc33965bfc686abc00574b": {
-        "title": "AI、黄金与能源：中东乱局背后的资产定价逻辑之变",
-        "link": "https://www.tmtpost.com/7895767.html",
-        "published_date": "Mon, 02 Mar 2026 15:04:00 GMT",
-        "first_seen": "2026-03-02T08:51:40.278865"
-      },
-      "702196d0ece6ad7be539aaf9ef5640eb1f58f1bafd85228e5138f3259c6974fa": {
-        "title": "前星纪魅族CMO、CTO加入玄景AI眼镜，或接手魅族AI眼镜｜独家",
-        "link": "https://www.tmtpost.com/7892744.html",
-        "published_date": "Mon, 02 Mar 2026 14:47:00 GMT",
-        "first_seen": "2026-03-02T08:51:40.278867"
-      },
       "d0be1b50465c89e63f605e0358a7beb123d5204b7cef0950cbf2c77c40d66c85": {
         "title": "【钛晨报】科技保险迎重磅新政，四部门出台20条举措；中东局势持续升级，多家期货交易所及大行提示风险；雷军公布小米机器人最新进展",
         "link": "https://www.tmtpost.com/7896483.html",
@@ -10513,15 +10459,147 @@
         "link": "https://sspai.com/post/108133",
         "published_date": "Wed, 01 Apr 2026 08:08:00 GMT",
         "first_seen": "2026-04-01T06:29:29.366835"
+      },
+      "67c3082f237cc92fd05fdba0d3e64e0685cc507c5d1110b537a7ebdaafd4283a": {
+        "title": "AI编程的底牌，原来这么不值钱",
+        "link": "https://www.tmtpost.com/7937664.html",
+        "published_date": "Wed, 01 Apr 2026 17:00:00 GMT",
+        "first_seen": "2026-04-01T09:10:21.254960"
+      },
+      "49e6fd4bb40e2fa8ee3206b04fd33dafdc1eef852920d763ffb0d2a59a245cbc": {
+        "title": "文远知行迪拜突围：中国自动驾驶的分水岭时刻",
+        "link": "https://www.tmtpost.com/7937749.html",
+        "published_date": "Wed, 01 Apr 2026 17:00:00 GMT",
+        "first_seen": "2026-04-01T09:10:21.254971"
+      },
+      "e5f04b2a61ef62eaed13a120141ccc11b3a2096515417ae2730b52038d12887d": {
+        "title": "从B2B到A2A：Agent新基建，如何让“一人企业”做全球生意？",
+        "link": "https://www.tmtpost.com/7937773.html",
+        "published_date": "Wed, 01 Apr 2026 17:00:00 GMT",
+        "first_seen": "2026-04-01T09:10:21.254973"
+      },
+      "3d00b0692448dad119c1c4d34e21cd4ff2dff9fbc9cba72a66cc074c21fc1e72": {
+        "title": "智谱、MiniMax：烧钱越猛，市值越高",
+        "link": "https://www.tmtpost.com/7937779.html",
+        "published_date": "Wed, 01 Apr 2026 17:00:00 GMT",
+        "first_seen": "2026-04-01T09:10:21.254975"
+      },
+      "b364d0f30d389301817814a0bd191f0d81d437f3b94c067866ca26f48c5284fe": {
+        "title": "深圳：一个市为何能吞下全国器械10%的蛋糕？",
+        "link": "https://www.tmtpost.com/7937789.html",
+        "published_date": "Wed, 01 Apr 2026 17:00:00 GMT",
+        "first_seen": "2026-04-01T09:10:21.254977"
+      },
+      "4677a2c92697f78bdb5c0197a6ce241cb83af66dcf0134f7e1c0bf5f39bd123d": {
+        "title": "第一个“春假+清明”背后，旅游消费行业的机遇",
+        "link": "https://www.tmtpost.com/7937810.html",
+        "published_date": "Wed, 01 Apr 2026 17:00:00 GMT",
+        "first_seen": "2026-04-01T09:10:21.254979"
+      },
+      "bc3523240f3be957a780f4454e112b9f1a1cd67ee5721c3b627cba67e827f913": {
+        "title": "百度萝卜快跑为何在武汉集体失智？",
+        "link": "https://www.tmtpost.com/7937830.html",
+        "published_date": "Wed, 01 Apr 2026 17:00:00 GMT",
+        "first_seen": "2026-04-01T09:10:21.254981"
+      },
+      "3fa902d299f30c2ab24b8cfbfa6044622d90a964b34f9cec4f768478beb68e2b": {
+        "title": "叶国富还是爱王宁",
+        "link": "https://www.tmtpost.com/7937848.html",
+        "published_date": "Wed, 01 Apr 2026 17:00:00 GMT",
+        "first_seen": "2026-04-01T09:10:21.254982"
+      },
+      "0f2038db46b4e422ea296f6a7e2bf12b14a496397617375259ebcdfb270a4758": {
+        "title": "太二背叛酸菜鱼",
+        "link": "https://www.tmtpost.com/7937994.html",
+        "published_date": "Wed, 01 Apr 2026 17:00:00 GMT",
+        "first_seen": "2026-04-01T09:10:21.254984"
+      },
+      "4afdf199dd22813b0c4fd329d15f962c8b10728fa5533657406868d220fa68f7": {
+        "title": "当男性不再“重金追爱”，礼物经济的新机会在哪里？",
+        "link": "https://www.tmtpost.com/7937981.html",
+        "published_date": "Wed, 01 Apr 2026 16:27:00 GMT",
+        "first_seen": "2026-04-01T09:10:21.254986"
+      },
+      "44908fd8bb723b89471e5611de3c32da602b6f3b597b5631fec0f9159b842145": {
+        "title": "TCL中环12.58亿收购一道新能源：负负能否得正？",
+        "link": "https://www.tmtpost.com/7937878.html",
+        "published_date": "Wed, 01 Apr 2026 16:19:00 GMT",
+        "first_seen": "2026-04-01T09:10:21.254987"
+      },
+      "03e019f4098124efe1b8856120fec7e70ea582768d36057b8671b29e16c7a2af": {
+        "title": "报告：脑机接口有望进入大规模商业化“黄金窗口期”| 钛快讯",
+        "link": "https://www.tmtpost.com/7937881.html",
+        "published_date": "Wed, 01 Apr 2026 15:51:00 GMT",
+        "first_seen": "2026-04-01T09:10:21.254989"
+      },
+      "4b1f013e2a23a75b8a563ac77268622b5c3661f76de30fc1150fa4682ced718f": {
+        "title": "51万行源码裸奔、虚假“替罪羊”登场：Anthropic这次的事故，比看起来严重得多",
+        "link": "https://www.tmtpost.com/7937922.html",
+        "published_date": "Wed, 01 Apr 2026 15:36:00 GMT",
+        "first_seen": "2026-04-01T09:10:21.254990"
+      },
+      "6cd319eb5786e70be66e0b5e884470ec927f969661c116d53472daee44de784a": {
+        "title": "张雪为理想主义点火，张雪峰为现实主义扫灰",
+        "link": "https://www.tmtpost.com/7937651.html",
+        "published_date": "Wed, 01 Apr 2026 15:33:00 GMT",
+        "first_seen": "2026-04-01T09:10:21.254991"
+      },
+      "889c5611c89146b46b9ad6311eb79c72743add72885dcc38c396e526e69ef94f": {
+        "title": "DigClaw 获百万美元天使轮投资，用AI监测水下的人才和商机｜融资速递",
+        "link": "https://www.tmtpost.com/7937898.html",
+        "published_date": "Wed, 01 Apr 2026 15:29:00 GMT",
+        "first_seen": "2026-04-01T09:10:21.254993"
+      },
+      "f97dec2becc501ca81a98dbaf431ddd2b0c17ffb81a963212d1910c18282b2fb": {
+        "title": "从“全民养虾”到企业落地：OpenClaw的三重现实拷问",
+        "link": "https://www.tmtpost.com/7937847.html",
+        "published_date": "Wed, 01 Apr 2026 15:28:00 GMT",
+        "first_seen": "2026-04-01T09:10:21.254994"
+      },
+      "be5805ba93b7d670c92f310ba68bf5752e4508178329e32e53102521fb1911f5": {
+        "title": "今年“最妖”独角兽：十个月，估值翻六倍",
+        "link": "https://www.tmtpost.com/7937593.html",
+        "published_date": "Wed, 01 Apr 2026 15:27:00 GMT",
+        "first_seen": "2026-04-01T09:10:21.254995"
+      },
+      "26ce0d6a5c27d9da7ec33651256e2abbe66fe8afa638594fee59adcbb136bbac": {
+        "title": "武汉三环线上萝卜快跑“集体抛锚”，给自动驾驶上了一堂什么课",
+        "link": "https://www.tmtpost.com/7937576.html",
+        "published_date": "Wed, 01 Apr 2026 15:27:00 GMT",
+        "first_seen": "2026-04-01T09:10:21.254997"
+      },
+      "9a01fcb7ddd687e554c78aa64af09c213e81e24bdb5e630351e7aa956d7b1bdb": {
+        "title": "尹阔的“参半”要上市了",
+        "link": "https://www.tmtpost.com/7937614.html",
+        "published_date": "Wed, 01 Apr 2026 15:27:00 GMT",
+        "first_seen": "2026-04-01T09:10:21.254998"
+      },
+      "9314215b9b0fc2933a195b80d40d2e74e39510c9b42fd67eec2013db1d614218": {
+        "title": "告别“语义黑盒”：当 Agent 走进生产环境，我们如何驯服它的“不可预测”？",
+        "link": "https://www.infoq.cn/article/NuNH2aN2qGfdm2s2TlMd?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 01 Apr 2026 15:39:00 GMT",
+        "first_seen": "2026-04-01T09:10:21.255000"
+      },
+      "fbef9dcce42f44bcf62ddaec2a5ca85dbbf0dbef7905c76a8ccf5b8e399e890c": {
+        "title": "突破泛化瓶颈：阿里云智能运维 Agent 评测体系实践",
+        "link": "https://www.infoq.cn/article/9qgbqQFhMvJmTkPoFG8l?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 01 Apr 2026 15:20:00 GMT",
+        "first_seen": "2026-04-01T09:10:21.255001"
+      },
+      "6452ce40a5338e0f155fa314d29ad4bc0d6bd1d1fb32839d0aa325a941010a7a": {
+        "title": "Claude Code 已经过度设计？OpenClaw 背后的 Pi 给出了一个极简答案",
+        "link": "https://www.infoq.cn/article/KyLqAEKpkvrH3tJwMgiw?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 01 Apr 2026 14:47:00 GMT",
+        "first_seen": "2026-04-01T09:10:21.255002"
+      },
+      "741f07f8ec6653a785cbdb4ca975c1891c8322cd222d5bf21926759c4ae08049": {
+        "title": "Agent 的家：如何在 AI 时代搭建硬件基座",
+        "link": "https://sspai.com/post/108064",
+        "published_date": "Wed, 01 Apr 2026 14:48:00 GMT",
+        "first_seen": "2026-04-01T09:10:21.255004"
       }
     },
     "Finance": {
-      "d02aef351d22f72ea30c3f08d2af980ea0c49c83b84b91ba9718d2a04e741e88": {
-        "title": "Oil prices soar and stocks slide as Middle East conflict escalates",
-        "link": "https://www.ft.com/content/dac7a77d-e0f4-4f52-a3d4-55b145e67347",
-        "published_date": "Mon, 02 Mar 2026 08:28:00 GMT",
-        "first_seen": "2026-03-02T08:51:40.320743"
-      },
       "751da3ac3e68f2c8c0981e5edcaec4264925ae7a2ea3f0da1904ac5e98878672": {
         "title": "How this under-the-radar U.S. natural-gas exporter could capitalize on a potential shortage in Europe",
         "link": "https://www.marketwatch.com/story/how-this-under-the-radar-u-s-natural-gas-exporter-could-capitalize-on-a-potential-shortage-in-europe-c6938bab?mod=mw_rss_topstories",
@@ -15777,6 +15855,48 @@
         "link": "https://www.marketwatch.com/story/investors-brace-for-more-stock-market-volatility-as-wild-first-quarter-ends-with-biggest-rally-in-a-year-7f97a12e?mod=mw_rss_topstories",
         "published_date": "Wed, 01 Apr 2026 00:23:00 GMT",
         "first_seen": "2026-04-01T06:29:29.419453"
+      },
+      "63b0495e680f89b8722e5c9972a1189d16d30dab343b40ac7b32c6dc4661cad6": {
+        "title": "‘We’re a wildly fickle bunch’: Gas prices hit $4 a gallon. Why do I feel like I’m the only American who is genuinely upset?",
+        "link": "https://www.marketwatch.com/story/were-a-wildly-fickle-bunch-gas-prices-hit-4-a-gallon-why-do-i-feel-like-im-the-only-american-who-is-genuinely-upset-7b3f2216?mod=mw_rss_topstories",
+        "published_date": "Wed, 01 Apr 2026 09:06:00 GMT",
+        "first_seen": "2026-04-01T09:10:21.307133"
+      },
+      "6d94ea66d4a0902f92bf0bf5382c1f6e243bd12ad05e0e0eb940ab87bd5e549f": {
+        "title": "Reality TV star Tyler Cameron makes a big move in his real-estate career with new Florida development",
+        "link": "https://www.marketwatch.com/story/reality-tv-star-tyler-cameron-makes-a-big-move-in-his-real-estate-career-with-new-florida-development-ca9e5b56?mod=mw_rss_topstories",
+        "published_date": "Wed, 01 Apr 2026 09:02:00 GMT",
+        "first_seen": "2026-04-01T09:10:21.307140"
+      },
+      "7bc6c3e6cd214d17aa7302178c82965a4add5edce0f90896e95c3375f88a38eb": {
+        "title": "Brent oil futures fall as low as $98 ahead of Trump’s address on Iran war",
+        "link": "https://www.marketwatch.com/story/brent-oil-futures-fall-as-low-as-98-ahead-of-trumps-address-on-iran-war-02590d56?mod=mw_rss_topstories",
+        "published_date": "Wed, 01 Apr 2026 08:44:00 GMT",
+        "first_seen": "2026-04-01T09:10:21.307142"
+      },
+      "6ea945c737d5905311793f2a3c336a0e506bc48bd61ed388fc4d2cce6f8f689c": {
+        "title": "Stock markets bottom in the early stages of military conflict, says Tom Lee. Here’s what the strategist expects now.",
+        "link": "https://www.marketwatch.com/story/stock-markets-bottom-in-the-early-stages-of-military-conflict-says-tom-lee-heres-what-the-strategist-expects-now-250ed0d3?mod=mw_rss_topstories",
+        "published_date": "Wed, 01 Apr 2026 08:27:00 GMT",
+        "first_seen": "2026-04-01T09:10:21.307143"
+      },
+      "d2689ef83a32d33f3cb21ea598fc7dcd5ab6cb76b1ad483febd0adbc6e450c82": {
+        "title": "Political drama reaches heart of UK’s nuclear deterrent",
+        "link": "https://www.ft.com/content/a9a5f54f-3e7c-4920-8132-ab28c4c6bba3",
+        "published_date": "Wed, 01 Apr 2026 08:40:00 GMT",
+        "first_seen": "2026-04-01T09:10:21.307145"
+      },
+      "a6668c9bd4bbd712cd8ee2681b76b5e4173c93e46eea251faa7a11185120926c": {
+        "title": "Stocks rally on hopes Iran war will end soon",
+        "link": "https://www.ft.com/content/bd91441f-28fc-4c35-8ff1-10ec6141148c",
+        "published_date": "Wed, 01 Apr 2026 07:11:00 GMT",
+        "first_seen": "2026-04-01T09:10:21.307146"
+      },
+      "98ee368bf02a05e5905fc745271ab6279dcbee23d7e1ac841f81d60bcc330e50": {
+        "title": "BP’s new chief promises ‘clear direction’ after turbulent year",
+        "link": "https://www.ft.com/content/5510fc9b-e336-4c69-a428-4a843acc1839",
+        "published_date": "Wed, 01 Apr 2026 07:04:00 GMT",
+        "first_seen": "2026-04-01T09:10:21.307147"
       }
     },
     "Ai": {
@@ -17165,13 +17285,19 @@
         "link": "https://www.qbitai.com/2026/04/394169.html",
         "published_date": "Wed, 01 Apr 2026 00:56:00 GMT",
         "first_seen": "2026-04-01T06:29:29.582586"
+      },
+      "facc50cdf7a41017515f3bff3e626f5b3c5736b2d1fc19800caedc20c8414167": {
+        "title": "Sora走了，PixVerse V6来了！AI视频空间时间处理能力大增，延时拍摄、慢动作都能搞",
+        "link": "https://www.qbitai.com/2026/04/394373.html",
+        "published_date": "Wed, 01 Apr 2026 06:42:00 GMT",
+        "first_seen": "2026-04-01T09:10:21.465633"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-04-01T06:29:29.366837",
-    "Finance": "2026-04-01T06:29:29.419455",
-    "Ai": "2026-04-01T06:29:29.582588"
+    "Technology": "2026-04-01T09:10:21.255006",
+    "Finance": "2026-04-01T09:10:21.307150",
+    "Ai": "2026-04-01T09:10:21.465642"
   }
 }
