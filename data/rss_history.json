@@ -2,96 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "96e8c208fc0e55095c47d38cccf8f960637964a6220232fb1e224dc6388ba069": {
-        "title": "林俊旸告别千问，阿里AI的转身与代价",
-        "link": "https://www.tmtpost.com/7901214.html",
-        "published_date": "Thu, 05 Mar 2026 16:35:00 GMT",
-        "first_seen": "2026-03-05T08:49:23.188514"
-      },
-      "eacaeaba3efc4d28f528ade129c3e6800e9a713615527660610ab866290572f1": {
-        "title": "堂食客单价跌回十年前，越来越便宜，餐饮企业该如何突围？",
-        "link": "https://www.tmtpost.com/7901090.html",
-        "published_date": "Thu, 05 Mar 2026 15:21:00 GMT",
-        "first_seen": "2026-03-05T08:49:23.188523"
-      },
-      "2537996372ab11772f2a10c853e05d328e4193dcde091c289e6c0bc62cab240b": {
-        "title": "别了，理想主义者：阿里“结果导向”下的AI天才出走",
-        "link": "https://www.tmtpost.com/7901078.html",
-        "published_date": "Thu, 05 Mar 2026 15:15:00 GMT",
-        "first_seen": "2026-03-05T08:49:23.188526"
-      },
-      "002768381bdb55e1c7ab1f6cff1ec8255bc243d05d13fc7a2e72c9a1e600d7bc": {
-        "title": "610亿“史上最牛散户”，加仓英伟达",
-        "link": "https://www.tmtpost.com/7901062.html",
-        "published_date": "Thu, 05 Mar 2026 15:04:00 GMT",
-        "first_seen": "2026-03-05T08:49:23.188527"
-      },
-      "ed8a9fe4c7989a1c1add05cfff646f2c930de9f9b34e9e771daa7fa8903ef2b5": {
-        "title": "540亿糖尿病新霸主即将诞生？",
-        "link": "https://www.tmtpost.com/7901016.html",
-        "published_date": "Thu, 05 Mar 2026 15:00:00 GMT",
-        "first_seen": "2026-03-05T08:49:23.188529"
-      },
-      "3073a5e2b8c69e33439a865772caa3441f86004a0aed008984e1af3facdb1843": {
-        "title": "瑞幸大股东的新野心藏不住了",
-        "link": "https://www.tmtpost.com/7901030.html",
-        "published_date": "Thu, 05 Mar 2026 14:57:00 GMT",
-        "first_seen": "2026-03-05T08:49:23.188530"
-      },
-      "6e02969ce3145d85357f7c6ec629866fe68b82fd4f49c7e2540ecd0ec98f18be": {
-        "title": "首富二代，重回LP牌桌",
-        "link": "https://www.tmtpost.com/7901067.html",
-        "published_date": "Thu, 05 Mar 2026 14:53:00 GMT",
-        "first_seen": "2026-03-05T08:49:23.188532"
-      },
-      "19145b3e5c13f738ac836a0053b6a9021f2d2ab889fbaac50465749c4e08ff61": {
-        "title": "量贩零食卷向县城",
-        "link": "https://www.tmtpost.com/7899904.html",
-        "published_date": "Thu, 05 Mar 2026 14:49:00 GMT",
-        "first_seen": "2026-03-05T08:49:23.188533"
-      },
-      "f247779750e5248f02a8446f82052ab07185172441d6a22ae1a17f6776416462": {
-        "title": "下一个美团？抖省省背后的万亿野心",
-        "link": "https://www.tmtpost.com/7900992.html",
-        "published_date": "Thu, 05 Mar 2026 14:48:00 GMT",
-        "first_seen": "2026-03-05T08:49:23.188535"
-      },
-      "58cdb6298fad5f980fc7945aacf424199e044f311c7f98441b73e9ae71d80c59": {
-        "title": "极客邦启动2026「AI 青禾计划」：QCon & AICon首次向全国高校免费开放",
-        "link": "https://www.infoq.cn/article/YVquqorayNjdCRW72xxF?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 05 Mar 2026 16:12:00 GMT",
-        "first_seen": "2026-03-05T08:49:23.188536"
-      },
-      "16b3ae2b70492f52b94a4d6914d1437c0ea611b029926fa44c39ae3840f19f63": {
-        "title": "借鉴Kotlin/Android技术架构，构建可扩展的SwiftUI iOS应用",
-        "link": "https://www.infoq.cn/article/bZG6mCd01ibW34TJZcww?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 05 Mar 2026 16:00:00 GMT",
-        "first_seen": "2026-03-05T08:49:23.188537"
-      },
-      "a988f7726a2f553f4a80440bdd49af5d71e3068304a218c33b261cb6a7a8b2f2": {
-        "title": "微软发布 Agent Framework 候选版本，简化 .NET 与 Python 智能体开发",
-        "link": "https://www.infoq.cn/article/7JREpdQWb6a7rMl3SLTd?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 05 Mar 2026 15:00:00 GMT",
-        "first_seen": "2026-03-05T08:49:23.188539"
-      },
-      "4ccb52679d24b1769875539aeda8d476ae14f695beae1916b9c63b47bf572403": {
-        "title": "在壮大软件领导团队过程中总结的经验教训",
-        "link": "https://www.infoq.cn/article/KKE2jJwbx7xQXpuAl4LK?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 05 Mar 2026 14:00:00 GMT",
-        "first_seen": "2026-03-05T08:49:23.188540"
-      },
-      "434b75ac13385299437cd7876dd8b4bdbd585bab28b5af57597ad503d69db8da": {
-        "title": "大众用增程“炮轰”自己",
-        "link": "http://www.huxiu.com/article/4839284.html?f=wangzhan",
-        "published_date": "Thu, 05 Mar 2026 14:35:00 GMT",
-        "first_seen": "2026-03-05T08:49:23.188541"
-      },
-      "3677a1a1c59aa1b16bb13615590e827826227e374c384f1c852ab2160dab7d43": {
-        "title": "开赛在即，疾速入坑：F1 2026 观赛指南",
-        "link": "https://sspai.com/post/103846",
-        "published_date": "Thu, 05 Mar 2026 14:32:00 GMT",
-        "first_seen": "2026-03-05T08:49:23.188542"
-      },
       "5338146847d440a6142756d56e0c46cb673aa4494266d9e17d07e14b5a6047ef": {
         "title": "【钛晨报】习近平在参加江苏代表团审议时强调，经济大省要在研究新情况解决新问题上下功夫出经验；阿里辟谣大模型团队集体离职；美国七大科技巨头签署自主供电承诺",
         "link": "https://www.tmtpost.com/7901884.html",
@@ -10639,15 +10549,63 @@
         "link": "https://www.infoq.cn/article/UdLhY0p8iDDIbtLtfV35?utm_source=rss&utm_medium=article",
         "published_date": "Sat, 04 Apr 2026 14:00:00 GMT",
         "first_seen": "2026-04-04T08:47:28.334806"
+      },
+      "2fcec43966073ea1644db7b6776e3d2c19a05a16d2faeec1cb37eb15773cd734": {
+        "title": "药师帮净利大增409，但依然处在艰难十字路口",
+        "link": "https://www.tmtpost.com/7941465.html",
+        "published_date": "Sat, 04 Apr 2026 19:25:00 GMT",
+        "first_seen": "2026-04-04T23:36:58.693114"
+      },
+      "81318424a742b1ef04607d171ab5ce4af68034a6fb5ed45469765b263786e6cc": {
+        "title": "影石的无人机，想踩着大疆起飞？",
+        "link": "https://www.tmtpost.com/7941425.html",
+        "published_date": "Sat, 04 Apr 2026 19:24:00 GMT",
+        "first_seen": "2026-04-04T23:36:58.693124"
+      },
+      "a66033725d864be4489bc932a3c0d30cd3b6050728f593596c01177c7747f540": {
+        "title": "抖音生服架构大调整，浦燕子打响“二番战”",
+        "link": "https://www.tmtpost.com/7941701.html",
+        "published_date": "Sat, 04 Apr 2026 18:49:00 GMT",
+        "first_seen": "2026-04-04T23:36:58.693127"
+      },
+      "951ec2600eb0ddaa634b8acc12244c66f8469c6e2600e0d655fd1ef27d9c9bff": {
+        "title": "年收入4亿美元的“一人公司”，这么快就翻车了？",
+        "link": "https://www.tmtpost.com/7941910.html",
+        "published_date": "Sat, 04 Apr 2026 18:49:00 GMT",
+        "first_seen": "2026-04-04T23:36:58.693129"
+      },
+      "5bcdee11b9171ac69cd240726f6ee0a316a7681a929088e7b04864f34d76c17d": {
+        "title": "百亿外卖大战，悄悄喂饱顺丰",
+        "link": "https://www.tmtpost.com/7941908.html",
+        "published_date": "Sat, 04 Apr 2026 18:49:00 GMT",
+        "first_seen": "2026-04-04T23:36:58.693131"
+      },
+      "bbf93f968f197a2859186f58c5193314a595822d84e4114199faaa7f53a344b0": {
+        "title": "全网最不想火饭店，最终还是被“火”烤糊了",
+        "link": "https://www.tmtpost.com/7941869.html",
+        "published_date": "Sat, 04 Apr 2026 18:49:00 GMT",
+        "first_seen": "2026-04-04T23:36:58.693133"
+      },
+      "89b3ba67705e38d0e0e46f240b8fa713fcfdb07b0d006ca4e023e75ff251bf3a": {
+        "title": "Anthropic成立PAC：厨子不看菜谱看上兵法了",
+        "link": "https://www.tmtpost.com/7941914.html",
+        "published_date": "Sat, 04 Apr 2026 18:49:00 GMT",
+        "first_seen": "2026-04-04T23:36:58.693135"
+      },
+      "77720ab938eaadc7b43aced394f4945aeed13352389c0260b2ca708d171daec4": {
+        "title": "Anthropic封堵第三方工具“薅羊毛”，OpenClaw被迫出局，创始人早已投奔OpenAI",
+        "link": "https://www.tmtpost.com/7941920.html",
+        "published_date": "Sat, 04 Apr 2026 17:58:00 GMT",
+        "first_seen": "2026-04-04T23:36:58.693136"
+      },
+      "4c8107f2f8bad2f708785d4a196de9ed267b435da92f5839ea72e05ccaaed292": {
+        "title": "买前必看：千问 AI 眼镜 G1 自费长测",
+        "link": "https://sspai.com/post/108103",
+        "published_date": "Sat, 04 Apr 2026 17:11:00 GMT",
+        "first_seen": "2026-04-04T23:36:58.693138"
       }
     },
     "Finance": {
-      "e430c29fd8ef7d7edabb248ef65bbb06d42e42aa1cc0283338d078cd51828958": {
-        "title": "Reform UK received second big donation from Thailand-based crypto investor",
-        "link": "https://www.ft.com/content/73efc9ce-4d57-4a96-9f3f-d9fda81b1114",
-        "published_date": "Thu, 05 Mar 2026 07:44:00 GMT",
-        "first_seen": "2026-03-05T08:49:23.231760"
-      },
       "abee4e5fd117f73055c288097e44b833b848b059a9d013228b77161c8078ea6f": {
         "title": "Trade Desk’s stock soars, as a potential OpenAI partnership gives investors reason to cheer",
         "link": "https://www.marketwatch.com/story/trade-desks-stock-soars-as-a-potential-openai-partnership-gave-investors-reason-to-cheer-542f2331?mod=mw_rss_topstories",
@@ -15813,27 +15771,51 @@
         "link": "https://www.ft.com/content/6c33a7cf-9c25-4ad9-9526-50198074e3df",
         "published_date": "Sat, 04 Apr 2026 04:00:00 GMT",
         "first_seen": "2026-04-04T06:00:09.485141"
+      },
+      "f051cea51e2283c2d04d823e0fe3fde3aa9dfe135b1cf4c5fb0606c039b4e732": {
+        "title": "Trump makes fresh Iran threat as search continues for missing US airman",
+        "link": "https://www.ft.com/content/cc8974c6-2552-424c-9eab-231c49095461",
+        "published_date": "Sat, 04 Apr 2026 21:05:00 GMT",
+        "first_seen": "2026-04-04T23:36:58.745679"
+      },
+      "7242b8a04e6f0627f267e1243518cdee4b192184eed282f01bd93957cf97e289": {
+        "title": "What’s an ‘E-shaped’ economy — and where do you fit in it?",
+        "link": "https://www.marketwatch.com/story/whats-an-e-shaped-economy-and-where-do-you-fit-in-it-a1192908?mod=mw_rss_topstories",
+        "published_date": "Sat, 04 Apr 2026 17:42:00 GMT",
+        "first_seen": "2026-04-04T23:36:58.745687"
+      },
+      "5a6ad9ffea7e1a8217ab6962567795c5a76798de7f6fd9525fe46972df178a97": {
+        "title": "Private-credit crisis or growing pains? Why the ‘Big Six’ banks are a safer bet.",
+        "link": "https://www.marketwatch.com/story/private-credit-crisis-or-growing-pains-why-the-big-six-banks-are-a-safer-bet-ab4f5145?mod=mw_rss_topstories",
+        "published_date": "Sat, 04 Apr 2026 16:56:00 GMT",
+        "first_seen": "2026-04-04T23:36:58.745689"
+      },
+      "c8b8cec0b87cda0ff4f04d04971a310d4cddd7f5d1785f384c05340b4793c2e9": {
+        "title": "Gas-tax breaks sound tempting at $4 a gallon. Too bad they don’t actually work.",
+        "link": "https://www.marketwatch.com/story/gas-tax-holidays-sound-tempting-at-4-a-gallon-too-bad-they-dont-actually-work-b20e2441?mod=mw_rss_topstories",
+        "published_date": "Sat, 04 Apr 2026 16:47:00 GMT",
+        "first_seen": "2026-04-04T23:36:58.745690"
+      },
+      "e447e3e78975d2f6d26d8d54f9c710e8109244d62552addf4b267ac31ffbca1b": {
+        "title": "‘Mass layoffs by email might be the new norm’ as Oracle lays off thousands that way",
+        "link": "https://www.marketwatch.com/story/fired-via-email-some-of-the-30-000-workers-cut-by-oracle-woke-up-to-a-morning-message-saying-they-were-laid-off-89a7af94?mod=mw_rss_topstories",
+        "published_date": "Sat, 04 Apr 2026 15:25:00 GMT",
+        "first_seen": "2026-04-04T23:36:58.745692"
+      },
+      "65ced1dd12c4f5a9d656a79ca4992fa781f6030b14807013dcccaef433fc4bc4": {
+        "title": "Want to watch every Yankees game on TV this year? It’ll cost you over $1,200.",
+        "link": "https://www.marketwatch.com/story/want-to-watch-all-of-the-yankees-games-on-tv-this-season-itll-cost-you-over-1-200-1bdc9ac5?mod=mw_rss_topstories",
+        "published_date": "Sat, 04 Apr 2026 15:23:00 GMT",
+        "first_seen": "2026-04-04T23:36:58.745693"
+      },
+      "8577440729074fc516c1e7dad7dfb22b1c4981ee4d7d98bafdc523fa540561a6": {
+        "title": "Easter is getting so expensive that some parents are putting socks and leftover Halloween candy in their kids’ baskets",
+        "link": "https://www.marketwatch.com/story/easter-is-getting-so-expensive-that-some-parents-are-putting-socks-and-leftover-halloween-candy-in-their-kids-baskets-aaab87ec?mod=mw_rss_topstories",
+        "published_date": "Sat, 04 Apr 2026 14:39:00 GMT",
+        "first_seen": "2026-04-04T23:36:58.745695"
       }
     },
     "Ai": {
-      "2bf8fa45c525894d259e568df8820a9b66947f3049b21f4270ecbbc639bf2303": {
-        "title": "GPT-5.3 Instant上线：ChatGPT终于不说教了",
-        "link": "https://www.qbitai.com/2026/03/383974.html",
-        "published_date": "Thu, 05 Mar 2026 07:10:00 GMT",
-        "first_seen": "2026-03-05T08:49:23.386390"
-      },
-      "926f978138db6e073dc1d8ee7c61daf30b8d50f9aba0ba3966bd0ad484d244b5": {
-        "title": "捏Ta完成超千万美金Pre A+轮融资，九坤领投，源码奇绩等超额跟进",
-        "link": "https://www.qbitai.com/2026/03/383998.html",
-        "published_date": "Thu, 05 Mar 2026 07:02:00 GMT",
-        "first_seen": "2026-03-05T08:49:23.386397"
-      },
-      "c2d61e92187c38c79cc960704f33222e78fa79be3dd5c1f6e4b6c88583d410ae": {
-        "title": "悬赏5000刀！148局AI斗蛐蛐世界杯官方战报出炉，全球赛邀你接棒来战",
-        "link": "https://www.qbitai.com/2026/03/383947.html",
-        "published_date": "Thu, 05 Mar 2026 06:41:00 GMT",
-        "first_seen": "2026-03-05T08:49:23.386399"
-      },
       "b2cf1333bd60550803458b8e3dc0491acd7dd9d139aa67fa298d248f3b6f0575": {
         "title": "企业级OpenClaw最强拍档！万亿参数的国产多模态大模型开源发布",
         "link": "https://www.qbitai.com/2026/03/384330.html",
@@ -17255,13 +17237,19 @@
         "link": "https://www.qbitai.com/2026/04/396015.html",
         "published_date": "Sat, 04 Apr 2026 08:15:00 GMT",
         "first_seen": "2026-04-04T08:47:28.524766"
+      },
+      "0aa5eb403269ddebdc05a24d50e7299e309e3dfe136b55dc425cca6baf806369": {
+        "title": "日调用量超万亿破纪录！阿里千问3.6Plus登顶全球模型调用量榜首",
+        "link": "https://www.qbitai.com/2026/04/396346.html",
+        "published_date": "Sat, 04 Apr 2026 13:38:00 GMT",
+        "first_seen": "2026-04-04T23:36:58.910531"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-04-04T08:47:28.334808",
-    "Finance": "2026-04-04T06:00:09.485144",
-    "Ai": "2026-04-04T08:47:28.524769"
+    "Technology": "2026-04-04T23:36:58.693140",
+    "Finance": "2026-04-04T23:36:58.745697",
+    "Ai": "2026-04-04T23:36:58.910539"
   }
 }
