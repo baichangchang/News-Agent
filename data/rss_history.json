@@ -10591,6 +10591,54 @@
         "link": "https://www.infoq.cn/article/BfJYpQWfUjc9jIHk1iiJ?utm_source=rss&utm_medium=article",
         "published_date": "Sat, 04 Apr 2026 10:00:00 GMT",
         "first_seen": "2026-04-04T06:00:09.437499"
+      },
+      "046faf2673b88af16b8228ce58739949f545894c1806440a424c76e1911ccb0c": {
+        "title": "Anthropic拒绝龙虾吃自助餐，中国token大厂笑了",
+        "link": "https://www.tmtpost.com/7941769.html",
+        "published_date": "Sat, 04 Apr 2026 14:43:00 GMT",
+        "first_seen": "2026-04-04T08:47:28.334785"
+      },
+      "f328b9bce011d8a6b0b6317ec7a32831715b66b0cf803dffbd8921954225767e": {
+        "title": "大厂们为啥不让自家员工用别家大模型？",
+        "link": "https://www.tmtpost.com/7941699.html",
+        "published_date": "Sat, 04 Apr 2026 14:43:00 GMT",
+        "first_seen": "2026-04-04T08:47:28.334795"
+      },
+      "c2421574d50cb6b407a0f88aaa5f86c3fca386b291a6aa47b11da5a1caf861a9": {
+        "title": "“打不死的小强”尹阔：流水线工人走到港交所门口，他还能把参半带到什么高度？",
+        "link": "https://www.tmtpost.com/7941723.html",
+        "published_date": "Sat, 04 Apr 2026 14:38:00 GMT",
+        "first_seen": "2026-04-04T08:47:28.334798"
+      },
+      "38840465c7f9066e2d9e51dfbaabb9f9cf58bc611a5767db78b89b6f47d653e8": {
+        "title": "互联网最骄傲的事，正在被AI一点点拆掉",
+        "link": "https://www.tmtpost.com/7941760.html",
+        "published_date": "Sat, 04 Apr 2026 14:34:00 GMT",
+        "first_seen": "2026-04-04T08:47:28.334800"
+      },
+      "aa832eba5a4274422801c420587dc24fbc2b4670d708ab72437d16ebb65a9e4a": {
+        "title": "跨界光伏1年亏掉8年赚的钱，天宜新材等来紫光系“白衣骑士”",
+        "link": "https://www.tmtpost.com/7941745.html",
+        "published_date": "Sat, 04 Apr 2026 14:33:00 GMT",
+        "first_seen": "2026-04-04T08:47:28.334801"
+      },
+      "1d0318b0ac4419afa84167ac80d40bce05636caff14c6375278cfee2a47fa753": {
+        "title": "AI会感到绝望？Anthropic最新研究给出了一个更吓人的说法",
+        "link": "https://www.tmtpost.com/7941770.html",
+        "published_date": "Sat, 04 Apr 2026 14:33:00 GMT",
+        "first_seen": "2026-04-04T08:47:28.334803"
+      },
+      "7f05f02b9560318d65966c44008475c48bedfb7aa9b148906d8c6a6c26a6480d": {
+        "title": "【数智周报】Anthropic封杀OpenClaw；甲骨文一夜砍掉3万人；Claude Code源码泄露；豆包每天烧120万亿Tokens；商务部回应Meta收购Manus及企业跨国经营问题",
+        "link": "https://www.tmtpost.com/7941741.html",
+        "published_date": "Sat, 04 Apr 2026 14:00:00 GMT",
+        "first_seen": "2026-04-04T08:47:28.334805"
+      },
+      "217c8c977b9e5b35d45c9cfee4f64c461020a8c85a024c15a48860de414ecdc7": {
+        "title": "智能体 AI 模式强化软件工程规范性",
+        "link": "https://www.infoq.cn/article/UdLhY0p8iDDIbtLtfV35?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 04 Apr 2026 14:00:00 GMT",
+        "first_seen": "2026-04-04T08:47:28.334806"
       }
     },
     "Finance": {
@@ -17195,13 +17243,25 @@
         "link": "https://www.qbitai.com/2026/04/395995.html",
         "published_date": "Sat, 04 Apr 2026 05:18:00 GMT",
         "first_seen": "2026-04-04T06:00:09.640804"
+      },
+      "8c9f666bce5b7294e4798e1a579e66bdd8cb743b46e98ba76f66d92f3c4d204d": {
+        "title": "19岁，常青藤辍学，这群中国年轻人重构了AI记忆",
+        "link": "https://www.qbitai.com/2026/04/396069.html",
+        "published_date": "Sat, 04 Apr 2026 08:24:00 GMT",
+        "first_seen": "2026-04-04T08:47:28.524759"
+      },
+      "fb54d4972b382ab91cfefd1aa3dfd5021478522f06f39011813b3054b7633ade": {
+        "title": "联想重新定义“龙虾”",
+        "link": "https://www.qbitai.com/2026/04/396015.html",
+        "published_date": "Sat, 04 Apr 2026 08:15:00 GMT",
+        "first_seen": "2026-04-04T08:47:28.524766"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-04-04T06:00:09.437501",
+    "Technology": "2026-04-04T08:47:28.334808",
     "Finance": "2026-04-04T06:00:09.485144",
-    "Ai": "2026-04-04T06:00:09.640812"
+    "Ai": "2026-04-04T08:47:28.524769"
   }
 }
