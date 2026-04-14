@@ -2,18 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "f487f346c2c66cdd69d719a40ed54eec8d2769a8cf87e801c12678302a52f2e5": {
-        "title": "龙虾风暴下的国产大模型厂商：搭上火箭的Kimi与港股双雄的盛宴",
-        "link": "https://www.tmtpost.com/7914749.html",
-        "published_date": "Sun, 15 Mar 2026 15:54:00 GMT",
-        "first_seen": "2026-03-15T08:41:15.802599"
-      },
-      "e471359a28dcba668451fe58ac34c6bf68cd5509da91cb187589cd6ef918986b": {
-        "title": "价值判断：涨停板的投资机会和风险提示（3月13日）｜证券市场观察",
-        "link": "https://www.tmtpost.com/7914792.html",
-        "published_date": "Sun, 15 Mar 2026 13:45:00 GMT",
-        "first_seen": "2026-03-15T08:41:15.802607"
-      },
       "2c4e78d7a0b47a76fc5664c41574e362004e7fc4543e746d26838ccc12c69833": {
         "title": "【钛晨报】央视3·15曝光7大行业乱象，涉及这些公司，监管部门火速行动；追觅预计本周发射第一颗太空算力卫星；京投发展筹划剥离地产业务，预计构成重大资产重组",
         "link": "https://www.tmtpost.com/7915027.html",
@@ -9535,6 +9523,18 @@
         "link": "https://sspai.com/post/108614",
         "published_date": "Tue, 14 Apr 2026 08:35:00 GMT",
         "first_seen": "2026-04-14T06:55:49.745082"
+      },
+      "fe0a1e490821ee6dae884c0ba9fc0fee0b0974039621f4f4c3831310cee40a28": {
+        "title": "想在国内折腾全屋 Matter？这可能是一场属于极客的「苦修」",
+        "link": "https://sspai.com/post/108005",
+        "published_date": "Tue, 14 Apr 2026 15:38:00 GMT",
+        "first_seen": "2026-04-14T09:23:59.637336"
+      },
+      "9aab58f639b8b703c3102b29d5b1e9c710765112c8e3ec9f8c45f28dd171a5a1": {
+        "title": "AI 助力 Dragonwell Native 加速：10 倍性能提升机会的自动发现实践",
+        "link": "https://www.infoq.cn/article/L15t21Z0dk1HQmxuQDmK?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 14 Apr 2026 14:58:00 GMT",
+        "first_seen": "2026-04-14T09:23:59.637345"
       }
     },
     "Finance": {
@@ -14739,15 +14739,33 @@
         "link": "https://www.marketwatch.com/story/private-credit-is-actually-built-to-survive-the-ghosts-of-the-great-financial-crisis-6eaa35d6?mod=mw_rss_topstories",
         "published_date": "Mon, 13 Apr 2026 23:54:00 GMT",
         "first_seen": "2026-04-14T06:55:49.468026"
+      },
+      "3a55864656b93244b109721866e755da2ba09b5a003d6906d86ec7e32995320f": {
+        "title": "March saw the largest increase in global energy inflation in 25 years",
+        "link": "https://www.marketwatch.com/story/march-saw-the-largest-increase-in-global-energy-inflation-in-25-years-78f1dd8b?mod=mw_rss_topstories",
+        "published_date": "Tue, 14 Apr 2026 09:04:00 GMT",
+        "first_seen": "2026-04-14T09:23:59.407027"
+      },
+      "9398ecc54180294f9a7d8d16d2c3a8dcb999ab6343ce30bd13b301738b302142": {
+        "title": "Pink buys striking Greenwich Village townhouse for $21 million: ‘A piece of New York City history’",
+        "link": "https://www.marketwatch.com/story/pink-buys-striking-greenwich-village-townhouse-for-21-million-a-piece-ofnew-yorkcity-history-92810655?mod=mw_rss_topstories",
+        "published_date": "Tue, 14 Apr 2026 09:03:00 GMT",
+        "first_seen": "2026-04-14T09:23:59.407038"
+      },
+      "ff4174cfc362078d1a178222147e2c83f39a1ad4ffbd6fe93e27d90f6a1a599b": {
+        "title": "Kenneth Cole is asking $16 million for his longtime upstate New York home once rented by George Clooney",
+        "link": "https://www.marketwatch.com/story/kenneth-cole-is-asking-16-million-for-his-longtime-upstate-new-york-home-once-rented-by-george-clooney-0575ef8e?mod=mw_rss_topstories",
+        "published_date": "Tue, 14 Apr 2026 09:01:00 GMT",
+        "first_seen": "2026-04-14T09:23:59.407041"
+      },
+      "abf004f240b855cec581711db50a7e4b54fd4c6b80fd75abc978d576664b6836": {
+        "title": "United Airlines reportedly pitched government on American Airlines deal. What a combination would look like.",
+        "link": "https://www.marketwatch.com/story/united-airlines-reportedly-pitched-government-on-american-airlines-deal-what-the-deal-would-look-like-b745939a?mod=mw_rss_topstories",
+        "published_date": "Tue, 14 Apr 2026 08:39:00 GMT",
+        "first_seen": "2026-04-14T09:23:59.407043"
       }
     },
     "Ai": {
-      "e0b048d63bae53631690ac37a3cf6a72c398cd4f1fee069ec3ef5da3404935e2": {
-        "title": "科技CEO用ChatGPT+基因数据定制癌症疫苗！肿瘤缩小50%",
-        "link": "https://www.qbitai.com/2026/03/387935.html",
-        "published_date": "Sun, 15 Mar 2026 06:06:00 GMT",
-        "first_seen": "2026-03-15T08:41:15.984376"
-      },
       "a293ffa26fcfddd91470d9326bf8d238f783bec4b297ddf75f65de8118371e54": {
         "title": "一手实测首个龙虾模型：长路径任务不失误，一人包揽全栈开发",
         "link": "https://www.qbitai.com/2026/03/388352.html",
@@ -16138,8 +16156,8 @@
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-04-14T06:55:49.745084",
-    "Finance": "2026-04-14T06:55:49.468028",
+    "Technology": "2026-04-14T09:23:59.637348",
+    "Finance": "2026-04-14T09:23:59.407046",
     "Ai": "2026-04-14T06:55:49.625627"
   }
 }
