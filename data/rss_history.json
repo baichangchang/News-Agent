@@ -2,108 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "a1c4866be93e8e763447046a869369ea0063d3a022cacd65dc3ce74f8da066df": {
-        "title": "从零基础到全栈Agents开发，这个金融级交易大赛中我摸清了哪些AI门道？",
-        "link": "https://www.tmtpost.com/7928558.html",
-        "published_date": "Wed, 25 Mar 2026 16:30:00 GMT",
-        "first_seen": "2026-03-25T08:56:07.567222"
-      },
-      "476e35a6e0a0288dc77da702ae6b31aa6eb2a88b6f5caeeac679448846464491": {
-        "title": "小米的2025：一面是海水，一面是火焰",
-        "link": "https://www.tmtpost.com/7928064.html",
-        "published_date": "Wed, 25 Mar 2026 15:49:00 GMT",
-        "first_seen": "2026-03-25T08:56:07.567231"
-      },
-      "f6391de516dc04a5f5cc7a90a478ee399582b95bf3b9050a560ff6cdfaf3579a": {
-        "title": "盈利质量全面突围，卧龙电驱迎结构性增长拐点",
-        "link": "https://www.tmtpost.com/7928114.html",
-        "published_date": "Wed, 25 Mar 2026 15:22:00 GMT",
-        "first_seen": "2026-03-25T08:56:07.567234"
-      },
-      "3165930a61b634e41e2bc13e956be0c9b6ed6c535e3cc480ca11fbf370204a59": {
-        "title": "AI进入产业融合深水区：IBM和施耐德电气的AI落地实战心法",
-        "link": "https://www.tmtpost.com/7927102.html",
-        "published_date": "Wed, 25 Mar 2026 14:52:00 GMT",
-        "first_seen": "2026-03-25T08:56:07.567235"
-      },
-      "3d9e1a139cc11d0afa4592f7178dc807e9a4d3c6fd7015fa6fb2114dc402b42f": {
-        "title": "我在酒店大堂当CEO",
-        "link": "https://www.tmtpost.com/7928218.html",
-        "published_date": "Wed, 25 Mar 2026 14:47:00 GMT",
-        "first_seen": "2026-03-25T08:56:07.567237"
-      },
-      "1ab573a77a80f5d19b27f7f3fb8b1b641b3ca1cffc16107e2989304e587e3a4a": {
-        "title": "国产人工心脏双寡头对抗",
-        "link": "https://www.tmtpost.com/7928321.html",
-        "published_date": "Wed, 25 Mar 2026 14:47:00 GMT",
-        "first_seen": "2026-03-25T08:56:07.567239"
-      },
-      "7e626b94fee14103667e6b28738443b7f13ff263c75b18d5ac65a8f2fd8a33aa": {
-        "title": "古偶是中国版K-Pop？",
-        "link": "https://www.tmtpost.com/7928290.html",
-        "published_date": "Wed, 25 Mar 2026 14:40:00 GMT",
-        "first_seen": "2026-03-25T08:56:07.567240"
-      },
-      "97ed672bc59ee2919e096ea9288cee227129c8fd0a3ec2652803c9a5b9e61ece": {
-        "title": "张雪峰走了，他的9家公司怎么办？——IP型公司的组织陷阱",
-        "link": "https://www.tmtpost.com/7928298.html",
-        "published_date": "Wed, 25 Mar 2026 14:40:00 GMT",
-        "first_seen": "2026-03-25T08:56:07.567242"
-      },
-      "d5b6a9ea658934086a919acc554cfcfeb289a70cdf7085b10b97783a524dcbfc": {
-        "title": "“龙虾”的对手来了！Claude Code Channels 的野心与启示",
-        "link": "https://www.tmtpost.com/7928506.html",
-        "published_date": "Wed, 25 Mar 2026 14:31:00 GMT",
-        "first_seen": "2026-03-25T08:56:07.567243"
-      },
-      "73d1f303a7a3797bcf143087ea751a835747914409e96d7c088292bbcb3daabd": {
-        "title": "产销链错位、保荐机构子公司入股，广泰真空遭收入跨期与内控拷问 | IPO观察",
-        "link": "https://www.tmtpost.com/7926943.html",
-        "published_date": "Wed, 25 Mar 2026 14:23:00 GMT",
-        "first_seen": "2026-03-25T08:56:07.567244"
-      },
-      "3e145d6ebd03de4ee7e72d56f2a6a5200722845992e80b739fd521c92cad5fa3": {
-        "title": "Snowflake 的 AI 驱动预测性维护 ｜ 技术实践",
-        "link": "https://www.infoq.cn/article/3LDH6Qh3yeH29hORrwbl?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 25 Mar 2026 16:22:00 GMT",
-        "first_seen": "2026-03-25T08:56:07.567246"
-      },
-      "2a0d7e69b11620daad07d997ddcde5fa90b71dcffa3d4b47af80b3cf6adea9bd": {
-        "title": "Sora关停背后：为啥它没跑成“视频版ChatGPT”？",
-        "link": "https://www.infoq.cn/article/55ia8EuUuAxA6MlqVD5D?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 25 Mar 2026 15:53:00 GMT",
-        "first_seen": "2026-03-25T08:56:07.567247"
-      },
-      "819a6a0a5d389aa6170d19359165386ba1e6f0c94f92981a44a5cde8e27923c0": {
-        "title": "Sonatype 推出 Guide，强化 AI 辅助代码生成的安全性",
-        "link": "https://www.infoq.cn/article/OTLD9IW3zMZdXMHsWD99?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 25 Mar 2026 15:00:00 GMT",
-        "first_seen": "2026-03-25T08:56:07.567249"
-      },
-      "4db19357ae1bf6d11d837ac2f8c8afc1cf4430190406fe9902011256928b2896": {
-        "title": "2026中国企业AI应用场景报告",
-        "link": "https://www.infoq.cn/minibook/4c1lsTMm8kO4XAJuYpfz?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 25 Mar 2026 14:32:00 GMT",
-        "first_seen": "2026-03-25T08:56:07.567250"
-      },
-      "cee227e3083c3606f2ed26ac47c75a8f2588acac072a15dae8cb3fa2354a2f70": {
-        "title": "养虾深水区观察：ArkClaw 的成本逻辑、玩法演进与安全边界",
-        "link": "https://www.infoq.cn/article/teJ7LpJQyEXkqMrqRYGf?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 25 Mar 2026 14:08:00 GMT",
-        "first_seen": "2026-03-25T08:56:07.567251"
-      },
-      "780f2c30790918ba4e61c6f862eb7eda4c7137a65b0e08693ef65d264bd5664e": {
-        "title": "直面「猝死」这个话题：你需要了解哪些知识？",
-        "link": "https://sspai.com/post/65228",
-        "published_date": "Wed, 25 Mar 2026 14:31:00 GMT",
-        "first_seen": "2026-03-25T08:56:07.567253"
-      },
-      "853a7897bce29cb7217daf7e53fc81788ebd5d4c3e9dc70336951c3fef9224f8": {
-        "title": "车企盯上有钱人，“9系”大战一触即发",
-        "link": "http://www.huxiu.com/article/4842768.html?f=wangzhan",
-        "published_date": "Wed, 25 Mar 2026 07:14:00 GMT",
-        "first_seen": "2026-03-25T08:56:07.567254"
-      },
       "8b33a6a7e2631b1d7ee1ab9298ed41caf3ac8d1fcf8cadf3961ca6ac356b4453": {
         "title": "【钛晨报】加快建立长期护理保险制度，中办、国办最新部署；拼多多官宣“新拼姆”方案：开启品牌自营，一期已注资150亿；SpaceX计划最早于本周提交IPO申请筹集超过750亿美元资金",
         "link": "https://www.tmtpost.com/7929223.html",
@@ -9205,21 +9103,147 @@
         "link": "https://sspai.com/post/109032",
         "published_date": "Fri, 24 Apr 2026 08:52:00 GMT",
         "first_seen": "2026-04-24T07:07:02.671275"
+      },
+      "69cc0a46da1ae9595b3400cd75b532ac6d1e34818287a10c5b0892092b7c3534": {
+        "title": "智源FlagOS完成DeepSeek-V4-Flash在八款芯片Day0适配，实现三重技术突破",
+        "link": "https://www.infoq.cn/article/ua0m0lj6zOcEI6GGge72?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 24 Apr 2026 17:29:00 GMT",
+        "first_seen": "2026-04-24T09:49:34.488805"
+      },
+      "0d41c0cad883926d73729f1a095fcfda93b766796b7d601bde4a374ae259c560": {
+        "title": "DeepSeek V4 重磅开源！首次打通华为Ascend，也没丢掉英伟达，百万上下文夺回国产模型话语权",
+        "link": "https://www.infoq.cn/article/wUUPEzvNajcaVN0k7HPF?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 24 Apr 2026 17:23:00 GMT",
+        "first_seen": "2026-04-24T09:49:34.488813"
+      },
+      "ce5db31181d2be8c336066006ba92d2f157a009bc126e34aa64e2d416d1f7dd2": {
+        "title": "李志飞的“新实验”：当超级个体撞上真实组织",
+        "link": "https://www.infoq.cn/article/qIe3dSXY72rzF85NJM4j?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 24 Apr 2026 17:20:00 GMT",
+        "first_seen": "2026-04-24T09:49:34.488815"
+      },
+      "adf73b68a85d6ab4433e3650f33bc9198bc8ec0e00adf9ff201a91aefbabc20a": {
+        "title": "GPT-5.5 登顶时刻，Anthropic 亲口承认 Claude 变笨了！网友群嘲：太敷衍",
+        "link": "https://www.infoq.cn/article/6iDjLwYiOXIVwjl4taOP?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 24 Apr 2026 17:17:00 GMT",
+        "first_seen": "2026-04-24T09:49:34.488817"
+      },
+      "2e4f9d8da6f2367542eddf837d44cd81fbbfb1b71fd628c6da74571f04f9dbf2": {
+        "title": "那些没空写的小需求，龙虾真能做吗？",
+        "link": "https://www.infoq.cn/video/WUXOyysFxiXtKcwgiafQ?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 24 Apr 2026 16:55:00 GMT",
+        "first_seen": "2026-04-24T09:49:34.488819"
+      },
+      "adec10b7edf7f5f45791a8eaf3586db7a3fe7132e5f6eca9e68ffc301afd3206": {
+        "title": "从 Pandas 到生产：使用任意 IDE 进行可扩展的 ML 数据管道与分布式处理 ｜ BUILD 2025",
+        "link": "https://www.infoq.cn/video/U9jS6r7F3UzxlBOu1XTo?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 24 Apr 2026 16:10:00 GMT",
+        "first_seen": "2026-04-24T09:49:34.488820"
+      },
+      "c3d2b2a5ea40bf9b14bc0ae535df4af5f6fd27beb757d7c500800a1cbfc50c3d": {
+        "title": "突发！代季峰与陈天桥矛盾激化，离职MiroMind真相曝光｜钛媒体独家",
+        "link": "https://www.tmtpost.com/7965984.html",
+        "published_date": "Fri, 24 Apr 2026 17:21:00 GMT",
+        "first_seen": "2026-04-24T09:49:34.488821"
+      },
+      "74aebc5c1ef7af5dd7b932c92de0e937064e9284537eb17f23404cee3dea0bc9": {
+        "title": "冲击“全球最大智驾方案供应商”头衔，赵明和千里都在赌",
+        "link": "https://www.tmtpost.com/7965748.html",
+        "published_date": "Fri, 24 Apr 2026 17:19:00 GMT",
+        "first_seen": "2026-04-24T09:49:34.488823"
+      },
+      "672858c23e81f4e79ad1f0ef928c1ca8a10350935acf32576568d88bc68d9000": {
+        "title": "罕见领涨银行股，贵阳银行“触底”了？",
+        "link": "https://www.tmtpost.com/7965032.html",
+        "published_date": "Fri, 24 Apr 2026 17:19:00 GMT",
+        "first_seen": "2026-04-24T09:49:34.488824"
+      },
+      "7b8f856d3f06487f5b069db9036efc807c44c40ad9797cb0b85b329d1eab6761": {
+        "title": "IPO前夜，云鲸开始紧急「补课」",
+        "link": "https://www.tmtpost.com/7965929.html",
+        "published_date": "Fri, 24 Apr 2026 17:19:00 GMT",
+        "first_seen": "2026-04-24T09:49:34.488826"
+      },
+      "36621c75de04f53caacea151e410ea59ce6024faebbe1d65321b1e8d224cc4d8": {
+        "title": "割草机器人增长63.8%，行业增速拐点逼近下Yarbo能否突出重围？｜出海爆品先知",
+        "link": "https://www.tmtpost.com/7966120.html",
+        "published_date": "Fri, 24 Apr 2026 17:10:00 GMT",
+        "first_seen": "2026-04-24T09:49:34.488827"
+      },
+      "4a7354ee970946bc7f12c92c9f3d2d67278bca7e665a8ef0208c9057848b6f85": {
+        "title": "具身智能数据战：群核建道场，百度铺管道，京东搭舞台",
+        "link": "https://www.tmtpost.com/7966140.html",
+        "published_date": "Fri, 24 Apr 2026 17:08:00 GMT",
+        "first_seen": "2026-04-24T09:49:34.488829"
+      },
+      "3ae40efdbcda7cd3e28b28e7e066ceb1829a6a4086df9a02057f8a343cd8d63a": {
+        "title": "DeepSeek告别“孤胆英雄”时代",
+        "link": "https://www.tmtpost.com/7966122.html",
+        "published_date": "Fri, 24 Apr 2026 17:07:00 GMT",
+        "first_seen": "2026-04-24T09:49:34.488830"
+      },
+      "92f876b3811b8723dd6fe5d479f84b7032ce3d5838caf325bf3ccf82c280447e": {
+        "title": "“手搓”应用全民化，大厂打响新一轮卡位战",
+        "link": "https://www.tmtpost.com/7966095.html",
+        "published_date": "Fri, 24 Apr 2026 17:03:00 GMT",
+        "first_seen": "2026-04-24T09:49:34.488832"
+      },
+      "d60e2ba8e53ef4db298f263222a7e4103711daab590cdc29fe837db56abb64c3": {
+        "title": "歌尔：跨过越南 “招工坑”，毛利回血、增长仍 “断档”？",
+        "link": "https://www.tmtpost.com/7966090.html",
+        "published_date": "Fri, 24 Apr 2026 17:03:00 GMT",
+        "first_seen": "2026-04-24T09:49:34.488833"
+      },
+      "a6452871ce31437f2825ef39f8d46a20c185af197bf3bcbd07b85bcb0604b933": {
+        "title": "智能驾驶行业还有一轮附加赛",
+        "link": "https://www.tmtpost.com/7966070.html",
+        "published_date": "Fri, 24 Apr 2026 17:03:00 GMT",
+        "first_seen": "2026-04-24T09:49:34.488835"
+      },
+      "b5f735bc55ee8b5e20320ccfb360c88afd6090bce2902f30a75a00283d03b466": {
+        "title": "“泰国之战”：中国汽车如何攻破日系车后花园？",
+        "link": "https://www.tmtpost.com/7966063.html",
+        "published_date": "Fri, 24 Apr 2026 17:02:00 GMT",
+        "first_seen": "2026-04-24T09:49:34.488836"
+      },
+      "7fb17238f710866d01357f22438c5802f96a3e48c25ec5679380b7e524a52b8b": {
+        "title": "天孚通信赴港IPO，光模块产业链上游深度绑定英伟达",
+        "link": "https://www.tmtpost.com/7965961.html",
+        "published_date": "Fri, 24 Apr 2026 17:02:00 GMT",
+        "first_seen": "2026-04-24T09:49:34.488837"
+      },
+      "2b6fd770034e0b72c611f8476ca538411801291db6ace1896856398e3b8a454c": {
+        "title": "实测DeepSeekV4：天下武功，唯快不破",
+        "link": "https://www.tmtpost.com/7966000.html",
+        "published_date": "Fri, 24 Apr 2026 16:56:00 GMT",
+        "first_seen": "2026-04-24T09:49:34.488838"
+      },
+      "c3b988804d1ff0e7e9d9bee3069477dd63638706a832a77323812771b9058461": {
+        "title": "滴滴、千问们的AI打车，可能找错了方向",
+        "link": "https://www.tmtpost.com/7966018.html",
+        "published_date": "Fri, 24 Apr 2026 16:56:00 GMT",
+        "first_seen": "2026-04-24T09:49:34.488840"
+      },
+      "7a782503931c8ecfb3cff19e88913fbbd3510ef47d9670d8b9c2568188b11d7d": {
+        "title": "马斯克“豪赌”Terafab：不造芯片，就没有未来",
+        "link": "https://www.tmtpost.com/7966030.html",
+        "published_date": "Fri, 24 Apr 2026 16:56:00 GMT",
+        "first_seen": "2026-04-24T09:49:34.488841"
+      },
+      "1a4cef5a4e89b6b78cbc4b5f1a3650879a66988803c18f1e5527322c34a40627": {
+        "title": "DeepSeek发布V4：1.6T参数、百万token，还要用国产算力把价格再次打下来",
+        "link": "https://www.tmtpost.com/7965919.html",
+        "published_date": "Fri, 24 Apr 2026 15:39:00 GMT",
+        "first_seen": "2026-04-24T09:49:34.488842"
+      },
+      "f1cba786a40f606bee68fbf4a3b1898ca4ccaeb0487f11498b7e838de017b355": {
+        "title": "换了新显示器怎么验？我做了一个开箱即用的全平台屏幕检测工具",
+        "link": "https://sspai.com/post/108455",
+        "published_date": "Fri, 24 Apr 2026 15:06:00 GMT",
+        "first_seen": "2026-04-24T09:49:34.488844"
       }
     },
     "Finance": {
-      "b2c841d497c2d19fcf2eaa58050e5cc13d39827081e25facd6faae66ad1ca43c": {
-        "title": "UK inflation held steady at 3% in February before energy shock",
-        "link": "https://www.ft.com/content/88372f6d-4a02-4c13-8814-0a0384b8c06b",
-        "published_date": "Wed, 25 Mar 2026 07:53:00 GMT",
-        "first_seen": "2026-03-25T08:56:07.614077"
-      },
-      "e809fe6331d9da2a5ab5b2e4d719f66e9aecee9df2d0bd59a501ee70ef92a180": {
-        "title": "What’s moving long-term interest rates?",
-        "link": "https://www.ft.com/content/f213194f-9764-4367-89c3-e157b51e41a8",
-        "published_date": "Wed, 25 Mar 2026 06:30:00 GMT",
-        "first_seen": "2026-03-25T08:56:07.614083"
-      },
       "34ebbc97297e726c259f4cf604e60b3bf45dc8d4690fa6fe029477e76de19cba": {
         "title": "Oil volatile as Iran lays out own terms to end conflict",
         "link": "https://www.ft.com/content/1d92ecc5-f810-41f3-9dc1-465acbdd9a5b",
@@ -14565,33 +14589,33 @@
         "link": "https://www.marketwatch.com/story/cheap-options-suggest-a-big-post-earnings-swing-next-week-for-these-tech-titans-d9b56126?mod=mw_rss_topstories",
         "published_date": "Fri, 24 Apr 2026 00:01:00 GMT",
         "first_seen": "2026-04-24T07:07:02.390766"
+      },
+      "e4909adc249705e6dba7f49e10c7087edfce89dee920205d94a2cb326ca3eee4": {
+        "title": "‘My child will need lifelong support’: I’m in my 40s with a $330,000 inherited retirement account. How can I grow it?",
+        "link": "https://www.marketwatch.com/story/my-child-will-need-lifelong-support-im-in-my-40s-with-a-330-000-inherited-retirement-account-how-can-i-grow-it-4fc7f64a?mod=mw_rss_topstories",
+        "published_date": "Fri, 24 Apr 2026 09:15:00 GMT",
+        "first_seen": "2026-04-24T09:49:34.238182"
+      },
+      "6371674339c7cd62d9052bc5ccc2a81bdb928c31332d7262682563ecb3c786a9": {
+        "title": "How SaaSpocalypse fears actually bolstered SAP profits by over $150 million",
+        "link": "https://www.marketwatch.com/story/how-saaspocalypse-fears-actually-bolstered-sap-profits-by-over-150-million-7c2986a2?mod=mw_rss_topstories",
+        "published_date": "Fri, 24 Apr 2026 09:14:00 GMT",
+        "first_seen": "2026-04-24T09:49:34.238193"
+      },
+      "fe0e944518b219dda3d6fa7dbed2cd033472a8833cbe52d6d421b3d77ce64359": {
+        "title": "TikTokers Savannah and Cole LaBrant pull $5.4 million Nashville mansion off the market",
+        "link": "https://www.marketwatch.com/story/tiktokers-savannah-and-cole-labrant-pull-5-4-million-nashville-mansion-off-the-market-5046862e?mod=mw_rss_topstories",
+        "published_date": "Fri, 24 Apr 2026 09:01:00 GMT",
+        "first_seen": "2026-04-24T09:49:34.238195"
+      },
+      "adb48f9e821627abe60bf881c0f39dab83cfe5240dde94a340a343307afec546": {
+        "title": "How a U.S. soldier made $400,000 from inside knowledge of Maduro capture plan — and his clumsy attempt to cover it up",
+        "link": "https://www.marketwatch.com/story/how-a-u-s-soldier-made-400-000-from-inside-knowledge-of-maduro-capture-plan-and-his-clumsy-attempt-to-cover-it-up-779b2846?mod=mw_rss_topstories",
+        "published_date": "Fri, 24 Apr 2026 08:02:00 GMT",
+        "first_seen": "2026-04-24T09:49:34.238197"
       }
     },
     "Ai": {
-      "6abb69925ff51aff4681f24107a9f3610248224cb6a08fda05845a56568f2424": {
-        "title": "DeepSeek急招Agent方向！一口气放17个岗位，重度Vibe Coding优先",
-        "link": "https://www.qbitai.com/2026/03/392024.html",
-        "published_date": "Wed, 25 Mar 2026 06:39:00 GMT",
-        "first_seen": "2026-03-25T08:56:07.775083"
-      },
-      "2fa88667f1c7a913977369cd1cb578a9d7d856492575b8d3cf523d64d8404e72": {
-        "title": "中国AI音乐，悄悄把全球第一拿走了",
-        "link": "https://www.qbitai.com/2026/03/391839.html",
-        "published_date": "Wed, 25 Mar 2026 06:36:00 GMT",
-        "first_seen": "2026-03-25T08:56:07.775090"
-      },
-      "da6e2166f1c3fae1b443b6d2717d4115d2a02468e380ec8ace68202fc42f4e45": {
-        "title": "WorkBuddy杀疯了？一群AI专家帮我打工，我在微信里当赛博虾工头！",
-        "link": "https://www.qbitai.com/2026/03/391894.html",
-        "published_date": "Wed, 25 Mar 2026 06:25:00 GMT",
-        "first_seen": "2026-03-25T08:56:07.775092"
-      },
-      "a522b3065698602d1c464e69f7edd425f5d9427393ec7915230de7b77b9641ba": {
-        "title": "首个全品类旅行skill来了！飞猪“flyai”上线ClawHub、GitHub",
-        "link": "https://www.qbitai.com/2026/03/391890.html",
-        "published_date": "Wed, 25 Mar 2026 06:20:00 GMT",
-        "first_seen": "2026-03-25T08:56:07.775094"
-      },
       "5e2089a4d3261bc0d2ed97f9a42bef0742cb4a5ccce437132cc27230607b9eb8": {
         "title": "第一批“首席龙虾官”，月薪6万",
         "link": "https://www.qbitai.com/2026/03/392128.html",
@@ -16024,8 +16048,8 @@
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-04-24T07:07:02.671277",
-    "Finance": "2026-04-24T07:07:02.390768",
+    "Technology": "2026-04-24T09:49:34.488846",
+    "Finance": "2026-04-24T09:49:34.238199",
     "Ai": "2026-04-24T07:07:02.557683"
   }
 }
