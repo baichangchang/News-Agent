@@ -1,7 +1,59 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-09 07:11
+**最后更新时间**: 2026-05-10 07:28
+
+---
+
+## 🆕 最新更新 (2026-05-10 07:28)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Hantavirus cruise ship arrives in Tenerife for evacuation](https://www.ft.com/content/b5fdd84f-69bd-47ae-bd7b-df30ba3d758c)
+**发布时间**: 2026-05-10 06:33
+
+#### [Saudi Aramco reports higher profits despite Iran war](https://www.ft.com/content/19c03559-1ed6-49bd-b2c1-98961d768f83)
+**发布时间**: 2026-05-10 06:24
+
+#### [OpenAI trial lays bare rivalries behind start-up’s $852bn rise](https://www.ft.com/content/c68bd831-434d-486c-86df-54d0369391ef)
+**发布时间**: 2026-05-10 06:00
+
+#### [More than half of US voters disapprove of Trump’s handling of economy — FT poll](https://www.ft.com/content/d08de75e-4a62-4475-9754-7f6d186f7eeb)
+**发布时间**: 2026-05-10 04:01
+
+#### [America’s right and left have perfected each other’s tricks](https://www.ft.com/content/94373104-6f15-47d9-b23d-0bcee2885eb3)
+**发布时间**: 2026-05-10 04:00
+
+#### [The ‘surname ceiling’ holding back family companies](https://www.ft.com/content/9b669f06-142a-4e5b-b75d-4e91f1c91025)
+**发布时间**: 2026-05-10 04:00
+
+#### [Germany in fresh push to buy Tomahawks after Trump row](https://www.ft.com/content/c64f6c88-36f8-4721-a201-4cd77992fa90)
+**发布时间**: 2026-05-10 04:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [The most prestigious role in AI has no job description](https://www.marketwatch.com/story/the-most-prestigious-job-in-ai-has-no-description-d517601f?mod=mw_rss_topstories)
+**发布时间**: 2026-05-10 01:32
+
+#### [I was a slave to credit-card debt, then I got laid off and turned my life around. Here’s how I did it.](https://www.marketwatch.com/story/americans-love-their-rose-colored-glasses-i-was-a-slave-to-credit-card-debt-then-i-got-laid-off-and-turned-my-life-around-32ba4d4c?mod=mw_rss_topstories)
+**发布时间**: 2026-05-09 19:25
+
+#### [These are the fastest-growing jobs for new college graduates — even in this low-hire market](https://www.marketwatch.com/story/these-are-the-fastest-growing-jobs-for-new-college-graduates-even-in-this-low-hire-market-974bf612?mod=mw_rss_topstories)
+**发布时间**: 2026-05-09 19:12
+
+#### [Just graduated? Here’s your financial cheat sheet for building real wealth.](https://www.marketwatch.com/story/just-graduated-heres-your-financial-cheat-sheet-for-building-real-wealth-963f30dc?mod=mw_rss_topstories)
+**发布时间**: 2026-05-09 19:12
+
+#### [These long-distance couples are mourning the airline America loved to hate](https://www.marketwatch.com/story/spirits-cheap-flights-kept-long-distance-relationships-alive-now-these-couples-are-scrambling-to-stay-connected-ca7e4745?mod=mw_rss_topstories)
+**发布时间**: 2026-05-09 19:11
+
+#### [As mortgage rates move up to 6.37%, is now a good time to lock in your rate?](https://www.marketwatch.com/story/is-now-a-good-time-to-lock-in-your-mortgage-rate-heres-what-to-know-68af7d76?mod=mw_rss_topstories)
+**发布时间**: 2026-05-09 19:11
+
+#### [Can one bad week ruin your retirement savings? How about three bad years?](https://www.marketwatch.com/story/is-one-bad-week-enough-to-ruin-your-retirement-savings-how-about-3-years-fbc36486?mod=mw_rss_topstories)
+**发布时间**: 2026-05-09 19:09
+
+#### [Get ready to work for 60 years — as living to 100 becomes the new norm](https://www.marketwatch.com/story/get-ready-to-work-for-60-years-as-living-to-100-becomes-the-new-norm-c8aa64d3?mod=mw_rss_topstories)
+**发布时间**: 2026-05-09 19:09
 
 ---
 
