@@ -1,7 +1,47 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-02 00:00
+**最后更新时间**: 2026-08-02 13:35
+
+---
+
+## 🆕 最新更新 (2026-08-02 13:35)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [How Apple’s cheap MacBook Neo sparked a war in budget laptops](https://www.marketwatch.com/story/how-apples-cheap-macbook-neo-sparked-a-war-in-budget-laptops-8fbaf839?mod=mw_rss_topstories)
+**发布时间**: 2026-08-02 13:00
+
+#### [Investors are rotating into financial stocks. The Fed’s next move could determine how far the rally runs.](https://www.marketwatch.com/story/investors-are-rotating-into-financial-stocks-the-feds-next-move-could-determine-how-far-the-rally-runs-662c63df?mod=mw_rss_topstories)
+**发布时间**: 2026-08-02 12:00
+
+#### [Financial stocks are crushing it. These charts show why the ‘breakout’ rally may have just begun.](https://www.marketwatch.com/story/financial-stocks-are-crushing-it-these-charts-show-why-the-breakout-rally-may-have-just-begun-6db3cc12?mod=mw_rss_topstories)
+**发布时间**: 2026-08-02 12:00
+
+#### [Why every tech giant wants to look like a cybersecurity company in the AI era](https://www.marketwatch.com/story/why-every-tech-giant-wants-to-look-like-a-cybersecurity-company-in-the-ai-era-00534525?mod=mw_rss_topstories)
+**发布时间**: 2026-08-02 11:30
+
+#### [Tim Cook’s lasting legacy: Keeping Apple’s eye on the ball](https://www.marketwatch.com/story/tim-cooks-lasting-legacy-keeping-apples-eye-on-the-ball-76521035?mod=mw_rss_topstories)
+**发布时间**: 2026-08-02 11:00
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Trump says he cancelled Iran strikes after Middle East allies’ request](https://www.ft.com/content/9cb84920-075e-4fa4-b1cb-dfc55d5845f4?syn-25a6b1a6=1)
+**发布时间**: 2026-08-02 12:28
+
+#### [‘Crush this lady’: how eBay harassment campaign led to $56mn payout](https://www.ft.com/content/06ec1b03-d4af-40cf-b12a-4ba5a410f6d2?syn-25a6b1a6=1)
+**发布时间**: 2026-08-02 12:00
+
+#### [Morgan Stanley’s IPO after-party: a wealth management bonanza](https://www.ft.com/content/3f651fa0-3362-4a16-9ac1-992291c5f68a?syn-25a6b1a6=1)
+**发布时间**: 2026-08-02 10:00
+
+#### [Iran sets the pace in war with Trump](https://www.ft.com/content/a29819ef-ffb9-4d2a-9925-e3d6e6e6e797?syn-25a6b1a6=1)
+**发布时间**: 2026-08-02 05:37
+
+#### [Apple struggles to keep pace with AI ‘bug’ hunters](https://www.ft.com/content/4532122d-90f2-4433-9df6-ca99d8a141d2?syn-25a6b1a6=1)
+**发布时间**: 2026-08-02 04:00
+
+#### [German carmakers flood jobs market with managers after wielding axe](https://www.ft.com/content/e345d51f-11f7-4d4d-8f09-86dd3a225597?syn-25a6b1a6=1)
+**发布时间**: 2026-08-02 04:00
 
 ---
 
