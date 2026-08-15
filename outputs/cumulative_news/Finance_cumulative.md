@@ -1,7 +1,18 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-15 05:29
+**最后更新时间**: 2026-08-15 08:35
+
+---
+
+## 🆕 最新更新 (2026-08-15 08:35)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Jane Street suffers $15bn hit after meltdown at Situational Awareness](https://www.ft.com/content/47dd5308-dd17-404a-a615-61046defd697?syn-25a6b1a6=1)
+**发布时间**: 2026-08-14 21:55
+
+#### [Investors pile back into US stocks as bullishness returns to Wall Street](https://www.ft.com/content/d4897d94-0d69-445a-9466-5150840c801e?syn-25a6b1a6=1)
+**发布时间**: 2026-08-14 14:35
 
 ---
 
