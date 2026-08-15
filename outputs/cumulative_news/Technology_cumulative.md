@@ -1,7 +1,93 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-14 09:11
+**最后更新时间**: 2026-08-15 05:29
+
+---
+
+## 🆕 最新更新 (2026-08-15 05:29)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [A股资本结构百强榜：谁把融资与经营放在了更稳的位置？](https://www.tmtpost.com/8104560.html)
+**发布时间**: 2026-08-15 13:07
+
+#### [价值判断：跌停板的投资机会和风险提示（8月14日）｜上市公司观察](https://www.tmtpost.com/8104554.html)
+**发布时间**: 2026-08-15 13:07
+
+#### [价值判断：涨停板的投资机会和风险提示（8月14日）｜上市公司观察](https://www.tmtpost.com/8104548.html)
+**发布时间**: 2026-08-15 13:07
+
+#### [杨健：中国A股市场治理的核心矛盾与改革路径](https://www.tmtpost.com/8104541.html)
+**发布时间**: 2026-08-15 13:06
+
+#### [20%入股内地保险中介，“小超人”李泽楷背后的资本帝国](https://www.tmtpost.com/8104124.html)
+**发布时间**: 2026-08-15 12:37
+
+#### [站稳4000亿港元市值，联想的AI叙事被低估了吗](https://www.tmtpost.com/8104376.html)
+**发布时间**: 2026-08-15 12:31
+
+#### [1300亿检验市场，等来了一把「减收」的尺子](https://www.tmtpost.com/8104019.html)
+**发布时间**: 2026-08-15 11:37
+
+#### [算力已成硬通货：腾讯528亿抢的到底是什么](https://www.tmtpost.com/8104215.html)
+**发布时间**: 2026-08-15 11:26
+
+#### [张一鸣的10万亿参数大模型：还能跑赢时间吗？](https://www.tmtpost.com/8104495.html)
+**发布时间**: 2026-08-15 11:26
+
+#### [钶锐锶：应收增速跑赢营收，盈利质量走弱，资金链“富裕”仍募资补血｜IPO观察](https://www.tmtpost.com/8103298.html)
+**发布时间**: 2026-08-15 10:59
+
+#### [宏和科技苍溪6亿扩产项目叫停：厚布内卷下的急刹车与高端加码](https://www.tmtpost.com/8104285.html)
+**发布时间**: 2026-08-15 10:57
+
+#### [重新思考「规模优先」](https://www.tmtpost.com/8104146.html)
+**发布时间**: 2026-08-15 10:36
+
+#### [实测GLM-5.3：同一个模型，为什么会像两个AI？](https://www.tmtpost.com/8104309.html)
+**发布时间**: 2026-08-15 10:27
+
+#### [手机为什么越卖越贵了？](https://www.tmtpost.com/8104145.html)
+**发布时间**: 2026-08-15 10:06
+
+#### [阿克曼持仓动向搅动盘面，5只标的因他产生明显行情](https://www.tmtpost.com/8104485.html)
+**发布时间**: 2026-08-15 09:57
+
+#### [赚得越多，亏得越狠：CoreWeave财报背后的AI算力重资产困局](https://www.tmtpost.com/8104480.html)
+**发布时间**: 2026-08-15 09:54
+
+#### [AI真能替你订房改签了，你敢把账号交给它吗？](https://www.tmtpost.com/8104085.html)
+**发布时间**: 2026-08-15 09:03
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [面向多模态推理的高效长上下文建模｜AICon深圳](https://www.infoq.cn/article/OgbViICigja8tasE0lwi?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-15 10:00
+
+#### [33%增速、126%留存：Snowflake 用一份财报，把“AI落地难”讲成了印钞机故事](https://www.infoq.cn/article/55mbodVKkHgiHYqfqkFG?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-15 00:19
+
+#### [Gemini 3.7 Flash 突袭：性能逼近旗舰、价格打“骨折”！！DeepMind新帅重画性价比斩杀线](https://www.infoq.cn/article/plZY01etBHv3ETOYG0af?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-15 00:01
+
+#### [AI 圈上演神级互撕！Codex、Claude Code 两位负责人公开对喷](https://www.infoq.cn/article/YWXm26HRwC9ySEGZ9Lpp?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-14 23:41
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [智谱发布 GLM-5.3，编程能力更强；传苹果训练国内专用 AI 模型；微信：朋友圈现在、过去、未来都不会有二次编辑功能 | 极客早知道](http://www.geekpark.net/news/368849)
+**发布时间**: 2026-08-15 08:52
+
+#### [这家靠全景起步的公司，正在逐步让用户「忘掉相机」](http://www.geekpark.net/news/368847)
+**发布时间**: 2026-08-14 18:44
+
+#### [阿里云，接得住中国智驾吗？](http://www.geekpark.net/news/368846)
+**发布时间**: 2026-08-14 18:02
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/113459)
+**发布时间**: 2026-08-14 17:50
 
 ---
 

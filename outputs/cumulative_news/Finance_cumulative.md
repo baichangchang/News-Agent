@@ -1,7 +1,65 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-14 09:11
+**最后更新时间**: 2026-08-15 05:29
+
+---
+
+## 🆕 最新更新 (2026-08-15 05:29)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [OpenAI upheaval mounts as Sam Altman readies IPO push](https://www.ft.com/content/53082739-7714-4aae-9816-e55ab423cbee?syn-25a6b1a6=1)
+**发布时间**: 2026-08-15 04:00
+
+#### [America’s AI election](https://www.ft.com/content/5f8858b8-7468-4438-b269-e1b1947b1926)
+**发布时间**: 2026-08-15 04:00
+
+#### [Which is the next No 1 city on Earth?](https://www.ft.com/content/17cd713d-3db1-422b-adef-58b45ad7e50f?syn-25a6b1a6=1)
+**发布时间**: 2026-08-15 04:00
+
+#### [Traders are spoiling for a fight over the yen](https://www.ft.com/content/543b1ab2-6203-412d-ae3b-f4439d1e9d47?syn-25a6b1a6=1)
+**发布时间**: 2026-08-15 04:00
+
+#### [Geneva super-rich rocked by luxury home burglary spree](https://www.ft.com/content/c0d1c0ce-96c0-4824-a211-139acbddd200?syn-25a6b1a6=1)
+**发布时间**: 2026-08-15 04:00
+
+#### [China poised to lift travel ban on Manus founders](https://www.ft.com/content/fa479d50-7c79-4b6d-99c3-3830e37c1503?syn-25a6b1a6=1)
+**发布时间**: 2026-08-15 04:00
+
+#### [Nvidia discloses $21bn stake in SpaceX](https://www.ft.com/content/6f66a76d-0b2d-4301-886c-87ecc046731b?syn-25a6b1a6=1)
+**发布时间**: 2026-08-14 22:28
+
+#### [Former Cambridge professor Jason Arday found dead](https://www.ft.com/content/ed316b14-6cea-4b8d-a358-f2a33cd083da?syn-25a6b1a6=1)
+**发布时间**: 2026-08-14 21:24
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Berkshire Hathaway doubles down on the U.S. housing market with a fresh bet on this stock](https://www.marketwatch.com/story/berkshire-hathaway-doubles-down-on-the-u-s-housing-market-with-a-fresh-bet-on-this-stock-e5c8484a?mod=mw_rss_topstories)
+**发布时间**: 2026-08-14 21:34
+
+#### [16 beaten-down AI stocks that are beloved by BofA analysts](https://www.marketwatch.com/story/16-beaten-down-ai-stocks-that-are-beloved-by-bofa-analysts-3423dab2?mod=mw_rss_topstories)
+**发布时间**: 2026-08-14 19:09
+
+#### [Parents putting money in ‘Trump accounts’ could get a $2,500 tax break. Here’s how.](https://www.marketwatch.com/story/parents-putting-money-in-trump-accounts-could-get-a-2-500-tax-break-heres-how-fb6fb2f7?mod=mw_rss_topstories)
+**发布时间**: 2026-08-14 18:51
+
+#### [A plan to save Social Security involves high earners paying more in taxes — without getting more in benefits](https://www.marketwatch.com/story/a-plan-to-save-social-security-involves-wealthy-people-paying-more-without-getting-an-increase-in-benefits-f9d70307?mod=mw_rss_topstories)
+**发布时间**: 2026-08-14 18:47
+
+#### [Congress changed the rules around charitable giving. You’ll now save more money if you donate earlier in the year.](https://www.marketwatch.com/story/congress-changed-the-rules-around-charitable-giving-do-it-earlier-in-the-year-to-save-money-392e5de3?mod=mw_rss_topstories)
+**发布时间**: 2026-08-14 18:45
+
+#### [Sandisk’s stock has rebounded nearly 35% this week. This is the latest catalyst.](https://www.marketwatch.com/story/sandisks-stock-is-extending-its-major-rebound-this-is-the-latest-spark-69898f46?mod=mw_rss_topstories)
+**发布时间**: 2026-08-14 18:24
+
+#### [I have a 9-to-5 job and started dating a bartender. Can I have a future with someone who works nights?](https://www.marketwatch.com/story/i-have-a-9-to-5-job-and-started-dating-a-bartender-can-i-have-a-future-with-someone-who-works-nights-500d4320?mod=mw_rss_topstories)
+**发布时间**: 2026-08-14 18:01
+
+#### [Think interest rates are high now? These charts offers a different perspective.](https://www.marketwatch.com/story/think-interest-rates-are-high-now-these-charts-offers-a-different-perspective-ae5f28c6?mod=mw_rss_topstories)
+**发布时间**: 2026-08-14 17:51
+
+#### [Luigi Mangione pleads guilty in federal court to stalking health-insurance CEO](https://www.marketwatch.com/story/luigi-mangione-pleads-guilty-to-stalking-health-insurance-ceo-in-federal-court-d941ce3f?mod=mw_rss_topstories)
+**发布时间**: 2026-08-14 17:40
 
 ---
 
