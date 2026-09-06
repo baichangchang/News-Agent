@@ -1,7 +1,281 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-07 09:02
+**最后更新时间**: 2026-09-06 23:39
+
+---
+
+## 🆕 最新更新 (2026-09-06 23:39)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [【钛晨报】共增资3600亿元！8家中央金融企业拟补充资本，财政部将发行特别国债支持；紫金矿业就财报出错致歉；耐克首次遭标普100“开除”](https://www.tmtpost.com/8130184.html)
+**发布时间**: 2026-09-07 07:20
+
+#### [Cybercab刚上路就被查，特斯拉把无人车开进了法规盲区](https://www.tmtpost.com/8130213.html)
+**发布时间**: 2026-09-06 20:46
+
+#### [从精密技术到行业与机器人，爱普生正在重新给技术“定价”](https://www.tmtpost.com/8129869.html)
+**发布时间**: 2026-09-06 18:50
+
+#### [美团守城，快手攻擂：港股互联网盈利韧性大考](https://www.tmtpost.com/8130102.html)
+**发布时间**: 2026-09-06 17:30
+
+#### [计划-执行-反馈的闭环：我如何在千亿级制造企业打造物理AI](https://www.tmtpost.com/8129811.html)
+**发布时间**: 2026-09-06 16:35
+
+#### [Token上架天猫，智谱在盘算什么？](https://www.tmtpost.com/8130024.html)
+**发布时间**: 2026-09-06 16:35
+
+#### [2026动力电池新叙事：电驱万物，AI赋能，固态仍需耐心丨行业风向标](https://www.tmtpost.com/8129971.html)
+**发布时间**: 2026-09-06 12:40
+
+#### [OpenAI 称年底实现 AGI：藏起思考的模型，和它背后的资本之争](https://www.tmtpost.com/8129268.html)
+**发布时间**: 2026-09-06 11:57
+
+#### [男频剧，还在奥德赛的海上漂着](https://www.tmtpost.com/8129947.html)
+**发布时间**: 2026-09-06 11:25
+
+#### [AI时代，年轻人正在“忘记”打字](https://www.tmtpost.com/8129736.html)
+**发布时间**: 2026-09-06 11:22
+
+#### [AGI来没来不好说，但GPT-6真把Token省下来了](https://www.tmtpost.com/8129798.html)
+**发布时间**: 2026-09-06 11:22
+
+#### [银行“抢着借钱”，字节贷款近2000亿搞AI？](https://www.tmtpost.com/8129806.html)
+**发布时间**: 2026-09-06 11:22
+
+#### [AI时代，最稀缺的不是知识，而是系统思维](https://www.tmtpost.com/8082672.html)
+**发布时间**: 2026-09-06 10:41
+
+#### [车企的焦虑，都在押注机器人](https://www.tmtpost.com/8129734.html)
+**发布时间**: 2026-09-06 10:33
+
+#### [宇树上市后的“冰火两重天”](https://www.tmtpost.com/8129676.html)
+**发布时间**: 2026-09-06 10:03
+
+#### [中国大模型简史02：一张突然值钱的船票](https://www.tmtpost.com/8129912.html)
+**发布时间**: 2026-09-06 10:03
+
+#### [公募基金市场近期关注](https://www.tmtpost.com/8129899.html)
+**发布时间**: 2026-09-06 09:13
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [微软 Foundry 模型路由扩容：覆盖区域增至 28 个，更新模型池](https://www.infoq.cn/article/ba7Tq1EZbAD6JEzG16uE?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-06 15:10
+
+#### [FlexGanttFX 正式开源](https://www.infoq.cn/article/BLyA80LXfvGII85FGmw8?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-06 11:24
+
+#### [蓝牙耳机总断连？开发者顺藤摸瓜，竟发现阿里全球速卖通在“播放静音”](https://www.infoq.cn/article/ufMvEqDPiwm92btRahrP?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-06 09:15
+
+#### [RTX 4060 跑 35B 模型，每秒 39 Token？伯克利、MIT 联手开源 FreeToken](https://www.infoq.cn/article/tij5T0vJ1Yk0s7Uov7SE?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-05 17:00
+
+#### [Uber GitFarm：面向大规模单体代码库的 Git 即服务平台](https://www.infoq.cn/article/3M4uYzNDWiLX6BR9RXwy?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-05 11:17
+
+#### [Meta 拓展自研芯片战略：从计算领域延伸至网络领域](https://www.infoq.cn/article/bSxsIYqjExqDh8eO2kwL?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-05 09:56
+
+#### [鸿蒙 AI Coding 的研发新范式与工程实践](https://www.infoq.cn/article/4C4RQUGPhAXgcx8G64ab?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-04 22:18
+
+#### [Spring Boot 中的后量子密码学：一个冲刺周期内即可交付的四种模式](https://www.infoq.cn/article/hWQs9a123hhtDYtk0ADQ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-04 17:23
+
+#### [Cloudflare Wallets 迟来入局 x402：支出控制仅能约束单笔支付](https://www.infoq.cn/article/B5bNUx3GzrUZGvDmBbFi?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-04 15:09
+
+#### [GPT-6 Astra 正式登场：烧了 10万块 GPU、多项跑分逼近满分，OpenAI 开启“AGI时代”](https://www.infoq.cn/article/mKGb7ZiPRlAiFDZCWK0v?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-04 13:00
+
+#### [让测试更加绿色可持续](https://www.infoq.cn/article/m9DBSRgv8grSQ9NkY6rS?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-04 13:00
+
+#### [Astro 推出 Sätteri：Rust 驱动的 Markdown 与 MDX 处理器，构建速度最高提升 60%](https://www.infoq.cn/article/s1MDWGIV7yoxkCXmWJx8?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-04 11:20
+
+#### [AI 浪潮里，听见一线的声音｜AICon 深圳 2026 优秀出品人 & 明星讲师名单揭晓](https://www.infoq.cn/article/6EYVBX5UD2Cb0PWYsPCq?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-04 11:11
+
+#### [人人都能整个“自己的DeepSeek Harness”，那我们为啥还在给Claude Code们充会员？](https://www.infoq.cn/article/6Jc130IN2OaXqsPDIzmJ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-04 10:22
+
+#### [“美国大豆包”Gemini翻身：输出速度碾压同行、智能水平重回第一梯队](https://www.infoq.cn/article/M792kCZ4FIzk7YHe4WhT?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-04 10:16
+
+#### [向总决赛进发｜GOAI复赛评审正式启动](https://www.infoq.cn/article/bOI6y8Tdr714CWa5CcxR?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-04 10:14
+
+#### [谷歌云发布 AI 智能体，简化数据库生命周期管理](https://www.infoq.cn/article/iV0rsPyO5XZDJ7797hLJ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-04 09:21
+
+#### [当 Agent 走出 App：WorkBuddy 的朋友圈开始向外生长](https://www.infoq.cn/article/vogOaCpOeNfe0hjAXfzy?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-03 21:19
+
+#### [从内部 Side Project 到 3.9 万开发者使用，Kiro Crew 创造者亲述开发幕后](https://www.infoq.cn/article/hcQKK8OIfwlMKw2zQSS9?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-03 17:54
+
+#### [当Agent开始“吃数据”，传统湖仓不够用了：华为云重构数据基础设施](https://www.infoq.cn/article/IE4CYYwbLYYKSbg7lXfx?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-03 17:19
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [让 Apple Watch 记录的每一趟游泳数据更有意义：即刻游](https://sspai.com/post/114076)
+**发布时间**: 2026-09-06 15:00
+
+#### [最值得买的顶级公路车？TREK 八代 Madone 评测](https://sspai.com/post/114040)
+**发布时间**: 2026-09-05 16:00
+
+#### [本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/114175)
+**发布时间**: 2026-09-04 17:32
+
+#### [新学期，新气象：正版软件 & 付费栏目限时优惠](https://sspai.com/post/114110)
+**发布时间**: 2026-09-04 15:11
+
+#### [开学季 | 超级闹钟、算教学周、统计作业：三条快捷指令让学校生活轻松一点](https://sspai.com/post/114117)
+**发布时间**: 2026-09-04 15:01
+
+#### [在 16:10 屏幕普及的当下，聊聊那台最后的 4:3 版 ThinkPad T61p](https://sspai.com/post/113990)
+**发布时间**: 2026-09-04 11:25
+
+#### [派早报：OpenAI 发布 GPT-6 Astra 模型、Meta 发布 Muse Spark 1.3 模型等](https://sspai.com/post/114164)
+**发布时间**: 2026-09-04 08:47
+
+#### [新玩意 251｜少数派的编辑们最近买了啥？](https://sspai.com/post/114154)
+**发布时间**: 2026-09-03 18:18
+
+#### [TDS REVIEW | 无印良品 MUJI 头戴式蓝牙降噪耳机体验](https://sspai.com/post/113998)
+**发布时间**: 2026-09-03 15:00
+
+#### [当说起「Hi-Fi」时，我们到底在追求什么？](https://sspai.com/post/113159)
+**发布时间**: 2026-09-03 11:32
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [GPT-6 Astra 上线 24 小时，看看外网爆火的惊艳玩法。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247536681&idx=1&sn=3a1f8bf1b30e903324f0eb11a3d7ed8f)
+**发布时间**: 2026-09-06 14:34
+
+#### [盘点本周 TOP 14 的 GitHub 开源项目，看看能用到哪些。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247536562&idx=1&sn=9a8a6c9921b1c1b4b00ef60b32790354)
+**发布时间**: 2026-09-05 13:42
+
+#### [今天推荐点别的，5 个 GitHub 上开源的英语学习神器。。。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247536438&idx=1&sn=5b4b3820b7042c8e94b969f521764b1a)
+**发布时间**: 2026-09-03 14:07
+
+#### [分享 2 个刚开源的数据集，一个是健身动作，一个是 CAD。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247536423&idx=1&sn=61f2af2610389840ab999a5efdab5214)
+**发布时间**: 2026-09-02 15:11
+
+#### [8 月 GitHub 上最火开源项目出炉了，AI Agent 确实占了大半。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247536415&idx=1&sn=edef88ceed6b02403b64214c402aea32)
+**发布时间**: 2026-09-01 00:16
+
+#### [腾讯混元 Hy4 preview 发布了，站上开源模型第一梯队。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247536414&idx=1&sn=1e93e0621638b9b14682328a890b63e6)
+**发布时间**: 2026-08-31 10:54
+
+#### [GitHub 上 2.5 万星星的开源 Skill 让 AI 画出漂亮图表。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247536259&idx=1&sn=76854c4497eb2738decab0294cb4a149)
+**发布时间**: 2026-08-29 11:50
+
+#### [把这个国产神器接入你的 Codex 或 Claude Code，图片秒变 3D 模型。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247536215&idx=1&sn=d976d62492d54b38f0195aaf9848b486)
+**发布时间**: 2026-08-27 14:30
+
+#### [GitHub 有一个 3D 人体器官网站火了，看看怎么用 AI 做出来的。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247536181&idx=1&sn=29483fe8bc17c5e653f6395d0e6647c6)
+**发布时间**: 2026-08-26 11:59
+
+#### [用下这 3 个 GitHub 上的超精简 Skill，内容只有几句话，却很好用。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247536168&idx=1&sn=3b28f7bc3a53dc9183ff4d8940a12761)
+**发布时间**: 2026-08-25 11:23
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [传 iPhone 18 Pro 仅涨价 100 美元；Kimi、MiniMax 将在天猫开店；OpenAI 回应 Agent 攻击德国网站](http://www.geekpark.net/news/369875)
+**发布时间**: 2026-09-06 08:06
+
+#### [互联网最古老的恐惧，被 AI 复活了](http://www.geekpark.net/news/369873)
+**发布时间**: 2026-09-05 12:59
+
+#### [传玛莎拉蒂和华为+江淮合作开发电动车；苹果最大新品阵容时代开启；人人影视回归，终身 VIP 888 元](http://www.geekpark.net/news/369871)
+**发布时间**: 2026-09-05 08:24
+
+#### [对话 Sharpa 李一帆：通用机器人要么全能，要么无能](http://www.geekpark.net/news/369851)
+**发布时间**: 2026-09-04 16:37
+
+#### [梅卡曼德上市，具身智能又跑出一家百亿公司](http://www.geekpark.net/news/369850)
+**发布时间**: 2026-09-04 16:33
+
+#### [OpenAI 曝光 GPT-6，能力超群；微信公关总监回应「好友超 1 万可查看单删好友」；联合国：超强而厄尔尼诺将冲击全球经济 ｜ 极客早知道](http://www.geekpark.net/news/369801)
+**发布时间**: 2026-09-04 08:25
+
+#### [GPT-6 曝光， OpenAI 总裁说：AGI 来了](http://www.geekpark.net/news/369800)
+**发布时间**: 2026-09-04 06:48
+
+#### [逛完 WRC，我们发现机器人行业最该回答的 5 个问题](http://www.geekpark.net/news/369388)
+**发布时间**: 2026-09-03 23:25
+
+#### [成立不到一年连融三轮，这个睡眠 AI 产品「火」了](http://www.geekpark.net/news/369768)
+**发布时间**: 2026-09-03 14:05
+
+#### [智谱和 MiniMax，把大模型做成了两种生意](http://www.geekpark.net/news/369775)
+**发布时间**: 2026-09-03 13:54
+
+#### [当 AI 开始理解「人不是标签」：阿里妈妈如何重构广告定向](http://www.geekpark.net/news/369777)
+**发布时间**: 2026-09-03 13:30
+
+#### [AI 下一场竞争：谁能成为 Agent 的「上下文操作系统」](http://www.geekpark.net/news/369767)
+**发布时间**: 2026-09-03 12:52
+
+#### [马斯克：火箭再炸一次，SpaceX 就没了；小米「阔折叠」全球首秀；豆包工作支持多 Agent 和屏幕操作 | 极客早知道](http://www.geekpark.net/news/369745)
+**发布时间**: 2026-09-03 08:03
+
+#### [对话黄青虬：成立半年估值 70 亿，阿里腾讯联投，交出了能「长程执行」的第一个自研模型](http://www.geekpark.net/news/369724)
+**发布时间**: 2026-09-02 14:59
+
+#### [从几百元，涨到一万元，婴儿床正在被「具身智能」重新定价](http://www.geekpark.net/news/369719)
+**发布时间**: 2026-09-02 14:54
+
+#### [硬件加强版「WorkBuddy」，拿下数亿融资，瞄向你的终极上下文](http://www.geekpark.net/news/369718)
+**发布时间**: 2026-09-02 14:49
+
+#### [苹果新 CEO 首次「发声」；网传抖音发生「推荐算法错乱」；Claude Fable 5.1 正式上线](http://www.geekpark.net/news/369690)
+**发布时间**: 2026-09-02 08:13
+
+#### [库克告别苹果 CEO；罗永浩官宣年底科技大会；华为、小米、荣耀手机今日集体调价｜极客早知道](http://www.geekpark.net/news/369634)
+**发布时间**: 2026-09-01 08:20
+
+#### [流量红利退潮，快手想用 AI 和老友们破局](http://www.geekpark.net/news/369631)
+**发布时间**: 2026-08-31 20:01
+
+#### [AirPods 5 或将于 9 月发布；17.6 万，特斯拉港澳车型降价；「网抑云」登陆鸿蒙系统｜极客早知道](http://www.geekpark.net/news/369559)
+**发布时间**: 2026-08-31 16:40
+
+#### [OpenAI 内部，AI 建立了三代「文明」](http://www.geekpark.net/news/369610)
+**发布时间**: 2026-08-31 15:16
+
+#### [人类，越来越难理解 AI](http://www.geekpark.net/news/369609)
+**发布时间**: 2026-08-31 15:12
+
+#### [399 美元的小黄鸭，藏着 Hugging Face 最大的野心](http://www.geekpark.net/news/369608)
+**发布时间**: 2026-08-31 15:09
+
+#### [编辑部来了 AI 实习生｜千问入职 20 天，我给它写了一份实习小结](http://www.geekpark.net/news/369517)
+**发布时间**: 2026-08-31 09:14
+
+#### [折叠屏的尽头，是不折叠：华为 Pura X View 体验](http://www.geekpark.net/news/369558)
+**发布时间**: 2026-08-31 04:25
+
+#### [造物 100 #04｜AI 为爱做「鸭」、PLAUD 又推新作、字节 TRAE 造了个数字工牌](http://www.geekpark.net/news/369556)
+**发布时间**: 2026-08-30 18:58
+
+#### [OpenAI 芯片实测跑分揭晓，「为模型造芯片」时代来了](http://www.geekpark.net/news/369555)
+**发布时间**: 2026-08-30 18:53
+
+#### [OpenAI 终止与 Cursor 合作；雷军：2600名小米车主行程超 10 万公里；华纳与索尼起诉 Anthropic，索赔数十亿美元](http://www.geekpark.net/news/369551)
+**发布时间**: 2026-08-30 08:28
+
+#### [腾讯重金投入 AI 之后，混元 Hy4 preview 交出了什么答卷](http://www.geekpark.net/news/369550)
+**发布时间**: 2026-08-29 13:58
+
+#### [Anthropic 将发招股书，预计募资 1300 亿美元超越 SpaceX；腾讯发布 HY4 preview 模型；科隆游戏展多个展位失窃](http://www.geekpark.net/news/369549)
+**发布时间**: 2026-08-29 08:32
 
 ---
 

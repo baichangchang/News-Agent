@@ -1,7 +1,74 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-07 09:02
+**最后更新时间**: 2026-09-06 23:39
+
+---
+
+## 🆕 最新更新 (2026-09-06 23:39)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Five killed as Amazon cargo plane overshoots runway in Miami](https://www.ft.com/content/8077447c-b7db-4854-ba42-d2fb0dc65c76?syn-25a6b1a6=1)
+**发布时间**: 2026-09-06 23:05
+
+#### [Far-right AfD surges to first place in German state elections](https://www.ft.com/content/a0229455-1822-4de8-ad2f-7453577d95cd?syn-25a6b1a6=1)
+**发布时间**: 2026-09-06 22:06
+
+#### [Germany’s Merz on the ropes after far right delivers devastating blow](https://www.ft.com/content/48e7b92b-affc-4fd0-8de1-ae8765e5c799?syn-25a6b1a6=1)
+**发布时间**: 2026-09-06 21:53
+
+#### [Europe failing to deter Russia’s ‘hybrid’ war, warn defence officials](https://www.ft.com/content/83e08169-69b5-4997-9bf0-e0622e752eda?syn-25a6b1a6=1)
+**发布时间**: 2026-09-06 20:00
+
+#### [Trump envoys hold talks with Zelenskyy in Kyiv after meeting Putin in Moscow](https://www.ft.com/content/1e2d9db0-cb2c-4c79-942b-f0aff960e4c5?syn-25a6b1a6=1)
+**发布时间**: 2026-09-06 17:46
+
+#### [Starting gun fired on autumn election campaign season](https://www.ft.com/content/a69af29e-b2c1-48cf-a6f7-c1f68c141785?syn-25a6b1a6=1)
+**发布时间**: 2026-09-06 17:15
+
+#### [Pete Hegseth’s Pentagon purge](https://www.ft.com/content/6ea98322-96a3-408a-87e4-eb5e4eb05b52)
+**发布时间**: 2026-09-06 13:35
+
+#### [European SpaceX rival launches rocket into orbit](https://www.ft.com/content/fb5be0ff-5a5c-4006-98c5-2ddcfa3c1175?syn-25a6b1a6=1)
+**发布时间**: 2026-09-06 11:03
+
+#### [Trump’s approval rating falls to lowest yet in FT poll](https://www.ft.com/content/9bcce1fa-997e-49f2-9530-f1255e4cb28b?syn-25a6b1a6=1)
+**发布时间**: 2026-09-06 04:01
+
+#### [Iceland’s ‘no’ exposes EU complacency](https://www.ft.com/content/646c7152-a720-4ef9-8b84-e37188b9a8f4?syn-25a6b1a6=1)
+**发布时间**: 2026-09-06 04:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘I currently give him $1,000 a month’: My grandson has severe mental illness. How do I protect him after I’m gone?](https://www.marketwatch.com/story/im-desperately-trying-to-plan-ahead-im-leaving-everything-to-my-grandson-who-has-severe-mental-illness-how-can-i-protect-him-d8df2646?mod=mw_rss_topstories)
+**发布时间**: 2026-09-06 21:30
+
+#### [‘It’s not fair’: My twin brother and I were left houses by our parents. Can I make him pay his share for taxes and upkeep?](https://www.marketwatch.com/story/its-not-fair-my-twin-brother-and-i-were-left-houses-by-our-parents-can-i-make-him-pay-his-share-for-taxes-and-upkeep-43feb780?mod=mw_rss_topstories)
+**发布时间**: 2026-09-06 21:00
+
+#### [My wife and I are in our 70s. Should we move to California and take on a bigger mortgage to be near our kids?](https://www.marketwatch.com/story/my-wife-and-i-are-in-our-70s-should-we-move-to-california-and-take-on-a-bigger-mortgage-to-be-near-our-kids-1d619084?mod=mw_rss_topstories)
+**发布时间**: 2026-09-06 20:00
+
+#### [‘Poverty doesn’t have to be my reality’: I thought I’d have to rely on Social Security. Then I taught myself how to invest.](https://www.marketwatch.com/story/i-didnt-know-what-i-didnt-know-i-thought-id-have-to-depend-on-social-security-then-i-taught-myself-how-to-invest-0129870b?mod=mw_rss_topstories)
+**发布时间**: 2026-09-06 20:00
+
+#### [Why does almost nobody want to befriend older people like me — except scammers?](https://www.marketwatch.com/story/why-does-almost-nobody-want-to-befriend-older-people-like-me-except-scammers-fda849d1?mod=mw_rss_topstories)
+**发布时间**: 2026-09-06 19:45
+
+#### [‘I’m leaving money on the table’: I’m 64 and my husband is 70. Should I take spousal benefits or wait for my own?](https://www.marketwatch.com/story/im-leaving-money-on-the-table-im-64-and-my-husband-is-70-should-i-take-spousal-benefits-or-wait-for-my-own-2490f5cd?mod=mw_rss_topstories)
+**发布时间**: 2026-09-06 13:15
+
+#### [Is the U.S. losing its safe-haven status? Why global central banks are pulling gold out of New York.](https://www.marketwatch.com/story/is-the-u-s-losing-its-safe-haven-status-why-global-central-banks-are-pulling-gold-out-of-new-york-3e24d510?mod=mw_rss_topstories)
+**发布时间**: 2026-09-06 13:00
+
+#### [We’re in our 60s. We earn $345,000 and have $1 million in 403(b)s. Is it too late for Roth conversions?](https://www.marketwatch.com/story/were-in-our-60s-my-wife-and-i-have-345-000-in-annual-pensions-and-1-million-in-403-b-s-is-it-too-late-for-roth-conversions-5df35d42?mod=mw_rss_topstories)
+**发布时间**: 2026-09-06 12:55
+
+#### [Think you maxed out your 401(k)? The real limit is actually almost $50,000 higher.](https://www.marketwatch.com/story/think-you-maxed-out-your-401-k-the-real-limit-is-actually-almost-50-000-higher-217a89ee?mod=mw_rss_topstories)
+**发布时间**: 2026-09-05 18:59
+
+#### [Will a data center hurt your home’s value? Research says no. Sellers disagree.](https://www.marketwatch.com/story/will-a-data-center-hurt-your-homes-value-research-says-no-sellers-disagree-7017ace4?mod=mw_rss_topstories)
+**发布时间**: 2026-09-05 18:42
 
 ---
 

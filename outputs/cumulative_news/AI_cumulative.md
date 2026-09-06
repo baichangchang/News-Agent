@@ -1,7 +1,404 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-08-07 09:00
+**最后更新时间**: 2026-09-06 23:36
+
+---
+
+## 🆕 最新更新 (2026-09-06 23:36)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [3000万用户、过半是企业，千问办公靠什么拿下B端？](https://www.leiphone.com/category/industrynews/kaQUKRRyiIqho1m2.html)
+**发布时间**: 2026-09-06 21:10
+
+#### [首驱启动首批2000台核心车型排产，优先保障重点门店补货](https://www.leiphone.com/category/industrynews/eiGJgVh8lKALishI.html)
+**发布时间**: 2026-09-05 16:56
+
+#### [首驱科技启动核心车型滚动交付，渠道经营转向质量提升](https://www.leiphone.com/category/industrynews/x53v3PlEDPcUKF3V.html)
+**发布时间**: 2026-09-05 16:53
+
+#### [追觅百余款产品亮相IFA：覆盖16个品类，6款产品获国际奖项](https://www.leiphone.com/category/industrynews/XNJJff9rFB30oDEH.html)
+**发布时间**: 2026-09-05 10:35
+
+#### [理想汽车26.5亿元增资欣旺达动力，电池自研战略再落一子](https://www.leiphone.com/category/industrynews/j6pAp3LhwmFqVvUW.html)
+**发布时间**: 2026-09-04 21:50
+
+#### [打穿 AI 智商测试！GPT-6 Astra 的符号世界模型，是突破还是钞能力刷分？](https://www.leiphone.com/category/yanxishe/FQUliuw9lt15UH54.html)
+**发布时间**: 2026-09-04 19:07
+
+#### [谁在为人形机器人铺「全开源生态」？](https://www.leiphone.com/category/academic/P00P7aQceC56Vz5r.html)
+**发布时间**: 2026-09-04 18:32
+
+#### [全生态物理 AI 落地，小米的主场攻防战](https://www.leiphone.com/category/robot/e96zyiLA9MYshHvY.html)
+**发布时间**: 2026-09-04 17:57
+
+#### [完成4000万美金融资，ACE成为AI音乐赛道融资额最高的华人团队](https://www.leiphone.com/category/industrynews/iaMeof0D4sd0DFB2.html)
+**发布时间**: 2026-09-04 15:50
+
+#### [云鲸2026秋季全球品牌发布会：以用户为原点，探索智能清洁的下一个十年](https://www.leiphone.com/category/industrynews/eIDGppU09hMWW0Nm.html)
+**发布时间**: 2026-09-04 15:31
+
+#### [IDC首次发布零售云份额报告：腾讯云解决方案市场居首](https://www.leiphone.com/category/industrynews/c9bjscH3acbWUBNO.html)
+**发布时间**: 2026-09-04 15:14
+
+#### [超越增程插混，乐道L90获新能源大型SUV保值率第一](https://www.leiphone.com/category/industrynews/IqdaujiXRbxqfNiY.html)
+**发布时间**: 2026-09-04 14:04
+
+#### [具身智能落地的最后20%，藏在「云」里](https://www.leiphone.com/category/industrycloud/31pSSHUoPdFy7U3E.html)
+**发布时间**: 2026-09-04 11:32
+
+#### [速卖通Brand+加速新市场拓展，韩国多个重点类目三位数增长](https://www.leiphone.com/category/industrynews/nThrz1xUlYPuje7E.html)
+**发布时间**: 2026-09-04 10:42
+
+#### [一池水，困住了中国机器人](https://www.leiphone.com/category/robot/GUsHwBXVwOMwzSZG.html)
+**发布时间**: 2026-09-04 10:36
+
+#### [千问办公上线首月用户数突破 3000万，企业用户占比过半](https://www.leiphone.com/category/industrynews/rECnXLpHow0zwG0p.html)
+**发布时间**: 2026-09-04 10:25
+
+#### [从无线麦克风到AI语音入口：猛玛 LARK A2 原生联动 WorkBuddy](https://www.leiphone.com/category/industrynews/TV9HPfzjSA1Aq6Bt.html)
+**发布时间**: 2026-09-04 09:19
+
+#### [和苹果比肯定物超所值！卢伟冰确认小米18 Fold起售价过万；GPT-6 震撼发布！能自主操作电脑；字节跳动将获得约296亿美元银团贷款](https://www.leiphone.com/category/zaobao/ufE0wwRendYKuvDo.html)
+**发布时间**: 2026-09-04 08:49
+
+#### [品牌归一，承诺不变：安克开启新篇章](https://www.leiphone.com/category/industrynews/m7AcHrgaBQ4kZpq0.html)
+**发布时间**: 2026-09-03 22:05
+
+#### [GPT-6 砍掉思考 Token，俄罗斯人砍掉通信 Token，Token 经济开始崩了？](https://www.leiphone.com/category/yanxishe/XcJ2N9YalKyDRJd8.html)
+**发布时间**: 2026-09-03 20:17
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [具身ICL来了创业玩家！上下文成Scaling新赛道](https://www.qbitai.com/2026/09/484897.html)
+**发布时间**: 2026-09-06 11:44
+
+#### [B站首届AI创造公开赛收官，超八成参赛者为一人团队](https://www.qbitai.com/2026/09/484890.html)
+**发布时间**: 2026-09-06 04:40
+
+#### [GPT-6带火循环Transformer，阿里早已布局](https://www.qbitai.com/2026/09/484726.html)
+**发布时间**: 2026-09-05 15:07
+
+#### [押中SpaceX的硅谷老将，把票投给了一家中国世界模型公司](https://www.qbitai.com/2026/09/484683.html)
+**发布时间**: 2026-09-05 14:46
+
+#### [陶哲轩吐槽GPT-6孪生素数新突破：令人无语的一幕](https://www.qbitai.com/2026/09/484649.html)
+**发布时间**: 2026-09-05 04:24
+
+#### [这个世界模型训练完就“退场”，机器人反而更能干了](https://www.qbitai.com/2026/09/484611.html)
+**发布时间**: 2026-09-05 04:18
+
+#### [姚班校友主导，Claude攻克费马大定理首个完整形式化证明](https://www.qbitai.com/2026/09/484551.html)
+**发布时间**: 2026-09-05 01:17
+
+#### [趋境科技与摩尔线程达成战略合作，高品质 AI Token 国产异构方案性价比超越国际先进算力](https://www.qbitai.com/2026/09/484547.html)
+**发布时间**: 2026-09-04 09:23
+
+#### [机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理](https://www.qbitai.com/2026/09/484437.html)
+**发布时间**: 2026-09-04 09:19
+
+#### [九问ScienceDiscovery实现树搜索驱动RSI，加速科学发现，小时级写出通用积分器，低成本找出物理科学规律](https://www.qbitai.com/2026/09/484293.html)
+**发布时间**: 2026-09-04 08:57
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-09-06日刊](https://hex2077.dev/docs/2026-09/2026-09-06/)
+**发布时间**: 2026-09-06 10:41
+
+#### [2026-09-05日刊](https://hex2077.dev/docs/2026-09/2026-09-05/)
+**发布时间**: 2026-09-05 10:26
+
+#### [2026-09-04日刊](https://hex2077.dev/docs/2026-09/2026-09-04/)
+**发布时间**: 2026-09-04 10:49
+
+#### [2026-09-03日刊](https://hex2077.dev/docs/2026-09/2026-09-03/)
+**发布时间**: 2026-09-03 12:10
+
+#### [2026-09-02日刊](https://hex2077.dev/docs/2026-09/2026-09-02/)
+**发布时间**: 2026-09-02 14:03
+
+#### [2026-09-01日刊](https://hex2077.dev/docs/2026-09/2026-09-01/)
+**发布时间**: 2026-09-01 11:02
+
+#### [2026-08-31日刊](https://hex2077.dev/docs/2026-08/2026-08-31/)
+**发布时间**: 2026-08-31 10:41
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Deploy a multimodal WhatsApp ordering assistant with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/deploy-a-multimodal-whatsapp-ordering-assistant-with-amazon-bedrock-agentcore/)
+**发布时间**: 2026-09-04 21:45
+
+#### [Designing lifecycle policies for AgentCore memory](https://aws.amazon.com/blogs/machine-learning/designing-lifecycle-policies-for-agentcore-memory/)
+**发布时间**: 2026-09-04 17:20
+
+#### [Build a Physical AI model factory with NVIDIA Cosmos 3 on SageMaker HyperPod](https://aws.amazon.com/blogs/machine-learning/build-a-physical-ai-model-factory-with-nvidia-cosmos-3-on-sagemaker-hyperpod/)
+**发布时间**: 2026-09-04 16:16
+
+#### [Run agent-driven Amazon SageMaker HyperPod operations with InstantStart](https://aws.amazon.com/blogs/machine-learning/run-agent-driven-amazon-sagemaker-hyperpod-operations-with-instantstart/)
+**发布时间**: 2026-09-04 16:12
+
+#### [Customizing your knowledge base on Amazon Bedrock for large and complex documents using Amazon Textract](https://aws.amazon.com/blogs/machine-learning/customizing-your-knowledge-base-on-amazon-bedrock-for-large-and-complex-documents-using-amazon-textract/)
+**发布时间**: 2026-09-04 16:08
+
+#### [How Intuit built an agentic disaster recovery assistant with Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/how-intuit-built-an-agentic-disaster-recovery-assistant-with-amazon-bedrock/)
+**发布时间**: 2026-09-04 16:06
+
+#### [AI-driven development lifecycle using Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/ai-driven-development-lifecycle-using-amazon-bedrock-agentcore/)
+**发布时间**: 2026-09-03 16:16
+
+#### [Migrate agentic workloads to Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/migrate-agentic-workloads-to-amazon-bedrock-agentcore/)
+**发布时间**: 2026-09-03 16:14
+
+#### [Integrating Outlook with Amazon Quick for AI-powered email automation](https://aws.amazon.com/blogs/machine-learning/integrating-outlook-with-amazon-quick-for-ai-powered-email-automation/)
+**发布时间**: 2026-09-03 16:11
+
+#### [Set up OpenAI ChatGPT Codex with LiteLLM on Amazon ECS and Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/set-up-openai-chatgpt-codex-with-litellm-on-amazon-ecs-and-amazon-bedrock/)
+**发布时间**: 2026-09-03 16:10
+
+#### [Best practices for building agentic automations with Amazon Quick Automate](https://aws.amazon.com/blogs/machine-learning/best-practices-for-building-agentic-automations-with-amazon-quick-automate/)
+**发布时间**: 2026-09-03 16:08
+
+#### [Embed Quick Sight visuals using Cognito user authentication](https://aws.amazon.com/blogs/machine-learning/embed-quick-sight-visuals-using-cognito-user-authentication/)
+**发布时间**: 2026-09-03 16:01
+
+#### [Accessing OpenAI models on Amazon Bedrock from Australia with global cross-Region inference](https://aws.amazon.com/blogs/machine-learning/accessing-openai-gpt-5-6-models-on-amazon-bedrock-from-australia-with-global-cross-region-inference/)
+**发布时间**: 2026-09-02 21:22
+
+#### [Modernizing and scaling support operations with generative AI on AWS](https://aws.amazon.com/blogs/machine-learning/modernizing-and-scaling-support-operations-with-generative-ai-on-aws/)
+**发布时间**: 2026-09-02 18:26
+
+#### [How an AWS team detects dashboard content failures at scale using Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/how-an-aws-team-detects-dashboard-content-failures-at-scale-using-amazon-bedrock/)
+**发布时间**: 2026-09-02 18:21
+
+#### [From code to diagrams: Agentic architecture documentation with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/from-code-to-diagrams-agentic-architecture-documentation-with-amazon-bedrock-agentcore/)
+**发布时间**: 2026-09-02 18:18
+
+#### [Trinity: Agentic AI-powered transition planning for students with disabilities](https://aws.amazon.com/blogs/machine-learning/trinity-agentic-ai-powered-transition-planning-for-students-with-disabilities/)
+**发布时间**: 2026-09-02 18:14
+
+#### [Introducing Claude Fable 5.1 on AWS](https://aws.amazon.com/blogs/machine-learning/introducing-claude-fable-5-1-on-aws/)
+**发布时间**: 2026-09-01 19:12
+
+#### [From theory to delivery: How Atos upskilled 400 engineers in agentic AI](https://aws.amazon.com/blogs/machine-learning/from-theory-to-delivery-how-atos-upskilled-400-engineers-in-agentic-ai/)
+**发布时间**: 2026-09-01 16:17
+
+#### [Tokenomics at scale: How Jamf built real-time spend enforcement for Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/tokenomics-at-scale-how-jamf-built-real-time-spend-enforcement-for-amazon-bedrock/)
+**发布时间**: 2026-09-01 16:03
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Transfer learning for genomic prediction in underrepresented populations](https://research.google/blog/transfer-learning-for-genomic-prediction-in-underrepresented-populations/)
+**发布时间**: 2026-09-03 18:20
+
+#### [A connectomics milestone: Mapping the complete male fruit fly brain](https://research.google/blog/a-connectomics-milestone-mapping-the-complete-male-fruit-fly-brain/)
+**发布时间**: 2026-09-03 16:00
+
+#### [Mapping global methane emissions from space with deep learning](https://research.google/blog/mapping-global-methane-emissions-from-space-with-deep-learning/)
+**发布时间**: 2026-09-01 18:40
+
+#### [TimesFM-3: A zero-shot foundation model for multivariate forecasting](https://research.google/blog/timesfm-3-a-zero-shot-foundation-model-for-multivariate-forecasting/)
+**发布时间**: 2026-08-31 17:19
+
+#### [Planetary prediction engine: Automating global models via Earth AI](https://research.google/blog/planetary-prediction-engine-automating-global-models-via-earth-ai/)
+**发布时间**: 2026-08-27 17:37
+
+#### [GlucoFM: Foundation model for continuous glucose monitoring](https://research.google/blog/glucofm-foundation-model-for-continuous-glucose-monitoring/)
+**发布时间**: 2026-08-26 18:42
+
+#### [AgentHands: Generating interactive hand gestures for spatially grounded agent conversations in XR](https://research.google/blog/agenthands-generating-interactive-hand-gestures-for-spatially-grounded-agent-conversations-in-xr/)
+**发布时间**: 2026-08-25 19:10
+
+#### [An AI tool for prioritizing candidate biomarkers from wearable sensor data](https://research.google/blog/an-ai-tool-for-prioritizing-candidate-biomarkers-from-wearable-sensor-data/)
+**发布时间**: 2026-08-21 17:02
+
+#### [How mobility gives language models a deeper understanding of place](https://research.google/blog/how-mobility-gives-language-models-a-deeper-understanding-of-place/)
+**发布时间**: 2026-08-21 10:54
+
+#### [Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery](https://research.google/blog/seeing-beyond-bmi-estimating-cardiometabolic-risk-with-smartphone-imagery/)
+**发布时间**: 2026-08-17 10:34
+
+#### [Empty shelves or lost keys? Recall is the bottleneck for parametric factuality](https://research.google/blog/empty-shelves-or-lost-keys-recall-is-the-bottleneck-for-parametric-factuality/)
+**发布时间**: 2026-08-12 09:51
+
+#### [Advancing AMIE towards expert-level audio-visual clinical consultations](https://research.google/blog/advancing-amie-towards-expert-level-audio-visual-clinical-consultations/)
+**发布时间**: 2026-08-11 17:04
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [Sparks Fly: NVIDIA Accelerates Local AI at IFA 2026](https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark/)
+**发布时间**: 2026-09-03 16:00
+
+#### [‘NBA 2K27’ With NVIDIA DLSS 5 Leads 28 New Games Coming to GeForce NOW](https://blogs.nvidia.com/blog/geforce-now-thursday-september-2026-games-list/)
+**发布时间**: 2026-09-03 13:00
+
+#### [NVIDIA to Acquire Hugging Face](https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/)
+**发布时间**: 2026-09-03 11:56
+
+#### [NVIDIA and CrowdStrike Strengthen Agentic Cybersecurity Frontier](https://blogs.nvidia.com/blog/nvidia-crowdstrike-fal-con-2026/)
+**发布时间**: 2026-09-01 21:19
+
+#### [GeForce NOW Gives Gamers More Ways to Play at Gamescom 2026](https://blogs.nvidia.com/blog/geforce-now-thursday-gamescom-2026/)
+**发布时间**: 2026-08-27 13:00
+
+#### [Delivering Vera: NVIDIA’s First CPU Built for Agents Is Shipping Now](https://blogs.nvidia.com/blog/vera-cpu-delivery/)
+**发布时间**: 2026-08-27 13:00
+
+#### [NVIDIA NVLink Fusion Expands With NVHBM Custom High-Bandwidth Memory](https://blogs.nvidia.com/blog/nvlink-fusion-nvhbm-custom-high-bandwidth-memory/)
+**发布时间**: 2026-08-26 21:05
+
+#### [Leading Publishers Bring Blockbuster PC Games and Technology to NVIDIA RTX Spark](https://blogs.nvidia.com/blog/gamescom-rtx-spark-pc-games-technology/)
+**发布时间**: 2026-08-25 15:30
+
+#### [How XPUs Meet a World-Class AI Factory](https://blogs.nvidia.com/blog/nvlink-fusion-xpu-ai-factory/)
+**发布时间**: 2026-08-24 15:00
+
+#### [With Groq 3 LPX in Full Production, NVIDIA Extends Vera Rubin Inference for Agents](https://blogs.nvidia.com/blog/vera-rubin-lpx-spectrum-x-nvlink-fusion/)
+**发布时间**: 2026-08-24 15:00
+
+#### [Up to 30x More Work Per Watt: NVIDIA Vera Rubin NVL72 Sets a New Efficiency Standard for AI Agents](https://blogs.nvidia.com/blog/vera-rubin-nvl72-efficiency-ai-agents/)
+**发布时间**: 2026-08-24 15:00
+
+#### [Bring the Fire: Play Games on GeForce NOW With New Firefox Browser Support](https://blogs.nvidia.com/blog/geforce-now-thursday-firefox/)
+**发布时间**: 2026-08-20 13:00
+
+#### [Securing the Infrastructure of Intelligence](https://blogs.nvidia.com/blog/securing-the-infrastructure-of-intelligence/)
+**发布时间**: 2026-08-17 12:34
+
+#### [Universitas Gadjah Mada, Indosat and NVIDIA Open Indonesia’s First University AI Center to Develop Local AI Talent](https://blogs.nvidia.com/blog/ugm-indosat-nvidia-ai-technology-center/)
+**发布时间**: 2026-08-14 17:13
+
+#### [Class Is in Session: GeForce NOW Levels Up Linux, Chromebooks and More](https://blogs.nvidia.com/blog/geforce-now-thursday-linux-native-app/)
+**发布时间**: 2026-08-13 13:00
+
+#### [NVIDIA CEO Tops Glassdoor’s 2026 List of Best CEOs](https://blogs.nvidia.com/blog/nvidia-life-glassdoor-best-ceo-2026/)
+**发布时间**: 2026-08-12 14:00
+
+#### [NVIDIA AI Factory Compute Is Becoming an Investable Asset Class](https://blogs.nvidia.com/blog/nvidia-ai-factory-compute/)
+**发布时间**: 2026-08-12 00:38
+
+#### [Why Scaling AI Compute Performance Requires a New Power Architecture](https://blogs.nvidia.com/blog/800-vdc-power-architecture-ai-factory/)
+**发布时间**: 2026-08-11 15:00
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [NeoMME: an efficient Multimodal-native and Multilingual Encoder](https://huggingface.co/blog/Hcompany/neomme)
+**发布时间**: 2026-09-03 13:13
+
+#### [Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps](https://huggingface.co/blog/grpo-with-trl-ifstruct)
+**发布时间**: 2026-09-03 00:00
+
+#### [Give Your Coding Agents a Memory You Own](https://huggingface.co/blog/funes)
+**发布时间**: 2026-09-03 00:00
+
+#### [Training a coding model to paint watercolours with TRL and OpenEnv](https://huggingface.co/blog/train-to-paint-with-code)
+**发布时间**: 2026-09-03 00:00
+
+#### [Real-Time Intelligence with IBM Time Series Models on Confluent](https://huggingface.co/blog/ibm-research/real-time-intelligence)
+**发布时间**: 2026-09-02 13:49
+
+#### [BenchMIRT: What are LLM benchmarks actually measuring?](https://huggingface.co/blog/allenai/benchmirt)
+**发布时间**: 2026-09-01 21:39
+
+#### [Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI](https://huggingface.co/blog/webgpu-kernels)
+**发布时间**: 2026-09-01 00:00
+
+#### [The Open ASR Leaderboard Adds Its First Global South Language](https://huggingface.co/blog/open-asr-leaderboard-global-south)
+**发布时间**: 2026-08-28 00:00
+
+#### [Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers](https://huggingface.co/blog/train-multi-vector-encoder)
+**发布时间**: 2026-08-26 00:00
+
+#### [Granite 4.2 LLMs: How They're Built](https://huggingface.co/blog/ibm-granite/granite-4-2)
+**发布时间**: 2026-08-25 15:14
+
+#### [Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original](https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing)
+**发布时间**: 2026-08-25 11:39
+
+#### [Wire It, Run It, Deploy It: AI Workflows in Gradio](https://huggingface.co/blog/gradio-workflow-guide)
+**发布时间**: 2026-08-25 00:00
+
+#### [How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code](https://huggingface.co/blog/pwc-search)
+**发布时间**: 2026-08-21 00:00
+
+#### [Measuring benchmark optimization in speech recognition](https://huggingface.co/blog/asr-benchmark-optimization)
+**发布时间**: 2026-08-21 00:00
+
+#### [Up to 3.2x Faster Inference with LFM2.5-DSpark](https://huggingface.co/blog/LiquidAI/lfm25-dspark)
+**发布时间**: 2026-08-20 16:52
+
+#### [How Much Memory Does Your Agent Actually Need?](https://huggingface.co/blog/ibm-research/altk-evolve-hmm)
+**发布时间**: 2026-08-18 18:09
+
+#### [Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers](https://huggingface.co/blog/multi-vector-encoder)
+**发布时间**: 2026-08-18 00:00
+
+#### [Same Cluster, 33 Points More Utilization: What Changed Was the Order](https://huggingface.co/blog/Dharma-AI/gpu-management-pt2)
+**发布时间**: 2026-08-17 19:46
+
+#### [State of Open Models: Summer 2026 Observations](https://huggingface.co/blog/state-of-open-models-summer-2026)
+**发布时间**: 2026-08-14 00:00
+
+#### [Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets](https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop)
+**发布时间**: 2026-08-13 17:16
+
+#### [What We Learned by Reproducing 2,200 papers from ICML](https://huggingface.co/blog/icml-2026-open-reproductions)
+**发布时间**: 2026-08-13 00:00
+
+#### [Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis](https://huggingface.co/blog/allenai/olmoearth-embeddings)
+**发布时间**: 2026-08-12 16:14
+
+#### [Thinking of ACE? We Can Do It with Fewer Tokens](https://huggingface.co/blog/ibm-research/altk-evolve-sldd)
+**发布时间**: 2026-08-11 13:37
+
+#### [Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS](https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents)
+**发布时间**: 2026-08-10 16:25
+
+#### [Making Knowledge Distillation Cheap Enough to Run at Scale](https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation)
+**发布时间**: 2026-08-10 10:05
+
+#### [Meta is back with Muse Glimmer: local, agentic, multimodal, and open source](https://huggingface.co/blog/muse-glimmer)
+**发布时间**: 2026-08-10 00:00
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [From MIT to IBM, expediting AI and quantum deployment](https://news.mit.edu/2026/from-mit-to-ibm-expediting-ai-and-quantum-deployment-0902)
+**发布时间**: 2026-09-02 16:25
+
+#### [System helps humans predict when self-driving cars will make mistakes](https://news.mit.edu/2026/system-helps-humans-predict-when-self-driving-cars-will-make-mistakes-0902)
+**发布时间**: 2026-09-02 11:00
+
+#### [Walter Torous named executive director of MIT Center for Real Estate](https://news.mit.edu/2026/walter-torous-named-executive-director-mit-center-real-estate-0901)
+**发布时间**: 2026-09-01 17:25
+
+#### [Ila Kumar: Innovating with communities](https://news.mit.edu/2026/ila-kumar-innovates-with-communities-0901)
+**发布时间**: 2026-09-01 00:00
+
+#### [MIT Quantum Initiative launches postdoctoral fellowship program](https://news.mit.edu/2026/mit-quantum-initiative-launches-postdoctoral-fellowship-0831)
+**发布时间**: 2026-08-31 15:30
+
+#### [How an MIT research project became a global programming language](https://news.mit.edu/2026/how-mit-research-project-became-global-programming-language-0831)
+**发布时间**: 2026-08-31 00:00
+
+#### [Looking beyond natural sequences](https://news.mit.edu/2026/looking-beyond-natural-sequences-0827)
+**发布时间**: 2026-08-27 15:20
+
+#### [AI helps design new materials that work in the real world](https://news.mit.edu/2026/ai-helps-design-new-materials-that-work-in-real-world-0826)
+**发布时间**: 2026-08-26 05:00
+
+#### [Generating scenarios for extreme events, without extreme data](https://news.mit.edu/2026/generating-scenarios-extreme-events-without-extreme-data-0824)
+**发布时间**: 2026-08-24 14:00
+
+#### [Paving the way for greener ammonia production](https://news.mit.edu/2026/paving-way-for-greener-ammonia-production-0820)
+**发布时间**: 2026-08-20 14:45
+
+#### [When AI art has no author: Study finds generated images often can’t be traced to training data](https://news.mit.edu/2026/when-ai-art-has-no-author-generated-images-often-cant-be-traced-to-training-data-0818)
+**发布时间**: 2026-08-18 12:35
+
+#### [Q&A: Rethinking how innovation happens](https://news.mit.edu/2026/qa-eugene-fitzgerald-rethinking-how-innovation-happens-0817)
+**发布时间**: 2026-08-17 15:50
+
+#### [With a feel for physics, AI models simulate a wider range of real-world scenarios](https://news.mit.edu/2026/ai-models-simulate-wider-range-of-real-world-scenarios-0810)
+**发布时间**: 2026-08-10 15:25
 
 ---
 
