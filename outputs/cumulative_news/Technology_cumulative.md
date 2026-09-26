@@ -1,7 +1,102 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-25 01:15
+**最后更新时间**: 2026-09-26 01:17
+
+---
+
+## 🆕 最新更新 (2026-09-26 01:17)
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [Deepseek 桌面版悄悄上线；Muse 大火，扎克伯格跃升全球第四大富豪；OpenAI 被曝筹备推出 ProMax 订阅层级，月费或达 500-600 美元](http://www.geekpark.net/news/371038)
+**发布时间**: 2026-09-26 08:45
+
+#### [OPPO 姜昱辰：大模型的差距越来越小，AI 手机的差距才刚拉开](http://www.geekpark.net/news/371035)
+**发布时间**: 2026-09-25 09:50
+
+#### [三折叠终于不像奇观了，但它还是 19999 元](http://www.geekpark.net/news/371034)
+**发布时间**: 2026-09-25 09:48
+
+#### [「济公」游本昌去世；罗永浩再评小米 18 Fold；Meta 推出手持设备 Muse Charm｜极客早知道](http://www.geekpark.net/news/371033)
+**发布时间**: 2026-09-25 09:14
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [京东，具身智能大玩家？](https://www.tmtpost.com/8152876.html)
+**发布时间**: 2026-09-26 08:38
+
+#### [悬而未决的港股聆讯，与“非洲之王”传音的利润幻象](https://www.tmtpost.com/8152889.html)
+**发布时间**: 2026-09-26 08:38
+
+#### [小度想坐稳AI办公时代的牌座，李莹需要成为下一个景鲲](https://www.tmtpost.com/8152829.html)
+**发布时间**: 2026-09-26 08:21
+
+#### [华为腾讯阿里都盯上的生意：不造机器人，却想控制所有机器人？](https://www.tmtpost.com/8152798.html)
+**发布时间**: 2026-09-26 08:19
+
+#### [Edge AI Daily 早报（9月26日）](https://www.tmtpost.com/8152902.html)
+**发布时间**: 2026-09-26 07:59
+
+#### [Meta 已经想清楚 Muse 靠什么赚钱](https://www.tmtpost.com/8152912.html)
+**发布时间**: 2026-09-26 07:53
+
+#### [灵巧手不是等AGI才用：一份被误读的物理AI落地地图](https://www.tmtpost.com/8152613.html)
+**发布时间**: 2026-09-25 21:02
+
+#### [CTA集体回撤：传统基本面研究，碰到极端行情就容易失灵？](https://www.tmtpost.com/8151562.html)
+**发布时间**: 2026-09-25 21:02
+
+#### [CT无创筛查食管癌，达摩院AI站上临床前夜](https://www.tmtpost.com/8152326.html)
+**发布时间**: 2026-09-25 17:31
+
+#### [华能国际一口气新设三家分公司，煤电的“止血带”和新能源的“手术刀”同时上了](https://www.tmtpost.com/8152605.html)
+**发布时间**: 2026-09-25 17:31
+
+#### [阿莫迪偷师姚顺雨，奥特曼偷师梁文锋](https://www.tmtpost.com/8152677.html)
+**发布时间**: 2026-09-25 17:17
+
+#### [起底AI网恋：4700个AI围猎2.5万人，10元造完美情人](https://www.tmtpost.com/8152653.html)
+**发布时间**: 2026-09-25 17:13
+
+#### [银行正在抢着给普通股东“送福利”](https://www.tmtpost.com/8151933.html)
+**发布时间**: 2026-09-25 16:58
+
+#### [高端 PCB 扩产潮升温，自动化装备成标配](https://www.tmtpost.com/8152330.html)
+**发布时间**: 2026-09-25 11:47
+
+#### [prompt工程师，一个新兴职业的崛起与消失](https://www.tmtpost.com/8152516.html)
+**发布时间**: 2026-09-25 10:45
+
+#### [豆包边缘化豆包](https://www.tmtpost.com/8152161.html)
+**发布时间**: 2026-09-25 10:38
+
+#### [大厂的AI战火，攻入硬件](https://www.tmtpost.com/8152015.html)
+**发布时间**: 2026-09-25 10:33
+
+#### [AI漫剧不赚钱？好问题，我们看看八九十年代的日本动画是怎么破局的？](https://www.tmtpost.com/8152068.html)
+**发布时间**: 2026-09-25 10:30
+
+#### [当亚运会不再热闹，中国品牌为何挤破头？](https://www.tmtpost.com/8152491.html)
+**发布时间**: 2026-09-25 10:30
+
+#### [四足机器人：宇树第一，智元、云深处争第二？](https://www.tmtpost.com/8152163.html)
+**发布时间**: 2026-09-25 10:24
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [本周看什么 | 最近值得一看的 6 部作品](https://sspai.com/post/114957)
+**发布时间**: 2026-09-25 17:30
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [htmx 4.0 发布：改用 Fetch API 重写，内置 DOM Morphing Swap，并明确属性继承规则](https://www.infoq.cn/article/kJ4EkjPLVTh9iT5yyXkM?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-25 14:18
+
+#### [每周下载量约 16 万，仍处 Alpha 的 TanStack Charts 为什么火了？](https://www.infoq.cn/article/OUcL9autU0dg1BIt6bib?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-25 10:10
+
+#### [当 Vibe Coding 撞上企业级现实：真实工程中的 AI 效能之路｜QCon上海](https://www.infoq.cn/article/QQk3wiolU1VScH3u0P7T?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-25 10:00
 
 ---
 
